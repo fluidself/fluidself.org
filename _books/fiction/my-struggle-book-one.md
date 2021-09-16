@@ -1,0 +1,31 @@
+---
+author: ugh
+comments: false
+date: 2018-09-19 11:15:35+00:00
+layout: book.hbs
+link: https://fluidself.org/books/fiction/my-struggle-book-one/
+slug: my-struggle-book-one
+title: 'My Struggle: Book One - by Karl Ove Knausgaard'
+---
+
+The sounds here were new and unfamiliar to me, the same was true of the rhythm in which they surfaced, but I would soon get used to them, to such an extent that they would fade into the background again. You know too little and it doesn’t exist. You know too much and it doesn’t exist. Writing is drawing the essence of what we know out of the shadows. That is what writing is about. Not what happens there, not what actions are played out there, but the there itself. There, that is writing’s location and aim. But how to get there?
+
+A huge articulated truck came down the hill with its chains clanking, it braked and just managed to shudder to a halt before the crosswalk as the lights changed to red. I always had a bad conscience whenever vehicles had to stop because of me, a kind of imbalance arose, I felt as though I owed them something. The bigger the vehicle, the worse the guilt. I tried to catch the driver’s eye as I crossed so that I could nod to restore the balance.
+
+She had been in such a cheery mood when she rang. A pang of unhappiness went through me. How could I possibly have met her anxiety and hope with annoyance?
+
+My dreams, what were they like? Not once had I dreamed about the baby! Now and then that would give me a bad conscience since, if you regarded the currents in those parts of your conscious mind without volition as more indicative of the truth than those controlled by volition, which I suppose I did, it became so obvious that the significance of expecting a baby was nothing special for me. On the other hand, nothing was. After the age of twenty I had hardly ever dreamed about anything that had a bearing on my life. It was as though in dreams I had not grown up, I was still a child surrounded by the same people and places I had been surrounded by in childhood. And even though the events that occurred there were new every night, the feeling they left me with was always the same. The constant feeling of humiliation. Often it could take several hours after waking before that feeling had left my body.
+
+In my earlier life, during the twelve years I had lived in Bergen I used to stay up at night as often as I could. I never reflected on this, it was just something I liked and did. It had started as a student ideal, grounded in a notion that in some way night was associated with freedom. Not in itself but as a response to the nine-to-four reality which I, and a couple of others, regarded as middle-class and conformist. We wanted to be free, we stayed up at night. Continuing with this had less to do with freedom than a growing need to be alone.
+
+Sometimes I mused that if all soft feelings could be scraped off like cartilage around the sinews of an injured athlete’s knee, what a liberation that would be. No more sentimentality, sympathy, empathy...
+
+In recent years the feeling that the world was small and that I grasped everything in it had grown stronger and stronger in me, despite my common sense telling me that actually the reverse was true: the world was boundless and unfathomable, the number of events infinite, the present time an open door that stood flapping in the wind of history. But that is not how it felt. It felt as if the world were known, fully explored and charted, that it could no longer move in unpredicted directions, that nothing new or surprising could happen. I understood myself, I understood my surroundings, I understood society around me, and if any phenomenon should appear mysterious I knew how to deal with it.
+
+Even though the suitcase was heavy I carried it by the handle as I walked into the departure hall. I detested the tiny wheels, first of all because they were feminine, thus not worthy of a man, a man should carry, not roll, secondly because they suggested easy options, shortcuts, savings, rationality, which I despised and opposed wherever I could, even where it was of the most trivial significance. Why should you live in a world without feeling its weight? Were we just images? And what were we actually saving energy for with these energy-saving devices?
+
+Fuck, I thought. This was one of my mental tics. Fuck, ferk, fuckeroo was another. They flashed into my consciousness at odd intervals, they were impossible to stop, but why should I stop them, they didn’t do anyone any harm. You couldn’t see from my face that I was thinking them.
+
+Not all rituals involve ceremonies, not all rituals are rigidly demarcated, there are those that take shape in the midst of everyday life, and are recognizable by the weight and charge they give the otherwise normal event. As I stepped out of the house that morning and followed Yngve to the car, for a moment it was as if I was entering a larger story than my own. The sons leaving home to bury their father, this was the story I suddenly found myself in.
+
+When we were growing up, I chatted all the time with Yngve and we never had any secrets, but at some juncture, perhaps as early as when I was at upper secondary, this changed: from then on I was immensely conscious of who he was and who I was when we were talking, all spontaneity vanished, every statement I made was either planned in advance or analyzed retrospectively, mostly both, apart from when I was drinking, then I regained the old freedom. With the exception of Tonje and my mother, that was how I behaved with everyone, I couldn’t sit and chat with people anymore, my awareness of the situation was too acute, and that put me outside it. Whether it was the same for Yngve I didn’t know, but I didn’t think so, it didn’t seem so when I saw him with others. Whether he knew that was how I felt, I didn’t know, but something told me he did. Often it felt to me as if I were false, or deceitful, since I never played with an open deck, I was always calculating and evaluating. This didn’t bother me any more, it had become my life, but right now, at the outset of a long car journey, now that Dad was dead, I experienced a yearning to escape from myself or at least the part that guarded me so assiduously.

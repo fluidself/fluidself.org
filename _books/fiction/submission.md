@@ -1,0 +1,23 @@
+---
+author: ugh
+comments: false
+date: 2019-11-24 15:25:35+00:00
+layout: book.hbs
+link: https://fluidself.org/books/fiction/submission/
+slug: submission
+title: Submission - by Michel Houellebecq
+---
+
+For years now, probably decades, _Le Monde_ and all the other centre-left newspapers, which is to say every newspaper, had been denouncing the ‘Cassandras’ who predicted civil war between Muslim immigrants and the indigenous populations of Western Europe. The way it was explained to me by a colleague in the classics department, this was an odd allusion to make. In Greek mythology, Cassandra is a very beautiful young maiden (‘like the golden Aphrodite’, Homer writes). Apollo, having fallen in love with her, offers her the gift of prophecy in exchange for her favours. Cassandra accepts his gift, only to refuse the god’s advances. Enraged, Apollo spits in her mouth, meaning that no one will ever understand or believe anything she says. She goes on to predict the rape of Helen by Paris, then the Trojan War, and she alerts her fellow Trojans to the ruse of the Greeks (the famous ‘Trojan Horse’) that allows them to capture the city. She winds up assassinated by Clytemnestra, but not before predicting her own murder and that of Agamemnon, who refuses to believe her. In short, Cassandra offered an example of worst-case predictions that always came true. In hindsight, the journalists of the centre-left seemed only to have repeated the blindness of the Trojans. History is full of such blindness: we see it among the intellectuals, politicians and journalists of the 1930s, all of whom were convinced that Hitler would ‘come to see reason’. It may well be impossible for people who have lived and prospered under a given social system to imagine the point of view of those who feel it offers them nothing, and who can contemplate its destruction without any particular dismay.
+
+Alice watched us with the affectionate, slightly mocking look that women get when they witness a conversation between men – that odd ritual, that is neither buggery nor duel, but something inbetween.
+
+I maintained a tactical silence. When you maintain a tactical silence and look people right in the eye, as if drinking in their words, they talk. People like to be listened to, as every researcher knows – every researcher, every writer, every spy.
+
+Basically, they argue that belief in a transcendent being conveys a genetic advantage: that couples who follow one of the three religions of the Book and maintain patriarchal values have more children than atheists or agnostics. You see less education among women, less hedonism and individualism. And to a large degree, this belief in transcendence can be passed on genetically. Conversions, or cases where people grow up to reject family values, are statistically insignificant. In the vast majority of cases, people stick with whatever metaphysical system they grow up in. That’s why atheist humanism – the basis of any “pluralist society” – is doomed. Monotheism is on the rise, especially in the Muslim population – and that’s even before you factor in immigration. European nativists start by admitting that, sooner or later, we’ll see a civil war between the Muslims and everybody else.
+
+Like everyone else, of course, I’d spent years, decades, hearing people talk about these things. The expression ‘_Après moi le déluge_’ has been attributed alternately to Louis XV or to his mistress Madame de Pompadour. It pretty much summarised my own state of mind, but now, for the first time, I had a troubling thought: What if the deluge came before I died? Obviously, it’s not as if I expected my last years to be happy. There was no reason that I should be spared from grief, illness or suffering. But until now I had always hoped to depart this world without undue violence.
+
+Apparently, this distributism of the new president’s wasn’t as harmless as everyone had thought. One pillar of Chesterton and Belloc’s philosophy was the principle of subsidiarity: that no entity (social, financial or political) could take charge of any function if it could be handled by a smaller entity.
+
+Those hideous buildings had been constructed during the worst period of modernism, but nostalgia has nothing to do with aesthetics, it’s not even connected to happy memories. We feel nostalgia for a place simply because we’ve lived there, whether we lived well or badly scarcely matters. The past is always beautiful. So, for that matter, is the future. Only the present hurts, and we carry it around like an abscess of suffering, our companion between two infinities of happiness and peace.
