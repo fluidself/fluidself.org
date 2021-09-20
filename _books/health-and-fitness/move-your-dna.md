@@ -8,8 +8,8 @@ slug: move-your-dna
 title: 'Move Your DNA: Restore Your Health Through Natural Movement - by Katy Bowman'
 ---
 
-<blockquote>The pattern of disease or injury that affects any group of people is never a matter of chance. It is invariably the expression of stresses and strains to which they were exposed, a response to everything in their environment and behavior.  
-<cite>—CALVIN WELLS, BONES, BODIES AND DISEASE</cite></blockquote>
+> The pattern of disease or injury that affects any group of people is never a matter of chance. It is invariably the expression of stresses and strains to which they were exposed, a response to everything in their environment and behavior.  
+> &mdash;CALVIN WELLS, BONES, BODIES AND DISEASE
 
 Because DNA can be expressed differently, depending on how external factors impinge upon the cells within which the DNA resides, and because movement is one of these factors, the way we move directly influences how our bodies are shaped—for good and ill. It is not enough for me to tell you just to “move more.” You also need to “move better” if you are to enjoy a more sustainable state of well-being.
 

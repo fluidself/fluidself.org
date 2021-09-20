@@ -1,30 +1,29 @@
 import Head from 'next/head';
-import Link from 'next/link';
-
+import NextLink from 'next/link';
+import { Text, Link } from '@chakra-ui/react';
+import Layout from '../../../components/Layout';
+import ContentBlock from '../../../components/ContentBlock';
 import { getAllCategories, getBooksInCategory } from '../../../lib/api';
 
 export default function BookCategory(props) {
   const { category, categoryTitle, books } = props;
 
   return (
-    <>
+    <Layout>
       <Head>
         <title>{categoryTitle}</title>
         <meta name="description" content={`${categoryTitle} book notes`} />
       </Head>
-      <section>
-        <div className="section-header">
-          <h2>{categoryTitle.toUpperCase()}</h2>
-        </div>
+      <ContentBlock heading={categoryTitle.toUpperCase()}>
         {books.map(book => (
-          <p key={book.slug}>
-            <Link href={`/books/${category}/${book.slug}`}>
-              <a>{book.title}</a>
-            </Link>
-          </p>
+          <Text key={book.slug}>
+            <NextLink href={`/books/${category}/${book.slug}`} passHref>
+              <Link>{book.title}</Link>
+            </NextLink>
+          </Text>
         ))}
-      </section>
-    </>
+      </ContentBlock>
+    </Layout>
   );
 }
 

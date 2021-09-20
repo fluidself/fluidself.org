@@ -16,10 +16,9 @@ Must progress come to an end – either in catastrophe or in some sort of comple
 
 **1 The Reach of Explanations**
 
-<blockquote>
-Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?
-<cite>- John Archibald Wheeler, Annals of the New York Academy of Sciences</cite>
-</blockquote>
+> Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?
+>
+> &mdash; John Archibald Wheeler, Annals of the New York Academy of Sciences
 
 One of the most remarkable things about science is the contrast between the enormous reach and power of our best theories and the precarious, local means by which we create them.
 
