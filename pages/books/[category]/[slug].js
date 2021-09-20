@@ -1,24 +1,23 @@
 import Head from 'next/head';
 import ReactMarkdown from 'react-markdown';
-
+import Layout from '../../../components/Layout';
+import ContentBlock from '../../../components/ContentBlock';
 import { getBookData, getAllCategories, getBooksInCategory } from '../../../lib/api';
+import { customRenderers } from '../../../lib/markdownRenderer';
 
 export default function Book(props) {
   const { title, content } = props;
 
   return (
-    <>
+    <Layout>
       <Head>
         <title>{title}</title>
         <meta name="description" content={`${title} book notes`} />
       </Head>
-      <section>
-        <div className="section-header">
-          <h2>{title}</h2>
-        </div>
-        <ReactMarkdown>{content}</ReactMarkdown>
-      </section>
-    </>
+      <ContentBlock heading={title}>
+        <ReactMarkdown components={customRenderers}>{content}</ReactMarkdown>
+      </ContentBlock>
+    </Layout>
   );
 }
 

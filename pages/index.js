@@ -1,28 +1,20 @@
+// import NextLink from 'next/link';
 import Script from 'next/script';
+import { Text, Link } from '@chakra-ui/react';
+import Layout from '../components/Layout';
+import ContentBlock from '../components/ContentBlock';
 
 export default function Home() {
   return (
     <>
-      <section>
-        <div className="section-header">
-          <h2 className="h2-decor">WELCOME</h2>
-        </div>
-        <p>Digital garden</p>
-        <ul>
-          <li>me@fluidself.org</li>
-          <li>
-            <a href="https://github.com/fluidself">https://github.com/fluidself</a>
-          </li>
-        </ul>
-      </section>
-      <section className="project-section" id="projects">
-        <div className="section-header">
-          <h2 className="h2-decor">PROJECTS</h2>
-        </div>
-        <p>
-          Some things I built.
-        </p>
-      </section>
+      <Layout>
+        <ContentBlock heading="CONTACT">
+          <Text>me@fluidself.org</Text>
+          <Link textDecoration="underline" href="https://github.com/fluidself">
+            github.com/fluidself
+          </Link>
+        </ContentBlock>
+      </Layout>
       <Script src="https://www.googletagmanager.com/gtag/js?id=UA-92834152-1" />
       <Script>
         {`window.dataLayer = window.dataLayer || [];
