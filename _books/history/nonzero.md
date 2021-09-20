@@ -103,8 +103,8 @@ Pirates, however you handle them, are just one example of how turbulence and cha
 
 **OUR FRIENDS THE BARBARIANS**
 
-<blockquote>We have to remember that the annals of this warfare between "civilization" and "barbarism" have been written almost exclusively by the scribes of the "civilized" camp.
---Arnold Toynbee</blockquote>
+> We have to remember that the annals of this warfare between "civilization" and "barbarism" have been written almost exclusively by the scribes of the "civilized" camp.  
+> &mdash;Arnold Toynbee
 
 Did barbarians stand a real chance of ending the world's basic movement toward vaster and deeper social complexity? No. Indeed, the existence of barbarians, far from impeding cultural advance, may have, on balance, promoted it. This fact is illustrated even by the most famously devastating barbarian triumph: the fall of the Roman Empire.
 

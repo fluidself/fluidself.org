@@ -21,23 +21,16 @@ Hypnosis is an unreliable way to refresh memory. It often elicits imagination, f
 
 'Memories of an event more closely resemble a story undergoing constant revision than a packet of pristine information'.
 
-<blockquote>It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.
-<br />
-<cite>Sherlock Holmes, in Arthur Conan Doyle's A Scandal in Bohemia (1891)</cite>
-</blockquote>
+> It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.  
+> &mdash; Sherlock Holmes, in Arthur Conan Doyle's A Scandal in Bohemia (1891)
 
 [Some of] the most common and perilous fallacies of logic and rhetoric:
 
 - Absence of evidence is not evidence of absence.
-
 - Observational selection, also called the enumeration of favourable circumstances, or as the philosopher Francis Bacon described it, counting the hits and forgetting the misses.
-
 - _Non sequitur_ - Latin for 'it doesn't follow' (e.g., our nation will prevail because God is great. But nearly every nation pretends this to be true; the German formulation was 'Gott mil uns'). Often those falling into the non sequitur fallacy have simply failed to recognize alternative possibilities.
-
 - _Post hoc, ergo propter hoc_ - Latin for 'it happened after, so it was caused by' (e.g. before women got the vote, there were no nuclear weapons).
-
 - Excluded middle, or false dichotomy - considering only the two extremes in a continuum of intermediate possibilities (e.g., 'sure, take his side; my husband's perfect; I'm always wrong.' Or: 'either you love your country or you hate it.' Or: 'if you're not part of the solution, you're part of the problem').
-
 - Straw man – caricaturing a position to make it easier to attack (e.g., scientists suppose that living things simply fell together by chance – a formulation that wilfully ignores the central Darwin­ian insight, that Nature ratchets up by saving what works and discarding what doesn't. Or – this is also a short-term/long-term fallacy – environmentalists care more for snail darters and spotted owls than they do for people).
 
 One of the saddest lessons of history is this: if we've been bamboozled long enough, we tend to reject any evidence of the bamboozle. We're no longer interested in finding out the truth. The bamboozle has captured us. It's simply too painful to acknowledge, even to ourselves, that we've been taken. Once you give a charlatan power over you, you almost never get it back. So the old bamboozles tend to persist as the new ones rise.
@@ -48,10 +41,8 @@ Why does it matter what biases and emotional predispositions scientists bring to
 
 Science is different from many another human enterprise - not, of course, in its practitioners' being influenced by the culture they grew up in, nor in sometimes being right and sometimes wrong (which are common to every human activity), but in its passion for framing testable hypotheses, in its search for definitive experiments that confirm or deny ideas, in the vigour of its substantive debate, and in its willingness to abandon ideas that have been found wanting. If we were not aware of our own limitations, though, if we were not seeking further data, if we were unwilling to perform controlled experiments, if we did not respect the evidence, we would have very little leverage in our quest for the truth. Through opportunism and timidity we might then be buffeted by every ideological breeze, with nothing of lasting value to hang on to.
 
-<blockquote>Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.
-<br />
-<cite>Charles Darwin, Introduction, The Descent of Man (1871)</cite>
-</blockquote>
+> Ignorance more frequently begets confidence than does knowledge: it is those who know little, and not those who know much, who so positively assert that this or that problem will never be solved by science.  
+> &mdash; Charles Darwin, Introduction, The Descent of Man (1871)
 
 Societies that teach contentment with our present station in life, in expectation of post mortem reward, tend to inoculate themselves against revolution. Further, fear of death, which in some respects is adaptive in the evolutionary struggle for existence, is maladaptive in warfare. Those cultures that teach an afterlife of bliss for heroes - or even for those who just did what those in authority told them - might gain a competitive advantage.
 
@@ -67,9 +58,8 @@ Of Cromer's criteria for 'objective thinking', we can certainly find in hunter-g
 
 Cutting off fundamental, curiosity-driven science is like eating the seed corn. We may have a little more to eat next winter, but what will we plant so we and our children will have enough to get through the winters to come?
 
-<blockquote>Ubi dubium ibi libertas: Where there is doubt, there is freedom.
-<br />
-<cite>Latin proverb</cite></blockquote>
+> Ubi dubium ibi libertas: Where there is doubt, there is freedom.  
+> &mdash; Latin proverb
 
 Part of the duty of citizenship is not to be intimidated into conformity.
 

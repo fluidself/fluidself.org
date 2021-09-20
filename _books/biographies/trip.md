@@ -28,8 +28,8 @@ I took his talks as nourishment that was synergistically entertaining, that made
 
 **ALIENATION** Instead of a glum, demoralizing, indirectly satisfying sensation, alienation now seemed once again action-oriented and hope-filled and analysis-demanding. It indicated something about my relationship with society. In “The World and Its Double” (1993), when his children were fifteen and twelve, McKenna said: The reason we feel alienated is because the society is infantile, trivial, and stupid. So the cost of sanity in this society is a certain level of alienation. I grapple with this because I’m a parent. And I think anybody who has children, you come to this realization, you know—what’ll it be? Alienated, cynical intellectual? Or slack-jawed, half-wit consumer of the horseshit being handed down from on high? There is not much choice in there, you see. And we all want our children to be well-adjusted; unfortunately, there’s nothing to be well-adjusted to.
 
-<blockquote>The world which we perceive is a tiny fraction of the world which we can perceive, which is a tiny fraction of the perceivable world.  
-<cite>—TERENCE MCKENNA, 1987, Los Angeles</cite></blockquote>
+> The world which we perceive is a tiny fraction of the world which we can perceive, which is a tiny fraction of the perceivable world.  
+> &mdash;TERENCE MCKENNA, 1987, Los Angeles
 
 **PSILOCYBIN**
 
@@ -49,7 +49,7 @@ The two effects McKenna said occurred on heroic doses:
 
 **DMT**
 
-**WHO ARE THEY?** McKenna called them tykes, fairies, self-articulating sentences, translinguistic elves, friendly fractal entities, elf legions of hyperspace, meme traders, art collectors, and syntactical homunculi. From my three trips, I’d only gotten as detailed as “faceless, bodiless, genderless abstraction” in describing any entities I’d encountered. From his tens of trips, McKenna formed four theories on who they were, which he presented “without judgment” because he was “not sure.” 
+**WHO ARE THEY?** McKenna called them tykes, fairies, self-articulating sentences, translinguistic elves, friendly fractal entities, elf legions of hyperspace, meme traders, art collectors, and syntactical homunculi. From my three trips, I’d only gotten as detailed as “faceless, bodiless, genderless abstraction” in describing any entities I’d encountered. From his tens of trips, McKenna formed four theories on who they were, which he presented “without judgment” because he was “not sure.”
 
 1. Aliens. McKenna said he could imagine aliens that wanted to interact with humans but had ethics preventing them from landing on Earth, thinking, “Let’s analyze these people. Okay—they’re kind of hardheaded rationalists, except they have this phenomenon called ‘getting loaded,’ and when they get loaded, they accept whatever happens to them, so let’s hide inside the load and we’ll talk to them from there, and they’ll never realize that we’re of a different status than pink elephants.”
 

@@ -41,7 +41,7 @@ Ludwig von Mises demonstrated that economic calculation within a socialist commo
 
 Rothbard's discussion of why the Soviet system is not really a centrally planned one is worth quoting at length:
 
-<blockquote>Moreover, it should be noted that a centrally "planned" economy is a centrally _prohibited_ economy. The concept of "social engineering" is a deceptive metaphor, since in the _social_ realm, it is largely _people_ who are being planned, rather than the inanimate machinery of engineering blueprints. And since every individual is by nature, if not always by law, a self-owner and self-starter--i.e., self-energizer, this means that central orders, backed up, as they must be under socialism, by force and violence, effectively _prohibit_ all the individuals doing what they want most or what they believe themselves to be best fitted to do.</blockquote>
+> Moreover, it should be noted that a centrally "planned" economy is a centrally _prohibited_ economy. The concept of "social engineering" is a deceptive metaphor, since in the _social_ realm, it is largely _people_ who are being planned, rather than the inanimate machinery of engineering blueprints. And since every individual is by nature, if not always by law, a self-owner and self-starter--i.e., self-energizer, this means that central orders, backed up, as they must be under socialism, by force and violence, effectively _prohibit_ all the individuals doing what they want most or what they believe themselves to be best fitted to do.
 
 The Soviet system was in essence a prohibition economy writ large. People within this prohibition environment still pursue their plans, but they are forced to do so in a manner that is different from what would take place in an unhampered market environment. Prohibition in the 1920s did not curtail alcohol consumption, but it did create an environment that gave rise to bathtub gin and Al Capone. Similarly, the prohibition of the market throughout Soviet Russia did not curtail market exchange--it just forced it underground.
 
@@ -109,7 +109,7 @@ Samuelson drained economic theory of institutional context, and the econometric 
 
 The Austrian critique of the standard model is that it has no place for the multifaceted role that disequilibrium prices serve within the market process. The very idea of an economic theory of the market _process_ stands in contrast to the static nature of equilibrium analysis. Since only and array of disequilibrium prices sets in motion the competitive process characterizing real-world markets, the formalist orthodoxy, by its very nature, must ignore this process. As Mises wrote:
 
-<blockquote>The activities of the entrepreneur or of any other actor on the economic scene are not guided by considerations of any such thing as equilibrium prices and the evenly rotating economy. The entrepreneurs take into account anticipated future prices, not final prices or equilibrium prices. They discover discrepancies between the heigh of the prices of the complementary factors of production and the anticipated future prices of the products, and they are intent upon taking advantage of such discrepancies.</blockquote>
+> The activities of the entrepreneur or of any other actor on the economic scene are not guided by considerations of any such thing as equilibrium prices and the evenly rotating economy. The entrepreneurs take into account anticipated future prices, not final prices or equilibrium prices. They discover discrepancies between the heigh of the prices of the complementary factors of production and the anticipated future prices of the products, and they are intent upon taking advantage of such discrepancies.
 
 Prices serve as the basis of economic calculation only in the context of a process of competition brought into being by what formalism assumes away: disequilibrium. Real-world market prices do not perfectly contain all of the relevant information required for competitive equilibrium; if such information were known already, there would be no need for economic activity in the first place. Under disequilibrium conditions, however, the active bidding up of prices when demand exceeds supply, and their bidding down when supply exceeds demand, generates the incentives and information necessary to coordinate economic decisions. The discrepancy between the current array of prices and the anticipated future array of prices provides the incentive for entrepreneurs to discover hitherto unknown opportunities for economic profit. Of course, in this process of perceiving the future, entrepreneurs may (and do) make errors, but these errors can, by creating further discovery opportunities, generate further activity aimed at allocating or reallocating resources in a more effective manner to obtain the ends sought after. "The market process," Israel Kirzner writes, "emerges as the necessary implication of the circumstances that people act, and that in their actions they err, discover their errors, and tend to revise their actions in a direction likely to be less erroneous than before." While the assumption of perfect knowledge was essential for modeling the state of competitive equilibrium, it precluded an examination of the path by which adjustment toward equilibrium could be achieved. If the system were not already in equilibrium, one could not explain how it would get there. Omniscience logically results in nonaction. A profit opportunity that is known to all can be realized by none. Thus, if it is to be realistic, the model's assumptions have to be relaxed, but then it becomes overly complex and loses its formal elegance.
 
@@ -125,29 +125,13 @@ The intellectual landscape of modern political economy has shifted considerably 
 
 There is an interesting relationship between the epistemic outlook of economics and the disposition of the economist that plays itself out in the history of development economics. To simplify two continuums down to their poles, we can see the discipline of economics as moving between "epistemic modesty" and "epistemic hubris" in the way it understands its own claims to scientific knowledge (particularly in the sense of prediction and control), and we can envision economists as approaching their work as either "students of society" or "saviors of society." The interaction between the dominant culture of the discipline and the disposition of the economist is portrayed in the following table.
 
-<table>
-  <thead>
-    <tr>
-      <td></td>
-      <td><strong>Economist as Student</strong></td>
-      <td><strong>Economist as Savior</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Economics has epistemic modesty.</td>
-      <td>Happy cautionary prophet</td>
-      <td>Frustrated engineer</td>
-    </tr>
-    <tr>
-      <td>Economics has epistemic hubris.</td>
-      <td>Frustrated cautionary prophet</td>
-      <td>Practicing engineer</td>
-    </tr>
-  </tbody>
-</table>
+|                                  | **Economist as Student**      | **Economist as Savior** |
+| -------------------------------- | ----------------------------- | ----------------------- |
+| Economics has epistemic modesty. | Happy cautionary prophet      | Frustrated engineer     |
+| Economics has epistemic hubris.  | Frustrated cautionary prophet | Practicing engineer     |
 
-We broadly categorize the results in terms of "cautionary prophets" or "engineers." We use "prophet" in the sense of a person who offers predictive warnings ("if you do <em>x</em>, <em>y</em> will happen") rather than someone who is divinely inspired or the like. By using the adjective "cautionary," we are suggesting that the economist as prophet is largely in the business of cautioning us about the limits of what we can and cannot do. The economist as prophet is more likely to utter "Thou Cannot" than "Thou Shalt Not." This sort of economist has a default, though not inviolable, respect for the workings and value of institutions that have survived the process of social evolution. This puts him or her in the position of cautioning those who would remake or ignore the lasting results of those historical processes.
+&nbsp;  
+We broadly categorize the results in terms of "cautionary prophets" or "engineers." We use "prophet" in the sense of a person who offers predictive warnings ("if you do _x_, _y_ will happen") rather than someone who is divinely inspired or the like. By using the adjective "cautionary," we are suggesting that the economist as prophet is largely in the business of cautioning us about the limits of what we can and cannot do. The economist as prophet is more likely to utter "Thou Cannot" than "Thou Shalt Not." This sort of economist has a default, though not inviolable, respect for the workings and value of institutions that have survived the process of social evolution. This puts him or her in the position of cautioning those who would remake or ignore the lasting results of those historical processes.
 
 Over the last 150 years, the economist as engineer, by contrast, has moved through two distinct, though related, worldviews with respect to historically emergent institutions. During the late nineteenth century, a period characterized by "frustration," the engineering-oriented economist was interested in the role of institutions but concerned with designing new social institutions to replace those seen as responsible for the problems of the day. The spirit of science and engineering, which had been apparently so successful in taming nature, would be used to rein in the forcces of the social world so that they would serve the cause of human betterment by being the results of human reason rather than blind evolution. By the middle of the twentieth century, with the failures of wholesale institutional redesign more obvious, the economist as engineer was more likely to ignore historically emergent institutions, focusing instead on the problems of optimal resource and income allocation as explored in what amounted to an institutional vacuum. What unites the engineers of the two centuries, and makes grouping them together intellectually coherent, is their rejection of the cautionary prophet's default respect for historically successful social institutions. The older ones rejected it because they thought they could do better; the more recent ones simply ignore the issue.
 

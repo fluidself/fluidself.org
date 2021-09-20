@@ -216,10 +216,8 @@ While the economic logic of participating in the cybereconomy turns the rational
 
 In the new age to come, communities and allegiances will not be territorially bounded. Identification will be more precisely targeted to genuine affinities, shared interests, or actual kinship, rather than the bogus affinities of citizenship so tirelessly promoted in conventional politics. Protection will be organized in new ways that have no analogue in a surveyor's kit that demarcates territorial borders. Assets will increasingly be lodged in cyberspace rather than at any given place, a fact that will facilitate new competition to reduce the "protection costs" or taxes imposed in most territorial jurisdictions.
 
-<blockquote>
-Ambitious people understand, then, that a migratory way of life is the price of getting ahead.
-<cite>--CHRISTOPHER LASCH</cite>
-</blockquote>
+> Ambitious people understand, then, that a migratory way of life is the price of getting ahead.  
+> &mdash;CHRISTOPHER LASCH
 
 There also seems to be a strong psychological component in the reaction against globalization. This freedom that capitalism provided to people "to create their own identities" proved scary to those who were not prepared to make creative use of it. As Billig said, they yearned "for the security of a solid identity," and were "drawn towards the simplicities of nationalist and fascist propaganda."
 

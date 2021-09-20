@@ -22,7 +22,7 @@ This method is quintessentially Stoic: it consists in refusing to add subjective
 
 [Marcus Aurelius's] realist vision has a threefold function. In the first place, it is intended to prepare us to confront life such as it is. As Seneca remarks,
 
-<blockquote>To be offended by these things is just as ridiculous as to complain that you got splashed in the bath, or that you got pushed around in a crowd, or that you got dirty in a mud-puddle. The same things happen in life as in the baths, in a crowd, or on the road… Life is not a delicate thing.</blockquote>
+> To be offended by these things is just as ridiculous as to complain that you got splashed in the bath, or that you got pushed around in a crowd, or that you got dirty in a mud-puddle. The same things happen in life as in the baths, in a crowd, or on the road… Life is not a delicate thing.
 
 Secondly, the realistic outlook is not intended to deny the immanence of reason in the world, but to persuade us to search for reason where it can be found in its purest state: in the _daimon_ or inner genius, that guiding principle within man, source of freedom and principle of the moral life. Finally, by reinforcing the sombre tones of disgust and repulsion, such definitions are intended to provide a contrast with the splendid illumination which transfigures all things when we consider them from the perspective of universal reason.
 

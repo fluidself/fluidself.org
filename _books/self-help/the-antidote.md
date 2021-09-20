@@ -5,8 +5,8 @@ date: 2017-04-25 07:50:45+00:00
 layout: book.hbs
 link: https://fluidself.org/books/self-help/the-antidote/
 slug: the-antidote
-title: 'The Antidote: Happiness for People Who Can''t Stand Positive Thinking - by
-  Oliver Burkeman'
+title: "The Antidote: Happiness for People Who Can't Stand Positive Thinking - by
+  Oliver Burkeman"
 wordpress_id: 1118
 ---
 
@@ -106,9 +106,8 @@ Alternatively, it's worth trying to recall it when failure strikes: next time yo
 
 **MEMENTO MORI**
 
-<blockquote>If I had my life over I should form the habit of nightly composing myself to thoughts of death. I would practice, as it were, the remembrance of death . . . without an ever-present sense of death, life is insipid. You might as well live on the whites of eggs.
-<br />
-<cite>– Inspector Mortimer in Muriel Spark's Memento Mori</cite></blockquote>
+> If I had my life over I should form the habit of nightly composing myself to thoughts of death. I would practice, as it were, the remembrance of death ... without an ever-present sense of death, life is insipid. You might as well live on the whites of eggs.  
+> &mdash; Inspector Mortimer in Muriel Spark's Memento Mori
 
 Since the time of the ancient Greeks, certain radical thinkers have taken the position that a life suffused with an awareness of one's own mortality – as a matter of everyday habit, not just when direct encounters with death force our hand – might be a far richer kind of existence. It is also surely a more authentic one. Death is a fact of life, however hard we might try to deny it.
 

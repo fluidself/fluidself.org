@@ -67,10 +67,8 @@ One of the most important things you should always observe is consistency of you
 
 There is a difference between enjoying an activity because it is in your comfort zone and genuinely deriving pleasure from it.
 
-<blockquote>Great minds discuss ideas; Average minds discuss events; Small minds discuss people.
-<br />
-<cite>-- Eleanor Roosevelt, First Lady of the United States</cite>
-</blockquote>
+> Great minds discuss ideas; Average minds discuss events; Small minds discuss people.  
+> &mdash; Eleanor Roosevelt, First Lady of the United States
 
 When we are open and honest about how we feel and we do not try to pretend somehow that we are more thick-skinned then we are, then we really allow people to see us as we are.
 

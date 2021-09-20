@@ -26,8 +26,8 @@ Grandiose fantasies are a symptom of Resistance. They're the sign of an amateur.
 
 Rationalization is Resistance's spin doctor. It's Resistance's way of hiding the Big Stick behind its back. Instead of showing us our fear (which might shame us and impel us to do our work), Resistance presents us with a series of plausible, rational justifications for why we shouldn't do our work.
 
-<blockquote>It is one thing to study war and another to live the warrior's life.
--- Telamon of Arcadia, mercenary of the fifth century B.C.</blockquote>
+> It is one thing to study war and another to live the warrior's life.  
+> &mdash;Telamon of Arcadia, mercenary of the fifth century B.C.
 
 The amateur plays for fun. The professional plays for keeps. To the amateur, the game is his avocation. To the pro it's his vocation.
 
@@ -83,8 +83,8 @@ The essence of professionalism is the focus upon the work and its demands, while
 
 When we sit down day after day and keep grinding, something mysterious starts to happen. A process is set into motion by which, inevitably and infallibly, heaven comes to our aid. Unseen forces enlist in our cause; serendipity reinforces our purpose. When we sit down and work, we become like a magnetized rod that attracts iron filings. Ideas come. Insights accrete.
 
-<blockquote>Whatever you can do, or dream you can, begin it. Boldness has genius, magic, and power in it. Begin it now.
--- Goethe</blockquote>
+> Whatever you can do, or dream you can, begin it. Boldness has genius, magic, and power in it. Begin it now.  
+> &mdash;Goethe
 
 For the artist to define himself hierarchically is fatal: the artist cannot look to others to validate his efforts or his calling. The artist can't do his work hierarchically. He has to work territorially.
 

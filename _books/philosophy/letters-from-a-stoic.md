@@ -19,8 +19,8 @@ You should neither become like the bad because they are many, nor be an enemy of
 
 Inwardly everything should be different, but our outward face should conform with the crowd. Our clothes should not be gaudy, yet they should not be dowdy either. We should not keep silver plates with inlays of solid gold but at the same time we should not imagine that doing without gold and silver is proof that we are leading the simple life. Let our aim be a way of life not diametrically opposed to, but better than that of the mob. Otherwise we shall repel and alienate the very people whose reform we desire; we shall make them, moreover, reluctant to imitate us in anything for fear they may have to imitate us in everything.
 
-<blockquote>We need to set our affections on some good man and keep him constantly before our eyes, so that we may live as if he were watching us and do everything as if he saw what we were doing.
--- Epicurus</blockquote>
+> We need to set our affections on some good man and keep him constantly before our eyes, so that we may live as if he were watching us and do everything as if he saw what we were doing.  
+> &mdash; Epicurus
 
 Set aside now and then a number of days during which you will be content with the plainest of food, and very little of it, and with rough, coarse clothing, and will ask yourself, 'Is this what one used to dread?' It is in times of security that the spirit should be preparing itself to deal with difficult times; while fortune is bestowing favours on us then is the time for it to be strengthened against her rebuffs.
 

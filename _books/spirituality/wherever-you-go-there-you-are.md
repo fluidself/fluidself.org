@@ -96,10 +96,8 @@ Discipline provides a constancy which is independent of what kind of a day you h
 
 By grounding yourself in mindfulness early in the morning, you are reminding yourself that things are always changing, that good and bad things come and go, and that it is possible to embody a perspective of constancy, wisdom, and inner peace as you face any conditions that present themselves. Making the daily choice to wake up early to practice is an embodiment of this perspective.
 
-<blockquote>"I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. It is something to be able to paint a particular picture, or to carve a statue, and so to make a few objects beautiful; but it is far more glorious to carve and paint the very atmosphere and medium though which we look. . . . To affect the quality of the day, that is the highest of arts."
-<br />
-<cite>-- Thoreau, Walden</cite>
-</blockquote>
+> "I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. It is something to be able to paint a particular picture, or to carve a statue, and so to make a few objects beautiful; but it is far more glorious to carve and paint the very atmosphere and medium though which we look... To affect the quality of the day, that is the highest of arts."  
+> &mdash; Thoreau, Walden
 
 **Try:** Making a commitment to yourself to get up earlier than you otherwise might. Just doing it changes your life. Let that time, whatever length, be a time of being, a time for intentional wakefulness.
 

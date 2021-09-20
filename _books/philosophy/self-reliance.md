@@ -19,13 +19,13 @@ Truth is handsomer than the affectation of love. Your goodness must have some ed
 
 What I must do is all that concerns me, not what the people think. This rule, equally arduous in actual and in intellectual life, may serve for the whole distinction between greatness and meanness. It is the harder, because you will always find those who think they know what is your duty better than you know it. It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.
 
-<blockquote>Until one is committed, there is hesitancy, the chance to draw back, always ineffectiveness. Concerning all acts of initiative and creation, there is one elementary truth the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then providence moves too. All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one's favor all manner of unforeseen incidents, meetings and material assistance which no man could have dreamed would have come his way. Whatever you can do or dream you can, begin it. Boldness has genius, power and magic in it. Begin it now.
--- Johann Wolfgang Von Goethe</blockquote>
+> Until one is committed, there is hesitancy, the chance to draw back, always ineffectiveness. Concerning all acts of initiative and creation, there is one elementary truth the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then providence moves too. All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one's favor all manner of unforeseen incidents, meetings and material assistance which no man could have dreamed would have come his way. Whatever you can do or dream you can, begin it. Boldness has genius, power and magic in it. Begin it now.  
+> &mdash; Johann Wolfgang Von Goethe
 
 Man is timid and apologetic; he is no longer upright; he dares not say ‘I think,' ‘I am,' but quotes some saint or sage.
 
-<blockquote>The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.
--- George Bernard Shaw</blockquote>
+> The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.  
+> &mdash; George Bernard Shaw
 
 Truly it demands something godlike in him who has cast off the common motives of humanity, and has ventured to trust himself for a taskmaster.
 

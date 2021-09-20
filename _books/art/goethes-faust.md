@@ -29,12 +29,12 @@ Life, Faust feels, that is constantly concerned to protect itself against common
 
 Faust's famous assertion that mankind possesses a dual nature, an earthly, physical or material side and a heavenly, spiritual or immaterial side.
 
-<blockquote>Two souls, alas! Reside within my breast,
-and each is eager for a separation:
-in throes of coarse desire, one grips
-the earth with all its senses;
-the other struggles from the dust
-to rise to high ancestral spheres.</blockquote>
+> Two souls, alas! Reside within my breast,  
+> and each is eager for a separation:  
+> in throes of coarse desire, one grips  
+> the earth with all its senses;  
+> the other struggles from the dust  
+> to rise to high ancestral spheres.
 
 The people around him have avoided the problem of human existence by giving themselves over to their animal nature; Faust has tried to solve it by escaping from his animal side. Both are wrong. Avoidance is not the answer.
 
@@ -94,9 +94,9 @@ Wagner's latest experiment, the production of a homunculus, a little man in a bo
 
 Homunculus' first words are addressed to Wagner; they are a comment upon himself and by extension upon the whole poem:
 
-<blockquote>That is the way that things are apt to take:
-the cosmos scarce will compass Nature's kind,
-but man's creations need to be confined</blockquote>
+> That is the way that things are apt to take:  
+> the cosmos scarce will compass Nature's kind,  
+> but man's creations need to be confined
 
 An artificial creature is provided with an artificially limited space in which to exist, in the same way as Wagner, intellectually circumscribed, lives in his circumscribed world. Natural creatures, on the other hand, can scarcely be content with the whole of infinity. Such a one is Faust. From the first moment of his existence Homunculus is aware that he is an imperfect being and he spends his little life seeking to become a living object in the full sense. He is pure intellect, with all the powers, insights and shortcomings of pure intellect. The homunculi were traditionally supposed to be all-knowing, and Wagner's is well aware that his disembodied existence must somehow attain a higher state of fulfillment. As Mephistopheles brushes aside Wagner's philosophical question about the relationship of soul and body, Homunculus declares: ‘What's here to do?' and is shown the unconscious figure of Faust. Life, it appears, cannot be gained without the exercise of activity which is its essential characteristic. Even Mephistopheles seems to understand that. We shall see also that it cannot be gained without the aid of self-sacrificing love, which Homunculus needs in order to become a living being, just as much as Faust needs it in order to enter Paradise. Life is not won by theorizing about it, but by practical living. Wagner and his speculations are thus henceforth ignored, and Homunculus and Mephistopheles take complete charge of events.
 

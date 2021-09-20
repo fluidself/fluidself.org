@@ -228,5 +228,5 @@ To learn intimacy is not an easy thing. Like following the breath or walking in 
 
 Rumi reminds us not to sit with sorrow alone.
 
-<blockquote>When you go to a garden, do you look at thorns or flowers?
-Spend more time with roses and jasmine.</blockquote>
+> When you go to a garden, do you look at thorns or flowers?  
+> Spend more time with roses and jasmine.

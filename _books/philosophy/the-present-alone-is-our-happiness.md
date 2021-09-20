@@ -71,21 +71,23 @@ There are two kinds of discourse. The Stoics said so, but it is a question of co
 
 Goethe:
 
-<blockquote>Sacred dread, that is the best part of humans. However dearly the world makes them pay for what they feel, it is in shock that they deeply feel prodigious reality.</blockquote>
+> Sacred dread, that is the best part of humans. However dearly the world makes them pay for what they feel, it is in shock that they deeply feel prodigious reality.
 
 Blake:
 
-<blockquote>To see a World in a Grain of Sand,
-And a Heaven in a Wild Flower,
-Hold Infinity in the palm of your hand,
-And Eternity in an hour.</blockquote>
+> To see a World in a Grain of Sand,  
+> And a Heaven in a Wild Flower,  
+> Hold Infinity in the palm of your hand,  
+> And Eternity in an hour.
 
 Nietzsche:
 
-<blockquote>Let us suppose that we say yes to a single moment; we will thus have said yes not only to ourselves, but to all existence. For nothing is isolated, either in ourselves, or in things. And if happiness makes our souls vibrate and resonate even once, all the eternities will have been necessary to create the conditions of this single event, and all eternity has been approved, saved, justified, affirmed in this unique instant in which we have said yes.</blockquote>
+> Let us suppose that we say yes to a single moment; we will thus have said yes not only to ourselves, but to all existence. For nothing is isolated, either in ourselves, or in things. And if happiness makes our souls vibrate and resonate even once, all the eternities will have been necessary to create the conditions of this single event, and all eternity has been approved, saved, justified, affirmed in this unique instant in which we have said yes.
 
 Hugo von Hofmannsthal:
 
-<blockquote>Most people do not live in life, but in a simulacrum, in a sort of algebra in which nothing exists and in which everything only signifies. I would like to profoundly experience the being of each thing...</blockquote>
+> Most people do not live in life, but in a simulacrum, in a sort of algebra in which nothing exists and in which everything only signifies. I would like to profoundly experience the being of each thing...
 
-<blockquote>One can never express a thing quite as it is.</blockquote>
+&nbsp;
+
+> One can never express a thing quite as it is.
