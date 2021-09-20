@@ -60,10 +60,8 @@ If we were to take a look at the frontal cortex of those who have mastered somet
 
 4.  Create a back-and-forth dynamic
 
-<blockquote>To learn by example is to submit to authority. You follow your master because you trust his manner of doing things even when you cannot analyze and account in detail for its effectiveness. By watching the master and emulating his efforts … the apprentice unconsciously picks up the rules of the art, including those which are not explicitly known to the master himself.
-<br />
-<cite>--MICHAEL POLANYI</cite>
-</blockquote>
+> To learn by example is to submit to authority. You follow your master because you trust his manner of doing things even when you cannot analyze and account in detail for its effectiveness. By watching the master and emulating his efforts … the apprentice unconsciously picks up the rules of the art, including those which are not explicitly known to the master himself.  
+> &mdash; MICHAEL POLANYI
 
 **STRATEGIES FOR ACQUIRING SOCIAL INTELLIGENCE**
 

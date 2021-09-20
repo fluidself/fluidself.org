@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import ReactMarkdown from 'react-markdown';
+import gfm from 'remark-gfm';
 import Layout from '../../../components/Layout';
 import ContentBlock from '../../../components/ContentBlock';
 import { getBookData, getAllCategories, getBooksInCategory } from '../../../lib/api';
@@ -15,7 +16,9 @@ export default function Book(props) {
         <meta name="description" content={`${title} book notes`} />
       </Head>
       <ContentBlock heading={title}>
-        <ReactMarkdown components={customRenderers}>{content}</ReactMarkdown>
+        <ReactMarkdown components={customRenderers} remarkPlugins={[gfm]}>
+          {content}
+        </ReactMarkdown>
       </ContentBlock>
     </Layout>
   );

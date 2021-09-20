@@ -10,10 +10,8 @@ title: 'The Tools: Transform Your Problems into Courage, Confidence, and Creativ
 wordpress_id: 1147
 ---
 
-<blockquote>The things which hurt, instruct.
-<br />
-<cite>-- Benjamin Franklin</cite>
-</blockquote>
+> The things which hurt, instruct.  
+> &mdash; Benjamin Franklin
 
 To control behavior you need a specific procedure to use at a specific time to combat a specific problem. That's what a tool is. A tool--unlike an attitude adjustment--requires you to do something. Not only does it take work, it's work you have to do over and over again--every time you get frustrated. A new attitude means nothing unless followed by a change in behavior. The surest way to change behavior is with a tool.
 

@@ -9,11 +9,8 @@ title: 'Focus: A Simplicity Manifesto in the Age of Distraction - by Leo Babauta
 wordpress_id: 736
 ---
 
-<blockquote>
-"Most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, ‘Is this necessary?‘"
-<br />
-<cite>– Marcus Aurelius</cite>
-</blockquote>
+> "Most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, ‘Is this necessary?‘"  
+> &mdash; Marcus Aurelius
 
 Separate your day: a time for creating, and a time for consuming and communicating. And never the twain shall meet.
 

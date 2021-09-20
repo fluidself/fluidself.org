@@ -9,8 +9,8 @@ title: Liar's Poker - by Michael Lewis
 wordpress_id: 1193
 ---
 
-<blockquote>He who makes a beast of himself gets rid of the pain of being a man.
-– Samuel Johnson</blockquote>
+> He who makes a beast of himself gets rid of the pain of being a man.  
+> &mdash; Samuel Johnson
 
 Knowing about markets is knowing about other people's weaknesses.
 
@@ -20,8 +20,8 @@ I thought instead of a good rule for survival on Wall Street: never agree to any
 
 The only thing history teaches us, a wise man once said, is that history doesn't teach us anything.
 
-<blockquote>I don't do favours. I accumulate debts.
-– Ancient Sicilian motto</blockquote>
+> I don't do favours. I accumulate debts.  
+> &mdash; Ancient Sicilian motto
 
 That was how a Salomon bond trader thought: he forgot whatever it was that he wanted to do for a minute and put his finger on the pulse of the market. If the market felt fidgety, if people were scared or desperate, he herded them like sheep into a corner, then made them pay for their uncertainty. He sat on the market until it puked gold coins. Then he worried about what he wanted to do.
 

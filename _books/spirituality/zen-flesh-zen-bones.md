@@ -40,7 +40,7 @@ Soyen Shaku, the first Zen teacher to come to America, said: 'My heart burns lik
 
 **Centreing**
 
-Sweet-hearted one, meditate on knowing and not knowing, existing and not existing. Then leave both aside that you may <em>be</em>.
+Sweet-hearted one, meditate on knowing and not knowing, existing and not existing. Then leave both aside that you may _be_.
 
 _See as if for the first time_ a beauteous person or an ordinary object.
 

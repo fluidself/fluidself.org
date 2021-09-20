@@ -65,9 +65,9 @@ When the line between myself and what happens to me is dissolved and there is no
 
 To be released from the "You must survive" double-bind is to see that life is at root playing. The difficulty in understanding this is that the idea of "play" has two distinct meanings which are often confused. On the one hand, to do something only or merely in play, is to be trivial and insincere, and here we should use the word "toying" instead of "playing." On the other hand, there is a form of playing which is not trivial at all, as when Segovia plays the guitar or Sir Laurence Olivier plays the part of Hamlet, or, obviously, when someone plays the organ in church. In this sense of the word Saint Gregory Nazianzen could say of the Logos, the creative wisdom of God:
 
-<blockquote>For the Logos on high plays,
-stirring the whole cosmos back and forth,
-as he wills, into shapes of every kind.</blockquote>
+> For the Logos on high plays,  
+> stirring the whole cosmos back and forth,  
+> as he wills, into shapes of every kind.
 
 Once you have seen this you can return to the world of practical affairs with a new spirit. You have seen that the universe is at root a magical illusion and a fabulous game, and that there is no separate "you" to get something out of it, as if life were a bank to be robbed. The only real "you" is the one that comes and goes, manifests and withdraws itself eternally in and as every conscious being. For "you" is the universe looking at itself from billions of points of view, points that come and go so that the vision is forever new. What we see as death, empty space, or nothingness is only the trough between the crests of this endlessly waving ocean. It is all part of the illusion that there should seem to be something to be gained in the future, and that there is an urgent necessity to go on and on until we get it. Yet just as there is no time but the present, and no one except the all-and-everything, there is never anything to be gained--though the zest of the game is to pretend that there is.
 

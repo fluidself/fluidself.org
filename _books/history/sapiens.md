@@ -26,28 +26,13 @@ Yet none of these things exists outside the stories that people invent and tell 
 
 **What happened in the Cognitive Revolution?**
 
-<table>
-<thead>
-<tr>
-<td><strong>New ability</strong></td>
-<td><strong>Wider consequences</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>The ability to transmit larger quantities of information about the world surrounding Homo sapiens</td>
-<td>Planning and carrying out complex actions, such as avoiding lions and hunting bison</td>
-</tr>
-<tr>
-<td>The ability to transmit larger quantities of information about Sapiens social relationships</td>
-<td>Larger and more cohesive groups, numbering up to 150 individuals</td>
-</tr>
-<tr>
-<td>The ability to transmit information about things that do not really exist, such as tribal spirits, nations, limited liability companies and human rights</td>
-<td>a. Cooperation between very large numbers of strangers<br />b. Rapid innovation of social behaviour</td>
-</tr>
-</tbody>
-</table>
+| New ability                                                                                                                                              | Wider consequences                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| The ability to transmit larger quantities of information about the world surrounding Homo sapiens                                                        | Planning and carrying out complex actions, such as avoiding lions and hunting bison              |
+| The ability to transmit larger quantities of information about Sapiens social relationships                                                              | Larger and more cohesive groups, numbering up to 150 individuals                                 |
+| The ability to transmit information about things that do not really exist, such as tribal spirits, nations, limited liability companies and human rights | (a) Cooperation between very large numbers of strangers (b) Rapid innovation of social behaviour |
+
+&nbsp;
 
 **History’s Biggest Fraud**
 

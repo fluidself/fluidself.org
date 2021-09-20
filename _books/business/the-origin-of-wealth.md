@@ -90,43 +90,15 @@ When scientists compare two theories, they do so according to the _correspon­de
 
 **Five "Big Ideas" That Distinguish Complexity Economics from Traditional Economics**
 
-<table>
-<thead>
-<tr>
-<td></td>
-<td><strong>Complexity Economics</strong></td>
-<td><strong>Traditional Economics</strong></td>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Dynamics</strong></td>
-<td>Open, dynamic, nonlinear systems, far from equilibrium</td>
-<td>Closed, static, linear systems in equilibrium</td>
-</tr>
-<tr>
-<td><strong>Agents</strong></td>
-<td>Modeled individually; use inductive rules of thumb to make decisions; have incomplete information; are subject to errors and biases; learn and adapt over time</td>
-<td>Modeled collectively; use complex deductive calculations to make decisions; have complete information; make no errors and have no biases; have no need for learning or adaptation (are already perfect)</td>
-</tr>
-<tr>
-<td><strong>Networks</strong></td>
-<td>Explicitly model interactions between individual agents; networks of relationships change over time</td>
-<td>Assume agents only interact indirectly through market mechanisms
-(e.g., auctions)</td>
-</tr>
-<tr>
-<td><strong>Emergence</strong></td>
-<td>No distinction between micro- and macroeconomics; macro patterns are emergent result of micro-level behaviors and interactions</td>
-<td>Micro- and macroeconomics remain separate disciplines</td>
-</tr>
-<tr>
-<td><strong>Evolution</strong></td>
-<td>The evolutionary process of differentiation, selection, and amplification provides the system with novelty and is responsible for its growth in order and complexity</td>
-<td>No mechanism for endogenously creating novelty, or growth in order and complexity</td>
-</tr>
-</tbody>
-</table>
+|               | Complexity Economics                                                                                                                                                 | Traditional Economics                                                                                                                                                                                   |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dynamics**  | Open, dynamic, nonlinear systems, far from equilibrium                                                                                                               | Closed, static, linear systems in equilibrium                                                                                                                                                           |
+| **Agents**    | Modeled individually; use inductive rules of thumb to make decisions; have incomplete information; are subject to errors and biases; learn and adapt over time       | Modeled collectively; use complex deductive calculations to make decisions; have complete information; make no errors and have no biases; have no need for learning or adaptation (are already perfect) |
+| **Networks**  | Explicitly model interactions between individual agents; networks of relationships change over time                                                                  | Assume agents only interact indirectly through market mechanisms (e.g., auctions)                                                                                                                       |
+| **Emergence** | No distinction between micro- and macroeconomics; macro patterns are emergent result of micro-level behaviors and interactions                                       | Micro- and macroeconomics remain separate disciplines                                                                                                                                                   |
+| **Evolution** | The evolutionary process of differentiation, selection, and amplification provides the system with novelty and is responsible for its growth in order and complexity | No mechanism for endogenously creating novelty, or growth in order and complexity                                                                                                                       |
+
+&nbsp;
 
 **Dynamics: The Delights of Disequilibrium**
 
@@ -189,7 +161,7 @@ John Holland, a computer scientist at the University of Michigan, Keith Holyoak,
 - AGENT. There is an agent interacting with other agents and its environment.
 
 - GOALS. The agent has some goal or goals it is trying to achieve, and thus the agent can perceive gaps between its current state and its desired state, for example, "I'm hungry" or "I'm in danger." The agent's job is to make decisions that bring it closer to its goals.
- 
+
 - RULES OF THUMB. The agent has rules of thumb that map the current state of the world to actions. These are called condition-action rules, or better known as IF THEN rules. An agent's collection of rules of thumb at any point in time is referred to as the agent's _mental model_.
 
 - FEEDBACK AND LEARNING. The agent's mental model keeps track of which rules have helped it achieve its goals and which rules have moved the agent farther from its goals. Historically successful rules are used more often than unsuccessful rules. Feedback from the environment thus causes the agent to learn over time.
@@ -317,13 +289,13 @@ The model I will outline views economic evolution as the joint product of evolut
 
 Physical Technologies (PTs) _are methods and designs for transforming matter, energy, and information from one state into another in pursuit of a goal or goals._
 
-Some PTs result in the production of an artifact (e.g., a hand ax or computer program), but others result in the provision of a service. For example, one could imagine a set of PTs for making a bank loan or providing a Shiatsu massage. A PT is not the thing itself (the hand ax, the software, or the massage), but rather, it is both the design for the thing, and the instructions and techniques for making it. One way of envisioning a PT is to think about what an instruc­tion manual for the artifact or service would look like. 
+Some PTs result in the production of an artifact (e.g., a hand ax or computer program), but others result in the provision of a service. For example, one could imagine a set of PTs for making a bank loan or providing a Shiatsu massage. A PT is not the thing itself (the hand ax, the software, or the massage), but rather, it is both the design for the thing, and the instructions and techniques for making it. One way of envisioning a PT is to think about what an instruc­tion manual for the artifact or service would look like.
 
 One of the most remarkable things about human Physical Technology is how each new invention creates both the possibility of, and the need for, more inventions. Each invention opens up new niches for future inventions, and components from one invention are often recycled into new forms.
 
 As one considers the possibility that PT innovation is an evolutionary process, a natural reaction is, "But evolution is a blind, random process, while technology innovation is directed by human rationality and intention. How do we square that circle?" The answer is that there is nothing funda­mental in the nature of the evolutionary algorithm that says intentionality and rationality cannot play a role, nor does anything say the process must be completely random. At its core, evolution is an iterative process of experi­mentation, selection, and then amplification of things that work. The ran­dom part of the process in biological evolution is the creation of variety for selection to act on. But even this is far from completely random. Mutations may be random, but recombination in sexual creatures is not. Competition for mates ensures that fit organisms have a higher probability of pairing off with other fit organisms.
 
-The only requirement is that the algorithm be fed a sufficient variety of experiments for selection to act on. The experiments must cover a broad enough swath of the fitness landscape to give the algorithm a fighting chance  of finding high peaks. From the algorithm's point of view, it doesn't really matter how the process achieves that diversity. In the case of humans search­ing PT space, the evolutionary algorithm gets its diversity of experiments through what I will call _deductive-tinkering_.
+The only requirement is that the algorithm be fed a sufficient variety of experiments for selection to act on. The experiments must cover a broad enough swath of the fitness landscape to give the algorithm a fighting chance of finding high peaks. From the algorithm's point of view, it doesn't really matter how the process achieves that diversity. In the case of humans search­ing PT space, the evolutionary algorithm gets its diversity of experiments through what I will call _deductive-tinkering_.
 
 **Selection on the Physical Technology Landscape**
 
@@ -468,21 +440,17 @@ Culture _is an emergent characteristic of a group of agents and is determined by
 
 **Culture: The Ten Commandments**
 
-Performing norms  
+Performing norms
+
 1. PERFORMANCE ORIENTATION. Always do your best, go the extra mile, take initiative, and continuously improve yourself.
 2. HONESTY. Be honest with others, be honest with yourself, be transparent and face reality.
 3. MERITOCRACY. Reward people on the basis of merit.
 
 Cooperating norms  
-4. MUTUAL TRUST. Trust your colleagues' motivation, and trust in their skills to get the job done.
-5. RECIPROCITY. Live the golden rule; do unto others as you would have them do unto you.
-6. SHARED PURPOSE. Put the organization's interests ahead of your own, and behave as if everyone is in it together.
+4. MUTUAL TRUST. Trust your colleagues' motivation, and trust in their skills to get the job done. 5. RECIPROCITY. Live the golden rule; do unto others as you would have them do unto you. 6. SHARED PURPOSE. Put the organization's interests ahead of your own, and behave as if everyone is in it together.
 
 Innovating norms  
-7. NONHIERARCHICAL Junior people are expected to challenge senior people, and what matters is the quality of an idea, not the tide of the person saying it.
-8. OPENNESS. Be curious, open to outside thinking, and willing to experiment; seek the best, wherever it is.
-9. FACT-BASED. Find out the facts; it is facts, not opinions, that ultimately count.
-10. CHALLENGE. Feel a sense of competitive urgency; it is a race without a finish line.
+7. NONHIERARCHICAL Junior people are expected to challenge senior people, and what matters is the quality of an idea, not the tide of the person saying it. 8. OPENNESS. Be curious, open to outside thinking, and willing to experiment; seek the best, wherever it is. 9. FACT-BASED. Find out the facts; it is facts, not opinions, that ultimately count. 10. CHALLENGE. Feel a sense of competitive urgency; it is a race without a finish line.
 
 Cognitive science tells us that most corporate change programs are 180 degrees backward. Hu­mans are fairly stubborn creatures and don't just immediately change their mental models and behaviors in responses to speeches from their bosses, or because of PowerPoint presentations or plastic cubes with inspirational mes­sages. Instead of trying to appeal to our fact-based, deductive sides, corpo­rate change programs need to address the story-loving, pattern-recognizing, more emotional, inductive side of human cognition. People need to be jolted from their existing mental models and see an urgent and personal gap between the way things are and the way things need to be. A change pro­gram needs to have a fact-based argument underlying it, but the emphasis in communications should be on stories, analogies, and patterns to help people see the issues. Most change programs are also very passive, with lots of com­munications cascading down from on high. But learning is interactive, and thus a change program needs to get people to personally grapple with the issues.
 

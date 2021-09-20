@@ -1,9 +1,9 @@
-import { Text, Link } from '@chakra-ui/react';
+import { Box, Link } from '@chakra-ui/react';
 import Head from 'next/head';
 import NextLink from 'next/link';
 import Layout from '../../components/Layout';
 import ContentBlock from '../../components/ContentBlock';
-
+import Search from '../../components/search/Search';
 import { getAllCategories } from '../../lib/api';
 
 export default function Books({ categories }) {
@@ -14,12 +14,13 @@ export default function Books({ categories }) {
         <meta name="description" content="book notes" />
       </Head>
       <ContentBlock heading="BOOKS">
+        <Search />
         {categories.map(category => (
-          <Text key={category.slug}>
+          <Box key={category.slug}>
             <NextLink href={`/books/${category.slug}`}>
               <Link>{category.title}</Link>
             </NextLink>
-          </Text>
+          </Box>
         ))}
       </ContentBlock>
     </Layout>

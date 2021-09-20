@@ -9,12 +9,9 @@ title: Strangers to Ourselves - by Timothy D. Wilson
 wordpress_id: 463
 ---
 
-<blockquote>
-Self-reverence, self-knowledge, self-control,-- These three alone lead life to sovereign power.
-<br />
-<cite>Alfred Lord Tennyson, "Oenone" (1833)</cite>
-
-</blockquote>
+> Self-reverence, self-knowledge, self-control,-- These three alone lead life to sovereign power.
+>
+> &mdash; Alfred Lord Tennyson, "Oenone" (1833)
 
 **The Adaptive Unconscious versus the Freudian Unconscious**
 
@@ -44,72 +41,17 @@ Self-relevance isn't quite the right way to describe how the adaptive unconsciou
 
 **Who's in Charge?**
 
-<table >
-<thead>
-    <tr>
-      <td><strong>Adaptive unconscious</strong></td>
-      <td><strong>Consciousness</strong></td>
-    </tr>
-</thead>
-  <tbody >
-    <tr >
+| Adaptive unconscious                                        | Consciousness                                           |
+| ----------------------------------------------------------- | ------------------------------------------------------- |
+| Multiple systems                                            | Single system                                           |
+| On-line pattern detector                                    | After-the-fact check and balancer                       |
+| Concerned with the here-and-now                             | Taking the long view                                    |
+| Automatic (fast, unintentional, uncontrollable, effortless) | Controlled (slow, intentional, controllable, effortful) |
+| Rigid                                                       | Flexible                                                |
+| Precocious                                                  | Slower to develop                                       |
+| Sensitive to negative information                           | Sensitive to positive information                       |
 
-<td >Multiple systems
-</td>
-
-<td >Single system
-</td>
-    </tr>
-    <tr >
-
-<td >On-line pattern detector
-</td>
-
-<td >After-the-fact check and balancer
-</td>
-    </tr>
-    <tr >
-
-<td >Concerned with the here-and-now
-</td>
-
-<td >Taking the long view
-</td>
-    </tr>
-    <tr >
-
-<td >Automatic (fast, unintentional, uncontrollable, effortless)
-</td>
-
-<td >Controlled (slow, intentional, controllable, effortful)
-</td>
-    </tr>
-    <tr >
-
-<td >Rigid
-</td>
-
-<td >Flexible
-</td>
-    </tr>
-    <tr >
-
-<td >Precocious
-</td>
-
-<td >Slower to develop
-</td>
-    </tr>
-    <tr >
-
-<td >Sensitive to negative information
-</td>
-
-<td >Sensitive to positive information
-</td>
-    </tr>
-  </tbody>
-</table>
+&nbsp;
 
 Perhaps the best use of consciousness is to put ourselves in situations in which our adaptive unconscious can work smoothly. This is best achieved by recognizing what our nonconscious needs and traits are and planning accordingly.
 

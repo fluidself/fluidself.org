@@ -44,32 +44,15 @@ We make stuff up, it becomes what is true (our maps), and we respond out of thos
 
 **Stop, Challenge, and Choose:** A way of going from feeling an emotion that is different from positive or neutral (emotional cues), to managing it, feeling better, and responding more appropriately.
 
-<table>
-  <thead>
-    <tr>
-      <td><strong>STOP</strong></td>
-      <td><strong>CHALLENGE</strong></td>
-      <td><strong>CHOOSE</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Dont't act.</td>
-      <td>What am I telling myself, making up, or believing that is causing my feelings?</td>
-      <td>What is my optimal response, based on objective and factual data?</td>
-    </tr>
-    <tr>
-      <td>Mentally disconnect from the situation.</td>
-      <td>Is there more than one interpretation of the event?</td>
-      <td>What is my optimal response, in my long-term best interests?</td>
-    </tr>
-    <tr>
-      <td>Breathe. Center. Observe.</td>
-      <td>What are the objective data that support or negate my interpretation?</td>
-      <td>Choose it and use it.</td>
-    </tr>
-  </tbody>
-</table>
+&nbsp;
+
+| STOP                                    | CHALLENGE                                                                      | CHOOSE                                                            |
+| --------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| Dont't act.                             | What am I telling myself, making up, or believing that is causing my feelings? | What is my optimal response, based on objective and factual data? |
+| Mentally disconnect from the situation. | Is there more than one interpretation of the event?                            | What is my optimal response, in my long-term best interests?      |
+| Breathe. Center. Observe.               | What are the objective data that support or negate my interpretation?          | Choose it and use it.                                             |
+
+&nbsp;
 
 **Thinking Rationally**
 
@@ -104,11 +87,8 @@ If we are to grow into the full human beings we are meant to be, we have to be w
 **The Four Fatal Fears**
 
 - I fear failure: I need to succeed.
-
 - I fear being wrong: I need to be right.
-
 - I fear rejection: I need to be accepted.
-
 - I fear being emotionally uncomfortable: I need to be comfortable.
 
 When we choose to avoid the Four Fatal Fears, we guarantee ourselves that when we come to those dozen choice-points a day we are going to choose the path of safety and not growth. When we consistently choose--day in and day out-- the path of safety and defense, playing not to lose becomes our life strategy.
@@ -117,39 +97,10 @@ When we choose to avoid the Four Fatal Fears, we guarantee ourselves that when w
 
 Intention plus action equals results. Empathy, understanding, acceptance, and involvement--taking action--are what will propel us on our journey to our true selves.
 
-<table>
-  <thead>
-    <tr>
-      <td></td>
-      <td><strong>Playing Not to Lose</strong></td>
-      <td><strong>Playing to Win</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Philosophy</strong></td>
-      <td>Emotional survival</td>
-      <td>Emotional and spiritual growth</td>
-    </tr>
-    <tr>
-      <td><strong>Core maps</strong></td>
-      <td>Scarcity and no trust</td>
-      <td>Abundance and trust</td>
-    </tr>
-    <tr>
-      <td><strong>Interpretation template</strong></td>
-      <td>Avoid being wrong, being rejected, failing, and being emotionally uncomfortable</td>
-      <td>Going as far as I can with all that I have</td>
-    </tr>
-    <tr>
-      <td><strong>Responses</strong></td>
-      <td>1. Self-protection and self-promotion<br/>2. Stay inside your comfort zone<br/>3. Irrational thinking<br/>4. A closed mind<br/>5. Blame others</td>
-      <td>1. Base truth on objective reality<br/>2. Make decisions rationally<br/>3. Give personal best<br/>4. Outside comfort zone<br/>5. Can't fail, can only learn and grow<br/>6. Take accountability</td>
-    </tr>
-    <tr>
-      <td><strong>Results</strong></td>
-      <td>Being right<br/>Being successful<br/>Being in control<br/>Being accepted<br/>Comfort<br/>Convenience</td>
-      <td>Truth<br/>Growth<br/>Fun<br/>Curiosity<br/>Relationships<br/>Joy<br/>Better health<br/>Understanding</td>
-    </tr>
-  </tbody>
-</table>
+|                         | Playing Not to Lose                                                                                                                 | Playing to Win                                                                                                                                                                    |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Philosophy              | Emotional survival                                                                                                                  | Emotional and spiritual growth                                                                                                                                                    |
+| Core maps               | Scarcity and no trust                                                                                                               | Abundance and trust                                                                                                                                                               |
+| Interpretation template | Avoid being wrong, being rejected, failing, and being emotionally uncomfortable                                                     | Going as far as I can with all that I have                                                                                                                                        |
+| Responses               | (1) Self-protection and self-promotion (2) Stay inside your comfort zone (3) Irrational thinking (4) A closed mind (5) Blame others | (1) Base truth on objective reality (2) Make decisions rationally (3) Give personal best (4) Outside comfort zone (5) Can't fail, can only learn and grow (6) Take accountability |
+| Results                 | Being right; Being successful; Being in control; Being accepted; Comfort; Convenience                                               | Truth; Growth; Fun; Curiosity; Relationships; Joy; Better health; Understanding                                                                                                   |

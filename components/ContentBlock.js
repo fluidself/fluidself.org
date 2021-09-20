@@ -1,4 +1,4 @@
-import { Heading, Text, Stack } from '@chakra-ui/react';
+import { Box, Heading, Stack } from '@chakra-ui/react';
 
 export default function ContentBlock({ heading, children }) {
   return (
@@ -6,7 +6,7 @@ export default function ContentBlock({ heading, children }) {
       <Heading borderBottom="3px solid" px={3} py={1}>
         {heading}
       </Heading>
-      <Text px={3}>{children}</Text>
+      <Box px={3}>{children}</Box>
     </Stack>
   );
 }

@@ -13,7 +13,7 @@ Our excessive focus in the modern world on the power of conscious thought and th
 
 **WU-WEI ("OOO-WAY") AND DE ("DUH")**
 
-_Wu-wei_ literally translates as "no trying" or "no doing," but it's not at all about dull inaction. In fact, it refers to the dynamic, effortless, and unselfconscious state of mind of a person who is optimally active and effective. People in _wu-wei_ feel as if they are doing nothing, while at the same time they might be creating a brilliant work of art, smoothly negotiating a complex social situation, or even bringing the entire world into harmonious order. For a person in _wu-wei_, proper and effective conduct follows as automatically as the body gives in to the seductive rhythm of a song. This state of harmony is both complex and holistic, involving as it does the integration of the body, the emotions, and the mind. If we have to translate it, _wu-wei_ is probably best rendered as something like "effortless action" or "spontaneous action." Being in _wu-wei_ is relaxing and enjoyable, but in a deeply rewarding way that distinguishes it from cruder or more mundane pleasures. In many respects, it resembles the psychologist Mihaly Csikszentmihalyi's well-known concept of "flow," or the idea of being in the zone, but with important--and revealing--differences that we will explore. People who are in _wu-wei_ have <em>de</em>, typically translated as "virtue," "power," or "charismatic power." <em>De</em> is radiance that others can detect, and it serves as an outward signal that one is in _wu-wei_. <em>De</em> comes in handy in a variety of ways. For rulers and others involved in political life, <em>de</em> has a powerful, seemingly magical effect on those around them, allowing them to spread political order in an instantaneous fashion. They don't have to issue threats or offer rewards, because people simply want to obey them. On a smaller scale, <em>de</em> allows a person to engage in one-on-one interactions in a perfectly efficacious way. If you have <em>de</em>, people like you, trust you, and are relaxed around you. Even wild animals leave you alone. The payoff provided by <em>de</em> is one of the reasons that _wu-wei_ is so desirable, and why early Chinese thinkers spent so much time figuring out how to get it.
+_Wu-wei_ literally translates as "no trying" or "no doing," but it's not at all about dull inaction. In fact, it refers to the dynamic, effortless, and unselfconscious state of mind of a person who is optimally active and effective. People in _wu-wei_ feel as if they are doing nothing, while at the same time they might be creating a brilliant work of art, smoothly negotiating a complex social situation, or even bringing the entire world into harmonious order. For a person in _wu-wei_, proper and effective conduct follows as automatically as the body gives in to the seductive rhythm of a song. This state of harmony is both complex and holistic, involving as it does the integration of the body, the emotions, and the mind. If we have to translate it, _wu-wei_ is probably best rendered as something like "effortless action" or "spontaneous action." Being in _wu-wei_ is relaxing and enjoyable, but in a deeply rewarding way that distinguishes it from cruder or more mundane pleasures. In many respects, it resembles the psychologist Mihaly Csikszentmihalyi's well-known concept of "flow," or the idea of being in the zone, but with important--and revealing--differences that we will explore. People who are in _wu-wei_ have _de_, typically translated as "virtue," "power," or "charismatic power." _De_ is radiance that others can detect, and it serves as an outward signal that one is in _wu-wei_. _De_ comes in handy in a variety of ways. For rulers and others involved in political life, _de_ has a powerful, seemingly magical effect on those around them, allowing them to spread political order in an instantaneous fashion. They don't have to issue threats or offer rewards, because people simply want to obey them. On a smaller scale, _de_ allows a person to engage in one-on-one interactions in a perfectly efficacious way. If you have _de_, people like you, trust you, and are relaxed around you. Even wild animals leave you alone. The payoff provided by _de_ is one of the reasons that _wu-wei_ is so desirable, and why early Chinese thinkers spent so much time figuring out how to get it.
 
 Another important piece in the spontaneity puzzle comes from evolutionary psychology, which gives us insight into why wu-wei is so pleasant for the individual and attractive to others. Things tend to give pleasure when evolution approves of them: think orgasms or chocolate. It feels good to be in wu-wei because a whole slew of tasks simply can't be performed by our plodding, conscious minds--we need to unleash the power of our fast, unconscious processes in order to get them done. Moreover, we are attracted to people in wu-wei because we trust the automatic, unconscious mind. We have a very strong intuition--increasingly confirmed by work in cognitive science--that the conscious, verbal mind is often a sneaky, conniving liar, whereas spontaneous, unselfconscious gestures are reliable indicators of what's really going on inside another person. So although early Chinese thinkers had all sorts of metaphysical theories about how and why de is attractive to others, it can probably be explained by this very simple psychological fact: spontaneous behavior is hard to fake, which means that spontaneous, unselfconscious people are unlikely to be fakers. We're also attracted to effectiveness, and people in wu-wei tend to be socially competent as they move through life. Taken together, these considerations give us an empirically grounded, scientific basis for taking both wu-wei and de seriously as concepts that can help us make sense of our own lives.
 
@@ -41,42 +41,14 @@ Interestingly, if you were to keep track of the activities that induce wu-wei in
 
 **EARLY CHINESE THINKERS AND TEXTS**
 
-<table>
-  <thead>
-    <tr>
-      <td><strong>THINKER(S)</strong></td>
-      <td><strong>SCHOOL</strong></td>
-      <td><strong>RELEVANT TEXTS</strong></td>
-      <td><strong>STRATEGY</strong></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Confucius/Xunzi</td>
-      <td>Confucianism</td>
-      <td>The Analects, the Xunzi</td>
-      <td>"Carving and polishing"; try really hard for a really long time</td>
-    </tr>
-    <tr>
-      <td>Laozi</td>
-      <td>Daoism</td>
-      <td>The Laozi or Daodejing</td>
-      <td>"Uncarved block"; stop trying immediately, go home</td>
-    </tr>
-    <tr>
-      <td>Mencius</td>
-      <td>Confucianism</td>
-      <td>The Mencius</td>
-      <td>"Cultivate the sprouts"; try, but don't force it</td>
-    </tr>
-    <tr>
-      <td>Zhuangzi</td>
-      <td>Daoism</td>
-      <td>The Zhuangzi</td>
-      <td>"Let go"; try to forget all about trying or not trying, just go with the flow</td>
-    </tr>
-  </tbody>
-</table>
+| THINKER(S)      | SCHOOL       | RELEVANT TEXTS          | STRATEGY                                                                      |
+| --------------- | ------------ | ----------------------- | ----------------------------------------------------------------------------- |
+| Confucius/Xunzi | Confucianism | The Analects, the Xunzi | "Carving and polishing"; try really hard for a really long time               |
+| Laozi           | Daoism       | The Laozi or Daodejing  | "Uncarved block"; stop trying immediately, go home                            |
+| Mencius         | Confucianism | The Mencius             | "Cultivate the sprouts"; try, but don't force it                              |
+| Zhuangzi        | Daoism       | The Zhuangzi            | "Let go"; try to forget all about trying or not trying, just go with the flow |
+
+&nbsp;
 
 The terms Confucianism and Daoism are a bit anachronistic but helpful in that they pick out two very broad strategies for cultivating wu-wei: trying (education, cultural training) and not trying (de-cultivation, forgetting).
 

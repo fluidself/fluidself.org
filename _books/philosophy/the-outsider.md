@@ -60,5 +60,5 @@ Abraham Maslow claimed that healthy people had 'peak experiences', sudden feelin
 
 When human beings become bored, they lose all sense of reality, and somehow find themselves in the passenger seat. They lose the sense of being in control of their lives, and slip into an attitude of passivity. Yet any crisis can instantly de-hypnotize them and make them realize that being in control, far from being difficult, is quite normal. When we are 'awake', the 'real you' takes over, and life is transformed.
 
-<blockquote>'A long time devoted to small details exalts us and increases our strength.'
-      -- Hermann Hesse, Journey to the East</blockquote>
+> 'A long time devoted to small details exalts us and increases our strength.'  
+> &mdash; Hermann Hesse, Journey to the East
