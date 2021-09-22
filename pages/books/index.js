@@ -10,10 +10,10 @@ export default function Books({ categories }) {
   return (
     <Layout>
       <Head>
-        <title>Books</title>
+        <title>Book notes</title>
         <meta name="description" content="book notes" />
       </Head>
-      <ContentBlock heading="BOOKS">
+      <ContentBlock heading="BOOK NOTES">
         <Search />
         {categories.map(category => (
           <Box key={category.slug}>
