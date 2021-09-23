@@ -30,9 +30,10 @@ function Hits({ searchState, searchResults }) {
       {searchResults?.hits.length > 0 &&
         validQuery &&
         searchResults.hits.slice(0, 5).map(hit => {
-          const parts = hit.url.split('/');
-          const category = parts[parts.length - 3];
-          const slug = parts[parts.length - 2];
+          // const parts = hit.url.split('/');
+          // const category = parts[parts.length - 3];
+          // const slug = parts[parts.length - 2];
+          const { category, slug } = hit;
 
           return (
             <Box key={hit.objectID} py={1}>

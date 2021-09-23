@@ -3,11 +3,11 @@ import { InstantSearch } from 'react-instantsearch-dom';
 import SearchBox from './SearchBox';
 import Hits from './Hits';
 
-const searchClient = algoliasearch('UDGC9LGHR4', '28b27c0e5ddf401c86790fcc6e1a5053');
+const searchClient = algoliasearch(process.env.NEXT_PUBLIC_ALGOLIA_APP_ID, process.env.NEXT_PUBLIC_ALGOLIA_SEARCH_API_KEY);
 
 export default function Search() {
   return (
-    <InstantSearch searchClient={searchClient} indexName="FS_BOOKS">
+    <InstantSearch searchClient={searchClient} indexName={process.env.NEXT_PUBLIC_ALGOLIA_INDEX}>
       <SearchBox />
       <Hits />
     </InstantSearch>
