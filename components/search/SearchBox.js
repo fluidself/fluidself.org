@@ -11,7 +11,9 @@ function SearchBox({ refine }) {
         placeholder="Search for book or author..."
         onChange={e => refine(e.currentTarget.value)}
       />
-      <InputRightElement children={<SearchIcon />} />
+      <InputRightElement>
+        <SearchIcon />
+      </InputRightElement>
     </InputGroup>
   );
 }

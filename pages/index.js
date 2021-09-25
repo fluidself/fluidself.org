@@ -1,4 +1,3 @@
-// import NextLink from 'next/link';
 import Script from 'next/script';
 import { Text, Link } from '@chakra-ui/react';
 import Layout from '../components/Layout';
@@ -16,7 +15,7 @@ export default function Home() {
         </ContentBlock>
       </Layout>
       <Script src="https://www.googletagmanager.com/gtag/js?id=UA-92834152-1" />
-      <Script>
+      <Script id="gtag">
         {`window.dataLayer = window.dataLayer || [];
 function gtag() { dataLayer.push(arguments); }
 gtag('js', new Date());
