@@ -10,15 +10,15 @@ export default function Books({ categories }) {
   return (
     <Layout>
       <Head>
-        <title>Book notes</title>
+        <title>Book Notes</title>
         <meta name="description" content="book notes" />
       </Head>
       <ContentBlock heading="BOOK NOTES">
         <Search />
         {categories.map(category => (
-          <Box key={category.slug}>
-            <NextLink href={`/books/${category.slug}`}>
-              <Link>{category.title}</Link>
+          <Box key={category.slug} mb={1}>
+            <NextLink href={`/books/${category.slug}`} passHref>
+              <Link textDecoration="underline">{category.title}</Link>
             </NextLink>
           </Box>
         ))}

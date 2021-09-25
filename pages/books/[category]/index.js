@@ -16,9 +16,9 @@ export default function BookCategory(props) {
       </Head>
       <ContentBlock heading={categoryTitle.toUpperCase()}>
         {books.map(book => (
-          <Text key={book.slug}>
+          <Text key={book.slug} mb={1}>
             <NextLink href={`/books/${category}/${book.slug}`} passHref>
-              <Link>{book.title}</Link>
+              <Link textDecoration="underline">{book.title}</Link>
             </NextLink>
           </Text>
         ))}
