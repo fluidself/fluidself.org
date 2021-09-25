@@ -4,7 +4,7 @@ import gfm from 'remark-gfm';
 import Layout from '../../../components/Layout';
 import ContentBlock from '../../../components/ContentBlock';
 import { getBookData, getAllCategories, getBooksInCategory } from '../../../lib/api';
-import { customRenderers } from '../../../lib/markdownRenderer';
+import { customRenderers } from '../../../lib/markdown-renderer';
 
 export default function Book(props) {
   const { title, content } = props;
