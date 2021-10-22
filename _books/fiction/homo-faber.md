@@ -1,0 +1,15 @@
+---
+author: ugh
+date: 2021-10-21 09:25:35+00:00
+link: https://fluidself.org/books/fiction/homo-faber/
+slug: homo-faber
+title: Homo Faber - by Max Frisch
+---
+
+Her supposition that I was melancholy because I was alone put me out of humour. I’m used to travelling alone. I live, like every real man, in my work. On the contrary, that’s the way I like it and I think myself lucky to live alone, in my view this is the only possible condition for men, I enjoy waking up and not having to say a word. Where is the woman who can understand that? Even the inquiry as to how I have slept vexes me, because my thoughts are already beyond that, I’m used to thinking ahead, not backwards, I’m used to planning. Caresses in the evening, yes, but I can’t stand caresses in the morning, and frankly more than three or four days with one woman has always been for me the beginning of dissimulation, no man can stand feelings in the morning. I’d rather wash dishes!
+
+Perhaps Hanna expected too much, where men were concerned, though I think she loved men. If there were any reproaches, they were self-reproaches; if Hanna could or had to live again, she would love men quite differently. She found it natural that men (she said) were mentally restricted, and only regretted her own stupidity in thinking each of them (I don’t know how many there had been) an exception. Yet Hanna, to my mind, is anything but stupid. But she thought herself so. She thought it stupid of a woman to want to be understood by a man; the man (said Hanna) wants the woman to be a mystery, so that he can be inspired and excited by his own incomprehension. The man hears only himself, according to Hanna, therefore the life of a woman who wants to be understood by a man must inevitably be ruined. According to Hanna. The man sees himself as master of the world and the woman only as his mirror. The master is not compelled to learn the language of the oppressed; the woman is compelled, though it does her no good, to learn the language of the master, she merely learns a language that always puts her in the wrong.
+
+Discussion with Hanna – about technology (according to Hanna) as the knack of so arranging the world that we don’t have to experience it. The technologist’s mania for putting the Creation to a use, because he can’t tolerate it as a partner, can’t do anything with it; technology as the knack of eliminating the world as resistance, for example, of diluting it by speed, so that we don’t have to experience it. (I don’t know what Hanna means by this.) The technologist’s worldliness. (I don’t know what Hanna means by this.)
+
+Arrangements in case of death; all written evidence such as reports, letters, loose-leaf notebooks, are to be destroyed, none of it is true. To be alive: to be in the light. Driving donkeys around somewhere (like that old man in Corinth) – that’s all our job amounts to! The main thing is to stand up to the light, to joy (like our child) in the knowledge that I shall be extinguished in the light over gorse, asphalt and sea, to stand up to time, or rather to eternity in the instant. To be eternal means to have existed.
