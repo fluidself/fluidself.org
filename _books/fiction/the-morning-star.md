@@ -1,0 +1,15 @@
+---
+author: ugh
+date: 2022-01-11 17:29:35+00:00
+link: https://fluidself.org/books/fiction/the-morning-star/
+slug: the-morning-star
+title: The Morning Star - by Karl Ove Knausgaard
+---
+
+I missed the discussions we always had, the openness toward the world and life that had felt so much a part of them. Perhaps that openness had been naive, but it was certainly genuine. In those days I’d thought that was how life was going to be. We squandered our time and thoughts, and only when it was over did I understand that it had all been unique and would never return. That is what life is like, is it not? When we’re young we think there’s more to come, that this is only the beginning, whereas in fact it’s all there is, and what we have now, and barely even think about, will soon be the only thing we ever had. There had been no new abundance of friends, only Camilla, Helle and Sigbjørn, and no new abundance of thoughts; the ones we’d had then were the ones we still have now.
+
+A smartphone would have been handy, I thought as I went back to the bike. I could have taken a photo of the skin, if that’s what it was, and maybe googled it too. The same thing with the Morning Star, that strange double reference in the Bible to the Devil and Jesus. I’d have to sit and pore through books now. Not that it was any particular sacrifice. In fact, it was better that way. It meant there was a time lapse between question and answer, a space that opened up: a span that had to be bridged, an effort to be made. The knowledge gained would be the same, but the effort increased its value. Wasn’t that right? Or was it just harking back to the eighties? A time when friction was a marker of quality? Noise in music, unreadability in literature?
+
+It was the social aspect of Christianity that Nietzsche railed against and so brutally exposed. In Christianity, the weak discovered they could browbeat the strong. So weak became strong, bad became good, sickness became health. Morality constrains, oppresses, hinders. No true development, no true freedom, no true greatness is possible under the tyranny of the weak. But Nietzsche was impossible to read without consideration of the fact that he himself was a loser, weak and alone, and that everything he wrote about will, about power and about the strong, was to compensate for his own inadequacy. His thoughts were by no means poorer on that account, for there is no doubt that Nietzsche was one of the greatest thinkers since the classical era, the freedom in his thoughts, their sheer power, was unrivaled—but they remained just that, thoughts. The thoughts of Christ changed the world. Nietzsche’s thoughts changed merely thoughts.
+
+Certainly, more life opens up the possibility of new life, and new life alters the balance of existing conditions, creating challenges to which they must adapt, which is to say yet more change. Death is what makes evolution possible. And evolution is what made us possible. We are just as unnecessary as death, and however odd it may sound, our presence here is more closely attached to death than to life. Death created us.
