@@ -1,0 +1,25 @@
+---
+author: ugh
+date: 2022-02-12 12:55:35+00:00
+link: https://fluidself.org/books/fiction/theory-of-bastards/
+slug: theory-of-bastards
+title: Theory of Bastards - by Audrey Schulman
+---
+
+Organisms are programmed to feel desire for whatever had increased the chances of survival and reproduction in the previous generations. These instincts are surprisingly unfussy when it comes to contemporary details, able to ignore trivia in favor of function: a bag of Doritos = food; a popular brand of jacket = social status; the football quarterback with bilateral facial symmetry = potential reproduction of athletic and attractive offspring. The amount of desire the person experienced proportional to the size of the potential evolutionary benefits.
+
+The way she attacked a difficult question was through a process a bit like digestion. The first stage involved research, taking great bites of the material, chewing actively on the problem from every angle, until she’d swallowed all she could about the field. If an answer didn’t come to her during this learning phase, she let the subject settle inside her. She no longer thought about it consciously, allowing instead some dark and muscled lobe of her brain to take over. The issue was broken down into components and absorbed, images from the material occasionally appearing in her thoughts like neuronal burps. Every once in awhile she’d flip through her notes, having no expectations but going through the ritual in order to goose her brain along. After her mind had worked on the problem like this for long enough—a few days, a month, maybe a whole year—the answer would suddenly hit her. The solution glittering and fully realized, as obvious as though someone much smarter had handed it to her, frustrated with how long she was taking.
+
+Frankie created a theory with three simple postulates:
+
+1. Under the right circumstances, women substantially benefited evolutionarily by breaking the taboo against infidelity to conceive children with their lovers.
+
+2. This benefit helped the species as a whole.
+
+3. In response to the dangerous dilemma of needing regularly to break an important taboo, humanity had evolved a basic inability to assess the possibility that a wife might have a lover, or even to comprehend the blatantly obvious fact that heterosexual women had as much sex as heterosexual men.
+
+Historically, a woman didn’t have much choice in her mate. She was married to whomever in the tribe had enough resources to support her and her future children. Although this system increased the likelihood her offspring would get enough to eat, it didn’t optimize the genetic diversity. Evolution could never allow this to be the only way to reproduce. Thus, it was possible at some point during her life, the now-married woman would fall in love with someone from another group, falling for him because of his smell, the scent of a different immune system, the odor of future healthy offspring. Any baby that resulted from this love, if camouflaged successfully as the husband’s baby, could continue to utilize his social status, food and protection. This child would then have the twin benefits of more resources and a stronger immune system, benefits that could result in a strong advantage. However, the ability of the child to capitalize on this advantage depended on the secret not being revealed. This secret remaining a secret helped one out of every 10 children, along with their half siblings (since otherwise they could be tossed out along with the mom). Over generations, the need to keep this widespread secret had an impact.
+
+Back in the 1950s, this Russian scientist—what was his name?— started experimenting with foxes. With each generation he let only the most peaceful foxes reproduce, the ones who wouldn’t bite or freak out when handled. Within 20 generations, the foxes began to act like dogs. Social, playful, affectionate. Domesticated. They’d wag their tails and lick your fingers. She continued, The interesting thing is even though these foxes were bred entirely from wild foxes, they looked different, a bit like, I don’t know, a Japanese cartoon of a fox. Huge heads, tiny bodies, less muscle. Like a baby fox. Researchers have repeated this experiment with other species and found the same results. If you breed for lack of aggression, you end up with adults that look like babies. Neoteny.
+
+She paused to watch Stotts drink, his head back and throat revealed, a tight undulation of cartilage. In this moment, she had a glimpse of him as an organism, a multicellular creature pumping liquids into his alimentary canal, an animal wrapped in clothes and balanced on his haunches. Civilization is based upon a charade, such careful theater. Each of us buttoning up our costumes, hiding our fur, living in carefully sculpted sets, while we pretend we’ve never pooped or had coitus. The illusion broken each time we tighten into death or squeeze a baby out our hoo-ha or fall in love.
