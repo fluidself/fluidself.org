@@ -4,7 +4,7 @@ comments: false
 date: 2018-09-24 19:57:01+00:00
 layout: book.hbs
 link: https://fluidself.org/books/philosophy/the-path/
-slug: the-outsider
+slug: the-path
 title: 'The Path: What Chinese Philosophers Can Teach Us About the Good Life - by Michael Puett'
 ---
 
