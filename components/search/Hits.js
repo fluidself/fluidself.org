@@ -35,7 +35,7 @@ function Hits({ searchState, searchResults }) {
           return (
             <Box key={hit.objectID} py={1}>
               <NextLink href={`/books/${category}/${slug}`} passHref>
-                <Link textDecoration="underline">
+                <Link>
                   <Highlight hit={hit} attribute="title" />
                 </Link>
               </NextLink>

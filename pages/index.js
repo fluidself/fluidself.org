@@ -23,12 +23,12 @@ export default function Home() {
         </Stack>
         <UnorderedList mt={8}>
           <ListItem>
-            <Link textDecoration="underline" isExternal href="https://usedeck.vercel.app">
+            <Link isExternal href="https://usedeck.vercel.app">
               usedeck.vercel.app
             </Link>
           </ListItem>
           <ListItem>
-            <Link textDecoration="underline" isExternal href="https://github.com/fluidself/deck">
+            <Link isExternal href="https://github.com/fluidself/deck">
               github.com/fluidself/deck
             </Link>
           </ListItem>

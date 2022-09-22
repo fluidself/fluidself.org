@@ -13,7 +13,9 @@ export default function Header() {
       </NextLink>
       <Stack spacing={6} align="center" direction="row">
         <NextLink href="/books" passHref>
-          <Link>/books</Link>
+          <Link textDecoration="none" fontFamily="mono">
+            /books
+          </Link>
         </NextLink>
         <ThemeSwitch />
       </Stack>

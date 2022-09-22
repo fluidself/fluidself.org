@@ -6,6 +6,16 @@ const theme = extendTheme({
     initialColorMode: 'dark',
     useSystemColorMode: true,
   },
+  shadows: {
+    outline: '0 0 0 3px rgba(250, 240, 137, 0.6)',
+  },
+  components: {
+    Link: {
+      baseStyle: {
+        textDecoration: 'underline',
+      },
+    },
+  },
   styles: {
     global: props => ({
       body: {

@@ -9,6 +9,7 @@ function SearchBox({ refine }) {
         border="1px solid"
         type="search"
         placeholder="Search for book or author..."
+        focusBorderColor="yellow.200"
         onChange={e => refine(e.currentTarget.value)}
       />
       <InputRightElement>

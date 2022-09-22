@@ -18,7 +18,7 @@ export default function BookCategory(props) {
         {books.map(book => (
           <Text key={book.slug} mb={1}>
             <NextLink href={`/books/${category}/${book.slug}`} passHref>
-              <Link textDecoration="underline">{book.title}</Link>
+              <Link>{book.title}</Link>
             </NextLink>
           </Text>
         ))}

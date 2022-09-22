@@ -18,7 +18,7 @@ export default function Books({ categories }) {
         {categories.map(category => (
           <Box key={category.slug} mb={1}>
             <NextLink href={`/books/${category.slug}`} passHref>
-              <Link textDecoration="underline">{category.title}</Link>
+              <Link>{category.title}</Link>
             </NextLink>
           </Box>
         ))}
