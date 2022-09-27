@@ -21,7 +21,7 @@ export default function Home() {
             and guides. Access to workspaces can be granted using tokens, NFTs, and blockchain identity as keys.
           </Text>
         </Stack>
-        <UnorderedList mt={8}>
+        <UnorderedList mt={8} spacing={1}>
           <ListItem>
             <Link isExternal href="https://usedeck.vercel.app">
               usedeck.vercel.app
