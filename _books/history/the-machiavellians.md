@@ -312,7 +312,9 @@ By “Social Equilibrium,” Pareto means the general state and structure of soc
 
 3. Economic factors—what Pareto calls “interests”—have also a major role, as is recognized by almost all modern historians and sociologists.
 
-4. Derivations, too, have a certain influence on the social equilibrium, though Pareto, as we have seen, believes this to be minor and for the most part indirect compared to the other major factors. These non-logical beliefs, myths, formulas, are chiefly notable as expressions of residues or interests, and for their indirect ability to reinforce residues or to alter the pattern of the circulation of the élites. 5. Finally, there functions what Pareto calls “the circulation of the élites.”
+4. Derivations, too, have a certain influence on the social equilibrium, though Pareto, as we have seen, believes this to be minor and for the most part indirect compared to the other major factors. These non-logical beliefs, myths, formulas, are chiefly notable as expressions of residues or interests, and for their indirect ability to reinforce residues or to alter the pattern of the circulation of the élites.
+
+5. Finally, there functions what Pareto calls “the circulation of the élites.”
 
 The character of a society, Pareto holds, is above all the character of its élite; its accomplishments are the accomplishments of its élite; its history is properly understood as the history of its élite; successful predictions about its future are based upon evidence drawn from the study of the composition and structure of its élite. Pareto’s conclusions here are the same as those reached by Mosca in his analysis of the narrower but similar concept of the “ruling class.”
 
