@@ -13,7 +13,9 @@ I hold pluralism as a core moral intuition. What’s good about an individual hu
 In short, my philosophical starting points are:
 
 1. “Right” and “wrong” are very real concepts which should possess great force.
+
 2. We should be skeptical about the powers of the individual human mind.
+
 3. Human life is complex and offers many different goods, not just one value that trumps all others.
 
 **Wealth makes the world go round**
@@ -29,7 +31,9 @@ We might wonder whether we could maximize the relevant pluralist values by exist
 We can already see that three key questions should be elevated in their political and philosophical importance, namely:
 
 1. What can we do to boost the rate of economic growth?
+
 2. What can we do to make our civilization more stable?
+
 3. How should we deal with environmental problems?
 
 The history of economic growth indicates that, with some qualifications, growth alleviates misery, improves happiness and opportunity, and lengthens lives. Wealthier societies have better living standards, better medicines, and offer greater personal autonomy, greater fulfillment, and more sources of fun. While measured wealth does not exactly correspond to Wealth Plus, these two concepts have come pretty close to one another in the past, especially across the range of outcomes we have observed (as opposed to hypothetical thought experiments and counterfactuals).
@@ -117,11 +121,17 @@ Here is my short, three-point summary of where these arguments have brought us:
 For some more concrete recommendations, I’ll suggest the following:
 
 1. Policy should be more forward-looking and more concerned about the more distant future.
+
 2. Governments should place a much higher priority on investment than is currently the case, in both the private sector and the public sector. Relative to what we should be doing, we are currently living in an investment drought.
+
 3. Policy should be more concerned with economic growth, properly specified, and policy discussion should pay less heed to other values. And yes, that means your favorite value gets downgraded too. No exceptions, except of course for the semi-absolute human rights.
+
 4. We should be more concerned with the fragility of our civilization. The possibility of historical pessimism stands as a challenge to this entire approach, because in that view the future is dim no matter what, and there may not be a more distant future we can look toward in order to resolve the aggregation dilemmas involved in making decisions that affect so many human beings.
+
 5. We should be more charitable on the whole, but we are not obliged to give away all of our wealth. We do have an obligation to work hard, save, invest, and fulfill our human potential, and we should take these obligations very seriously.
+
 6. We can embrace much of common sense morality with the knowledge that it is not inconsistent with a deeper ethical theory. Common sense morality can also be reconciled with many of the normative recommendations which emerge from a more impersonal and consequentialist framework.
+
 7. When it comes to most “small” policies affecting the present and the near-present only, we should be agnostic, because we cannot overcome aggregation problems to render a defensible judgment. The main exceptions here are the small number of policies which benefit virtually everybody.
 
 My utopian political vision is a society that follows these principles.
