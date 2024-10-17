@@ -32,8 +32,6 @@ Yet none of these things exists outside the stories that people invent and tell 
 | The ability to transmit larger quantities of information about Sapiens social relationships                                                              | Larger and more cohesive groups, numbering up to 150 individuals                                 |
 | The ability to transmit information about things that do not really exist, such as tribal spirits, nations, limited liability companies and human rights | (a) Cooperation between very large numbers of strangers (b) Rapid innovation of social behaviour |
 
-&nbsp;
-
 **History’s Biggest Fraud**
 
 Scholars once proclaimed that the agricultural revolution was a great leap forward for humanity. They told a tale of progress fuelled by human brain power. Evolution gradually produced ever more intelligent people. Eventually, people were so smart that they were able to decipher nature’s secrets, enabling them to tame sheep and cultivate wheat. As soon as this happened, they cheerfully abandoned the gruelling, dangerous and often spartan life of hunter-gatherers, settling down to enjoy the pleasant, satiated life of farmers.

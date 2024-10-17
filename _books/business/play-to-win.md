@@ -44,15 +44,11 @@ We make stuff up, it becomes what is true (our maps), and we respond out of thos
 
 **Stop, Challenge, and Choose:** A way of going from feeling an emotion that is different from positive or neutral (emotional cues), to managing it, feeling better, and responding more appropriately.
 
-&nbsp;
-
 | STOP                                    | CHALLENGE                                                                      | CHOOSE                                                            |
 | --------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
 | Dont't act.                             | What am I telling myself, making up, or believing that is causing my feelings? | What is my optimal response, based on objective and factual data? |
 | Mentally disconnect from the situation. | Is there more than one interpretation of the event?                            | What is my optimal response, in my long-term best interests?      |
 | Breathe. Center. Observe.               | What are the objective data that support or negate my interpretation?          | Choose it and use it.                                             |
-
-&nbsp;
 
 **Thinking Rationally**
 

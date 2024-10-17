@@ -51,8 +51,6 @@ Self-relevance isn't quite the right way to describe how the adaptive unconsciou
 | Precocious                                                  | Slower to develop                                       |
 | Sensitive to negative information                           | Sensitive to positive information                       |
 
-&nbsp;
-
 Perhaps the best use of consciousness is to put ourselves in situations in which our adaptive unconscious can work smoothly. This is best achieved by recognizing what our nonconscious needs and traits are and planning accordingly.
 
 **Knowing Who We Are**

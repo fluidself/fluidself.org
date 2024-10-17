@@ -93,7 +93,6 @@ The current race toward AGI can end in a fascinatingly broad range of aftermath 
 | **Reversion**           | Technological progress toward superintelligence is prevented by reverting to a pre-technological society in the style of the Amish.                                                                                                                                                               |
 | **Self-destruction**    | Superintelligence is never created because humanity drives itself extinct by other means (say nuclear and/or biotech mayhem fueled by climate crisis).                                                                                                                                            |
 
-&nbsp;  
 **Our Cosmic Endowment: The Next Billion Years and Beyond**
 
 - Compared to cosmic timescales of billions of years, an intelligence explosion is a sudden event where technology rapidly plateaus at a level limited only by the laws of physics.

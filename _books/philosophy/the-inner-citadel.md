@@ -15,7 +15,6 @@ wordpress_id: 1229
 | (2) desire                | universal nature    | consent with Destiny |
 | (3) impulse toward action | human Nature        | justice and altruism |
 
-&nbsp;  
 "Always and everywhere, it depends on you
 
 - piously to rejoice in the present conjunction of events (2);

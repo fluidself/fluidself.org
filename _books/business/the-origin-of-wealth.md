@@ -98,8 +98,6 @@ When scientists compare two theories, they do so according to the _correspon­de
 | **Emergence** | No distinction between micro- and macroeconomics; macro patterns are emergent result of micro-level behaviors and interactions                                       | Micro- and macroeconomics remain separate disciplines                                                                                                                                                   |
 | **Evolution** | The evolutionary process of differentiation, selection, and amplification provides the system with novelty and is responsible for its growth in order and complexity | No mechanism for endogenously creating novelty, or growth in order and complexity                                                                                                                       |
 
-&nbsp;
-
 **Dynamics: The Delights of Disequilibrium**
 
 Systems that are either perfectly deterministic or truly random are quite rare. Most phenomena in the universe are somewhere in the middle; they mix determinism and randomness in complex and unpredictable ways. In the twentieth cen­tury, science came to accept the messy and the indeterminate.

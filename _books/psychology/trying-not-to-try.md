@@ -48,8 +48,6 @@ Interestingly, if you were to keep track of the activities that induce wu-wei in
 | Mencius         | Confucianism | The Mencius             | "Cultivate the sprouts"; try, but don't force it                              |
 | Zhuangzi        | Daoism       | The Zhuangzi            | "Let go"; try to forget all about trying or not trying, just go with the flow |
 
-&nbsp;
-
 The terms Confucianism and Daoism are a bit anachronistic but helpful in that they pick out two very broad strategies for cultivating wu-wei: trying (education, cultural training) and not trying (de-cultivation, forgetting).
 
 **Carving and Polishing the Self (Confucius/Xunzi)**
