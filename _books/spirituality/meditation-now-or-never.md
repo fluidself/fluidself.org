@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-08 08:53:38+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/meditation-now-or-never/
+link: https://fluidself.org/books/spirituality/meditation-now-or-never
 slug: meditation-now-or-never
 title: Meditation Now or Never - by Steve Hagen
-wordpress_id: 959
 ---
 
 In meditation we slow ourselves down and observe the activity of the mind.We then see that much of this activity is an incessant monologue of mostly inane chatter. We see that many of the things we obsess over, and that keep us preoccupied, have no consequence whatsoever. We see that much of what we worry about passes away within minutes; indeed, after a few minutes more, we have forgotten what we were so worried about and have moved on to the next temporary obsession. In meditation we learn to break this pattern.We learn to take care of the mind by observing its dynamics without grabbing at, interfering with, or rejecting anything that comes up.

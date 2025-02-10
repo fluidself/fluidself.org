@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 07:26:52+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-slight-edge/
+link: https://fluidself.org/books/self-help/the-slight-edge
 slug: the-slight-edge
 title: 'The Slight Edge: Secret to a Successful Life - by Jeff Olson'
-wordpress_id: 688
 ---
 
 There are two prevalent types of attitudes: entitled and value-driven. A value-driven attitude says, "What can I do to help you?" An entitled attitude says, "What have you done for me lately?" An entitled attitude says, "Pay me more, and then maybe I'll work harder. " A value-driven attitude says, "I'll work harder, and then I expect you'll pay me more. " Which of these attitudes is driven by Emerson's philosophy, "Do the thing and you'll have the power"? Your philosophy is what you know, how you hold what you know, and how it affects what you do. You can look at anyone's actions and trace back, through the attitudes behind those actions, to their source: the philosophy behind the attitudes. Show me what a man does, and I'll show you what his philosophy is.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-04-23 15:02:25+00:00
-link: https://fluidself.org/books/science/how-life-works/
+link: https://fluidself.org/books/science/how-life-works
 slug: how-life-works
 title: 'How Life Works: A User’s Guide to the New Biology - by Philip Ball'
 ---

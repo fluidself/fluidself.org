@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 08:09:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/play-to-win/
+link: https://fluidself.org/books/business/play-to-win
 slug: play-to-win
 title: 'Play to Win!: Choosing Growth Over Fear in Work and Life - by Larry Wilson,
   Hersch Wilson'
-wordpress_id: 1047
 ---
 
 **Emotional Maturity**

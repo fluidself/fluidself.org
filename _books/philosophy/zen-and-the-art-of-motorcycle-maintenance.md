@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-04 17:36:06+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/zen-and-the-art-of-motorcycle-maintenance/
+link: https://fluidself.org/books/philosophy/zen-and-the-art-of-motorcycle-maintenance
 slug: zen-and-the-art-of-motorcycle-maintenance
 title: Zen and The Art of Motorcycle Maintenance - by Robert M. Pirsig
-wordpress_id: 1249
 ---
 
 When confusion starts it's a good idea to hold it down by making everything formal and exact. Sometimes just the act of writing down the problems straightens out your head as to what they really are. The logical statements entered into the notebook are broken down into six categories: (1) statement of the problem, (2) hypotheses as to the cause of the problem, (3) experiments designed to test each hypothesis, (4) predicted results of the experiments, (5) observed results of the experiments and (6) conclusions from the results of the experiments. This is not different from the formal arrangement of many college and high-school lab notebooks but the purpose here is no longer just busywork. The purpose now is precise guidance of thoughts that will fail if they are not accurate.

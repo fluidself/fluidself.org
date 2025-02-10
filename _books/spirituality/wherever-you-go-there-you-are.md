@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 08:00:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/wherever-you-go-there-you-are/
+link: https://fluidself.org/books/spirituality/wherever-you-go-there-you-are
 slug: wherever-you-go-there-you-are
 title: 'Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life -
   by Jon Kabat-Zinn'
-wordpress_id: 1122
 ---
 
 Whatever has happened to you, it has already happened. The important question is, how are you going to handle it? In other words, "Now what?"

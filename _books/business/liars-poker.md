@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-28 07:12:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/liars-poker/
+link: https://fluidself.org/books/business/liars-poker
 slug: liars-poker
 title: Liar's Poker - by Michael Lewis
-wordpress_id: 1193
 ---
 
 > He who makes a beast of himself gets rid of the pain of being a man.  

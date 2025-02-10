@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-28 07:15:52+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-sun-also-rises/
+link: https://fluidself.org/books/fiction/the-sun-also-rises
 slug: the-sun-also-rises
 title: The Sun Also Rises - by Ernest Hemingway
-wordpress_id: 1195
 ---
 
 "You can't get away from yourself by moving from one place to another. There's nothing to that."

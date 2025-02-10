@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-17 16:43:24+00:00
-link: https://fluidself.org/books/business/stubborn-attachments/
+link: https://fluidself.org/books/business/stubborn-attachments
 slug: stubborn-attachments
 title: 'Stubborn Attachments: A Vision for a Society of Free, Prosperous, and Responsible Individuals - by Tyler Cowen'
 ---

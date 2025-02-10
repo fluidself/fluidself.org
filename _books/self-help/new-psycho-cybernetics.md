@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 08:51:38+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/new-psycho-cybernetics/
+link: https://fluidself.org/books/self-help/new-psycho-cybernetics
 slug: new-psycho-cybernetics
 title: New Psycho-Cybernetics - by Maxwell Maltz
-wordpress_id: 622
 ---
 
 **The Self-Image: Your Key to Living Without Limits**

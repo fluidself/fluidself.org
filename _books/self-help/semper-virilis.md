@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 07:20:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/semper-virilis/
+link: https://fluidself.org/books/self-help/semper-virilis
 slug: semper-virilis
 title: Semper Virilis - by Brett McKay
-wordpress_id: 684
 ---
 
 Roosevelt and other men of his time ignored the hand-wringing and deliberately chose to live by the code of men even though it wasn't demanded of them. I think that's why I and so many modern men admire Teddy Roosevelt. He showed that it's possible to live in our modern world of luxury and comfort, but not be softened by it. He showed us that you could proactively choose to be good at being a man even when your surroundings or culture aren't conducive to exercising your innate masculinity. In short, TR showed us that it's possible to live in civilization but not be of it.

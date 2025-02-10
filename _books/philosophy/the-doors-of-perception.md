@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-22 08:17:32+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-doors-of-perception/
+link: https://fluidself.org/books/philosophy/the-doors-of-perception
 slug: the-doors-of-perception
 title: 'The Doors of Perception: Heaven and Hell - by Aldous Huxley'
-wordpress_id: 919
 ---
 
 **The Doors of Perception**

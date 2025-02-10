@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 17:04:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-way-of-men/
+link: https://fluidself.org/books/philosophy/the-way-of-men
 slug: the-way-of-men
 title: The Way of Men - by Jack Donovan
-wordpress_id: 1164
 ---
 
 Masculinity is about being a man within a group of men. Above all things, masculinity is about what men want from each other.

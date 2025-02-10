@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-12 10:47:22+00:00
-link: https://fluidself.org/books/fiction/against-the-day/
+link: https://fluidself.org/books/fiction/against-the-day
 slug: against-the-day
 title: Against the Day - by Thomas Pynchon
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:23:18+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/tao-te-ching-annotated-explained/
+link: https://fluidself.org/books/philosophy/tao-te-ching-annotated-explained
 slug: tao-te-ching-annotated-explained
 title: 'Tao Te Ching: Annotated & Explained - by Lao Tzu'
-wordpress_id: 234
 ---
 
 "The Tao is about returning to simplicity, not pursuing knowledge. The only way to gain living wisdom from dead books is by applying their words to life."

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:38:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/notes-to-myself/
+link: https://fluidself.org/books/self-help/notes-to-myself
 slug: notes-to-myself
 title: 'Notes to Myself: My Struggle to Become a Person - by Hugh Prather'
-wordpress_id: 244
 ---
 
 The way for me to live is to have no way. My only habit should be to have none. Because I did it this way before is not sufficient reason to do it this way today. I can have a self or I can have consistent behavior. I cannot have both.

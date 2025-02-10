@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 15:13:01+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/switch/
+link: https://fluidself.org/books/psychology/switch
 slug: switch
 title: 'Switch: How to Change Things When Change Is Hard - by Chip Heath, Dan Heath'
-wordpress_id: 877
 ---
 
 **SWITCH FRAMEWORK**

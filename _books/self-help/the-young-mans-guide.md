@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-18 17:12:27+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-young-mans-guide/
+link: https://fluidself.org/books/self-help/the-young-mans-guide
 slug: the-young-mans-guide
 title: The Young Man's Guide - by William A. Alcott
-wordpress_id: 1028
 ---
 
 Fix upon a high standard of character. To be thought well of, is not sufficient. The point you are to aim at, is, the greatest possible degree of usefulness.

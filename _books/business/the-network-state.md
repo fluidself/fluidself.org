@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-10-03 18:13:09+00:00
-link: https://fluidself.org/books/business/the-network-state/
+link: https://fluidself.org/books/business/the-network-state
 slug: the-network-state
 title: 'The Network State: How To Start a New Country - by Balaji Srinivasan'
 ---

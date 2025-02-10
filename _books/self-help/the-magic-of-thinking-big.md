@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:54:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-magic-of-thinking-big/
+link: https://fluidself.org/books/self-help/the-magic-of-thinking-big
 slug: the-magic-of-thinking-big
 title: The Magic of Thinking Big - by David Schwartz
-wordpress_id: 729
 ---
 
 Belief, the "I'm-positive-I-can" attitude, generates the power, skill, and energy needed to do. When you believe I-can-do-it, the how-to-do-it develops.

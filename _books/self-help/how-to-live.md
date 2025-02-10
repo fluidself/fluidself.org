@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-03-09 10:12:25+00:00
-link: https://fluidself.org/books/self-help/how-to-live/
+link: https://fluidself.org/books/self-help/how-to-live
 slug: how-to-live
 title: How to Live - by Derek Sivers
 ---

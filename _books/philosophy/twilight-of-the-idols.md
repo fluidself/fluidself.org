@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-07-31 08:38:08+00:00
-link: https://fluidself.org/books/philosophy/twilight-of-the-idols/
+link: https://fluidself.org/books/philosophy/twilight-of-the-idols
 slug: twilight-of-the-idols
 title: Twilight of the Idols - by Friedrich Nietzsche
 ---

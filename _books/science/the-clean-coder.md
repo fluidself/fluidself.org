@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-12-01 19:13:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-clean-coder/
+link: https://fluidself.org/books/science/the-clean-coder
 slug: the-clean-coder
 title: 'The Clean Coder: A Code of Conduct for Professional Programmers - by Robert C. Martin'
 ---

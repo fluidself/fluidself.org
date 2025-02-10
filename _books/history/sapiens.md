@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-25 16:44:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/sapiens/
+link: https://fluidself.org/books/history/sapiens
 slug: sapiens
 title: Sapiens - by Yuval Noah Harari
 ---

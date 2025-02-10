@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 07:36:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/total-recall/
+link: https://fluidself.org/books/biographies/total-recall
 slug: total-recall
 title: 'Total Recall: My Unbelievably True Life Story - by Arnold Schwarzenegger'
-wordpress_id: 698
 ---
 
 So for me work just meant discovery and fun. If I heard somebody complaining, "Oh, I work so hard, I put in ten- and twelve-hour days," I would crucify him. "What the fuck are you talking about, when the day is twenty-four hours? What else did you do?" Everything I did could have been my hobby. It was my hobby, in a way. I was passionate about all of it. My definition of living is to have excitement always; that's the difference between living and existing.

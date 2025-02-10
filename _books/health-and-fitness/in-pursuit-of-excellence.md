@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-22 16:32:51+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/in-pursuit-of-excellence/
+link: https://fluidself.org/books/health-and-fitness/in-pursuit-of-excellence
 slug: in-pursuit-of-excellence
 title: In Pursuit of Excellence, Fourth Edition - by Terry Orlick
-wordpress_id: 1093
 ---
 
 Excellence in every part of your life is a decision--decide to excel. Excellence is a choice--choose to excel. Excellence is full focus--focus, focus, focus.

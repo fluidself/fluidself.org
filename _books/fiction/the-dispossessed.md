@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-11 17:29:35+00:00
-link: https://fluidself.org/books/fiction/the-dispossessed/
+link: https://fluidself.org/books/fiction/the-dispossessed
 slug: the-dispossessed
 title: The Dispossessed - by Ursula K. le Guin
 ---

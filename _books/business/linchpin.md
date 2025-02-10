@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 14:01:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/linchpin/
+link: https://fluidself.org/books/business/linchpin
 slug: linchpin
 title: Linchpin - by Seth Godin
-wordpress_id: 305
 ---
 
 Be remarkable

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2016-06-02 12:15:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/getting-results-the-agile-way/
+link: https://fluidself.org/books/business/getting-results-the-agile-way
 slug: getting-results-the-agile-way
 title: 'Getting Results the Agile Way: A Personal Results System for Work and Life
   - by J.D. Meier'
-wordpress_id: 87
 ---
 
 **APPROACH**

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 16:19:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/on-the-good-life/
+link: https://fluidself.org/books/philosophy/on-the-good-life
 slug: on-the-good-life
 title: On the Good Life - by Marcus Tullius Cicero
-wordpress_id: 893
 ---
 
 It was a feature of the times to stress the need for self-sufficiency, and Cicero admired the autonomous, proud, impregnable, passionless sage of the Stoics, echoing their conviction that the good life, in order to be secure, must be independent of chance and circumstances. By such means it is possible to attain human perfection: human nature is not unavoidably flawed, as the Jewish and Christian doctrines insisted. Nevertheless, Cicero found many of the Stoic tenets too rigid and inflexible--absolute virtue, for example, is an unrealistic and unrealizable ideal.

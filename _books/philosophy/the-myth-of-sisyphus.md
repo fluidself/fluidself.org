@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-17 16:08:26+00:00
-link: https://fluidself.org/books/philosophy/the-myth-of-sisyphus/
+link: https://fluidself.org/books/philosophy/the-myth-of-sisyphus
 slug: the-myth-of-sisyphus
 title: The Myth of Sisyphus - by Albert Camus
 ---

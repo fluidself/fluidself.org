@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:09:00+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-monk-and-the-riddle/
+link: https://fluidself.org/books/business/the-monk-and-the-riddle
 slug: the-monk-and-the-riddle
 title: 'The Monk and the Riddle: The Art of Creating a Life While Making a Living
   - by Randy Komisar'
-wordpress_id: 604
 ---
 
 Consider your budget of time in terms of how much you are willing to allocate to acquiring things versus how much you are willing to devote to people, relationships, family, health, personal growth, and the other essential components of a high-quality life. Rather than working to the exclusion of everything else in order to flood our bank accounts in the hope that we can eventually buy back what we have missed along the way, we need to live life fully now with a sense of its fragility.

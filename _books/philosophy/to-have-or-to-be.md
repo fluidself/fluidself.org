@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-03-09 11:28:23+00:00
-link: https://fluidself.org/books/philosophy/to-have-or-to-be/
+link: https://fluidself.org/books/philosophy/to-have-or-to-be
 slug: to-have-or-to-be
 title: 'To Have or To Be? - by Erich Fromm'
 ---

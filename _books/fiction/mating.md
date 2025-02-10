@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-08-02 16:47:22+00:00
-link: https://fluidself.org/books/fiction/mating/
+link: https://fluidself.org/books/fiction/mating
 slug: mating
 title: Mating - by Norman Rush
 ---

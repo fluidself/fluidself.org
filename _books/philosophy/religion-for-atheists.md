@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-01-05 15:31:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/religion-for-atheists/
+link: https://fluidself.org/books/philosophy/religion-for-atheists
 slug: religion-for-atheists
 title: Religion for Atheists - by Alain de Botton
 ---

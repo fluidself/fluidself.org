@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-08 09:28:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/how-to-live/
+link: https://fluidself.org/books/philosophy/how-to-live
 slug: how-to-live
 title: 'How to Live: A Life of Montaigne in One Question and Twenty Attempts at An
   Answer - by Sarah Bakewell'
-wordpress_id: 966
 ---
 
 **Q. How to live? A. Don't worry about death**

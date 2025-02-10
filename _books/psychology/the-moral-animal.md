@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-29 13:25:50+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-moral-animal/
+link: https://fluidself.org/books/psychology/the-moral-animal
 slug: the-moral-animal
 title: 'The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary
   Psychology - by Robert Wright'
-wordpress_id: 1213
 ---
 
 If indeed a man's great Darwinian peril is cuckoldry, and a woman's is desertion, then male and female jealousy should differ. Male jealousy should focus on sexual infidelity, and males should be quite unforgiving of it; a female, though she'll hardly applaud a partner's extracurricular activities, since they consume time and divert resources, should be more concerned with emotional infidelity -- the sort of magnetic commitment to another woman that could eventually lead to a much larger diversion of resources.

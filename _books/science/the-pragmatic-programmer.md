@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-11-25 10:13:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-pragmatic-programmer/
+link: https://fluidself.org/books/science/the-pragmatic-programmer
 slug: the-pragmatic-programmer
 title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and David Thomas'
 ---

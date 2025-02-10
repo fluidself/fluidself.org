@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-17 08:15:37+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/pilgrim-at-tinker-creek/
+link: https://fluidself.org/books/biographies/pilgrim-at-tinker-creek
 slug: pilgrim-at-tinker-creek
 title: Pilgrim at Tinker Creek - by Annie Dillard
-wordpress_id: 495
 ---
 
 Donald E. Carr points out that the sense impressions of one-celled animals are not edited for the brain: "This is philosophically interesting in a rather mournful way, since it means that only the simplest animals perceive the universe as it is."

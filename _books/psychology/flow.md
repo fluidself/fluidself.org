@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:48:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/flow/
+link: https://fluidself.org/books/psychology/flow
 slug: flow
 title: 'Flow: The Psychology of Optimal Experience - by Mihaly Csikszentmihalyi'
-wordpress_id: 1281
 ---
 
 The best moments usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Optimal experience is thus something that we make happen.

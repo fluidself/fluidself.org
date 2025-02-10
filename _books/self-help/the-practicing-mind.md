@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-17 08:26:52+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-practicing-mind/
+link: https://fluidself.org/books/self-help/the-practicing-mind
 slug: the-practicing-mind
 title: 'The Practicing Mind: Developing Focus and Discipline in Your Life - by Thomas
   M. Sterner'
-wordpress_id: 503
 ---
 
 Life itself is nothing more than one long practice session, an endless effort to refine the motions, both physical and mental, that compose our days.

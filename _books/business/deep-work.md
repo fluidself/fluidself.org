@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-06-02 12:17:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/deep-work/
+link: https://fluidself.org/books/business/deep-work
 slug: deep-work
 title: 'Deep Work: Rules for Focused Success in a Distracted World - by Cal Newport'
-wordpress_id: 91
 ---
 
 **Deep Work:** Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.

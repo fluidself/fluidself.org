@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-16 08:29:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/seven-habits-of-highly-effective-people/
+link: https://fluidself.org/books/business/seven-habits-of-highly-effective-people
 slug: seven-habits-of-highly-effective-people
 title: Seven Habits of Highly Effective People - by Stephen R. Covey
-wordpress_id: 488
 ---
 
 **The Personality and Character Ethics**

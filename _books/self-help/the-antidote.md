@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 07:50:45+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-antidote/
+link: https://fluidself.org/books/self-help/the-antidote
 slug: the-antidote
 title: "The Antidote: Happiness for People Who Can't Stand Positive Thinking - by
   Oliver Burkeman"
-wordpress_id: 1118
 ---
 
 Even assuming happiness to be a worthy target, though, a worse pitfall awaits, which is that aiming for it seems to reduce your chances of ever attaining it. ‘Ask yourself whether you are happy,' observed the philosopher John Stuart Mill, ‘and you cease to be so.' At best, it would appear, happiness can only be glimpsed out of the corner of an eye, not stared at directly. (We tend to remember having been happy in the past much more frequently than we are conscious of being happy in the present.)

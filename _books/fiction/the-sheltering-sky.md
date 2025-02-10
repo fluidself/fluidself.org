@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 17:12:32+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-sheltering-sky/
+link: https://fluidself.org/books/fiction/the-sheltering-sky
 slug: the-sheltering-sky
 title: The Sheltering Sky - by Paul Bowles
-wordpress_id: 1004
 ---
 
 He did not think of himself as a tourist; he was a traveler. The difference is partly one of time, he would explain. Whereas the tourist generally hurries back home at the end of a few weeks or months, the traveler, belonging no more to one place than to the next, moves slowly, over periods of years, from one part of the earth to another. Another important difference between tourist and traveler is that the former accepts his own civilization without question; not so the traveler, who compares it with the others, and rejects those elements he finds not to his liking.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-05-07 11:23:09+00:00
-link: https://fluidself.org/books/business/power-and-prediction/
+link: https://fluidself.org/books/business/power-and-prediction
 slug: power-and-prediction
 title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligence - by Ajay Agrawal, Joshua Gans, Avi Goldfarb'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 16:48:00+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/stoic-exercises-and-practices/
+link: https://fluidself.org/books/philosophy/stoic-exercises-and-practices
 slug: stoic-exercises-and-practices
 title: Stoic Exercises and Practices
-wordpress_id: 982
 ---
 
 **Elen Buzaré - Stoic Spiritual Exercises**

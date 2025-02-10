@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 06:27:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-willpower-instinct/
+link: https://fluidself.org/books/psychology/the-willpower-instinct
 slug: the-willpower-instinct
 title: 'The Willpower Instinct: How Self-Control Works, Why It Matters, and What You
   Can Do to Get More of It - by Kelly McGonigal'
-wordpress_id: 768
 ---
 
 Willpower is actually three powers--I will, I won't, and I want--that help us to be a better version of ourselves.

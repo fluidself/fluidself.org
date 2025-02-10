@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 19:52:30+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-divine-within/
+link: https://fluidself.org/books/philosophy/the-divine-within
 slug: the-divine-within
 title: The Divine Within - by Aldous Huxley
-wordpress_id: 399
 ---
 
 **RELIGION AND TEMPERAMENT**

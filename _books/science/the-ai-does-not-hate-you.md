@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-12-30 11:35:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-ai-does-not-hate-you/
+link: https://fluidself.org/books/science/the-ai-does-not-hate-you
 slug: the-ai-does-not-hate-you
 title: 'The AI Does Not Hate You: Superintelligence, Rationality and the Race to Save the World - by Tom Chivers'
 ---

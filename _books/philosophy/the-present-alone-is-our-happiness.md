@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-21 09:30:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-present-alone-is-our-happiness/
+link: https://fluidself.org/books/philosophy/the-present-alone-is-our-happiness
 slug: the-present-alone-is-our-happiness
 title: The Present Alone Is Our Happiness - by Pierre Hadot
-wordpress_id: 906
 ---
 
 I have always conceived of philosophy as a transformation of one's perception of the world. Since childhood, I have strongly felt the radical opposition between everyday life--which is lived in a semiconscious state, in which we are guided by automatisms and habits without being aware of our existence, and of our existence in the world--and privileged states in which we live intensely, and are aware of our being-in-the-world. Bergson as well as Heidegger clearly distinguished these two levels of the self: the self that remains at the level of what Heidegger calls the "they," and the one that rises to the level of what he calls the "authentic." It is since that time, because I did not dare tell anyone what I had experienced, that I have always felt that there are things that cannot be said. Whatever I might have said would have been mere banalities. I also noticed that when the priests spoke about God or about death--overwhelming or terrifying realities--they recited readymade phrases that appeared conventional and contrived to me. What was most essential for us could not be expressed.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-27 11:52:14+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/a-guide-to-the-good-life/
+link: https://fluidself.org/books/philosophy/a-guide-to-the-good-life
 slug: a-guide-to-the-good-life
 title: 'A Guide to the Good Life: The Ancient Art of Stoic Joy - by William B. Irvine'
-wordpress_id: 1169
 ---
 
 Stoicism and Zen have certain things in common. They both, for example, stress the importance of contemplating the transitory nature of the world around us and the importance of mastering desire, to the extent that it is possible to do so. They also advise us to pursue tranquility and give us advice on how to attain and maintain it. There was also agreement that one wonderful way to tame our tendency to always want more is to persuade ourselves to want the things we already have.

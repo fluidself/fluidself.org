@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 07:28:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/sex-at-dawn/
+link: https://fluidself.org/books/science/sex-at-dawn
 slug: sex-at-dawn
 title: 'Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships
   - by Christopher Ryan'
-wordpress_id: 934
 ---
 
 With and without love, a casual sexuality was the norm for our prehistoric ancestors.

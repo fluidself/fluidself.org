@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:15:40+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/how-will-you-measure-your-life/
+link: https://fluidself.org/books/business/how-will-you-measure-your-life
 slug: how-will-you-measure-your-life
 title: How Will You Measure Your Life? - by Clayton Christensen
-wordpress_id: 608
 ---
 
 When people ask me something, I now rarely answer directly. Instead, I run the question through a theory in my own mind, so I know what the theory says is likely to be the result of one course of action, compared to another. I'll then explain how it applies to their question. To be sure they understand it, I'll describe to them how the process in the model worked its way through an industry or situation different from their own, to help them visualize how it works. People, typically, then say, "Okay, I get it." They'll then answer their question with more insight than I could possibly have.

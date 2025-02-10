@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 06:18:19+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/as-a-man-thinketh/
+link: https://fluidself.org/books/self-help/as-a-man-thinketh
 slug: as-a-man-thinketh
 title: As A Man Thinketh - by James Allen
-wordpress_id: 762
 ---
 
 Men are anxious to improve their circumstances, but are unwilling to improve themselves; they therefore remain bound.

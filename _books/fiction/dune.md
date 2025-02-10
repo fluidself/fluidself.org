@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:32:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/dune/
+link: https://fluidself.org/books/fiction/dune
 slug: dune
 title: Dune - by Frank Herbert
-wordpress_id: 726
 ---
 
 "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."

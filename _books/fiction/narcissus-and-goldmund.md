@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 17:08:13+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/narcissus-and-goldmund/
+link: https://fluidself.org/books/fiction/narcissus-and-goldmund
 slug: narcissus-and-goldmund
 title: Narcissus and Goldmund - by Hermann Hesse
-wordpress_id: 995
 ---
 
 Narcissus knew only too well what a charming golden bird had flown to him. This hermit soon sensed a kindred soul in Goldmund, in spite of their apparent contrasts. Narcissus was dark and spare; Goldmund, a radiant youth. Narcissus was analytical, a thinker; Goldmund, a dreamer with the soul of a child. But something they had in common bridged these contrasts: both were refined; both were different from the others because of obvious gifts and signs; both bore the special mark of fate.

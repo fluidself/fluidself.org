@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 13:43:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/titan/
+link: https://fluidself.org/books/biographies/titan
 slug: titan
 title: Titan - by Ron Chernow
-wordpress_id: 289
 ---
 
 Nowadays, most people imagine that American businessmen have always favored free competition, at least in the abstract. But in the industrial boom after the Civil War, the most significant revolt against free-market capitalism came not from reformers or zealous ideologues but from businessmen who couldn't control the maddening fluctuations in the marketplace. In an unregulated economy, they had to improvise the rules of the game as they went along. Pestered by overproduction in the early oil industry, Rockefeller tirelessly mocked those "academic enthusiasts" and "sentimentalists" who expected business to conform to their tidy competitive models. Like some of his contemporaries, he didn't see how they could build vast, enduring industries in a volatile economy disrupted by recessions, deflation, and explosive boom-and-bust cycles, and he decided to subjugate markets instead of responding endlessly to their changing price signals. Thus, Rockefeller and other industrial captains conspired to kill competitive capitalism in favor of a new monopoly capitalism.

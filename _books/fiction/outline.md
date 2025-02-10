@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-01-26 19:17:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/outline/
+link: https://fluidself.org/books/fiction/outline
 slug: outline
 title: 'Outline: A Novel - by Rachel Cusk'
 ---

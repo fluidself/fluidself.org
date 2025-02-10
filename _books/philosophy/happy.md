@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-06-16 13:31:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/happy/
+link: https://fluidself.org/books/philosophy/happy
 slug: happy
 title: 'Happy: Why More or Less Everything is Absolutely Fine - by Derren Brown'
 ---

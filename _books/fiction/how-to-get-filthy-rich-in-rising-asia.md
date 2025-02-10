@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:19:00+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/how-to-get-filthy-rich-in-rising-asia/
+link: https://fluidself.org/books/fiction/how-to-get-filthy-rich-in-rising-asia
 slug: how-to-get-filthy-rich-in-rising-asia
 title: How To Get Filthy Rich In Rising Asia - by Mohsin Hamid
-wordpress_id: 717
 ---
 
 Yes, the pursuit of love and the pursuit of wealth have much in common. Both have the potential to inspire, motivate, uplift, and kill. But whereas achieving a massive bank balance demonstrably attracts fine physical specimens desperate to give their love in exchange, achieving love tends to do the opposite. It dampens the fire in the steam furnace of ambition, robbing of essential propulsion an already fraught upriver journey to the heart of financial success.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-04 08:12:25+00:00
-link: https://fluidself.org/books/self-help/excellent-advice-for-living/
+link: https://fluidself.org/books/self-help/excellent-advice-for-living
 slug: excellent-advice-for-living
 title: "Excellent Advice for Living: Wisdom I Wish I'd Known Earlier - by Kevin Kelly"
 ---

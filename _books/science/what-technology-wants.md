@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-30 16:33:09+00:00
-link: https://fluidself.org/books/science/what-technology-wants/
+link: https://fluidself.org/books/science/what-technology-wants
 slug: what-technology-wants
 title: What Technology Wants - by Kevin Kelly
 ---

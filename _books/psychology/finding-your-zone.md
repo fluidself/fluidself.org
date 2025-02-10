@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:24:31+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/finding-your-zone/
+link: https://fluidself.org/books/psychology/finding-your-zone
 slug: finding-your-zone
 title: 'Finding Your Zone: Ten Core Lessons for Achieving Peak Performance in Sports
   and Life - by Michael Lardon'
-wordpress_id: 836
 ---
 
 Simply put, the Zone is a mental state in which your thoughts and actions are occurring in complete synchronicity. The thinking part of the brain, the cerebral cortex, is bypassed and one's mind is actually operating at a more primitive, reflexive level while being fully engaged. When the thinking brain is quiet it can react (or act) more efficiently, sampling increments of time in smaller intervals, which is why people who have experienced the Zone talk about feeling as if time passed slowly and effortlessly. Four characteristics people experience when they are in the Zone: (1) superconcentration, or complete mental absorption in a task; (2) the experience of time slowing down; (3) a sense of detachment from outside influences; and (4) a resulting supernormal performance.

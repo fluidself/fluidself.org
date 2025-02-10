@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:15:36+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-five-things-we-cannot-change/
+link: https://fluidself.org/books/self-help/the-five-things-we-cannot-change
 slug: the-five-things-we-cannot-change
 title: 'The Five Things We Cannot Change: And the Happiness We Find by Embracing Them
   - by David Richo'
-wordpress_id: 813
 ---
 
 **Everything changes and ends**

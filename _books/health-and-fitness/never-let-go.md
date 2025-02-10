@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-06-02 14:55:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/never-let-go/
+link: https://fluidself.org/books/health-and-fitness/never-let-go
 slug: never-let-go
 title: 'Never Let Go: A Philosophy of Lifting, Living and Learning - by Dan John'
 ---

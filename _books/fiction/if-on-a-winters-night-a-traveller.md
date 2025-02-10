@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 06:59:10+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/if-on-a-winters-night-a-traveller/
+link: https://fluidself.org/books/fiction/if-on-a-winters-night-a-traveller
 slug: if-on-a-winters-night-a-traveller
 title: If On A Winter's Night A Traveller - by Italo Calvino
-wordpress_id: 804
 ---
 
 "The novel I would most like to read at this moment," Ludmilla explains, "should have as its driving force only the desire to narrate, to pile stories upon stories, without trying to impose a philosophy of life on you, simply allowing you to observe its own growth, like a tree, an entangling, as if of branches and leaves. . . ."

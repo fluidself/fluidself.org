@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-07-27 10:53:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/downtown-owl/
+link: https://fluidself.org/books/fiction/downtown-owl
 slug: downtown-owl
 title: Downtown Owl - by Chuck Klosterman
 ---

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-11-15 20:45:46+00:00
-link: https://fluidself.org/books/history/the-machiavellians/
+link: https://fluidself.org/books/history/the-machiavellians
 slug: the-machiavellians
 title: 'The Machiavellians: Defenders of Freedom - by James Burnham'
 ---

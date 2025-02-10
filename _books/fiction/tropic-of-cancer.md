@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:23:05+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/tropic-of-cancer/
+link: https://fluidself.org/books/fiction/tropic-of-cancer
 slug: tropic-of-cancer
 title: Tropic of Cancer - by Henry Miller
-wordpress_id: 618
 ---
 
 "We create our fate," says Miller. And better still: "Forget, forgive, renounce, abdicate." And "scrap the past instantly." Live the good life instantly; it's now or never, and always has been.

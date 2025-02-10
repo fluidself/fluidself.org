@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-01-11 17:29:35+00:00
-link: https://fluidself.org/books/fiction/the-morning-star/
+link: https://fluidself.org/books/fiction/the-morning-star
 slug: the-morning-star
 title: The Morning Star - by Karl Ove Knausgaard
 ---

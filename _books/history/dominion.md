@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-05 09:45:46+00:00
-link: https://fluidself.org/books/history/dominion/
+link: https://fluidself.org/books/history/dominion
 slug: dominion
 title: 'Dominion: The Making of the Western Mind - by Tom Holland'
 ---

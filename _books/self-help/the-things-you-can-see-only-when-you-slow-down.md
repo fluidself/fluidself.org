@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-30 18:57:19+00:00
-link: https://fluidself.org/books/self-help/the-things-you-can-see-only-when-you-slow-down/
+link: https://fluidself.org/books/self-help/the-things-you-can-see-only-when-you-slow-down
 slug: the-things-you-can-see-only-when-you-slow-down
 title: 'The Things You Can See Only When You Slow Down: How to Be Calm in a Busy World - by Haemin Sunim'
 ---

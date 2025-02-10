@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:43:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-warrior-ethos/
+link: https://fluidself.org/books/philosophy/the-warrior-ethos
 slug: the-warrior-ethos
 title: The Warrior Ethos - by Steven Pressfield
-wordpress_id: 852
 ---
 
 The Warrior Ethos embodies certain virtues--courage, honor, loyalty, integrity, selflessness and others--that most warrior societies believe must be inculcated from birth.

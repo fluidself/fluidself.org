@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-11-24 15:13:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-secret-of-our-success/
+link: https://fluidself.org/books/science/the-secret-of-our-success
 slug: the-secret-of-our-success
 title: 'The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter - by Joseph Henrich'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 13:42:03+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/education-of-a-wandering-man/
+link: https://fluidself.org/books/biographies/education-of-a-wandering-man
 slug: education-of-a-wandering-man
 title: Education of a Wandering Man - by Louis L'Amour
-wordpress_id: 284
 ---
 
 A great book begins with an idea; a great life, with a determination.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-30 16:53:09+00:00
-link: https://fluidself.org/books/business/economics-in-one-virus/
+link: https://fluidself.org/books/business/economics-in-one-virus
 slug: economics-in-one-virus
 title: 'Economics in One Virus: An Introduction to Economic Reasoning Through COVID-19 - by Ryan A. Bourne'
 ---

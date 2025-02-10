@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-19 11:47:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/how-emotions-are-made/
+link: https://fluidself.org/books/psychology/how-emotions-are-made
 slug: how-emotions-are-made
 title: 'How Emotions Are Made: The Secret Life of the Brain - by Lisa Feldman Barrett'
 ---

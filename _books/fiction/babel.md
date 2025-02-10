@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-03-01 08:11:22+00:00
-link: https://fluidself.org/books/fiction/babel/
+link: https://fluidself.org/books/fiction/babel
 slug: babel
 title: "Babel: Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution - by R. F. Kuang"
 ---

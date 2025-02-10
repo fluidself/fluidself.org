@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 16:26:08+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-tools/
+link: https://fluidself.org/books/self-help/the-tools
 slug: the-tools
 title: 'The Tools: Transform Your Problems into Courage, Confidence, and Creativity
   - by Phil Stutz, Barry Michels'
-wordpress_id: 1147
 ---
 
 > The things which hurt, instruct.  

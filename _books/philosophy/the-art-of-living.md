@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-11 16:23:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-art-of-living/
+link: https://fluidself.org/books/philosophy/the-art-of-living
 slug: the-art-of-living
 title: 'The Art of Living: The Classical Mannual on Virtue, Happiness, and Effectiveness
   - by Sharon Lebell'
-wordpress_id: 442
 ---
 
 **THE MANUAL**

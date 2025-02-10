@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 08:39:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/mindfulness-in-plain-english/
+link: https://fluidself.org/books/spirituality/mindfulness-in-plain-english
 slug: mindfulness-in-plain-english
 title: Mindfulness in Plain English - by Bhante Gunaratana
-wordpress_id: 950
 ---
 
 The Vipassana meditator uses his concentration as a tool by which his awareness can chip away at the wall of illusion which cuts him off from the living light of reality. It is a gradual process of ever-increasing awareness of the inner workings of reality itself. It takes years, but one day the meditator chisels through that wall and tumbles into the presence of light. The transformation is complete. It's called liberation, and it's permanent. Liberation is the goal of all buddhist systems of practice.

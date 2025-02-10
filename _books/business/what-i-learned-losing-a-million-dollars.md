@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:18:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/what-i-learned-losing-a-million-dollars/
+link: https://fluidself.org/books/business/what-i-learned-losing-a-million-dollars
 slug: what-i-learned-losing-a-million-dollars
 title: What I Learned Losing A Million Dollars - by Brendan Moynihan
-wordpress_id: 230
 ---
 
 The truth is that trading, both successful and unsuccessful, is more about psychology than tactics. As Jim Paul ultimately learns through a very expensive lesson taught by the market, successful trading is not about discovering a great strategy for making money but rather a matter of learning how to lose.

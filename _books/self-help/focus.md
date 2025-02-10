@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 10:17:19+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/focus/
+link: https://fluidself.org/books/self-help/focus
 slug: focus
 title: 'Focus: A Simplicity Manifesto in the Age of Distraction - by Leo Babauta'
-wordpress_id: 736
 ---
 
 > "Most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, ‘Is this necessary?‘"  

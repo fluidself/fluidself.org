@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-28 17:20:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/take-the-stairs/
+link: https://fluidself.org/books/self-help/take-the-stairs
 slug: take-the-stairs
 title: 'Take the Stairs: 7 Steps to Achieving True Success - by Rory Vaden'
 ---

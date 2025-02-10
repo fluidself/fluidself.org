@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 15:16:41+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/at-play-in-the-fields-of-the-lord/
+link: https://fluidself.org/books/fiction/at-play-in-the-fields-of-the-lord
 slug: at-play-in-the-fields-of-the-lord
 title: At Play in the Fields of the Lord - by Peter Matthiessen
-wordpress_id: 392
 ---
 
 So long as he kept moving he would be all right. For men like himself the ends of the earth had this great allure: that one was never asked about a past or future but could live as freely as an animal, close to the gut, and day by day by day.

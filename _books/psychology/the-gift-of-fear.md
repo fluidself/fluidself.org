@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 14:21:07+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-gift-of-fear/
+link: https://fluidself.org/books/psychology/the-gift-of-fear
 slug: the-gift-of-fear
 title: The Gift of Fear - by Gavin de Becker
-wordpress_id: 336
 ---
 
 **Forced Teaming:** Forced teaming is an effective way to establish premature trust because a we're-in-the-same-boat attitude is hard to rebuff without feeling rude. The simple defense for forced teaming, which is to make a clear refusal to accept the concept of partnership: "I did not ask for your help and I do not want it." Like many of the best defenses, this one has the cost of appearing rude.

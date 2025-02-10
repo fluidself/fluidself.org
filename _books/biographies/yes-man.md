@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:06:59+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/yes-man/
+link: https://fluidself.org/books/biographies/yes-man
 slug: yes-man
 title: Yes Man - by Danny Wallace
-wordpress_id: 702
 ---
 
 I became the man who could wriggle out of any prior engagement. Who could spot an invitation coming a mile off and head it off at the pass. The man who'd gladly swap a night down the pub for just one whiff of an episode of EastEnders. The man who'd send an e-mail instead of attend a birthday. Who'd text instead of call, and call instead of visit. I became the man who'd white-lie. The man who always had an excuse. The man who always said no.

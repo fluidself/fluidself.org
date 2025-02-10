@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 16:21:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/musonius-rufus/
+link: https://fluidself.org/books/philosophy/musonius-rufus
 slug: musonius-rufus
 title: 'Musonius Rufus: Lectures and Sayings - by Musonius Rufus'
-wordpress_id: 896
 ---
 
 A person who has not studied letters, music, or sports does not say that he knows them. Nor does he pretend to possess these skills if he is unable to name also the teacher to whom he went. So why, by the gods, do we all declare that we have virtue? A human being has no claim by nature to any of those other skills, and no one comes into life with a natural ability for them.

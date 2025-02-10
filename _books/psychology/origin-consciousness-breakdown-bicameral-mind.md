@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-02-16 10:51:16+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/origin-consciousness-breakdown-bicameral-mind/
+link: https://fluidself.org/books/psychology/origin-consciousness-breakdown-bicameral-mind
 slug: origin-consciousness-breakdown-bicameral-mind
 title: The Origin of Consciousness in the Breakdown of the Bicameral Mind - by Julian Jaynes
 ---

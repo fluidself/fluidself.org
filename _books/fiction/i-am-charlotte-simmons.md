@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-08-31 19:13:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/i-am-charlotte-simmons/
+link: https://fluidself.org/books/fiction/i-am-charlotte-simmons
 slug: i-am-charlotte-simmons
 title: I Am Charlotte Simmons - by Tom Wolfe
 ---

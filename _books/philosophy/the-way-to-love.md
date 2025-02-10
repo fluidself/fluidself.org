@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-02-12 14:47:26+00:00
-link: https://fluidself.org/books/philosophy/the-way-to-love/
+link: https://fluidself.org/books/philosophy/the-way-to-love
 slug: the-way-to-love
 title: The Way to Love - by Anthony de Mello
 ---

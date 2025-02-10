@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 10:30:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/strength-to-awaken/
+link: https://fluidself.org/books/health-and-fitness/strength-to-awaken
 slug: strength-to-awaken
 title: Strength To Awaken - by Rob McNamara
-wordpress_id: 741
 ---
 
 **Excellence: The Purpose of Life**

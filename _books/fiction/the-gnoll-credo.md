@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-20 08:07:25+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-gnoll-credo/
+link: https://fluidself.org/books/fiction/the-gnoll-credo
 slug: the-gnoll-credo
 title: The Gnoll Credo - by J. Stanton
-wordpress_id: 1090
 ---
 
 I was used to long pauses when talking with her; she never said anything before she was ready. I admired this and still try to emulate it, with limited success; it's hard to break the habit of filling up every conversational silence with words, even if they're not important and mean nothing.

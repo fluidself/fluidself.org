@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-02-18 14:13:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/life-3-0/
+link: https://fluidself.org/books/science/life-3-0
 slug: life-3-0
 title: 'Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Tegmark'
 ---

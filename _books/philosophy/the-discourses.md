@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-29 13:45:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-discourses/
+link: https://fluidself.org/books/philosophy/the-discourses
 slug: the-discourses
 title: The Discourses - by Epictetus
-wordpress_id: 1221
 ---
 
 Why do you not, rather, give thanks to the gods that they have made you superior to everything that they did not place in your power, and have rendered you accountable only for that which is in your own power? They have discharged you from all accountability for your parents, and likewise for your brothers, and for your body, and for property, death, life. For what, then, have they made you accountable? For that which alone is in your power, the proper use of your impressions. Why, then, should you draw upon yourself those things for which you are not accountable? You are merely creating trouble for yourself.

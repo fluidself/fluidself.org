@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 19:54:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-one-thing/
+link: https://fluidself.org/books/business/the-one-thing
 slug: the-one-thing
 title: 'The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results
   - by Gary Keller'
-wordpress_id: 556
 ---
 
 Extraordinary results are directly determined by how narrow you can make your focus.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 15:22:01+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-dilemma-of-narcissus/
+link: https://fluidself.org/books/philosophy/the-dilemma-of-narcissus
 slug: the-dilemma-of-narcissus
 title: The Dilemma of Narcissus - by Louis Lavelle
-wordpress_id: 881
 ---
 
 **Reciprocity**

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-12-29 15:52:39+00:00
-link: https://fluidself.org/books/biographies/the-folded-clock/
+link: https://fluidself.org/books/biographies/the-folded-clock
 slug: the-folded-clock
 title: 'The Folded Clock: A Diary - by Heidi Julavits'
 ---

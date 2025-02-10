@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:33:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/intuition-pumps-and-other-tools-for-thinking/
+link: https://fluidself.org/books/philosophy/intuition-pumps-and-other-tools-for-thinking
 slug: intuition-pumps-and-other-tools-for-thinking
 title: Intuition Pumps and Other Tools for Thinking - by Daniel Dennett
-wordpress_id: 843
 ---
 
 **Douglas Hofstadter's Favorite Tools**

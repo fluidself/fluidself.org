@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 09:18:40+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/king-warrior-magician-lover/
+link: https://fluidself.org/books/psychology/king-warrior-magician-lover
 slug: king-warrior-magician-lover
 title: 'King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature
   Masculine - by Robert Moore, Doug Gillette'
-wordpress_id: 642
 ---
 
 It can be said that life's perhaps most fundamental dynamic is the attempt to move from a lower form of experience and consciousness to a higher (or deeper) level of consciousness, from a diffuse identity to a more consolidated and structured identity.

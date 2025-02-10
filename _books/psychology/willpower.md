@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-09 17:20:53+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/willpower/
+link: https://fluidself.org/books/psychology/willpower
 slug: willpower
 title: 'Willpower: Rediscovering the Greatest Human Strength - by Roy F. Baumeister,
   John Tierney'
-wordpress_id: 1293
 ---
 
 **Public accountability:** Public information has more impact than private information. People care more about what other people know about them than about what they know about themselves. A failure, a slipup, a lapse in self-control can be swept under the carpet pretty easily if you're the only one who knows about it. You can rationalize it or just plain ignore it. But if other people know about it, it's harder to dismiss.

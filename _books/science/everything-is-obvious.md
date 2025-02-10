@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:47:10+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/everything-is-obvious/
+link: https://fluidself.org/books/science/everything-is-obvious
 slug: everything-is-obvious
 title: 'Everything is Obvious: Once You Know the Answer - by Duncan J. Watts'
-wordpress_id: 855
 ---
 
 Common sense is exquisitely adapted to handling the kind of complexity that arises in everyday situations. And for those situations, it's every bit as good as advertised. But "situations" involving corporations, cultures, markets, nation-states, and global institutions exhibit a very different kind of complexity from everyday situations. And under these circumstances, common sense turns out to suffer from a number of errors that systematically mislead us. Yet because of the way we learn from experience--even experiences that are never repeated, or that take place in other times and places--the failings of commonsense reasoning are rarely apparent to us. Rather, they manifest themselves to us simply as "things we didn't know at the time" but which seem obvious in hindsight. The paradox of common sense, therefore, is that even as it helps us make sense of the world, it can actively undermine our ability to understand it.

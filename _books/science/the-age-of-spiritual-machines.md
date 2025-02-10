@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-07-03 15:12:25+00:00
-link: https://fluidself.org/books/science/the-age-of-spiritual-machines/
+link: https://fluidself.org/books/science/the-age-of-spiritual-machines
 slug: the-age-of-spiritual-machines
 title: 'The Age of Spiritual Machines: When Computers Exceed Human Intelligence - by Ray Kurzweil'
 ---

@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-12-30 14:06:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-mind-body-problem/
+link: https://fluidself.org/books/fiction/the-mind-body-problem
 slug: the-mind-body-problem
 title: The Mind-Body Problem - by Rebecca Goldstein
 ---

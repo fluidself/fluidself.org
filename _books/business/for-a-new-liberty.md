@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-10-16 19:43:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/for-a-new-liberty/
+link: https://fluidself.org/books/business/for-a-new-liberty
 slug: for-a-new-liberty
 title: For A New Liberty - by Murray N. Rothbard
 ---

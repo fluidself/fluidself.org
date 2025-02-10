@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-12-02 14:45:46+00:00
-link: https://fluidself.org/books/history/seeing-like-a-state/
+link: https://fluidself.org/books/history/seeing-like-a-state
 slug: seeing-like-a-state
 title: 'Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed - by James C. Scott'
 ---

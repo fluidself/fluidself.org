@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-29 11:45:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-art-of-seduction/
+link: https://fluidself.org/books/psychology/the-art-of-seduction
 slug: the-art-of-seduction
 title: The Art of Seduction - by Robert Greene
-wordpress_id: 1203
 ---
 
 Seducers are never self-absorbed. Their gaze is directed outward, not inward. When they meet someone their first move is to get inside that person's skin, to see the world through their eyes.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 08:57:37+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-corrections/
+link: https://fluidself.org/books/fiction/the-corrections
 slug: the-corrections
 title: The Corrections - by Jonathan Franzen
-wordpress_id: 365
 ---
 
 She'd always been a pretty woman, but to Chip she was so much a personality and so little anything else that even staring straight at her he had no idea what she really looked like.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-04 07:57:48+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/philosophy-as-a-way-of-life/
+link: https://fluidself.org/books/philosophy/philosophy-as-a-way-of-life
 slug: philosophy-as-a-way-of-life
 title: 'Philosophy As a Way of Life: Spiritual Exercises from Socrates to Foucault
   - by Pierre Hadot'
-wordpress_id: 1235
 ---
 
 The Stoics, for instance, declared explicitly that philosophy, for them, was an "exercise." In their view, philosophy did not consist in teaching an abstract theory--much less in the exegesis of texts--but rather in the art of living. It is a concrete attitude and determinate lifestyle, which engages the whole of existence. The philosophical act is not situated merely on the cognitive level, but of that of the self and of being. It is a progress which causes us to be more fully, and makes us better. It is a conversion which turns our entire life upside down, changing the life of the person who goes through it. It raises the individual from an inauthentic condition of life, darkened by unconsciousness and harassed by worry, to an authentic state of life, in which he attains self-consciousness, an exact vision of the world, inner peace, and freedom.

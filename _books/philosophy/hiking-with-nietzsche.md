@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-12-30 19:31:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/hiking-with-nietzsche/
+link: https://fluidself.org/books/philosophy/hiking-with-nietzsche
 slug: hiking-with-nietzsche
 title: 'Hiking with Nietzsche: On Becoming Who You Are - by John Kaag'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:55:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-tiger/
+link: https://fluidself.org/books/science/the-tiger
 slug: the-tiger
 title: 'The Tiger: A True Story of Vengeance and Survival - by John Vaillant'
-wordpress_id: 864
 ---
 
 When Russians wax eloquent about their homeland, they will often invoke Mother Russia, but Mother Russia is not the nation, and She is certainly not the leadership; She is the Land. The deep Russian bond to the earth--specifically, the soil--transcends all other affiliations with the exception, perhaps, of family. Likewise, the forest and its creatures--plant and animal alike--have a significance that most of us in the West lost touch with generations ago. It is a connection--a dependence, really--that exists in stark contrast to the State's willful, capricious, and alarmingly comprehensive destruction of the environment.

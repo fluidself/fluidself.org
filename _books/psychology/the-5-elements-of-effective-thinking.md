@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 08:08:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-5-elements-of-effective-thinking/
+link: https://fluidself.org/books/psychology/the-5-elements-of-effective-thinking
 slug: the-5-elements-of-effective-thinking
 title: The 5 Elements of Effective Thinking - by Edward B. Burger and Michael Starbird
-wordpress_id: 943
 ---
 
 **Five elements of thinking and learning**

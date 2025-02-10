@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 13:50:18+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/sources-of-power/
+link: https://fluidself.org/books/psychology/sources-of-power
 slug: sources-of-power
 title: 'Sources of Power: How People Make Decisions - by Gary Klein'
-wordpress_id: 1076
 ---
 
 We have found that people draw on a large set of abilities that are sources of power. The conventional sources of power include deductive logical thinking, analysis of probabilities, and statistical methods. Yet the sources of power that are needed in natural settings are usually not analytical at all--the power of intuition, mental simulation, metaphor, and storytelling.

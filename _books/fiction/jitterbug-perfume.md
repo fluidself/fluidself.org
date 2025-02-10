@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-10-15 21:45:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/jitterbug-perfume/
+link: https://fluidself.org/books/fiction/jitterbug-perfume
 slug: jitterbug-perfume
 title: Jitterbug Perfume - by Tom Robbins
 ---

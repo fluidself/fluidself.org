@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-04 17:42:47+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-millionaire-fastlane/
+link: https://fluidself.org/books/business/the-millionaire-fastlane
 slug: the-millionaire-fastlane
 title: 'The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime
   - by MJ DeMarco'
-wordpress_id: 1252
 ---
 
 Wealth eludes most people because they are preoccupied with events while disregarding process. Without process, there is no event. Process creates events that others see as luck.

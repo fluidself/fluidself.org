@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-27 12:10:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/manthropology/
+link: https://fluidself.org/books/science/manthropology
 slug: manthropology
 title: 'Manthropology: The Science of Why the Modern Male Is Not the Man He Used to
   Be - by Peter McAllister'
-wordpress_id: 1180
 ---
 
 Wolff's law, named after German military surgeon Julius Wolff, states that bone carries a record of the muscular load placed upon it because it grows larger over time in response to mechanical stress.

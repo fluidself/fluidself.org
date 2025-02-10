@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-20 07:51:53+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-contortionists-handbook/
+link: https://fluidself.org/books/fiction/the-contortionists-handbook
 slug: the-contortionists-handbook
 title: The Contortionist's Handbook - by Craig Clevenger
-wordpress_id: 1083
 ---
 
 What they wear tells you what they want to show, and what they show tells you what they want to hide.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 18:58:17+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/perfect-health-diet/
+link: https://fluidself.org/books/health-and-fitness/perfect-health-diet
 slug: perfect-health-diet
 title: 'Perfect Health Diet: Regain Health and Lose Weight by Eating the Way You Were
   Meant to Eat - by Paul Jaminet'
-wordpress_id: 543
 ---
 
 **The Perfect Health Diet prescription is:**

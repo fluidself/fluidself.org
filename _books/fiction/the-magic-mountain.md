@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-22 10:55:35+00:00
-link: https://fluidself.org/books/fiction/the-magic-mountain/
+link: https://fluidself.org/books/fiction/the-magic-mountain
 slug: the-magic-mountain
 title: The Magic Mountain - by Thomas Mann
 ---

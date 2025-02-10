@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-08-02 17:08:26+00:00
-link: https://fluidself.org/books/philosophy/the-genealogy-of-morals/
+link: https://fluidself.org/books/philosophy/the-genealogy-of-morals
 slug: the-genealogy-of-morals
 title: 'The Genealogy of Morals: A Polemic - by Friedrich Nietzsche'
 ---

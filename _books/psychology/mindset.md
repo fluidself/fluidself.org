@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:28:50+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/mindset/
+link: https://fluidself.org/books/psychology/mindset
 slug: mindset
 title: 'Mindset: How You Can Fulfil Your Potential - by Carol Dweck'
-wordpress_id: 840
 ---
 
 Robert Sternberg, the present-day guru of intelligence, writes that the major factor in whether people achieve expertise "is not some fixed prior ability, but purposeful engagement." Or, as his forerunner Binet recognized, it's not always the people who start out the smartest who end up the smartest.

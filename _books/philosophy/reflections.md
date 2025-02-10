@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 16:13:01+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/reflections/
+link: https://fluidself.org/books/philosophy/reflections
 slug: reflections
 title: Reflections; or Sentences and Moral Maxims - by François de La Rochefoucauld
-wordpress_id: 890
 ---
 
 The book is a mirror in which we all see ourselves. This has made it so unpopular. It is too true. We dislike to be told of our faults, while we only like to be told of our neighbour's. Notwithstanding Rousseau's assertion, it is young men, who, before they know their own faults and only know their neighbours', that read and thoroughly appreciate Rochefoucauld.

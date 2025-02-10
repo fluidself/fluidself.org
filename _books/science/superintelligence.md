@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:02:45+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/superintelligence/
+link: https://fluidself.org/books/science/superintelligence
 slug: superintelligence
 title: Superintelligence - by Nick Bostrom
-wordpress_id: 403
 ---
 
 **Past developments and present capabilities**

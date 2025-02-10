@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 07:27:52+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/squat-every-day/
+link: https://fluidself.org/books/health-and-fitness/squat-every-day
 slug: squat-every-day
 title: 'Squat Every Day: Thoughts on Overtraining and Recovery in Strength Training
   - by Matt Perryman'
-wordpress_id: 1036
 ---
 
 **THEORY**

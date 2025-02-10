@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:10:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-wisdom-of-insecurity/
+link: https://fluidself.org/books/philosophy/the-wisdom-of-insecurity
 slug: the-wisdom-of-insecurity
 title: The Wisdom of Insecurity - by Alan Watts
-wordpress_id: 54
 ---
 
 If happiness always depends on something expected in the future, we are chasing a will-o'-the-wisp that ever eludes our grasp, until the future, and ourselves, vanish into the abyss of death.

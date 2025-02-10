@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-01-12 16:11:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/man-alone-with-himself/
+link: https://fluidself.org/books/philosophy/man-alone-with-himself
 slug: man-alone-with-himself
 title: Man Alone with Himself - by Friedrich Nietzsche
 ---

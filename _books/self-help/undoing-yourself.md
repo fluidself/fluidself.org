@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-24 07:06:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/undoing-yourself/
+link: https://fluidself.org/books/self-help/undoing-yourself
 slug: undoing-yourself
 title: Undoing Yourself With Energized Meditation & Other Devices - by Christopher
   S. Hyatt
-wordpress_id: 922
 ---
 
 Do it every day!

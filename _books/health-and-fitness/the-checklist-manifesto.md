@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-08 08:42:51+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/the-checklist-manifesto/
+link: https://fluidself.org/books/health-and-fitness/the-checklist-manifesto
 slug: the-checklist-manifesto
 title: 'The Checklist Manifesto: How to Get Things Right - by Atul Gawande'
-wordpress_id: 661
 ---
 
 Checklists remind us of the minimum necessary steps and make them explicit. They not only offer the possibility of verification but also instill a kind of discipline of higher performance. They provide a kind of cognitive net. They catch mental flaws inherent in all of us--flaws of memory and attention and thoroughness. And because they do, they raise wide, unexpected possibilities.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:40:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/this-will-make-you-smarter/
+link: https://fluidself.org/books/science/this-will-make-you-smarter
 slug: this-will-make-you-smarter
 title: 'This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking
   - by John Brockman'
-wordpress_id: 849
 ---
 
 Shorthand abstractions (SHAs) are concepts drawn from science that have become part of the language and make people smarter by providing widely applicable templates. "Market," "placebo," "random sample," and "naturalistic fallacy" are a few examples. The idea is that the abstraction is available as a single cognitive chunk, which can be used as an element in thinking and in debate.

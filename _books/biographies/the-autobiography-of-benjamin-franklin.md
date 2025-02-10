@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:32:41+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/the-autobiography-of-benjamin-franklin/
+link: https://fluidself.org/books/biographies/the-autobiography-of-benjamin-franklin
 slug: the-autobiography-of-benjamin-franklin
 title: The Autobiography of Benjamin Franklin - by Benjamin Franklin
-wordpress_id: 817
 ---
 
 The habit of expressing myself in terms of modest diffidence; never using, when I advanced any thing that may possibly be disputed, the words certainly, undoubtedly, or any others that give the air of positiveness to an opinion; but rather say, I conceive or apprehend a thing to be so and so; it appears to me, or I should think it so or so, for such and such reasons; or I imagine it to be so; or it is so, if I am not mistaken. This habit, I believe, has been of great advantage to me when I have had occasion to inculcate my opinions, and persuade men into measures that I have been from time to time engag'd in promoting.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:06:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/maxims-and-reflections/
+link: https://fluidself.org/books/philosophy/maxims-and-reflections
 slug: maxims-and-reflections
 title: Maxims and Reflections - by Johann Wolfgang von Goethe
-wordpress_id: 407
 ---
 
 The man who understands finds almost everything laughable, the man of reason practically nothing.

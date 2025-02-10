@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-08-02 16:43:24+00:00
-link: https://fluidself.org/books/business/the-everything-token/
+link: https://fluidself.org/books/business/the-everything-token
 slug: the-everything-token
 title: 'The Everything Token - by Steve Kaczynski and Scott Duke Kominers'
 ---

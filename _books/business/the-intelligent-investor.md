@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:34:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-intelligent-investor/
+link: https://fluidself.org/books/business/the-intelligent-investor
 slug: the-intelligent-investor
 title: 'The Intelligent Investor: The Definitive Book on Value Investing (Revised
   Edition) - by Benjamin Graham, Jason Zweig'
-wordpress_id: 240
 ---
 
 **Mr. Market**

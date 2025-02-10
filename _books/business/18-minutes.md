@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 16:35:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/18-minutes/
+link: https://fluidself.org/books/business/18-minutes
 slug: 18-minutes
 title: '18 Minutes: Find Your Focus, Master Distraction and Get the Right Things Done
   - by Peter Bregman'
-wordpress_id: 1152
 ---
 
 Reducing your forward momentum is the first step to freeing yourself from the beliefs, habits, feelings, and busyness that may be limiting you.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-02-07 08:21:22+00:00
-link: https://fluidself.org/books/fiction/the-passenger/
+link: https://fluidself.org/books/fiction/the-passenger
 slug: the-passenger
 title: The Passenger - by Cormac McCarthy
 ---

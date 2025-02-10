@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 19:12:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/breath-by-breath/
+link: https://fluidself.org/books/spirituality/breath-by-breath
 slug: breath-by-breath
 title: 'Breath by Breath: The Liberating Practice of Insight Meditation - by Larry
   Rosenberg'
-wordpress_id: 552
 ---
 
 **BREATHING WITH THE BODY**

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 12:28:23+00:00
-link: https://fluidself.org/books/spirituality/right-concentration/
+link: https://fluidself.org/books/spirituality/right-concentration
 slug: right-concentration
 title: 'Right Concentration: A Practical Guide to the Jhanas - by Leigh Brasington'
 ---

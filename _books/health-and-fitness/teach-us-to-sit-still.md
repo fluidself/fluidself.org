@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:31:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/teach-us-to-sit-still/
+link: https://fluidself.org/books/health-and-fitness/teach-us-to-sit-still
 slug: teach-us-to-sit-still
 title: 'Teach Us to Sit Still: A Sceptic''s Search for Health and Healing - by Tim
   Parks'
-wordpress_id: 418
 ---
 
 Every illness is a narrative. What matters is the version you tell yourself.

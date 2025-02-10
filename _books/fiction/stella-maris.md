@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-02-07 08:27:22+00:00
-link: https://fluidself.org/books/fiction/stella-maris/
+link: https://fluidself.org/books/fiction/stella-maris
 slug: stella-maris
 title: Stella Maris - by Cormac McCarthy
 ---

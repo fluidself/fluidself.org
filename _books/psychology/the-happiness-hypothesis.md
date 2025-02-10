@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-29 13:41:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-happiness-hypothesis/
+link: https://fluidself.org/books/psychology/the-happiness-hypothesis
 slug: the-happiness-hypothesis
 title: 'The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom - by Jonathan
   Haidt'
-wordpress_id: 1217
 ---
 
 Two ancient truths must be understood before you can take advantage of modern psychology to improve your life. The first truth is the foundational idea of this book: The mind is divided into parts that sometimes conflict. Like a rider on the back of an elephant, the conscious, reasoning part of the mind has only limited control of what the elephant does. The second idea is Shakespeare's, about how "thinking makes it so." (Or, as Buddha said, "Our life is the creation of our mind.")

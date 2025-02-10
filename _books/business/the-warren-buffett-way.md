@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-07 16:55:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-warren-buffett-way/
+link: https://fluidself.org/books/business/the-warren-buffett-way
 slug: the-warren-buffett-way
 title: The Warren Buffett Way - by Robert G. Hagstrom
-wordpress_id: 260
 ---
 
 **Principles**

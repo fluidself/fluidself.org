@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 07:05:01+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-attention-revolution/
+link: https://fluidself.org/books/spirituality/the-attention-revolution
 slug: the-attention-revolution
 title: 'The Attention Revolution: Unlocking the Power of the Focused Mind - by B.
   Alan Wallace Ph.D.'
-wordpress_id: 680
 ---
 
 As with any contemplative tradition, there is a hidden, but essential, element for progressing along this path: a qualified teacher. Particularly at the higher levels of shamatha practice, these instructions have traditionally required additional direction in the form of pith instructions, the crucial details and correctives always given orally, teacher to student, that bring life to the printed page. For those who want to pursue the path Alan surveys here, such a teacher will be a prerequisite.

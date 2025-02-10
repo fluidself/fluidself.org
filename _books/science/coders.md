@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-06-15 17:40:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/coders/
+link: https://fluidself.org/books/science/coders
 slug: coders
 title: 'Coders: The Making of a New Tribe and the Remaking of the World - by Clive Thompson'
 ---

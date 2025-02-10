@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-07-03 15:02:25+00:00
-link: https://fluidself.org/books/science/complexity/
+link: https://fluidself.org/books/science/complexity
 slug: complexity
 title: 'Complexity: The Emerging Science at the Edge of Order and Chaos - by M. Mitchell Waldrop'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:18:05+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-art-of-stillness/
+link: https://fluidself.org/books/philosophy/the-art-of-stillness
 slug: the-art-of-stillness
 title: 'The Art of Stillness: Adventures in Going Nowhere - by Pico Iyer'
-wordpress_id: 612
 ---
 
 Sitting still as a way of falling in love with the world and everything in it.

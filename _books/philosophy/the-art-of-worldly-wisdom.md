@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-12-28 09:04:08+00:00
-link: https://fluidself.org/books/philosophy/the-art-of-worldly-wisdom/
+link: https://fluidself.org/books/philosophy/the-art-of-worldly-wisdom
 slug: the-art-of-worldly-wisdom
 title: The Art of Worldly Wisdom - by Baltasar Gracian
 ---

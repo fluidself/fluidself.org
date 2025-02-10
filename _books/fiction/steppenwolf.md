@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 14:45:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/steppenwolf/
+link: https://fluidself.org/books/fiction/steppenwolf
 slug: steppenwolf
 title: Steppenwolf - by Hermann Hesse
-wordpress_id: 1139
 ---
 
 His isolation, his rootless existence 'swimming in water' had honestly convinced him that it was sometimes actually possible, without any hint of scorn, to regard with enthusiasm the everyday activity of normal citizens, for instance the way I went to work punctually in the office, or some expression used by a servant or the conductor of a tram. To begin with this struck me as a quite ridiculous and exaggerated response, the kind of whimsical sentimentality typical of a gentleman flâneur. However, I was increasingly forced to recognize that because of his very nature as alienated lone wolf, living as in a vacuum, he did in fact positively admire and love the small world most of us conventional people inhabit. It represented all that was solid and secure, homely and peaceful, but it was remote and unattainable since, for him, there was no road leading there.

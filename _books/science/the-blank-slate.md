@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-29 11:49:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-blank-slate/
+link: https://fluidself.org/books/science/the-blank-slate
 slug: the-blank-slate
 title: 'The Blank Slate: The Modern Denial of Human Nature - by Steven Pinker'
-wordpress_id: 1207
 ---
 
 The doctrines of the Blank Slate, the Noble Savage, and the Ghost in the Machine--or, as philosophers call them, empiricism, romanticism, and dualism--are logically independent, but in practice they are often found together.

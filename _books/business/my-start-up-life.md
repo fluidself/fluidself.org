@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-04 08:08:00+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/my-start-up-life/
+link: https://fluidself.org/books/business/my-start-up-life
 slug: my-start-up-life
 title: 'My Start-Up Life: What a (Very) Young CEO Learned on His Journey Through Silicon
   Valley - by Ben Casnocha'
-wordpress_id: 1239
 ---
 
 **The Fringe-Thoughts List: Where Most Great Ideas Develop**

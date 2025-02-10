@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 13:12:25+00:00
-link: https://fluidself.org/books/self-help/the-pathless-path/
+link: https://fluidself.org/books/self-help/the-pathless-path
 slug: the-pathless-path
 title: 'The Pathless Path: Imagining a New Story For Work and Life - by Paul Millerd'
 ---

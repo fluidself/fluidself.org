@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:44:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/letters-from-a-stoic/
+link: https://fluidself.org/books/philosophy/letters-from-a-stoic
 slug: letters-from-a-stoic
 title: Letters from a Stoic - by Seneca
-wordpress_id: 1277
 ---
 
 Nothing, to my way of thinking, is a better proof of a well ordered mind than a man's ability to stop just where he is and spend some time in his own company.

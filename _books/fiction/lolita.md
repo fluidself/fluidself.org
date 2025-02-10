@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 18:12:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/lolita/
+link: https://fluidself.org/books/fiction/lolita
 slug: lolita
 title: Lolita - by Vladimir Nabokov
-wordpress_id: 650
 ---
 
 Both art and nature are to Nabokov "a game of intricate enchantment and deception," and the process of reading and rereading his novels is a game of perception. This is how Nabokov seems to envision the game of life and the effect of his novels: each time a "scrambled picture" has been discerned "the finder cannot unsee" it; consciousness has been expanded or created.

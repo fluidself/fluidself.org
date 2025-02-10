@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 13:05:35+00:00
-link: https://fluidself.org/books/fiction/the-books-of-jacob/
+link: https://fluidself.org/books/fiction/the-books-of-jacob
 slug: the-books-of-jacob
 title: The Books of Jacob - by Olga Tokarczuk
 ---

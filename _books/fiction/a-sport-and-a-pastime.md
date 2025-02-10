@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 09:07:42+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/a-sport-and-a-pastime/
+link: https://fluidself.org/books/fiction/a-sport-and-a-pastime
 slug: a-sport-and-a-pastime
 title: 'A Sport and a Pastime: Open Road - by James Salter'
-wordpress_id: 378
 ---
 
 I am at the center of emptiness. Every act seems purer for it, easier to define. The sounds separate themselves. The details all appear.

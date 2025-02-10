@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:02:25+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/algorithms-to-live-by/
+link: https://fluidself.org/books/science/algorithms-to-live-by
 slug: algorithms-to-live-by
 title: 'Algorithms to Live By: The Computer Science of Human Decisions - by Brian
   Christian and Tom Griffiths'
-wordpress_id: 221
 ---
 
 **SEARCHING: THE SECRETARY PROBLEM**

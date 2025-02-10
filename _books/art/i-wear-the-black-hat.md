@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 07:37:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/i-wear-the-black-hat/
+link: https://fluidself.org/books/art/i-wear-the-black-hat
 slug: i-wear-the-black-hat
 title: 'I Wear the Black Hat: Grappling with Villains (Real and Imagined) - by Chuck
   Klosterman'
-wordpress_id: 937
 ---
 
 In any situation, the villain is the person who knows the most but cares the least.

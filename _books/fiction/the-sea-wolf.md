@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 14:13:43+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-sea-wolf/
+link: https://fluidself.org/books/fiction/the-sea-wolf
 slug: the-sea-wolf
 title: The Sea-Wolf - by Jack London
-wordpress_id: 330
 ---
 
 Like the savage, the attitude of these men was stoical in great things, childish in little things.

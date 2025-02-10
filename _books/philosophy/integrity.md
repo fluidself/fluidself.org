@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 07:16:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/integrity/
+link: https://fluidself.org/books/philosophy/integrity
 slug: integrity
 title: Integrity - by Stephen L. Carter
-wordpress_id: 1033
 ---
 
 Integrity, as I will use the term, requires three steps: (1) _discerning_ what is right and what is wrong; (2) _acting_ on what you have discerned, even at personal cost; and (3) _saying openly_ that you are acting on your understanding of right from wrong. The first criterion captures the idea of integrity as requiring a degree of moral reflectiveness. The second brings in the ideals of an integral person as steadfast, which includes the sense of keeping commitments. The third reminds us that a person of integrity is unashamed of doing the right.

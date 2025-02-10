@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-22 10:13:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/a-path-with-heart/
+link: https://fluidself.org/books/spirituality/a-path-with-heart
 slug: a-path-with-heart
 title: 'A Path with Heart: A Guide Through the Perils and Promises of Spiritual Life
   - by Jack Kornfield'
-wordpress_id: 577
 ---
 
 **PART I: THE FUNDAMENTALS**

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 14:09:08+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/me-myself-and-us/
+link: https://fluidself.org/books/psychology/me-myself-and-us
 slug: me-myself-and-us
 title: 'Me, Myself, and Us: The Science of Personality and the Art of Well-Being -
   by Brian R Little'
-wordpress_id: 313
 ---
 
 Your personal constructs serve as both frames and cages. They can provide some predictable paths through life's complexities, but they can also lock you into a rigid way of thinking about yourself and others.

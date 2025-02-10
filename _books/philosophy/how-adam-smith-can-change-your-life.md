@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:06:32+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/how-adam-smith-can-change-your-life/
+link: https://fluidself.org/books/philosophy/how-adam-smith-can-change-your-life
 slug: how-adam-smith-can-change-your-life
 title: How Adam Smith Can Change Your Life - by Russ Roberts
-wordpress_id: 600
 ---
 
 **How to Know Yourself**

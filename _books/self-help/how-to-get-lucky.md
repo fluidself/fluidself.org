@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 14:05:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/how-to-get-lucky/
+link: https://fluidself.org/books/self-help/how-to-get-lucky
 slug: how-to-get-lucky
 title: 'How to Get Lucky: 13 Techniques for Discovering and Taking Advantage of Life''s
   Good Breaks - by Max Gunther'
-wordpress_id: 309
 ---
 
 **The First Technique: Making the Luck/Planning Distinction**

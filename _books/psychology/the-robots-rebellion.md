@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-10-06 15:58:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-robots-rebellion/
+link: https://fluidself.org/books/psychology/the-robots-rebellion
 slug: the-robots-rebellion
 title: "The Robot's Rebellion: Finding Meaning in the Age of Darwin - by Keith E. Stanovich"
 ---

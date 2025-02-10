@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-16 08:02:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/turning-the-mind-into-an-ally/
+link: https://fluidself.org/books/spirituality/turning-the-mind-into-an-ally
 slug: turning-the-mind-into-an-ally
 title: Turning the Mind into an Ally - by Sakyong Mipham
-wordpress_id: 475
 ---
 
 With an untrained mind, we'll live most days of our lives at the mercy of our moods. Waking up in the morning is like gambling: "What mind did I end up with today? Is it the irritated mind, the happy mind, the anxious mind, the angry mind, the compassionate mind, or the loving mind?" Most of the time we believe that the mind-set we have is who we are and we live our day from it. We meditate on it. We don't question it. Whether we wake up feeling dread or excitement or just feeling sleepy, the propelling motivation is simply wanting things to go well for me.

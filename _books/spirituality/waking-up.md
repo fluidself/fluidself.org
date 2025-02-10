@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 09:13:13+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/waking-up/
+link: https://fluidself.org/books/spirituality/waking-up
 slug: waking-up
 title: 'Waking Up: A Guide to Spirituality without Religion - by Sam Harris'
-wordpress_id: 638
 ---
 
 How we pay attention to the present moment largely determines the character of our experience and, therefore, the quality of our lives.

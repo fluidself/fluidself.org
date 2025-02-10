@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-12-06 09:17:49+00:00
-link: https://fluidself.org/books/philosophy/the-book-of-life/
+link: https://fluidself.org/books/philosophy/the-book-of-life
 slug: the-book-of-life
 title: 'The Book of Life: Daily Meditations - by Jiddu Krishnamurti'
 ---

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-16 08:14:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/four-seconds/
+link: https://fluidself.org/books/self-help/four-seconds
 slug: four-seconds
 title: 'Four Seconds: All the Time You Need to Stop Counter-Productive Habits and
   Get the Results You Want - by Peter Bregman'
-wordpress_id: 484
 ---
 
 **PART ONE: CHANGE YOUR MENTAL DEFAULTS**

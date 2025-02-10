@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-07-27 10:50:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/we-are-all-completely-beside-ourselves/
+link: https://fluidself.org/books/fiction/we-are-all-completely-beside-ourselves
 slug: we-are-all-completely-beside-ourselves
 title: We Are All Completely Beside Ourselves - by Karen Joy Fowler
 ---

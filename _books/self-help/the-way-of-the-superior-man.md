@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 10:47:07+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-way-of-the-superior-man/
+link: https://fluidself.org/books/self-help/the-way-of-the-superior-man
 slug: the-way-of-the-superior-man
 title: 'The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges
   of Women, Work, and Sexual Desire - by David Deida'
-wordpress_id: 745
 ---
 
 If you want real passion, you need a ravisher and a ravishee; otherwise, you just have two buddies who decide to rub genitals in bed.

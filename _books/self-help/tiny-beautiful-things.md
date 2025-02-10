@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 06:53:27+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/tiny-beautiful-things/
+link: https://fluidself.org/books/self-help/tiny-beautiful-things
 slug: tiny-beautiful-things
 title: "Tiny Beautiful Things: Advice on Love and Life from Someone Who's Been There
   - by Cheryl Strayed"
-wordpress_id: 677
 ---
 
 The best thing you can possibly do with your life is to tackle the motherfucking shit out of love.

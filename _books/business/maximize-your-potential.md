@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 13:57:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/maximize-your-potential/
+link: https://fluidself.org/books/business/maximize-your-potential
 slug: maximize-your-potential
 title: 'Maximize Your Potential: Grow Your Expertise, Take Bold Risks & Build an Incredible
   Career - by Jocelyn K. Glei'
-wordpress_id: 301
 ---
 
 **CREATING OPPORTUNITIES - KEY TAKEAWAYS**

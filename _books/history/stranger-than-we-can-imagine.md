@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-03-09 10:45:46+00:00
-link: https://fluidself.org/books/history/stranger-than-we-can-imagine/
+link: https://fluidself.org/books/history/stranger-than-we-can-imagine
 slug: stranger-than-we-can-imagine
 title: Stranger Than We Can Imagine - by John Higgs
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:57:14+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/shibumi/
+link: https://fluidself.org/books/fiction/shibumi
 slug: shibumi
 title: Shibumi - by Trevanian
-wordpress_id: 867
 ---
 
 "Shibumi has to do with great refinement underlying commonplace appearances. It is a statement so correct that it does not have to be bold, so poignant it does not have to be pretty, so true it does not have to be real. Shibumi is understanding, rather than knowledge. Eloquent silence. In demeanor, it is modesty without pudency. In art, where the spirit of shibumi takes the form of sabi, it is elegant simplicity, articulate brevity. In philosophy, where shibumi emerges as wabi, it is spiritual tranquility that is not passive; it is being without the angst of becoming. And in the personality of a man, it is… how does one say it? Authority without domination? Something like that."

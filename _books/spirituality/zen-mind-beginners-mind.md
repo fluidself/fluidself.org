@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 13:20:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/zen-mind-beginners-mind/
+link: https://fluidself.org/books/spirituality/zen-mind-beginners-mind
 slug: zen-mind-beginners-mind
 title: Zen Mind, Beginner's Mind - by Shunryu Suzuki
-wordpress_id: 1069
 ---
 
 The practice of Zen mind is beginner's mind. The innocence of the first inquiry--what am I?--is needed throughout Zen practice. The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities. It is the kind of mind which can see things as they are, which step by step and in a flash can realize the original nature of everything.

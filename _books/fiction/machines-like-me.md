@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-06-15 17:50:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/machines-like-me/
+link: https://fluidself.org/books/fiction/machines-like-me
 slug: machines-like-me
 title: Machines Like Me - by Ian McEwan
 ---

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:50:28+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/making-habits-breaking-habits/
+link: https://fluidself.org/books/psychology/making-habits-breaking-habits
 slug: making-habits-breaking-habits
 title: 'Making Habits, Breaking Habits: How to Make Changes that Stick - by Jeremy
   Dean'
-wordpress_id: 858
 ---
 
 **Three main characteristics of a habit:**

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-28 07:23:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/seeking-wisdom/
+link: https://fluidself.org/books/philosophy/seeking-wisdom
 slug: seeking-wisdom
 title: 'Seeking Wisdom: From Darwin To Munger - by Peter Bevelin'
-wordpress_id: 1198
 ---
 
 I advise all of you to read the annual reports of Berkshire Hathaway and Wesco Financial (Charles Munger is chairman). These reports are the best educational tools about how to think about investing and business. The lessons also show us how to behave in life.

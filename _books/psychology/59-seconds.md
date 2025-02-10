@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 06:08:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/59-seconds/
+link: https://fluidself.org/books/psychology/59-seconds
 slug: 59-seconds
 title: '59 Seconds: Change Your Life in Under a Minute - by Richard Wiseman'
-wordpress_id: 757
 ---
 
 **HAPPINESS**

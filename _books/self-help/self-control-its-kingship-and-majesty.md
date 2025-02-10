@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-05 18:08:32+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/self-control-its-kingship-and-majesty/
+link: https://fluidself.org/books/self-help/self-control-its-kingship-and-majesty
 slug: self-control-its-kingship-and-majesty
 title: Self-Control, Its Kingship and Majesty - by William George Jordan
-wordpress_id: 214
 ---
 
 **The Kingship of Self-Control**

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-24 07:49:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/self-reliance/
+link: https://fluidself.org/books/philosophy/self-reliance
 slug: self-reliance
 title: Self-Reliance - by Ralph Waldo Emerson
-wordpress_id: 1109
 ---
 
 To believe your own thought, to believe that what is true for you in your private heart is true for all men, that is genius.

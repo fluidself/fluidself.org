@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-01 15:21:16+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/constructive-living/
+link: https://fluidself.org/books/psychology/constructive-living
 slug: constructive-living
 title: Constructive Living - by David K. Reynolds
-wordpress_id: 1224
 ---
 
 **Life Is Attention**

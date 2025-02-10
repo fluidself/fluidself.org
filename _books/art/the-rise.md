@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-16 08:09:49+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/the-rise/
+link: https://fluidself.org/books/art/the-rise
 slug: the-rise
 title: The Rise - by Sarah Lewis
-wordpress_id: 480
 ---
 
 Mastery requires endurance. Mastery, a word we don't use often, is not the equivalent of what we might consider its cognate--perfectionism--an inhuman aim motivated by a concern with how others view us. Mastery is also not the same as success--an event-based victory based on a peak point, a punctuated moment in time. Mastery is not merely a commitment to a goal, but to a curved-line, constant pursuit.

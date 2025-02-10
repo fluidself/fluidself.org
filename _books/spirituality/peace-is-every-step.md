@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-11 20:55:05+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/peace-is-every-step/
+link: https://fluidself.org/books/spirituality/peace-is-every-step
 slug: peace-is-every-step
 title: 'Peace Is Every Step: The Path of Mindfulness in Everyday Life - by Thich Nhat
   Hanh'
-wordpress_id: 269
 ---
 
 **Smile**

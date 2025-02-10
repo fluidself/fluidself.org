@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-11 10:04:03+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/hard-boiled-wonderland-and-the-end-of-the-world/
+link: https://fluidself.org/books/fiction/hard-boiled-wonderland-and-the-end-of-the-world
 slug: hard-boiled-wonderland-and-the-end-of-the-world
 title: Hard-Boiled Wonderland And The End Of The World - by Haruki Murakami
-wordpress_id: 434
 ---
 
 On the whole, I think of myself as one of those people who take a convenience-sake view of prevailing world conditions, events, existence in general. Not that I'm such a blasé, convenience-sake sort of guy--although I do have tendencies in that direction--but because more often than not I've observed that convenient approximations bring you closest to comprehending the true nature of things.

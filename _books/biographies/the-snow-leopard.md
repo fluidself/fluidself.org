@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:15:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/the-snow-leopard/
+link: https://fluidself.org/books/biographies/the-snow-leopard
 slug: the-snow-leopard
 title: The Snow Leopard - by Peter Matthiessen
-wordpress_id: 60
 ---
 
 (Of GS, I had written earlier that "he is single-minded, not easy to know," and "a stern pragmatist, unable to muster up much grace in the face of unscientific attitudes; he takes a hard-eyed look at almost everything." He was also described as a "lean, intent young man," and I find him as lean and as intent as ever.)

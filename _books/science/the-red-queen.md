@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-29 13:23:18+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-red-queen/
+link: https://fluidself.org/books/science/the-red-queen
 slug: the-red-queen
 title: 'The Red Queen: Sex and the Evolution of Human Nature - by Matt Ridley'
-wordpress_id: 1210
 ---
 
 One of the peculiar features of history is that time always erodes advantage. Every invention sooner or later leads to a counter-invention. Every success contains the seeds of its own overthrow.

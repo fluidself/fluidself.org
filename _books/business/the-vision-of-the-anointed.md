@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-08-27 16:33:09+00:00
-link: https://fluidself.org/books/business/the-vision-of-the-anointed/
+link: https://fluidself.org/books/business/the-vision-of-the-anointed
 slug: the-vision-of-the-anointed
 title: 'The Vision of the Anointed: Self-Congratulation as a Basis for Social Policy - by Thomas Sowell'
 ---

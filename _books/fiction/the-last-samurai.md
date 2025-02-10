@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-19 11:27:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-last-samurai/
+link: https://fluidself.org/books/fiction/the-last-samurai
 slug: the-last-samurai
 title: The Last Samurai - by Helen Dewitt
 ---

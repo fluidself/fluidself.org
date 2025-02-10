@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:01:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/personal-development-for-smart-people/
+link: https://fluidself.org/books/self-help/personal-development-for-smart-people
 slug: personal-development-for-smart-people
 title: Personal Development for Smart People - by Steve Pavlina
-wordpress_id: 595
 ---
 
 **FUNDAMENTAL PRINCIPLES**

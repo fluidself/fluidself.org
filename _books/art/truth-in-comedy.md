@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-09-22 08:17:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/truth-in-comedy/
+link: https://fluidself.org/books/art/truth-in-comedy
 slug: truth-in-comedy
 title: 'Truth in Comedy: The Manual for Improvisation - by Charna Halpern, Del Close'
 ---

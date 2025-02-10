@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-11 16:32:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-road-to-character/
+link: https://fluidself.org/books/philosophy/the-road-to-character
 slug: the-road-to-character
 title: The Road to Character - by David Brooks
-wordpress_id: 447
 ---
 
 The résumé virtues are the ones you list on your résumé, the skills that you bring to the job market and that contribute to external success. The eulogy virtues are deeper. They're the virtues that get talked about at your funeral, the ones that exist at the core of your being--whether you are kind, brave, honest or faithful; what kind of relationships you formed.

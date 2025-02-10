@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-09-22 13:54:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/impro/
+link: https://fluidself.org/books/art/impro
 slug: impro
 title: Impro - by Keith Johnstone
 ---

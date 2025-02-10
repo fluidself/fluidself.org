@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:04:16+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/all-things-shining/
+link: https://fluidself.org/books/philosophy/all-things-shining
 slug: all-things-shining
 title: 'All Things Shining: Reading the Western Classics to Find Meaning in a Secular
   Age - by Hubert Dreyfus, Sean Dorrance Kelly'
-wordpress_id: 807
 ---
 
 **Our Contemporary Nihilism**

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-04 20:29:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/practicing-the-power-of-now/
+link: https://fluidself.org/books/spirituality/practicing-the-power-of-now
 slug: practicing-the-power-of-now
 title: Practicing The Power Of Now - by Eckhart Tolle
-wordpress_id: 202
 ---
 
 Start listening to the voice in your head as often as you can. Pay particular attention to any repetitive thought patterns, those old audiotapes that have been playing in your head perhaps for many years. This is what I mean by "watching the thinker", which is another way of saying: Listen to the voice in your head, be there as the witnessing presence. When you listen to that voice, listen to it impartially. That is to say do not judge. Do not judge or condemn what you hear, for doing so would mean that the same voice has come in again through the back door. You soon realize: There is the voice and here I am listening to it, watching it. This realization, this sense of your own presence, is not a thought. It arises from beyond the mind. So when you listen to a thought, you are aware not only of the thought but also of yourself as the witness of the thought. A new dimension of consciousness has come in.

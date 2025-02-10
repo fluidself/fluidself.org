@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 17:09:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/for-whom-the-bell-tolls/
+link: https://fluidself.org/books/fiction/for-whom-the-bell-tolls
 slug: for-whom-the-bell-tolls
 title: For Whom the Bell Tolls - by Ernest Hemingway
-wordpress_id: 998
 ---
 
 The only good sign was that Pablo was carrying the pack and that he had given him the carbine. Perhaps he is always like that, Robert Jordan thought. Maybe he is just one of the gloomy ones. No, he said to himself, don't fool yourself. You do not know how he was before; but you do know that he is going bad fast and without hiding it. When he starts to hide it he will have made a decision. Remember that, he told himself. The first friendly thing he does, he will have made a decision.

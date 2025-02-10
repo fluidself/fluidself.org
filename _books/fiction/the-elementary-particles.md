@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-12-30 13:26:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-elementary-particles/
+link: https://fluidself.org/books/fiction/the-elementary-particles
 slug: the-elementary-particles
 title: The Elementary Particles - by Michel Houellebecq
 ---

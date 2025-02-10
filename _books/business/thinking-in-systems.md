@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-07-31 09:57:22+00:00
-link: https://fluidself.org/books/business/thinking-in-systems/
+link: https://fluidself.org/books/business/thinking-in-systems
 slug: thinking-in-systems
 title: 'Thinking in Systems: A Primer - by Donella H. Meadows'
 ---

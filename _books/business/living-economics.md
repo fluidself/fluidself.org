@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-13 07:54:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/living-economics/
+link: https://fluidself.org/books/business/living-economics
 slug: living-economics
 title: 'Living Economics: Yesterday, Today, and Tomorrow - by Peter J. Boettke'
-wordpress_id: 1016
 ---
 
 The core idea in the "mainline" approach to economics is that there are two fundamental observations of commercial society: (1) individual pursuit of their self-interest, and (2) complex social order that aligns individual interests with the general interest. In the mainline of economics, the "invisible hand postulate" reconciles self-interest with the general interest not by collapsing one to the other or by assuming super-human cognitive capabilities among the actors, but through the reconciliation process of exchange within specific institutional environments. It is the "higgling and bargaining" within the market economy, as Adam Smith argues, that produces social order. The "invisible hand" solution does not emerge because the mainline economist postulates a perfectly rational individual interacting with other perfectly rational individuals within a perfectly structured market, as many critics suppose. Such idealizations would be as alien to Adam Smith as they would be to F.A. Hayek. Instead, for those who "sit in the seat of Adam Smith" man is a very imperfect being operating within a very imperfect world. Sound economic reasoning, by focusing on exchange, and the institutions within which exchange takes place, explains how complex social order emerges through the aid of prices and the entrepreneurial market process.

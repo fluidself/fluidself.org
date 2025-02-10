@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-04 07:50:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-inner-citadel/
+link: https://fluidself.org/books/philosophy/the-inner-citadel
 slug: the-inner-citadel
 title: 'The Inner Citadel: The Meditations of Marcus Aurelius - by Pierre Hadot'
-wordpress_id: 1229
 ---
 
 | activity                  | domain of reality   | inner attitude       |

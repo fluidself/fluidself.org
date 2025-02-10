@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-22 10:01:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/homo-deus/
+link: https://fluidself.org/books/history/homo-deus
 slug: homo-deus
 title: Homo Deus - by Yuval Noah Harari
 ---

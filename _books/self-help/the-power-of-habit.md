@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-21 09:20:10+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-power-of-habit/
+link: https://fluidself.org/books/self-help/the-power-of-habit
 slug: the-power-of-habit
 title: 'The Power of Habit: Why We Do What We Do in Life and Business - by Charles
   Duhigg'
-wordpress_id: 902
 ---
 
 This process within our brains is a three-step loop. First, there is a cue, a trigger that tells your brain to go into automatic mode and which habit to use. Then there is the routine, which can be physical or mental or emotional. Finally, there is a reward, which helps your brain figure out if this particular loop is worth remembering for the future.

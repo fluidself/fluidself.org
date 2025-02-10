@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 13:43:14+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/lord-chesterfields-letters/
+link: https://fluidself.org/books/history/lord-chesterfields-letters
 slug: lord-chesterfields-letters
 title: Lord Chesterfield's Letters - by Lord Chesterfield
-wordpress_id: 587
 ---
 
 Manners fulfil for Chesterfield an ideal not of civilized or even socialized conduct, but of ready self-advancement: they are tools for achieving private ends, preferable to violence for reasons of efficacy rather than morality.

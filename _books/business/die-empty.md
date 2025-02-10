@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-22 08:07:47+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/die-empty/
+link: https://fluidself.org/books/business/die-empty
 slug: die-empty
 title: 'Die Empty: Unleash Your Best Work Every Day - by Todd Henry'
-wordpress_id: 911
 ---
 
 Instill consistent practices into your life that keep you on a true and steady course. An ounce of preventative discipline today is worth a pound of corrective action later.

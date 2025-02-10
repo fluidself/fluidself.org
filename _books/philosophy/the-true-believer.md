@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-04-23 16:36:57+00:00
-link: https://fluidself.org/books/philosophy/the-true-believer/
+link: https://fluidself.org/books/philosophy/the-true-believer
 slug: the-true-believer
 title: 'The True Believer: Thoughts on the Nature of Mass Movements - by Eric Hoffer'
 ---

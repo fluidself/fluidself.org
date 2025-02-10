@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-26 19:43:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/principles/
+link: https://fluidself.org/books/business/principles
 slug: principles
 title: 'Principles: Life and Work - by Ray Dalio'
 ---

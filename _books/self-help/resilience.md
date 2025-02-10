@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-04 20:22:55+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/resilience/
+link: https://fluidself.org/books/self-help/resilience
 slug: resilience
 title: 'Resilience: Hard-Won Wisdom for Living a Better Life - by Eric Greitens'
-wordpress_id: 197
 ---
 
 **Your Frontline**

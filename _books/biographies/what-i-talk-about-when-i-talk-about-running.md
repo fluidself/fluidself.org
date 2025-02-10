@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 09:05:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/what-i-talk-about-when-i-talk-about-running/
+link: https://fluidself.org/books/biographies/what-i-talk-about-when-i-talk-about-running
 slug: what-i-talk-about-when-i-talk-about-running
 title: What I Talk About When I Talk About Running - by Haruki Murakami
-wordpress_id: 375
 ---
 
 No matter how mundane some action might appear, keep at it long enough and it becomes a contemplative, even meditative act.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-21 11:25:35+00:00
-link: https://fluidself.org/books/fiction/black-dogs/
+link: https://fluidself.org/books/fiction/black-dogs
 slug: black-dogs
 title: Black Dogs - by Ian McEwan
 ---

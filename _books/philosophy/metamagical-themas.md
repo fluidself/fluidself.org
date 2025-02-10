@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 12:08:26+00:00
-link: https://fluidself.org/books/philosophy/metamagical-themas/
+link: https://fluidself.org/books/philosophy/metamagical-themas
 slug: metamagical-themas
 title: 'Metamagical Themas: Questing for the Essence of Mind and Pattern - by Douglas Hofstadter'
 ---

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 07:41:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-psychedelic-explorers-guide/
+link: https://fluidself.org/books/psychology/the-psychedelic-explorers-guide
 slug: the-psychedelic-explorers-guide
 title: 'The Psychedelic Explorer''s Guide: Safe, Therapeutic, and Sacred Journeys
   - by James Fadiman Ph.D.'
-wordpress_id: 1043
 ---
 
 To establish the best possible environment for spiritual psychedelic sessions, it is critical to keep in mind six primary factors that most affect the nature and value of these experiences:

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-17 08:33:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-compound-effect/
+link: https://fluidself.org/books/self-help/the-compound-effect
 slug: the-compound-effect
 title: The Compound Effect - by Darren Hardy
-wordpress_id: 507
 ---
 
 **ACTION STEPS**

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-01-11 15:47:19+00:00
-link: https://fluidself.org/books/self-help/designing-your-life/
+link: https://fluidself.org/books/self-help/designing-your-life
 slug: designing-your-life
 title: 'Designing Your Life: Build a Life that Works for You - by Bill Burnett, Dave Evans'
 ---

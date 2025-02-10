@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:11:13+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/ikigai/
+link: https://fluidself.org/books/business/ikigai
 slug: ikigai
 title: Ikigai - by Sebastian Marshall
-wordpress_id: 1261
 ---
 
 "Persuade thyself that imperfection and inconvenience are the natural lot of mortals, and there will be no room for discontent, neither for despair." Imperfection and inconvenience are part of the bargain of being human. Do not act rashly or impulsively. There's no reason to feel discontent or despair when things are going wrong. Things are never perfect. Acknowledge things as they are, always. Discontent and despair don't serve you. When bad feelings come over you, acknowledge them and dismiss them. Thinking, reflection, and self-control reigns. Keep building. Win.

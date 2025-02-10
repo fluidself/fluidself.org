@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-27 12:14:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/a-river-runs-through-it/
+link: https://fluidself.org/books/fiction/a-river-runs-through-it
 slug: a-river-runs-through-it
 title: A River Runs Through It and Other Stories - by Norman Maclean
-wordpress_id: 1183
 ---
 
 My father was very sure about certain matters pertaining to the universe. To him, all good things--trout as well as eternal salvation--come by grace and grace comes by art and art does not come easy.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 13:37:49+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/on-the-road/
+link: https://fluidself.org/books/fiction/on-the-road
 slug: on-the-road
 title: On the Road - by Jack Kerouac
-wordpress_id: 324
 ---
 
 Wishing I were a Negro, feeling that the best the white world had offered was not enough ecstasy for me, not enough life, joy, kicks, darkness, music, not enough night.

@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-27 15:59:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/barking-up-the-wrong-tree/
+link: https://fluidself.org/books/psychology/barking-up-the-wrong-tree
 slug: barking-up-the-wrong-tree
 title: 'Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong - by Eric Barker'
 ---

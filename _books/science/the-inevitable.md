@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-11 20:46:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-inevitable/
+link: https://fluidself.org/books/science/the-inevitable
 slug: the-inevitable
 title: 'The Inevitable: Understanding the 12 Technological Forces That Will Shape
   Our Future - by Kevin Kelly'
-wordpress_id: 265
 ---
 
 We are morphing so fast that our ability to invent new things outpaces the rate we can civilize them. These days it takes us a decade after a technology appears to develop a social consensus on what it means and what etiquette we need to tame it.

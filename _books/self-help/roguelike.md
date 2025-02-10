@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-11 10:13:37+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/roguelike/
+link: https://fluidself.org/books/self-help/roguelike
 slug: roguelike
 title: Roguelike - by Sebastian Marshall
-wordpress_id: 438
 ---
 
 In my opinion, this single shift -- towards "Hardcore Mode" where everything counts, no re-do's, death is permanent -- is what took my video-game playing habit from a mostly useless entertainment indulgence into something that actually starts to produce useful life lessons. Life, after all, life itself is run in "Hardcore Mode" -- there's no reload button if you screw up a job interview, or get mugged in a dangerous foreign country, or whatever other thing might happen in your adventures. By playing in Hardcore Mode, games became about thinking, strategy, preparation, balancing the tradeoffs between safety and resource usage (should I use the potion now to guarantee I win this one? will I need it later?); it requires creativity and patience. An additional underrated bonus is you'll usually do something stupid and get yourself killed when you're tired, so for savvy players, it de facto sets a "it's better to turn the game off now..." time.

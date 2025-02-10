@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 09:24:03+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-little-book-of-talent/
+link: https://fluidself.org/books/self-help/the-little-book-of-talent
 slug: the-little-book-of-talent
 title: 'The Little Book of Talent: 52 Tips for Improving Your Skills - by Daniel Coyle'
-wordpress_id: 645
 ---
 
 **GETTING STARTED**

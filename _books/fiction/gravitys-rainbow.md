@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-01-14 16:47:22+00:00
-link: https://fluidself.org/books/fiction/gravitys-rainbow/
+link: https://fluidself.org/books/fiction/gravitys-rainbow
 slug: gravitys-rainbow
 title: Gravity's Rainbow - by Thomas Pynchon
 ---

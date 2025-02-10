@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 17:11:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/siddhartha/
+link: https://fluidself.org/books/fiction/siddhartha
 slug: siddhartha
 title: Siddhartha - by Hermann Hesse
-wordpress_id: 1001
 ---
 
 Siddhartha knew many worthy Brahmins, above all his father -- holy, learned, of highest esteem. His father was worthy of admiration; his manner was quiet and noble. He lived a good life, his words were wise; fine and noble thoughts dwelt in his head -- but even he who knew so much, did he live in bliss, was he at peace? Was he not also a seeker, insatiable? Did he not go continually to the holy springs with an insatiable thirst, to the sacrifices, to books, to the Brahmins' discourses? Why must he, the blameless one, wash away his sins and endeavour to cleanse himself anew each day? Was Atman then not within him? Was not then the source within his own heart? One must find the source within one's own Self, one must possess it. Everything else was seeking -- a detour, error. These were Siddhartha's thoughts; this was his thirst, his sorrow.

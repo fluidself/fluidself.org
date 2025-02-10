@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-08 08:39:31+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-power-of-no/
+link: https://fluidself.org/books/self-help/the-power-of-no
 slug: the-power-of-no
 title: 'The Power of No: Because One Little Word Can Bring Health, Abundance, and
   Happiness - by James Altucher'
-wordpress_id: 657
 ---
 
 When you say yes to something you don't want to do, here is the result: you hate what you are doing, you resent the person who asked you, and you hurt yourself.

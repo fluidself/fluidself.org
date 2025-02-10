@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-30 07:56:30+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-happiness-trap/
+link: https://fluidself.org/books/psychology/the-happiness-trap
 slug: the-happiness-trap
 title: 'The Happiness Trap: How to Stop Struggling and Start Living: A Guide to ACT
   - by Russ Harris'
-wordpress_id: 1302
 ---
 
 **PART 1: How You Set The Happiness Trap**

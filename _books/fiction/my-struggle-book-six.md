@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-12-15 15:35:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/my-struggle-book-six/
+link: https://fluidself.org/books/fiction/my-struggle-book-six
 slug: my-struggle-book-six
 title: 'My Struggle: Book 6 - by Karl Ove Knausgaard'
 ---

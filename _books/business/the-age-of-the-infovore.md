@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-04-23 16:23:09+00:00
-link: https://fluidself.org/books/business/the-age-of-the-infovore/
+link: https://fluidself.org/books/business/the-age-of-the-infovore
 slug: the-age-of-the-infovore
 title: The Age of the Infovore - by Tyler Cowen
 ---

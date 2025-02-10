@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 06:38:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-moviegoer/
+link: https://fluidself.org/books/fiction/the-moviegoer
 slug: the-moviegoer
 title: The Moviegoer - by Walker Percy
-wordpress_id: 776
 ---
 
 The search is what anyone would undertake if he were not sunk in the everydayness of his own life. To become aware of the possibility of the search is to be onto something. Not to be onto something is to be in despair.

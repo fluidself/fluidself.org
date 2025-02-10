@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-01-05 16:01:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/exhalation/
+link: https://fluidself.org/books/fiction/exhalation
 slug: exhalation
 title: Exhalation - by Ted Chiang
 ---

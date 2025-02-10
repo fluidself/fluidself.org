@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-05 18:01:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/too-soon-old-too-late-smart/
+link: https://fluidself.org/books/psychology/too-soon-old-too-late-smart
 slug: too-soon-old-too-late-smart
 title: 'Too Soon Old, Too Late Smart: Thirty True Things You Need to Know Now - by
   Gordon Livingston Md'
-wordpress_id: 211
 ---
 
 **1: If the map doesn't agree with the ground, the map is wrong.**

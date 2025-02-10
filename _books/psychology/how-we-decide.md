@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 14:47:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/how-we-decide/
+link: https://fluidself.org/books/psychology/how-we-decide
 slug: how-we-decide
 title: How We Decide - by Jonah Lehrer
-wordpress_id: 1143
 ---
 
 When evolution was building the brain, it didn't bother to replace all of these emotional processes with new operations under explicit, conscious control. If something isn't broken, then natural selection isn't going to fix it. The mind is made out of used parts, engineered by a blind watchmaker. The result is that the uniquely human areas of the mind depend on the primitive mind underneath. The process of thinking requires feeling, for feelings are what let us understand all the information that we can't directly comprehend. Reason without emotion is impotent.

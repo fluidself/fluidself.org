@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-22 08:38:08+00:00
-link: https://fluidself.org/books/philosophy/bronze-age-mindset/
+link: https://fluidself.org/books/philosophy/bronze-age-mindset
 slug: bronze-age-mindset
 title: Bronze Age Mindset - by Bronze Age Pervert
 ---

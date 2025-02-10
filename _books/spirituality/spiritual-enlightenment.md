@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:17:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/spiritual-enlightenment/
+link: https://fluidself.org/books/spirituality/spiritual-enlightenment
 slug: spiritual-enlightenment
 title: 'Spiritual Enlightenment: The Damnedest Thing - by Jed McKenna'
-wordpress_id: 714
 ---
 
 "Act, but don't reflect on the fruit of the act," said Krishna to Arjuna.

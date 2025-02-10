@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 07:47:18+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/lying/
+link: https://fluidself.org/books/philosophy/lying
 slug: lying
 title: Lying - by Sam Harris
-wordpress_id: 940
 ---
 
 To lie is to intentionally mislead others when they expect honest communication. People lie so that others will form beliefs that are not true. The more consequential the beliefs--that is, the more a person's well-being depends upon a correct understanding of the world--the more consequential the lie.

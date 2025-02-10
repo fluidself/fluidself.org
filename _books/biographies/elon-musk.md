@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-03-09 09:15:37+00:00
-link: https://fluidself.org/books/biographies/elon-musk/
+link: https://fluidself.org/books/biographies/elon-musk
 slug: elon-musk
 title: Elon Musk - by Walter Isaacson
 ---

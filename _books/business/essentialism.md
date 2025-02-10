@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 09:00:41+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/essentialism/
+link: https://fluidself.org/books/business/essentialism
 slug: essentialism
 title: 'Essentialism: The Disciplined Pursuit of Less - by Greg McKeown'
-wordpress_id: 627
 ---
 
 The way of the Essentialist means living by design, not by default. Instead of making choices reactively, the Essentialist deliberately distinguishes the vital few from the trivial many, eliminates the non-essentials, and then removes obstacles so the essential things have clear, smooth passage. In other words, Essentialism is a disciplined, systematic approach for determining where our highest point of contribution lies, then making execution of those things almost effortless.

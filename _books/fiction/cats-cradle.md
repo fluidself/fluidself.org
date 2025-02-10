@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 14:20:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/cats-cradle/
+link: https://fluidself.org/books/fiction/cats-cradle
 slug: cats-cradle
 title: Cat's Cradle - by Kurt Vonnegut
-wordpress_id: 615
 ---
 
 "New knowledge is the most valuable commodity on earth. The more truth we have to work with, the richer we become."

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-24 16:12:25+00:00
-link: https://fluidself.org/books/science/the-age-of-em/
+link: https://fluidself.org/books/science/the-age-of-em
 slug: the-age-of-em
 title: 'The Age of Em: Work, Love and Life when Robots Rule the Earth - by Robin Hanson'
 ---

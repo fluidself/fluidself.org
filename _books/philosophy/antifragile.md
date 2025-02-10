@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 07:44:08+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/antifragile/
+link: https://fluidself.org/books/philosophy/antifragile
 slug: antifragile
 title: "Antifragile: How to Live in a World We Don't Understand - by Nassim Nicholas
   Taleb"
-wordpress_id: 1114
 ---
 
 Wind extinguishes a candle and energizes fire. Likewise with randomness, uncertainty, chaos: you want to use them, not hide from them. You want to be the fire and wish for the wind.

@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-02-03 15:27:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-courage-to-be-disliked/
+link: https://fluidself.org/books/psychology/the-courage-to-be-disliked
 slug: the-courage-to-be-disliked
 title: The Courage to Be Disliked - by Ichiro Kishimi and Fumitake Koga
 ---

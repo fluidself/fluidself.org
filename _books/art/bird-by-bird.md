@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-06-02 12:16:59+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/bird-by-bird/
+link: https://fluidself.org/books/art/bird-by-bird
 slug: bird-by-bird
 title: 'Bird by Bird: Some Instructions on Writing and Life - by Anne Lamott'
-wordpress_id: 89
 ---
 
 **PART ONE: WRITING**

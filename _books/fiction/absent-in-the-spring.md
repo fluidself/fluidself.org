@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-30 06:55:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/absent-in-the-spring/
+link: https://fluidself.org/books/fiction/absent-in-the-spring
 slug: absent-in-the-spring
 title: Absent in the Spring - by Agatha Christie writing as Mary Westmacott
-wordpress_id: 1299
 ---
 
 She thought to herself, How curious it is walking like this … there's nowhere to walk to. It was a novel and rather interesting idea. Walking on the downs, on moorland, on a beach, down a road – there was always some objective in view. Over that hill, to that clump of trees, to that patch of heather, down this lane to the farm, along the high road to the next town, by the side of the waves to the next cove. But here it was from – not to. Away from the rest house – that was all. Right hand, left hand, straight ahead – just bare dun-coloured horizon.

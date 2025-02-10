@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-11-11 17:01:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/the-right-stuff/
+link: https://fluidself.org/books/history/the-right-stuff
 slug: the-right-stuff
 title: The Right Stuff - by Tom Wolfe
 ---

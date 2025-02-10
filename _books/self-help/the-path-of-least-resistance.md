@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-01-11 17:10:19+00:00
-link: https://fluidself.org/books/self-help/the-path-of-least-resistance/
+link: https://fluidself.org/books/self-help/the-path-of-least-resistance
 slug: the-path-of-least-resistance
 title: 'The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life - by Robert Fritz'
 ---

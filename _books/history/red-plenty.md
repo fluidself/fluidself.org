@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-04-23 11:45:46+00:00
-link: https://fluidself.org/books/history/red-plenty/
+link: https://fluidself.org/books/history/red-plenty
 slug: red-plenty
 title: Red Plenty - by Francis Spufford
 ---

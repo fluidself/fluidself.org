@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-20 07:48:52+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/thinking-and-deciding/
+link: https://fluidself.org/books/psychology/thinking-and-deciding
 slug: thinking-and-deciding
 title: Thinking and Deciding, 4th Edition - by Jonathan Baron
-wordpress_id: 1080
 ---
 
 **The logical theory of probability**

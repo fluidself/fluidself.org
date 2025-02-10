@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-19 11:20:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-nix/
+link: https://fluidself.org/books/fiction/the-nix
 slug: the-nix
 title: The Nix - by Nathan Hill
 ---

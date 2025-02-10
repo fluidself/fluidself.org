@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-27 12:03:49+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-demon-haunted-world/
+link: https://fluidself.org/books/science/the-demon-haunted-world
 slug: the-demon-haunted-world
 title: 'The Demon-Haunted World: Science As a Candle In The Dark - by Carl Sagan'
-wordpress_id: 1173
 ---
 
 Back-of-the-envelope calculation: a possible explanation to a problem occurs to you, you pull out an old envelope, appeal to your knowledge of fundamental physics, scribble a few approxi­mate equations on the envelope, substitute in likely numerical values, and see if your answer comes anywhere near explaining your problem. If not, you look for a different explanation. It cut through nonsense like a knife through butter.

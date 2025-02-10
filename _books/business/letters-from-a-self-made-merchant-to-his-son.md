@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:38:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/letters-from-a-self-made-merchant-to-his-son/
+link: https://fluidself.org/books/business/letters-from-a-self-made-merchant-to-his-son
 slug: letters-from-a-self-made-merchant-to-his-son
 title: Letters from a Self-Made Merchant to His Son - by John Graham
-wordpress_id: 823
 ---
 
 The first thing that any education ought to give a man is character, and the second thing is education. That is where I'm a little skittish about this college business. There are two parts of a college education--the part that you get in the schoolroom from the professors, and the part that you get outside of it from the boys. That's the really important part. For the first can only make you a scholar, while the second can make you a man.

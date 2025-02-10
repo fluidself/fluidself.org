@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-16 07:41:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/healing-back-pain/
+link: https://fluidself.org/books/health-and-fitness/healing-back-pain
 slug: healing-back-pain
 title: 'Healing Back Pain: The Mind-Body Connection - by John E. Sarno'
-wordpress_id: 468
 ---
 
 **The Manifestations of Tension Myositis Syndrome (TMS)**

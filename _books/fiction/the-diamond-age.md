@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-03-03 13:35:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-diamond-age/
+link: https://fluidself.org/books/fiction/the-diamond-age
 slug: the-diamond-age
 title: The Diamond Age - by Neal Stephenson
 ---

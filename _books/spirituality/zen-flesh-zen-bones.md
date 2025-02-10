@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 13:09:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/zen-flesh-zen-bones/
+link: https://fluidself.org/books/spirituality/zen-flesh-zen-bones
 slug: zen-flesh-zen-bones
 title: 'Zen Flesh Zen Bones: A Collection of Zen and Pre-Zen Writings - by Paul Reps
   (Compiler)'
-wordpress_id: 1061
 ---
 
 **A Parable**

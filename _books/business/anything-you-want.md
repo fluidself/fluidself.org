@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:15:53+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/anything-you-want/
+link: https://fluidself.org/books/business/anything-you-want
 slug: anything-you-want
 title: 'Anything You Want: 40 Lessons for a New Kind of Entrepreneur - by Derek Sivers'
-wordpress_id: 62
 ---
 
 - Business is not about money. It's about making dreams come true for others and for yourself.

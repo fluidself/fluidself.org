@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-22 19:03:32+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/your-brain-at-work/
+link: https://fluidself.org/books/psychology/your-brain-at-work
 slug: your-brain-at-work
 title: 'Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus,
   and Working Smarter All Day Long - by David Rock'
-wordpress_id: 1097
 ---
 
 **PROBLEMS AND DECISIONS**

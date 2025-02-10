@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-07 16:45:51+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-7-laws-of-magical-thinking/
+link: https://fluidself.org/books/psychology/the-7-laws-of-magical-thinking
 slug: the-7-laws-of-magical-thinking
 title: 'The 7 Laws of Magical Thinking: How Irrational Beliefs Keep Us Happy, Healthy,
   and Sane - by Matthew Hutson'
-wordpress_id: 254
 ---
 
 **Objects Carry Essences**

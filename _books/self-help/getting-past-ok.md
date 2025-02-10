@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 16:15:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/getting-past-ok/
+link: https://fluidself.org/books/self-help/getting-past-ok
 slug: getting-past-ok
 title: 'Getting Past OK: The Self-Help Book for People Who Don’t Need Help - by Richard
   Brodie'
-wordpress_id: 973
 ---
 
 **PART I: LIFE**

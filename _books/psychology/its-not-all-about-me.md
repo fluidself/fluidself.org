@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 14:16:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/its-not-all-about-me/
+link: https://fluidself.org/books/psychology/its-not-all-about-me
 slug: its-not-all-about-me
 title: "It's Not All About 'Me': The Top Ten Techniques for Building Quick Rapport
   with Anyone - by Robin Dreeke"
-wordpress_id: 317
 ---
 
 1.  **Establishing artificial time constraints:** Allow the person being targeted to feel that there is an end in sight.

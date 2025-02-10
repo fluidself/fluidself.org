@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-24 16:12:25+00:00
-link: https://fluidself.org/books/self-help/be-useful/
+link: https://fluidself.org/books/self-help/be-useful
 slug: be-useful
 title: 'Be Useful: Seven Tools for Life - by Arnold Schwarzenegger'
 ---

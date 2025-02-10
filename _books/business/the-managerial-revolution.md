@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-04-04 10:57:22+00:00
-link: https://fluidself.org/books/business/the-managerial-revolution/
+link: https://fluidself.org/books/business/the-managerial-revolution
 slug: the-managerial-revolution
 title: 'The Managerial Revolution: What is Happening in the World - by James Burnham'
 ---

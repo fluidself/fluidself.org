@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-12-31 10:43:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-origin-of-wealth/
+link: https://fluidself.org/books/business/the-origin-of-wealth
 slug: the-origin-of-wealth
 title: 'The Origin of Wealth: Evolution, Complexity, And the Radical Remaking of Economics - by Eric D. Beinhocker'
 ---

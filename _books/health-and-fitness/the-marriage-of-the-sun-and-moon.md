@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-11 10:01:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/the-marriage-of-the-sun-and-moon/
+link: https://fluidself.org/books/health-and-fitness/the-marriage-of-the-sun-and-moon
 slug: the-marriage-of-the-sun-and-moon
 title: The Marriage of the Sun and Moon - by Andrew Weil
-wordpress_id: 430
 ---
 
 - Human beings are born with a drive to experience modes of awareness other than the normal waking one; from very young ages, children experiment with techniques to change consciousness.

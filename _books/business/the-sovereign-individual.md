@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-18 19:43:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-sovereign-individual/
+link: https://fluidself.org/books/business/the-sovereign-individual
 slug: the-sovereign-individual
 title: The Sovereign Individual - by James Dale Davidson and William Rees-Mogg
 ---

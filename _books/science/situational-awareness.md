@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-08-02 15:02:25+00:00
-link: https://fluidself.org/books/science/situational-awareness/
+link: https://fluidself.org/books/science/situational-awareness
 slug: situational-awareness
 title: 'Situational Awareness - by Leopold Aschenbrenner'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:16:19+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/improv-wisdom/
+link: https://fluidself.org/books/art/improv-wisdom
 slug: improv-wisdom
 title: "Improv Wisdom: Don't Prepare, Just Show Up - by Patricia Ryan Madson"
-wordpress_id: 64
 ---
 
 A good improviser is someone who is awake, not entirely self-focused, and moved by a desire to do something useful and give something back and who acts upon this impulse.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-08-27 16:17:26+00:00
-link: https://fluidself.org/books/psychology/the-elephant-in-the-brain/
+link: https://fluidself.org/books/psychology/the-elephant-in-the-brain
 slug: the-elephant-in-the-brain
 title: 'The Elephant in the Brain: Hidden Motives in Everyday Life - by Robin Hanson, Kevin Simler'
 ---

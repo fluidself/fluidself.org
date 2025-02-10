@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:59:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-untethered-soul/
+link: https://fluidself.org/books/spirituality/the-untethered-soul
 slug: the-untethered-soul
 title: 'The Untethered Soul: The Journey Beyond Yourself - by Michael A. Singer'
-wordpress_id: 733
 ---
 
 There is nothing more important to true growth than realizing that you are not the voice of the mind--you are the one who hears it. Come to know the one who watches the voice, and you will come to know one of the great mysteries of creation.

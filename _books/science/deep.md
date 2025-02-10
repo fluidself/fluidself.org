@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 08:36:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/deep/
+link: https://fluidself.org/books/science/deep
 slug: deep
 title: 'Deep: Freediving, Renegade Science and What the Ocean Tells Us About Ourselves
   - by James Nestor'
-wordpress_id: 353
 ---
 
 Scientists call it the mammalian dive reflex or, more lyrically, the Master Switch of Life, and they've been researching it for the past fifty years. The term Master Switch of Life was coined by physiologist Per Scholander in 1963. It refers to a variety of physiological reflexes in the brain, lungs, and heart, among other organs, that are triggered the second we put our faces in water. The deeper we dive, the more pronounced the reflexes become, eventually spurring a physical transformation that protects our organs from imploding under the immense underwater pressure and turns us into efficient deep-sea-diving animals. Freedivers can anticipate these switches and exploit them to dive deeper and longer.

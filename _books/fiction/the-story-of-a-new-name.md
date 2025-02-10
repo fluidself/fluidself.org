@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-03-15 16:47:22+00:00
-link: https://fluidself.org/books/fiction/the-story-of-a-new-name/
+link: https://fluidself.org/books/fiction/the-story-of-a-new-name
 slug: the-story-of-a-new-name
 title: The Story of a New Name - by Elena Ferrante
 ---

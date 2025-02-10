@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 16:28:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/full-catastrophe-living/
+link: https://fluidself.org/books/psychology/full-catastrophe-living
 slug: full-catastrophe-living
 title: 'Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress,
   Pain, and Illness - by Jon Kabat-Zinn'
-wordpress_id: 899
 ---
 
 There is not one person on the planet who does not have his or her own version of the full catastrophe. Catastrophe here does not mean disaster. Rather it means the poignant enormity of our life experience. It includes crises and disaster but also all the little things that go wrong and that add up. The phrase reminds us that life is always in flux, that everything we think is permanent is actually only temporary and constantly changing. This includes our ideas, our opinions, our relationships, our jobs, our possessions, our creations, our bodies, everything.

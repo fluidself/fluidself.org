@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 13:54:01+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/how-to-stop-worrying-and-start-living/
+link: https://fluidself.org/books/self-help/how-to-stop-worrying-and-start-living
 slug: how-to-stop-worrying-and-start-living
 title: How to Stop Worrying and Start Living - by Dale Carnegie
-wordpress_id: 297
 ---
 
 **Live in "Day-tight Compartments"**

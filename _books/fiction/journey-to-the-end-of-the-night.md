@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 14:42:48+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/journey-to-the-end-of-the-night/
+link: https://fluidself.org/books/fiction/journey-to-the-end-of-the-night
 slug: journey-to-the-end-of-the-night
 title: Journey to the End of the Night - by Louis-Ferdinand Céline
-wordpress_id: 1135
 ---
 
 In the kitchens of love, after all, vice is like the pepper in a good sauce; it brings out the flavor, it's indispensable.

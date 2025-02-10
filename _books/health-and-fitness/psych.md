@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-08 09:44:40+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/psych/
+link: https://fluidself.org/books/health-and-fitness/psych
 slug: psych
 title: Psych - by Judd Biasiotto
-wordpress_id: 970
 ---
 
 When I was actively competing, I went to great pains to procure as much information as possible about strength training and powerlifting. I read practically everything I could get my hands on...books about training routines, ergogenic aids, nutrition, biomechanics, etc. I searched the literature for experiments that dealt with any of these subject areas. I also called or visited prominent coaches and athletes throughout the country. Through it all, I obtained a prolific amount of information that greatly enhanced my training and competitive performance. If you want to reach an optimum level of performance, you will need to do the same thing. The fact that few athletes and coaches engage in intellectual training gives you even a greater edge by doing so. Even a small edge can mean the difference between being good and being great. Without question, the more you know, the better you are likely to be.

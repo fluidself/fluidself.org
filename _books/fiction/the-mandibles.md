@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-12-15 15:05:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-mandibles/
+link: https://fluidself.org/books/fiction/the-mandibles
 slug: the-mandibles
 title: The Mandibles - by Lionel Shriver
 ---

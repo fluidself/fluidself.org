@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-17 17:08:26+00:00
-link: https://fluidself.org/books/philosophy/the-human-condition/
+link: https://fluidself.org/books/philosophy/the-human-condition
 slug: the-human-condition
 title: The Human Condition - by Hannah Arendt
 ---

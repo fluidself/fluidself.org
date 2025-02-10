@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-28 17:20:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/solve-for-happy/
+link: https://fluidself.org/books/self-help/solve-for-happy
 slug: solve-for-happy
 title: 'Solve For Happy: Engineer Your Path to Joy - by Mo Gawdat'
 ---

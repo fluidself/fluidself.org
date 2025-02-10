@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 12:28:23+00:00
-link: https://fluidself.org/books/spirituality/the-mind-illuminated/
+link: https://fluidself.org/books/spirituality/the-mind-illuminated
 slug: the-mind-illuminated
 title: 'The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science - by Culadasa (John Yates)'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 09:19:14+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/norwegian-wood/
+link: https://fluidself.org/books/fiction/norwegian-wood
 slug: norwegian-wood
 title: Norwegian Wood - by Haruki Murakami
-wordpress_id: 384
 ---
 
 Memory is a funny thing. When I was in the scene I hardly paid it any attention. I never stopped to think of it as something that would make a lasting impression, certainly never imagined that 18 years later I would recall it in such detail.

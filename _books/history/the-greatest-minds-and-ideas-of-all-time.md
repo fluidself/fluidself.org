@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 16:31:08+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/the-greatest-minds-and-ideas-of-all-time/
+link: https://fluidself.org/books/history/the-greatest-minds-and-ideas-of-all-time
 slug: the-greatest-minds-and-ideas-of-all-time
 title: The Greatest Minds and Ideas of All Time - by Will Durant
-wordpress_id: 978
 ---
 
 The real history of man is not in prices and wages, nor in elections and battles, nor in the even tenor of the common man; it is in the lasting contributions made by geniuses to the sum of human civilization and culture.

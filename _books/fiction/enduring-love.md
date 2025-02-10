@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-08-31 19:03:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/enduring-love/
+link: https://fluidself.org/books/fiction/enduring-love
 slug: enduring-love
 title: Enduring Love - by Ian McEwan
 ---

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-12-02 14:11:22+00:00
-link: https://fluidself.org/books/fiction/mortals/
+link: https://fluidself.org/books/fiction/mortals
 slug: mortals
 title: Mortals - by Norman Rush
 ---

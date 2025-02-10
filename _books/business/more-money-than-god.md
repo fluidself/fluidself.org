@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 07:29:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/more-money-than-god/
+link: https://fluidself.org/books/business/more-money-than-god
 slug: more-money-than-god
 title: 'More Money Than God: Hedge Funds and the Making of a New Elite - by Sebastian
   Mallaby'
-wordpress_id: 692
 ---
 
 Capitalism works only when institutions are forced to absorb the consequences of the risks that they take on. When banks can pocket the upside while spreading the cost of their failures, failure is almost certain. If they are serious about learning from the 2007–2009 crisis, policy makers need to restrain financial supermarkets with confused and overlapping objectives, encouraging focused boutiques that live or die according to the soundness of their risk management. They need to shift capital out of institutions underwritten by taxpayers and into ones that stand on their own feet. They need to shrink institutions that are too big to fail and favor ones that are small enough to go under.

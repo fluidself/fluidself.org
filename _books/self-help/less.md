@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 06:49:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/less/
+link: https://fluidself.org/books/self-help/less
 slug: less
 title: 'Less: Accomplishing More by Doing Less - by Marc Lesser'
-wordpress_id: 779
 ---
 
 The guiding principle is that when we approach any task in the right spirit, we become more successful and efficient at it. When we engage in fewer self-defeating behaviors, when we feel less fear, when we become less distracted, we accomplish more of whatever we set our hearts to.

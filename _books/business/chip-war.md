@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-24 16:43:24+00:00
-link: https://fluidself.org/books/business/chip-war/
+link: https://fluidself.org/books/business/chip-war
 slug: chip-war
 title: "Chip War: The Fight for the World's Most Critical Technology - by Chris Miller"
 ---

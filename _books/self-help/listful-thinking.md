@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-11 16:44:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/listful-thinking/
+link: https://fluidself.org/books/self-help/listful-thinking
 slug: listful-thinking
 title: Listful Thinking - by Paula Rizzo
-wordpress_id: 451
 ---
 
 **Oprah Quotes**

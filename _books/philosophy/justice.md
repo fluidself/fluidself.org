@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-11 16:47:26+00:00
-link: https://fluidself.org/books/philosophy/justice/
+link: https://fluidself.org/books/philosophy/justice
 slug: justice
 title: "Justice: What's The Right Thing to Do? - by Michael J. Sandel"
 ---

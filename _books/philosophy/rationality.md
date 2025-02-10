@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-31 12:42:26+00:00
-link: https://fluidself.org/books/philosophy/rationality/
+link: https://fluidself.org/books/philosophy/rationality
 slug: rationality
 title: 'Rationality: From AI to Zombies - by Eliezer Yudkowsky'
 ---

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:46:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/quiet/
+link: https://fluidself.org/books/psychology/quiet
 slug: quiet
 title: 'Quiet: The Power of Introverts in a World That Can''t Stop Talking - by Susan
   Cain'
-wordpress_id: 829
 ---
 
 Introversion--along with its cousins sensitivity, seriousness, and shyness--is now a second-class personality trait, somewhere between a disappointment and a pathology. Introverts living under the Extrovert Ideal are like women in a man's world, discounted because of a trait that goes to the core of who they are. Extroversion is an enormously appealing personality style, but we've turned it into an oppressive standard to which most of us feel we must conform.

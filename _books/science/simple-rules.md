@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:47:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/simple-rules/
+link: https://fluidself.org/books/science/simple-rules
 slug: simple-rules
 title: Simple Rules - by Donald Sull
-wordpress_id: 422
 ---
 
 Simple rules are shortcut strategies that save time and effort by focusing our attention and simplifying the way we process information. The rules aren't universal--they're tailored to the particular situation and the person using them. Simple rules work, it turns out, because they do three things very well. First, they confer the flexibility to pursue new opportunities while maintaining some consistency. Second, they can produce better decisions. When information is limited and time is short, simple rules make it fast and easy for people, organizations, and governments to make sound choices. They can even outperform complicated decision-making approaches in some situations. Finally, simple rules allow the members of a community to synchronize their activities with one another on the fly. As a result, communities can do things that would be impossible for their individual members to achieve on their own.

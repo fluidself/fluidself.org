@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-27 12:07:49+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/beyond-good-and-evil/
+link: https://fluidself.org/books/philosophy/beyond-good-and-evil
 slug: beyond-good-and-evil
 title: Beyond Good and Evil - by Friedrich Nietzsche
-wordpress_id: 1177
 ---
 
 Christianity is Platonism for the "people."

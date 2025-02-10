@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-02-12 16:45:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/life-in-code/
+link: https://fluidself.org/books/biographies/life-in-code
 slug: life-in-code
 title: Life in Code - by Ellen Ullman
 ---

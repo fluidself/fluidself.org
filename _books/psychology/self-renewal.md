@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-08 08:49:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/self-renewal/
+link: https://fluidself.org/books/psychology/self-renewal
 slug: self-renewal
 title: 'Self-Renewal: The Individual and the Innovative Society - by John W. Gardner'
-wordpress_id: 664
 ---
 
 Every individual, organization or society must mature, but much depends on how this maturing takes place. A society whose maturing consists simply of acquiring more firmly established ways of doing things is headed for the graveyard--even if it learns to do these things with greater and greater skill. _In the ever-renewing society what matures is a system or framework within which continuous innovation, renewal and rebirth can occur._

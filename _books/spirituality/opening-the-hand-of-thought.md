@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-17 08:12:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/opening-the-hand-of-thought/
+link: https://fluidself.org/books/spirituality/opening-the-hand-of-thought
 slug: opening-the-hand-of-thought
 title: 'Opening the Hand of Thought: Foundations of Zen Buddhist Practice - by Kosho
   Uchiyama'
-wordpress_id: 491
 ---
 
 Our thoughts are the same as clouds. In our upright sitting all different kinds of thoughts come up, stay for a while, and disappear. We just let them come up and let them go away, not controlling our mind or preventing thoughts from coming up and passing away, not grasping or chasing after them either. We try to keep the same upright, immovable posture no matter what condition we are in, and to trust that above the clouds of thoughts, Buddha's wisdom and compassion are shining like the sun in a clear blue sky. This is what "opening the hand of thought" has come to mean in my life.

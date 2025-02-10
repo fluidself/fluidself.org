@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 06:56:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/how-should-we-live/
+link: https://fluidself.org/books/history/how-should-we-live
 slug: how-should-we-live
 title: 'How Should We Live?: Great Ideas from the Past for Everyday Life - by Roman
   Krznaric'
-wordpress_id: 801
 ---
 
 I think of history as a wonderbox, similar to the curiosity cabinets of the Renaissance--what the Germans called a Wunderkammer. Collectors used these cabinets to display an array of fascinating and unusual objects, each with a story to tell, such as a miniature Turkish abacus or a Japanese ivory carving. Passed down from one generation the another, they were repositories of family lore and learning, tastes and travels, a treasured inheritance. History, too, hands down to us intriguing stories and ideas from a cornucopia of cultures. It is our shared inheritance of curious, often fragmented artefacts that we can pick up at will and contemplate in wonder. There is much to learn about life by opening the wonderbox of history.

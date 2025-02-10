@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 13:22:44+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-dharma-bums/
+link: https://fluidself.org/books/fiction/the-dharma-bums
 slug: the-dharma-bums
 title: The Dharma Bums - by Jack Kerouac
-wordpress_id: 1073
 ---
 
 Happy. Just in my swim shorts, barefooted, wild-haired, in the red fire dark, singing, swigging wine, spitting, jumping, running – that's the way to live.

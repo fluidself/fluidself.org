@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 14:40:57+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/finite-and-infinite-games/
+link: https://fluidself.org/books/philosophy/finite-and-infinite-games
 slug: finite-and-infinite-games
 title: 'Finite and Infinite Games: A Vision of Life as Play and Possibility - by James
   Carse'
-wordpress_id: 1132
 ---
 
 A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play.

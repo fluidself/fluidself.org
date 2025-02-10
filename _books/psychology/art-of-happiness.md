@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 07:17:10+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/art-of-happiness/
+link: https://fluidself.org/books/psychology/art-of-happiness
 slug: art-of-happiness
 title: 'Art of Happiness: A Guide to Developing Life''s Most Important Skill - by
   Matthieu Ricard'
-wordpress_id: 930
 ---
 
 Achieving durable happiness as a way of being is a skill. It requires sustained effort in training the mind and developing a set of human qualities, such as inner peace, mindfulness, and altruistic love. By happiness I mean here a deep sense of flourishing that arises from an exceptionally healthy mind. This is not a mere pleasurable feeling, a fleeting emotion, or a mood, but an optimal state of being. Happiness is also a way of interpreting the world, since while it may be difficult to change the world, it is always possible to change the way we look at it. Anyone who enjoys inner peace is no more broken by failure than he is inflated by success. He is able to fully live his experiences in the context of a vast and profound serenity, since he understands that experiences are ephemeral and that it is useless to cling to them. As influential as external conditions may be, suffering, like well-being, is essentially an interior state.

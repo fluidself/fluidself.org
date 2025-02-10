@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:21:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-book/
+link: https://fluidself.org/books/philosophy/the-book
 slug: the-book
 title: 'The Book: On the Taboo Against Knowing Who You Are - by Alan Watts'
-wordpress_id: 414
 ---
 
 It is a special kind of enlightenment to have this feeling that the usual, the way things normally are, is odd--uncanny and highly improbable.

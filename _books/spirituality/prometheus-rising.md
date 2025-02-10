@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 14:51:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/prometheus-rising/
+link: https://fluidself.org/books/spirituality/prometheus-rising
 slug: prometheus-rising
 title: Prometheus Rising - by Robert Anton Wilson
-wordpress_id: 348
 ---
 
 The human mind behaves as if it were divided into two parts, the Thinker and the Prover. The Thinker can think about virtually anything. The Prover is a much simpler mechanism. It operates on one law only: Whatever the Thinker thinks, the Prover proves.

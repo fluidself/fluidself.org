@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:24:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-ego-trick/
+link: https://fluidself.org/books/philosophy/the-ego-trick
 slug: the-ego-trick
 title: The Ego Trick - by Julian Baggini
-wordpress_id: 720
 ---
 
 It seems that, over time, we change completely, yet remain completely the same.

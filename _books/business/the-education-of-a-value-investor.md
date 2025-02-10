@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:46:16+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-education-of-a-value-investor/
+link: https://fluidself.org/books/business/the-education-of-a-value-investor
 slug: the-education-of-a-value-investor
 title: 'The Education of a Value Investor: My Transformative Quest for Wealth, Wisdom,
   and Enlightenment - by Guy Spier'
-wordpress_id: 248
 ---
 
 I think it's important to discuss just how easy it is for any of us to get caught up in things that might seem unthinkable--to get sucked into the wrong environment and make moral compromises that can tarnish us terribly. We like to think that we change our environment, but the truth is that it changes us. So we have to be extraordinarily careful to choose the right environment--to work with, and even socialize with, the right people. Ideally, we should stick close to people who are better than us so that we can become more like them.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 09:11:45+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-magus/
+link: https://fluidself.org/books/fiction/the-magus
 slug: the-magus
 title: The Magus - by John Fowles
-wordpress_id: 381
 ---
 
 She was about thirty, a born spinster, with a lack of sexuality so total that her smart clothes and too heavy makeup made her pathetic; like an unsuccessful geisha.

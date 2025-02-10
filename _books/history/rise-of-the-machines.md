@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-08-02 11:45:46+00:00
-link: https://fluidself.org/books/history/rise-of-the-machines/
+link: https://fluidself.org/books/history/rise-of-the-machines
 slug: rise-of-the-machines
 title: 'Rise of the Machines: A Cybernetic History - by Thomas Rid'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-15 09:22:22+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/strangers-to-ourselves/
+link: https://fluidself.org/books/psychology/strangers-to-ourselves
 slug: strangers-to-ourselves
 title: Strangers to Ourselves - by Timothy D. Wilson
-wordpress_id: 463
 ---
 
 > Self-reverence, self-knowledge, self-control,-- These three alone lead life to sovereign power.

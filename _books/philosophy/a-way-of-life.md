@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:10:00+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/a-way-of-life/
+link: https://fluidself.org/books/philosophy/a-way-of-life
 slug: a-way-of-life
 title: A Way of Life - by William Osler
-wordpress_id: 705
 ---
 
 "Life is a habit," a succession of actions that become more or less automatic. This great truth, which lies at the basis of all actions, muscular or psychic, is the key stone of the teaching of Aristotle, to whom the formation of habits was the basis of moral excellence.

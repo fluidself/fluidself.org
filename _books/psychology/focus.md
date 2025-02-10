@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:36:57+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/focus/
+link: https://fluidself.org/books/psychology/focus
 slug: focus
 title: 'Focus: The Hidden Driver of Excellence - by Daniel Goleman'
-wordpress_id: 846
 ---
 
 A threesome of inner, other, and outer focus. Inner focus attunes us to our intuitions, guiding values, and better decisions. Other focus smooths our connections to the people in our lives. And outer focus lets us navigate in the larger world. A well-lived life demands we be nimble in each. Attention works much like a muscle--use it poorly and it can wither; work it well and it grows.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 06:48:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-happiness-advantage/
+link: https://fluidself.org/books/psychology/the-happiness-advantage
 slug: the-happiness-advantage
 title: 'The Happiness Advantage: The Seven Principles of Positive Psychology That
   Fuel Success and Performance at Work - by Shawn Achor'
-wordpress_id: 794
 ---
 
 Happiness fuels success, not the other way around. It is when we are positive that our brains become more engaged, creative, motivated and productive. Our brains are literally hardwired to perform at their best not when they are negative or even neutral, but when they are positive.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-18 16:49:07+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/creativity/
+link: https://fluidself.org/books/psychology/creativity
 slug: creativity
 title: 'Creativity: Flow and the Psychology of Discovery and Invention - by Mihaly
   Csikszentmihalyi'
-wordpress_id: 538
 ---
 
 A genuinely creative accomplishment is almost never the result of a sudden insight, a lightbulb flashing on in the dark, but comes after years of hard work.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:02:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/tropic-of-capricorn/
+link: https://fluidself.org/books/fiction/tropic-of-capricorn
 slug: tropic-of-capricorn
 title: Tropic of Capricorn - by Henry Miller
-wordpress_id: 38
 ---
 
 What was most annoying was that at first blush people usually took me to be good, to be kind, generous, loyal, faithful. Perhaps I did possess these virtues but if so it was because I was indifferent: I could afford to be good, kind, generous, loyal, and so forth, since I was free of envy. Envy was the one thing I was never a victim of. I have never envied anybody or anything. On the contrary, I have only felt pity for everybody and everything.

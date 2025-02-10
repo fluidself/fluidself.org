@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-21 08:55:35+00:00
-link: https://fluidself.org/books/fiction/infinite-jest/
+link: https://fluidself.org/books/fiction/infinite-jest
 slug: infinite-jest
 title: Infinite Jest - by David Foster Wallace
 ---

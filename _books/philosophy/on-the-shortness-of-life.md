@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:09:55+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/on-the-shortness-of-life/
+link: https://fluidself.org/books/philosophy/on-the-shortness-of-life
 slug: on-the-shortness-of-life
 title: On the Shortness of Life - by Seneca
-wordpress_id: 50
 ---
 
 **On the Shortness of Life**

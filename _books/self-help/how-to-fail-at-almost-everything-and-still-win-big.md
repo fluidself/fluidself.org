@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 10:55:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/how-to-fail-at-almost-everything-and-still-win-big/
+link: https://fluidself.org/books/self-help/how-to-fail-at-almost-everything-and-still-win-big
 slug: how-to-fail-at-almost-everything-and-still-win-big
 title: 'How to Fail at Almost Everything and Still Win Big: Kind of the Story of My
   Life - by Scott Adams'
-wordpress_id: 748
 ---
 
 **Passion Is Bullshit**

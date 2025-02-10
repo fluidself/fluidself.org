@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 20:17:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/the-wahls-protocol/
+link: https://fluidself.org/books/health-and-fitness/the-wahls-protocol
 slug: the-wahls-protocol
 title: 'The Wahls Protocol: A Radical New Way to Treat All Chronic Autoimmune Conditions
   Using Paleo Principles - by Terry Wahls M.D.'
-wordpress_id: 563
 ---
 
 Disease begins at the cellular level, when cells are starved of the building blocks they need to conduct the chemistry of life properly, and the root of optimal health begins with taking away the things that harm and confuse our cells while providing the body with the right environment in which to thrive. What your cells use to fuel the chemistry of life comes directly from what you feed yourself.

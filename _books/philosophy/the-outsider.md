@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:13:01+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-outsider/
+link: https://fluidself.org/books/philosophy/the-outsider
 slug: the-outsider
 title: The Outsider - by Colin Wilson
-wordpress_id: 56
 ---
 
 The Outsider's 'way of salvation', then, is plainly implied [in _Steppenwolf_]. His moments of insight into his direction and purpose must be grasped tightly; in these moments he must formulate laws that will enable him to move towards his goal in spite of losing sight of it.

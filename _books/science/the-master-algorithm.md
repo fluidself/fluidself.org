@@ -1,8 +1,6 @@
 ---
-author: ugh
 date: 2023-03-03 13:05:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-master-algorithm/
+link: https://fluidself.org/books/science/the-master-algorithm
 slug: the-master-algorithm
 title: 'The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World - by Pedro Domingos'
 ---

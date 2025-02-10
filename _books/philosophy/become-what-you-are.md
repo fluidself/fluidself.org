@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-22 08:34:08+00:00
-link: https://fluidself.org/books/philosophy/become-what-you-are/
+link: https://fluidself.org/books/philosophy/become-what-you-are
 slug: become-what-you-are
 title: Become What You Are - by Alan Watts
 ---

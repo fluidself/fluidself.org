@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-20 08:03:15+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/unbeatable-mind/
+link: https://fluidself.org/books/self-help/unbeatable-mind
 slug: unbeatable-mind
 title: 'Unbeatable Mind: Forge Resiliency and Mental Toughness to Succeed at an Elite
   Level - by Mark Divine'
-wordpress_id: 1086
 ---
 
 **FIRST PREMISE OF UNBEATABLE MIND TRAINING**

@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-01-05 15:52:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/sun-and-steel/
+link: https://fluidself.org/books/biographies/sun-and-steel
 slug: sun-and-steel
 title: Sun and Steel - by Yukio Mishima
 ---

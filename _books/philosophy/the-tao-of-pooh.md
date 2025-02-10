@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-12-31 10:21:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-tao-of-pooh/
+link: https://fluidself.org/books/philosophy/the-tao-of-pooh
 slug: the-tao-of-pooh
 title: The Tao of Pooh - by Benjamin Hoff
 ---

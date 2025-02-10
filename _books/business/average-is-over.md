@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-15 09:02:36+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/average-is-over/
+link: https://fluidself.org/books/business/average-is-over
 slug: average-is-over
 title: Average Is Over - by Tyler Cowen
-wordpress_id: 458
 ---
 
 Workers more and more will come to be classified into two categories. The key questions will be: Are you good at working with intelligent machines or not? Are your skills a complement to the skills of the computer, or is the computer doing better without you? Worst of all, are you competing against the computer? Are computers helping people in China and India compete against you? If you and your skills are a complement to the computer, your wage and labor market prospects are likely to be cheery. If your skills do not complement the computer, you may want to address that mismatch. Ever more people are starting to fall on one side of the divide or the other. That's why average is over.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 19:05:45+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/quitter/
+link: https://fluidself.org/books/business/quitter
 slug: quitter
 title: 'Quitter: Closing the Gap Between Your Day Job & Your Dream Job - by Jon Acuff'
-wordpress_id: 548
 ---
 
 **Keep Your Day Job**

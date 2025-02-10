@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-10-02 11:15:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-secret-history/
+link: https://fluidself.org/books/fiction/the-secret-history
 slug: the-secret-history
 title: The Secret History - by Donna Tartt
 ---

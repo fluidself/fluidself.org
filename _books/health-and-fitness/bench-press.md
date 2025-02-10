@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-13 07:39:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/bench-press/
+link: https://fluidself.org/books/health-and-fitness/bench-press
 slug: bench-press
 title: Bench Press - by Sven Lindqvist
-wordpress_id: 1013
 ---
 
 ‘Whatever sort of appearance we take as the ideal,' I said, ‘only a very few will be able to live up to it. All the others just have to live with a sense of shame. That's why I think we should encourage people to say YES to the way their bodies happen to look.' ‘Are you being consistent, though?' asked the skinhead. ‘Think about when you're writing, for example. Are you prepared to say: We should encourage writers to say YES to the way their first drafts happen to look?'

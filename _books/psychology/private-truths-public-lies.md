@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-12 13:58:54+00:00
-link: https://fluidself.org/books/psychology/private-truths-public-lies/
+link: https://fluidself.org/books/psychology/private-truths-public-lies
 slug: private-truths-public-lies
 title: 'Private Truths, Public Lies: The Social Consequences of Preference Falsification - by Timur Kuran'
 ---

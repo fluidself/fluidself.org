@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 06:48:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/mastering-the-core-teachings-of-the-buddha/
+link: https://fluidself.org/books/spirituality/mastering-the-core-teachings-of-the-buddha
 slug: mastering-the-core-teachings-of-the-buddha
 title: 'Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book
   - by Daniel M. Ingram'
-wordpress_id: 673
 ---
 
 **PART I: THE FUNDAMENTALS**

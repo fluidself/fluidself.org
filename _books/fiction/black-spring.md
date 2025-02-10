@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:56:48+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/black-spring/
+link: https://fluidself.org/books/fiction/black-spring
 slug: black-spring
 title: Black Spring - by Henry Miller
-wordpress_id: 427
 ---
 
 The boys you worshiped when you first came down into the street remain with you all your life.

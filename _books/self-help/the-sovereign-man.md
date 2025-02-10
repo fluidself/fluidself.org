@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 13:34:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-sovereign-man/
+link: https://fluidself.org/books/self-help/the-sovereign-man
 slug: the-sovereign-man
 title: The Sovereign Man - by James Maverick
-wordpress_id: 583
 ---
 
 If what you're selling is in demand, you don't have to do much at all: people will always find a way to obtain it.

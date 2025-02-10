@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:01:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/racing-towards-excellence/
+link: https://fluidself.org/books/self-help/racing-towards-excellence
 slug: racing-towards-excellence
 title: Racing Towards Excellence - by Muzaffar Khan, Jan Sramek
-wordpress_id: 1256
 ---
 
 Our right (emotional) brain can emotionally feel value for anything; our left (logical) brain, however, cannot see anything that is not measurable as having value.

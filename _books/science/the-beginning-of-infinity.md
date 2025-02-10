@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-18 19:13:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-beginning-of-infinity/
+link: https://fluidself.org/books/science/the-beginning-of-infinity
 slug: the-beginning-of-infinity
 title: The Beginning of Infinity - by David Deutsch
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:11:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/stoner/
+link: https://fluidself.org/books/fiction/stoner
 slug: stoner
 title: Stoner - by John Williams
-wordpress_id: 708
 ---
 
 When he was much older, he was to look back upon his last two undergraduate years as if they were an unreal time that belonged to someone else, a time that passed, not in the regular flow to which he was used, but in fits and starts. One moment was juxtaposed against another, yet isolated from it, and he had the feeling that he was removed from time, watching as it passed before him like a great unevenly turned diorama.

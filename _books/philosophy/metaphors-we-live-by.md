@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-02-12 12:47:26+00:00
-link: https://fluidself.org/books/philosophy/metaphors-we-live-by/
+link: https://fluidself.org/books/philosophy/metaphors-we-live-by
 slug: metaphors-we-live-by
 title: Metaphors We Live By - by George Lakoff and Mark Johnson
 ---

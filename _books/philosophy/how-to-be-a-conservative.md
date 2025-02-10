@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 12:08:26+00:00
-link: https://fluidself.org/books/philosophy/how-to-be-a-conservative/
+link: https://fluidself.org/books/philosophy/how-to-be-a-conservative
 slug: how-to-be-a-conservative
 title: How to Be a Conservative - by Roger Scruton
 ---

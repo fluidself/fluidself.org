@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:42:47+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/daily-rituals/
+link: https://fluidself.org/books/art/daily-rituals
 slug: daily-rituals
 title: 'Daily Rituals: How Artists Work - by Mason Currey'
-wordpress_id: 826
 ---
 
 **W. H. Auden**

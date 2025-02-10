@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 12:28:23+00:00
-link: https://fluidself.org/books/psychology/learned-optimism/
+link: https://fluidself.org/books/psychology/learned-optimism
 slug: learned-optimism
 title: 'Learned Optimism: How to Change Your Mind and Your Life - by Martin E. Seligman'
 ---

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-01-06 15:12:25+00:00
-link: https://fluidself.org/books/science/how-to-create-a-mind/
+link: https://fluidself.org/books/science/how-to-create-a-mind
 slug: how-to-create-a-mind
 title: 'How to Create a Mind: The Secret of Human Thought Revealed - by Ray Kurzweil'
 ---

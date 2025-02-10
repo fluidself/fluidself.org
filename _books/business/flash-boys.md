@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 07:32:55+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/flash-boys/
+link: https://fluidself.org/books/business/flash-boys
 slug: flash-boys
 title: 'Flash Boys: A Wall Street Revolt - by Michael Lewis'
-wordpress_id: 695
 ---
 
 Over the past decade, the financial markets have changed too rapidly for our mental picture of them to remain true to life.

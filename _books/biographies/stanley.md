@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 08:55:03+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/stanley/
+link: https://fluidself.org/books/biographies/stanley
 slug: stanley
 title: Stanley - by Tim Jeal
-wordpress_id: 362
 ---
 
 For a man like Stanley, who needed to prove himself after his childhood rejection, mastering Africa was a test that could scarcely be bettered. The task would have an epic dimension, involving power, pride and, above all, endurance as he battled with the African environment and with his own human limitations. At the heart of the non-conformist Christian education of the workhouse had been the idea of redemption through suffering--becoming a new man. In the vastness of Africa, as ruler of his small party--away from the social distinctions of north Wales, from the greed and materialism of the slave-owning Deep South, from the helpless boy he had once been--there might emerge the new, perfected Stanley. He could so easily have spoken the words that Patrick White gave to Voss, the eponymous explorer hero of his masterpiece: 'To make yourself, it is also necessary to destroy yourself.'

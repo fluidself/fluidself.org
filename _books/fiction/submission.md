@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-11-24 15:25:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/submission/
+link: https://fluidself.org/books/fiction/submission
 slug: submission
 title: Submission - by Michel Houellebecq
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-06-02 12:18:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-motivation-hacker/
+link: https://fluidself.org/books/self-help/the-motivation-hacker
 slug: the-motivation-hacker
 title: The Motivation Hacker - by Nick Winter
-wordpress_id: 93
 ---
 
 I wrote this book as a way of forcing myself to live excellently, and to give good ideas on how to do the same to those who hunger, who can't subsist on wishful thinking alone.

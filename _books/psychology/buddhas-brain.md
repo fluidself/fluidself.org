@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 07:00:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/buddhas-brain/
+link: https://fluidself.org/books/psychology/buddhas-brain
 slug: buddhas-brain
 title: "Buddha's Brain: The Practical Neuroscience of Happiness, Love & Wisdom -
   by Rick Hanson"
-wordpress_id: 783
 ---
 
 **The Causes of Suffering**

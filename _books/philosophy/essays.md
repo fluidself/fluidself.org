@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-08 08:46:10+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/essays/
+link: https://fluidself.org/books/philosophy/essays
 slug: essays
 title: Essays - by Michel de Montaigne
-wordpress_id: 955
 ---
 
 I personally believe --and with Socrates it is axiomatic--that anyone who has a clear and vivid idea in his mind will express it, either in rough language, or by gestures if he is dumb:

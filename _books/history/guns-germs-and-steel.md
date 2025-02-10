@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-12-31 18:25:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/guns-germs-and-steel/
+link: https://fluidself.org/books/history/guns-germs-and-steel
 slug: guns-germs-and-steel
 title: 'Guns, Germs, and Steel: The Fates of Human Societies - by Jared M. Diamond'
 ---

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-09 17:07:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-now-habit/
+link: https://fluidself.org/books/self-help/the-now-habit
 slug: the-now-habit
 title: 'The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying
   Guilt-Free Play - by Neil Fiore'
-wordpress_id: 1285
 ---
 
 **Focusing exercise**

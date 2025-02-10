@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-07 16:48:00+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/fooling-houdini/
+link: https://fluidself.org/books/science/fooling-houdini
 slug: fooling-houdini
 title: Fooling Houdini - by Alex Stone
-wordpress_id: 257
 ---
 
 As a practitioner of magic, you become more attuned to the limits of other people's perceptions as well as your own. As a result, you become better at distinguishing reality from illusion, at reading the angles and decoding the fine print. You gain an intuition for how people behave. You even learn ways to influence their behavior. This makes you less susceptible to all manner of deception. It is this heightened state of awareness, this sixth sense, that has kept me interested in magic well into my supposedly adult life.

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:10:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-power-of-now/
+link: https://fluidself.org/books/spirituality/the-power-of-now
 slug: the-power-of-now
 title: The Power of Now - by Eckhart Tolle
-wordpress_id: 52
 ---
 
 The word enlightenment conjures up the idea of some superhuman accomplishment, and the ego likes to keep it that way, but it is simply your natural state of felt oneness with Being. It is a state of connectedness with something immeasurable and indestructible, something that, almost paradoxically, is essentially you and yet is much greater than you. It is finding your true nature beyond name and form. The inability to feel this connectedness gives rise to the illusion of separation, from yourself and from the world around you. You then perceive yourself, consciously or unconsciously, as an isolated fragment. Fear arises, and conflict within and without becomes the norm.

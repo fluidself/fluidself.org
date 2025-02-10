@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 14:24:40+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-surrender-experiment/
+link: https://fluidself.org/books/spirituality/the-surrender-experiment
 slug: the-surrender-experiment
 title: 'The Surrender Experiment: My Journey into Life''s Perfection - by Michael
   A. Singer'
-wordpress_id: 341
 ---
 
 At the heart of the experiment is a simple question: Am I better off making up an alternate reality in my mind and then fighting with reality to make it be my way, or am I better off letting go of what I want and serving the same forces of reality that managed to create the entire perfection of the universe around me?

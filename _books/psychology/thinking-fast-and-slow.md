@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-24 07:27:56+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/thinking-fast-and-slow/
+link: https://fluidself.org/books/psychology/thinking-fast-and-slow
 slug: thinking-fast-and-slow
 title: Thinking, Fast and Slow - by Daniel Kahneman
-wordpress_id: 1102
 ---
 
 Skill and heuristics are alternative sources of intuitive judgments and choices.

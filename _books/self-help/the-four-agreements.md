@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-03-09 11:12:25+00:00
-link: https://fluidself.org/books/self-help/the-four-agreements/
+link: https://fluidself.org/books/self-help/the-four-agreements
 slug: the-four-agreements
 title: 'The Four Agreements: A Practical Guide to Personal Freedom - by Don Miguel Ruiz'
 ---

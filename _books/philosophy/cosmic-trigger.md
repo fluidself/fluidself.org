@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-21 09:04:08+00:00
-link: https://fluidself.org/books/philosophy/cosmic-trigger/
+link: https://fluidself.org/books/philosophy/cosmic-trigger
 slug: cosmic-trigger
 title: 'Cosmic Trigger I: Final Secret of the Illuminati - by Robert Anton Wilson'
 ---

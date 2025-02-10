@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 16:44:30+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/the-war-of-art/
+link: https://fluidself.org/books/art/the-war-of-art
 slug: the-war-of-art
 title: 'The War of Art: Break Through the Blocks and Win Your Inner Creative Battles
   - by Steven Pressfield'
-wordpress_id: 1156
 ---
 
 Any act that rejects immediate gratification in favor of long-term growth, health, or integrity. Or, expressed another way, any act that derives from our higher nature instead of our lower. Any of these will elicit Resistance.

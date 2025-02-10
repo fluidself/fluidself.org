@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-25 16:48:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/fortunes-formula/
+link: https://fluidself.org/books/business/fortunes-formula
 slug: fortunes-formula
 title: "Fortune's Formula: The Untold Story of the Scientific Betting System - by
   William Poundstone"
-wordpress_id: 1160
 ---
 
 Information exists only when the sender is saying something that the recipient doesn't already know and can't predict. Because true information is unpredictable, it is essentially a series of random events like spins of a roulette wheel or rolls of dice.

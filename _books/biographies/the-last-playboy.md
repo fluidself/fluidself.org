@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-14 13:48:30+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/the-last-playboy/
+link: https://fluidself.org/books/biographies/the-last-playboy
 slug: the-last-playboy
 title: 'The Last Playboy: The High Life of Porfirio Rubirosa - by Shawn Levy'
-wordpress_id: 294
 ---
 
 Tiger: _tigre_ in Spanish, _tíguere_ in the local argot, in which the word came to represent the essential defining characteristic of the Dominican alpha male. The Dominican _tíguere_ was, like the ideal male in all Latin cultures, profoundly masculine--macho, in the Castilian--but had dimensions unique, perhaps, to the Creole culture of Hispaniola. He was handsome, graceful, strong, and well-presented, possessed of a deep-seated vanity that allowed him the luxury of niceties of character and appearance that might otherwise hint at femininity. He could move with sensuality or violence; he was fast, fearless, fortunate. A _tíguere_ emerged well from nearly any situation that confronted him, twisted any misfortune to an asset, spun a happy ending of some sort out of the most outrageously poor circumstance; he was able, being feline, to climb to unlikely heights and, should he fall, always landed, being feline, on his feet.

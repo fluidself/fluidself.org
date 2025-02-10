@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-18 16:11:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-miracle-of-mindfulness/
+link: https://fluidself.org/books/spirituality/the-miracle-of-mindfulness
 slug: the-miracle-of-mindfulness
 title: The Miracle of Mindfulness - by Thich Nhat Hanh
-wordpress_id: 528
 ---
 
 In those moments when you are upset or dispersed and find it difficult to practice mindfulness, return to your breath: Taking hold of your breath is itself mindfulness. Your breath is the wondrous method of taking hold of your consciousness. As one religious community says in its rule, "One should not lose oneself in mind-dispersion or in one's surroundings. Learn to practice breathing in order to regain control of body and mind, to practice mindfulness, and to develop concentration and wisdom."

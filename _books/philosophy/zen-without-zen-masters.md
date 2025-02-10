@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:06:04+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/zen-without-zen-masters/
+link: https://fluidself.org/books/philosophy/zen-without-zen-masters
 slug: zen-without-zen-masters
 title: Zen Without Zen Masters - by Camden Benares
-wordpress_id: 42
 ---
 
 "Why should I empty my mind?"

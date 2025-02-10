@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 20:28:54+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/city-of-thieves/
+link: https://fluidself.org/books/fiction/city-of-thieves
 slug: city-of-thieves
 title: City of Thieves - by David Benioff
-wordpress_id: 573
 ---
 
 I've always envied people who sleep easily. Their brains must be cleaner, the floorboards of the skull well swept, all the little monsters closed up in a steamer trunk at the foot of the bed.

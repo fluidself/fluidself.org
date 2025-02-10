@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-02-12 12:55:35+00:00
-link: https://fluidself.org/books/fiction/theory-of-bastards/
+link: https://fluidself.org/books/fiction/theory-of-bastards
 slug: theory-of-bastards
 title: Theory of Bastards - by Audrey Schulman
 ---

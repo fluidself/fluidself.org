@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 20:54:59+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/ego-is-the-enemy/
+link: https://fluidself.org/books/philosophy/ego-is-the-enemy
 slug: ego-is-the-enemy
 title: 'Ego is the Enemy: The Fight to Master Our Greatest Opponent - by Ryan Holiday'
-wordpress_id: 217
 ---
 
 If ego is the voice that tells us we're better than we really are, we can say ego inhibits true success by preventing a direct and honest connection to the world around us. One of the early members of Alcoholics Anonymous defined ego as "a conscious separation from." From what? Everything.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-01-11 16:07:26+00:00
-link: https://fluidself.org/books/philosophy/the-importance-of-living/
+link: https://fluidself.org/books/philosophy/the-importance-of-living
 slug: the-importance-of-living
 title: The Importance of Living - by Lin Yutang
 ---

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-04 17:32:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-education-of-millionaires/
+link: https://fluidself.org/books/business/the-education-of-millionaires
 slug: the-education-of-millionaires
 title: 'The Education of Millionaires: It''s Not What You Think and It''s Not Too
   Late - by Michael Ellsberg'
-wordpress_id: 1244
 ---
 
 Your success and happiness in life has to do with your drive, your initiative, your persistence, your ability to make a contribution to other people's lives, your ability to come up with good ideas and pitch them to others effectively, your charisma, your ability to navigate gracefully through social and business networks (what some researchers call "practical intelligence"), and a total, unwavering belief in your own eventual triumph, throughout all the ups and downs, no matter what the naysayers tell you.

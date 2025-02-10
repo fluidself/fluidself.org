@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:07:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/stumbling-on-happiness/
+link: https://fluidself.org/books/psychology/stumbling-on-happiness
 slug: stumbling-on-happiness
 title: Stumbling on Happiness - by Daniel Gilbert
-wordpress_id: 810
 ---
 
 The human brain is an ‘anticipation machine', and ‘making future' is the most important thing it does.

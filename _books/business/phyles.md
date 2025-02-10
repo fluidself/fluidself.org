@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-12-06 08:57:22+00:00
-link: https://fluidself.org/books/business/phyles/
+link: https://fluidself.org/books/business/phyles
 slug: phyles
 title: 'Phyles: Economic Democracy in the Network Century - by David de Ugarte'
 ---

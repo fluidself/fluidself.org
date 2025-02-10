@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-24 07:43:53+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/mastery/
+link: https://fluidself.org/books/self-help/mastery
 slug: mastery
 title: Mastery - by Robert Greene
-wordpress_id: 1105
 ---
 
 Mastery--the feeling that we have a greater command of reality, other people, and ourselves.

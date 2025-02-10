@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:30:12+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/awareness/
+link: https://fluidself.org/books/spirituality/awareness
 slug: awareness
 title: 'Awareness: The Perils and Opportunities of Reality - by Anthony de Mello'
-wordpress_id: 723
 ---
 
 **What῾s on Your Mind?**

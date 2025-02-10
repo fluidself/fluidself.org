@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-13 08:11:03+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/choose-yourself/
+link: https://fluidself.org/books/business/choose-yourself
 slug: choose-yourself
 title: Choose Yourself! - by James Altucher
-wordpress_id: 1023
 ---
 
 There's a saying, "The learned man aims for more. But the wise man decreases. And then decreases again."

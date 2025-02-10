@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-19 11:15:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/my-struggle-book-one/
+link: https://fluidself.org/books/fiction/my-struggle-book-one
 slug: my-struggle-book-one
 title: 'My Struggle: Book One - by Karl Ove Knausgaard'
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 19:57:28+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/demian/
+link: https://fluidself.org/books/fiction/demian
 slug: demian
 title: Demian - by Hermann Hesse
-wordpress_id: 560
 ---
 
 I must not call myself one who knows. I was a seeker and am still, but I seek no more in the stars or in books; I am beginning to listen to the promptings of those instincts which are coursing in my very blood.

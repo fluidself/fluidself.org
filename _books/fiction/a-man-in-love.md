@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-18 18:05:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/a-man-in-love/
+link: https://fluidself.org/books/fiction/a-man-in-love
 slug: a-man-in-love
 title: A Man In Love - by Karl Ove Knausgaard
 ---

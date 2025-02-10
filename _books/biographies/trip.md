@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-02-12 16:40:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/trip/
+link: https://fluidself.org/books/biographies/trip
 slug: trip
 title: 'Trip: Psychedelics, Alienation, and Change - by Tao Lin'
 ---

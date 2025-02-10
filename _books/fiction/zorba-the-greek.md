@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:01:48+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/zorba-the-greek/
+link: https://fluidself.org/books/fiction/zorba-the-greek
 slug: zorba-the-greek
 title: Zorba the Greek - by Nikos Kazantzakis
-wordpress_id: 36
 ---
 
 The sea, autumn mildness, islands bathed in light, fine rain spreading a diaphanous veil over the immortal nakedness of Greece. Happy is the man, I thought, who, before dying, has the good fortune to sail the Aegean Sea. Many are the joys of this world--women, fruit, ideas. But to cleave that sea in the gentle autumnal season, murmuring the name of each islet, is to my mind the joy most apt to transport the heart of man into paradise. Nowhere else can one pass so easily and serenely from reality to dream. The frontiers dwindle, and from the masts of the most ancient ships spring branches and fruits. It is as if here in Greece necessity is the mother of miracles.

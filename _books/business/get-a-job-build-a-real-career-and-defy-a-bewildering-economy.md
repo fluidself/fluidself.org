@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-11 21:10:48+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/get-a-job-build-a-real-career-and-defy-a-bewildering-economy/
+link: https://fluidself.org/books/business/get-a-job-build-a-real-career-and-defy-a-bewildering-economy
 slug: get-a-job-build-a-real-career-and-defy-a-bewildering-economy
 title: Get a Job, Build a Real Career, and Defy a Bewildering Economy - by Charles
   Hugh Smith
-wordpress_id: 273
 ---
 
 To tip the odds in our favor, we need to understand these four subjects:

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-11 17:17:26+00:00
-link: https://fluidself.org/books/philosophy/why-liberalism-failed/
+link: https://fluidself.org/books/philosophy/why-liberalism-failed
 slug: why-liberalism-failed
 title: Why Liberalism Failed - by Patrick J. Deneen
 ---

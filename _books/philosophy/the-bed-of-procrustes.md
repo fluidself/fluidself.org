@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 15:01:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-bed-of-procrustes/
+link: https://fluidself.org/books/philosophy/the-bed-of-procrustes
 slug: the-bed-of-procrustes
 title: 'The Bed of Procrustes: Philosophical and Practical Aphorisms - by Nassim Nicholas
   Taleb'
-wordpress_id: 871
 ---
 
 An idea starts to be interesting when you get scared of taking it to its logical conclusion.

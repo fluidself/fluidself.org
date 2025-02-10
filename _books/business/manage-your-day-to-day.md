@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-08 09:02:14+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/manage-your-day-to-day/
+link: https://fluidself.org/books/business/manage-your-day-to-day
 slug: manage-your-day-to-day
 title: Manage Your Day-to-Day - by Jocelyn K. Glei
-wordpress_id: 962
 ---
 
 **BUILDING A ROCK-SOLID ROUTINE**

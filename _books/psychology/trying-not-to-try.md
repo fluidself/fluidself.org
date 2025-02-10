@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-18 16:29:30+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/trying-not-to-try/
+link: https://fluidself.org/books/psychology/trying-not-to-try
 slug: trying-not-to-try
 title: Trying Not to Try - by Edward Slingerland
-wordpress_id: 533
 ---
 
 Our excessive focus in the modern world on the power of conscious thought and the benefits of willpower and self-control causes us to overlook the pervasive importance of what might be called "body thinking": tacit, fast, and semiautomatic behavior that flows from the unconscious with little or no conscious interference. The result is that we too often devote ourselves to pushing harder or moving faster in areas of our life where effort and striving are, in fact, profoundly counterproductive.

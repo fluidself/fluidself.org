@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-18 15:39:11+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/goethes-faust/
+link: https://fluidself.org/books/art/goethes-faust
 slug: goethes-faust
 title: 'Goethe’s Faust: an Interpretation - Alexander Gillies'
-wordpress_id: 885
 ---
 
 Faust's tragedy is that of titanism. He is a man in search of life's meaning who steps beyond the natural limitations of humanity, a superman who seeks for more than it is given to mankind to know or experience. His career is accordingly a long succession of crimes and illusions. Only at its close is he brought to see the true value of his life. He who demands dissatisfaction as being the characteristic feature of human existence is given more of it than he really wants or can tolerate and looks forward longingly to a future moment when he might be content; but from this death cuts him off. In the strictest sense he is thus dissatisfied until the end, but he has risen above the cult of merely negative dissatisfaction, such as he thought to be the only thing that life might offer. Dissatisfaction comes to acquire a higher meaning. It is a spur to further effort, a dynamic force which, if it operates as it should, is of the greatest value in life. It is something which should urge us, not to overstep our natural limits, but to work fruitfully within them.

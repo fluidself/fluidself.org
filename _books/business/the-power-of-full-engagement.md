@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-15 06:34:50+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/the-power-of-full-engagement/
+link: https://fluidself.org/books/business/the-power-of-full-engagement
 slug: the-power-of-full-engagement
 title: 'The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High
   Performance and Personal Renewal - by Jim Loehr and Tony Schwartz'
-wordpress_id: 772
 ---
 
 Energy, not time, is the fundamental currency of high performance.

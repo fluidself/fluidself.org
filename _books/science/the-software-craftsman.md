@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-10-27 13:13:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/science/the-software-craftsman/
+link: https://fluidself.org/books/science/the-software-craftsman
 slug: the-software-craftsman
 title: 'The Software Craftsman: Professionalism, Pragmatism, Pride - by Sandro Mancuso'
 ---

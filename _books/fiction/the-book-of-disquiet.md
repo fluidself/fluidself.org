@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-01-26 19:15:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-book-of-disquiet/
+link: https://fluidself.org/books/fiction/the-book-of-disquiet
 slug: the-book-of-disquiet
 title: The Book of Disquiet - by Fernando Pessoa
 ---

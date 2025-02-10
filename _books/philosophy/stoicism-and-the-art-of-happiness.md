@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-08 08:31:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/stoicism-and-the-art-of-happiness/
+link: https://fluidself.org/books/philosophy/stoicism-and-the-art-of-happiness
 slug: stoicism-and-the-art-of-happiness
 title: Stoicism and the Art of Happiness - by Donald Robertson
-wordpress_id: 653
 ---
 
 A central paradox of Stoicism is therefore its assumption that, far from being heartless, the ideal wise man, called the ‘Sage', will both love others and yet be undisturbed by the inevitable losses and misfortunes that life inflicts on him. He has natural emotions and desires but is not overwhelmed by them, and remains guided by reason.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-12 14:45:46+00:00
-link: https://fluidself.org/books/history/the-dream-machine/
+link: https://fluidself.org/books/history/the-dream-machine
 slug: the-dream-machine
 title: The Dream Machine - by M. Mitchell Waldrop
 ---

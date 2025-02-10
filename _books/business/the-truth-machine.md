@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-12-06 09:07:22+00:00
-link: https://fluidself.org/books/business/the-truth-machine/
+link: https://fluidself.org/books/business/the-truth-machine
 slug: the-truth-machine
 title: 'The Truth Machine: The Blockchain and the Future of Everything - by Michael J. Casey, Paul Vigna'
 ---

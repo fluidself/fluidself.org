@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-04-23 16:06:35+00:00
-link: https://fluidself.org/books/fiction/solenoid/
+link: https://fluidself.org/books/fiction/solenoid
 slug: solenoid
 title: Solenoid - by Mircea Cartarescu
 ---

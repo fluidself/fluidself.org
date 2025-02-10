@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-09-20 13:25:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-mindful-geek/
+link: https://fluidself.org/books/psychology/the-mindful-geek
 slug: the-mindful-geek
 title: 'The Mindful Geek: Mindfulness Meditation for Secular Skeptics - by Michael W. Taft'
 ---

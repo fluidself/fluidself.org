@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 06:53:51+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/mindfulness/
+link: https://fluidself.org/books/psychology/mindfulness
 slug: mindfulness
 title: Mindfulness - by Ellen J. Langer
-wordpress_id: 798
 ---
 
 The key qualities of a mindful state of being: (1) creation of new categories; (2) openness to new information; and (3) awareness of more than one perspective.

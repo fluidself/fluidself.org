@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-01-05 15:47:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/liquid-modernity/
+link: https://fluidself.org/books/philosophy/liquid-modernity
 slug: liquid-modernity
 title: Liquid Modernity - by Zygmunt Bauman
 ---

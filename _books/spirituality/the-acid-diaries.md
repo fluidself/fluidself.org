@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 07:34:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-acid-diaries/
+link: https://fluidself.org/books/spirituality/the-acid-diaries
 slug: the-acid-diaries
 title: 'The Acid Diaries: A Psychonaut’s Guide to the History and Use of LSD - by
   Christopher Gray'
-wordpress_id: 1040
 ---
 
 This dimension of magic, of the unknown, was precisely what had been missing from my life: and I didn't just mean the funny or pretty bits. Right from the first I appreciated the self-confrontation. What I had needed was to stretch the envelope.

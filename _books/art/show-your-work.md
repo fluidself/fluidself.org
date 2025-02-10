@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:07:29+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/show-your-work/
+link: https://fluidself.org/books/art/show-your-work
 slug: show-your-work
 title: Show Your Work! - by Austin Kleon
-wordpress_id: 44
 ---
 
 Almost all of the people I look up to and try to steal from today, regardless of their profession, have built sharing into their routine. They're open about what they're working on, and they're consistently posting bits and pieces of their work, their ideas, and what they're learning online. Instead of wasting their time "networking," they're taking advantage of the network. By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it--for fellowship, feedback, or patronage.

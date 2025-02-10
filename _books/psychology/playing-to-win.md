@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-16 07:55:19+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/playing-to-win/
+link: https://fluidself.org/books/psychology/playing-to-win
 slug: playing-to-win
 title: Playing to Win - by David Sirlin
-wordpress_id: 472
 ---
 
 You need to have some respect for other players who have the power to win, no matter what faults you may see with their play styles. Sometimes, these "weaker players" really are better than you, and you just aren't admitting it. And if they aren't better, then you should not let them win. You should be recognizing and learning from your own mistakes, or you should be improving to catch up to them. Either way, the heart of the issue lies in you, not in the player you just lost to.

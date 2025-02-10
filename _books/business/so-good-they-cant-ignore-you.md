@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-18 08:34:47+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/so-good-they-cant-ignore-you/
+link: https://fluidself.org/books/business/so-good-they-cant-ignore-you
 slug: so-good-they-cant-ignore-you
 title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for
   Work You Love - by Cal Newport"
-wordpress_id: 512
 ---
 
 **RULE #1: Don't Follow Your Passion**

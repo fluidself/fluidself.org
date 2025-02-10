@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:35:10+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/youth/
+link: https://fluidself.org/books/fiction/youth
 slug: youth
 title: Youth, a Narrative - by Joseph Conrad
-wordpress_id: 820
 ---
 
 O youth! The strength of it, the faith of it, the imagination of it! To me she was not an old rattle-trap carting about the world a lot of coal for a freight--to me she was the endeavour, the test, the trial of life. I think of her with pleasure, with affection, with regret--as you would think of someone dead you have loved. I shall never forget her....

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 09:15:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-prophet/
+link: https://fluidself.org/books/philosophy/the-prophet
 slug: the-prophet
 title: The Prophet - by Kahlil Gibran
-wordpress_id: 711
 ---
 
 **Love**

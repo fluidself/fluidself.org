@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-30 18:37:26+00:00
-link: https://fluidself.org/books/philosophy/the-unbroken-thread/
+link: https://fluidself.org/books/philosophy/the-unbroken-thread
 slug: the-unbroken-thread
 title: The Unbroken Thread - by Sohrab Ahmari
 ---

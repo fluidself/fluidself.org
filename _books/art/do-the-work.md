@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:22:59+00:00
-layout: book.hbs
-link: https://fluidself.org/books/art/do-the-work/
+link: https://fluidself.org/books/art/do-the-work
 slug: do-the-work
 title: 'Do the Work: Overcome Resistance and Get Out of Your Own Way - by Steven Pressfield'
-wordpress_id: 1268
 ---
 
 - 90% of success is showing up

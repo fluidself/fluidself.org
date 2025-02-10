@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-08-27 17:04:08+00:00
-link: https://fluidself.org/books/philosophy/anarchy-state-and-utopia/
+link: https://fluidself.org/books/philosophy/anarchy-state-and-utopia
 slug: anarchy-state-and-utopia
 title: Anarchy, State, And Utopia - by Robert Nozick
 ---

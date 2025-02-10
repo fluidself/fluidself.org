@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-17 08:52:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/how-to-live-on-24-hours-a-day/
+link: https://fluidself.org/books/self-help/how-to-live-on-24-hours-a-day
 slug: how-to-live-on-24-hours-a-day
 title: How to Live on 24 Hours a Day - by Arnold Bennett
-wordpress_id: 861
 ---
 
 If my typical man wishes to live fully and completely he must, in his mind, arrange a day within a day. And this inner day, a Chinese box in a larger Chinese box, must begin at 6 p.m. and end at 10 a.m. It is a day of sixteen hours; and during all these sixteen hours he has nothing whatever to do but cultivate his body and his soul and his fellow men. During those sixteen hours he is free; he is not a wage-earner; he is not preoccupied with monetary cares; he is just as good as a man with a private income. This must be his attitude.

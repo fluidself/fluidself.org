@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-12-02 16:43:24+00:00
-link: https://fluidself.org/books/business/company-of-one/
+link: https://fluidself.org/books/business/company-of-one
 slug: company-of-one
 title: 'Company of One: Why Staying Small Is the Next Big Thing for Business - by Paul Jarvis'
 ---

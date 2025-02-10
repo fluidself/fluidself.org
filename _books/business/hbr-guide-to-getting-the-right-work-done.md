@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-10 06:39:21+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/hbr-guide-to-getting-the-right-work-done/
+link: https://fluidself.org/books/business/hbr-guide-to-getting-the-right-work-done
 slug: hbr-guide-to-getting-the-right-work-done
 title: HBR Guide to Getting the Right Work Done - by Harvard Business Review
-wordpress_id: 669
 ---
 
 **Nine Things Successful People Do Differently**

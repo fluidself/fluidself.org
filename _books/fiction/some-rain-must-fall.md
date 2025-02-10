@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-12-15 15:45:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/some-rain-must-fall/
+link: https://fluidself.org/books/fiction/some-rain-must-fall
 slug: some-rain-must-fall
 title: Some Rain Must Fall - by Karl Ove Knausgaard
 ---

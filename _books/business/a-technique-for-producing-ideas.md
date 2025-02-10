@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-21 20:27:22+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/a-technique-for-producing-ideas/
+link: https://fluidself.org/books/business/a-technique-for-producing-ideas
 slug: a-technique-for-producing-ideas
 title: A Technique for Producing Ideas - by James Young
-wordpress_id: 569
 ---
 
 An idea is nothing more nor less than a new combination of old elements. The capacity to bring old elements into new combinations depends largely on the ability to see relationships.

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-25 15:02:25+00:00
-link: https://fluidself.org/books/science/godel-escher-bach/
+link: https://fluidself.org/books/science/godel-escher-bach
 slug: godel-escher-bach
 title: 'Gödel, Escher, Bach: An Eternal Golden Braid - by Douglas R. Hofstadter'
 ---

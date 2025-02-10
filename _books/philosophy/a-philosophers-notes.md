@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 11:11:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/a-philosophers-notes/
+link: https://fluidself.org/books/philosophy/a-philosophers-notes
 slug: a-philosophers-notes
 title: 'A Philosopher''s Notes: On Optimal Living, Creating an Authentically Awesome
   Life and Other Such Goodness - by Brian Johnson'
-wordpress_id: 754
 ---
 
 Happiness = Virtues in Action. Happiness isn't some elusive treasure we chase after. It's a state of being we need to PRACTICE. Use your strengths often. Do so in service to something bigger than yourself and you'll be blessed with abundant happiness and a life filled with meaning and all that goodness to boot. Good times!

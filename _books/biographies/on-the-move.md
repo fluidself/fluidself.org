@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 08:59:53+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/on-the-move/
+link: https://fluidself.org/books/biographies/on-the-move
 slug: on-the-move
 title: 'On the Move: A Life - by Oliver Sacks'
-wordpress_id: 368
 ---
 
 It seems to me that I discover my thoughts through the act of writing, in the act of writing. Occasionally, a piece comes out perfectly, but more often my writings need extensive pruning and editing, because I may express the same thought in many different ways. I can get waylaid by tangential thoughts and associations in mid-sentence, and this leads to parentheses, subordinate clauses, sentences of paragraphic length. I never use one adjective if six seem to me better and, in their cumulative effect, more incisive. I am haunted by the density of reality and try to capture this with (in Clifford Geertz's phrase) "thick description." All this creates problems of organization. I get intoxicated, sometimes, by the rush of thoughts and am too impatient to put them in the right order. But one needs a cool head, intervals of sobriety, as much as one needs that creative exuberance.

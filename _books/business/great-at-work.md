@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-12-30 19:43:24+00:00
-layout: book.hbs
-link: https://fluidself.org/books/business/great-at-work/
+link: https://fluidself.org/books/business/great-at-work
 slug: great-at-work
 title: 'Great at Work: How Top Performers Do Less, Work Better, and Achieve More - by Morten T. Hansen'
 ---

@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-03-09 11:15:37+00:00
-link: https://fluidself.org/books/biographies/the-journal-of-henry-david-thoreau/
+link: https://fluidself.org/books/biographies/the-journal-of-henry-david-thoreau
 slug: the-journal-of-henry-david-thoreau
 title: 'The Journal of Henry David Thoreau, 1837-1861 - by Henry David Thoreau'
 ---

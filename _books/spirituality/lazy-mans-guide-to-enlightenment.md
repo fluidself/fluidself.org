@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 20:15:09+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/lazy-mans-guide-to-enlightenment/
+link: https://fluidself.org/books/spirituality/lazy-mans-guide-to-enlightenment
 slug: lazy-mans-guide-to-enlightenment
 title: Lazy Man's Guide to Enlightenment - by Thaddeus Golas
-wordpress_id: 410
 ---
 
 Consciousness is not the power to control the material world: it is the absolute power to be free of it.

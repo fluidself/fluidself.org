@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-12 11:47:22+00:00
-link: https://fluidself.org/books/fiction/the-unbearable-lightness-of-being/
+link: https://fluidself.org/books/fiction/the-unbearable-lightness-of-being
 slug: the-unbearable-lightness-of-being
 title: The Unbearable Lightness of Being - by Milan Kundera
 ---

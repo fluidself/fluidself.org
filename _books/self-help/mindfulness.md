@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 14:33:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/mindfulness/
+link: https://fluidself.org/books/self-help/mindfulness
 slug: mindfulness
 title: 'Mindfulness: A practical guide to finding peace in a frantic world - by Mark
   Williams'
-wordpress_id: 344
 ---
 
 [The Three-minute Breathing Space meditation is to be done twice a day and also whenever you need it at any other time. The Breathing Space is not a break or diversion from reality,but a way of re-engaging with it. After you've completed the Breathing Space, there may be the tendency to immediately (and mindlessly) carry on where you left off. When this happens, it's worth pausing for a few moments to decide how you wish to proceed. Mindfulness gives you the option of acting more skilfully, so it's best to use the quiet moments after meditation to decide – consciously – what you want to do.]

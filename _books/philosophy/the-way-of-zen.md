@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-17 08:21:19+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-way-of-zen/
+link: https://fluidself.org/books/philosophy/the-way-of-zen
 slug: the-way-of-zen
 title: The Way of Zen - by Alan Watts
-wordpress_id: 498
 ---
 
 Zen is above all an experience, nonverbal in character, which is simply inaccessible to the purely literary and scholarly approach. To know what Zen is, and especially what it is not, there is no alternative but to practice it, to experiment with it in the concrete so as to discover the meaning which underlies the words.

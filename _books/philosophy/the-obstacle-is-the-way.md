@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-11 11:03:37+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-obstacle-is-the-way/
+link: https://fluidself.org/books/philosophy/the-obstacle-is-the-way
 slug: the-obstacle-is-the-way
 title: 'The Obstacle is the Way: The Timeless Art of Turning Adversity to Advantage
   - by Ryan Holiday'
-wordpress_id: 751
 ---
 
 We're soft, entitled, and scared of conflict. Great times are great softeners. Abundance can be its own obstacle.

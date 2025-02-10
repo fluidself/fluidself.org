@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 09:07:36+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/superhuman-by-habit/
+link: https://fluidself.org/books/self-help/superhuman-by-habit
 slug: superhuman-by-habit
 title: Superhuman by Habit - by Tynan
-wordpress_id: 631
 ---
 
 Your results will be commensurate with the consistency to which you execute your habits, not to the magnitude of their one-time impact. The practical implications of this are twofold. First, be conservative when sizing your new habits. Second, you should be very scared to fail to execute a habit, even once. By failing to execute, potentially you're not just losing a minor bit of progress, but rather threatening the cumulative benefits you'd accrue by establishing a habit. So make your habits relatively easy, but never miss doing them.

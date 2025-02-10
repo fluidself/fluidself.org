@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:14:45+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/mans-search-for-meaning/
+link: https://fluidself.org/books/psychology/mans-search-for-meaning
 slug: mans-search-for-meaning
 title: Man's Search for Meaning - by Viktor E. Frankl
-wordpress_id: 1265
 ---
 
 Forces beyond your control can take away everything you possess except one thing, your freedom to choose how you will respond to the situation. You cannot control what happens to you in life, but you can always control what you will feel and do about what happens to you.

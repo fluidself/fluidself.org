@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 13:14:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/boyd/
+link: https://fluidself.org/books/biographies/boyd
 slug: boyd
 title: 'Boyd: The Fighter Pilot Who Changed the Art of War - by Robert Coram'
-wordpress_id: 1066
 ---
 
 Pilots who pride themselves on their finesse, who never deviate more than fifty feet from their assigned altitude or more than ten knots from their airspeed, or who fly maneuvers strictly by the book, would say that Boyd was "heavy-handed." And they would be correct. But there is little finesse in air combat. Many civilians and those who have never looked through the gun sight -- then called a pipper -- at an enemy aircraft have a romantic perception, no doubt influenced by books and movies about World War I, that pilots are knights of the air, chivalrous men who salute their opponents before engaging in a fight that is always fair. They believe that elaborate rules of aerial courtesy prevail and that battle in the clear pure upper regions somehow is different, more glorified and rarified, than battle in the mud. This is arrant nonsense. Aerial combat, according to those who have participated, is a basic and primitive form of battle that happens to take place in the air. Fighter pilots -- that is, the ones who survive air combat -- are not gentlemen; they are backstabbing assassins. They come out of the sun and attack an enemy when he is blind. Aerial combat is brutally unforgiving. To come in second place is to die, usually in a rather spectactular manner. Most casualties never know they are targets until they are riddled with bullets, covered with flames, and on the way to creating a big hole in the ground. Those who want to engage in the romanticized World War I pirouette of a fair fight will have a short career. Thus, aerial combat favors the bold, those who are not afraid to use the airplane for its true purpose: a gun platform. There is nothing sophisticated about sneaking up on someone and killing him. Aerial combat is a blood sport, a knife in the dark. Winners live and losers die.

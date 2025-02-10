@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-06 21:10:30+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/transitions/
+link: https://fluidself.org/books/psychology/transitions
 slug: transitions
 title: "Transitions: Making Sense Of Life's Changes - by William Bridges"
-wordpress_id: 225
 ---
 
 **PART I: THE NEED FOR CHANGE**

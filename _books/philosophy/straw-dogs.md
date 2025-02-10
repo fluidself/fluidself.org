@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-06-02 15:08:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/straw-dogs/
+link: https://fluidself.org/books/philosophy/straw-dogs
 slug: straw-dogs
 title: 'Straw Dogs: Thoughts On Humans And Other Animals - by John Gray'
 ---

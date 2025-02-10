@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 15:11:47+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-art-of-taking-action/
+link: https://fluidself.org/books/psychology/the-art-of-taking-action
 slug: the-art-of-taking-action
 title: 'The Art of Taking Action: Lessons from Japanese Psychology - by Gregg Krech'
-wordpress_id: 388
 ---
 
 _"Action is the antidote to despair."_

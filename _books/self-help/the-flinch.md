@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-05-05 17:38:17+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-flinch/
+link: https://fluidself.org/books/self-help/the-flinch
 slug: the-flinch
 title: The Flinch - by Julien Smith
-wordpress_id: 1272
 ---
 
 When you're facing the flinch, you use words like "stupid," "safe," "pointless," or anything else that is soft, judgmental, and blurry. The flinch thrives on making risks look worse than they are. So look for those words, act anyway, and judge from hindsight instead.

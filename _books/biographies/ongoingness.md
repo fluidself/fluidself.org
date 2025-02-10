@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-04 09:03:45+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/ongoingness/
+link: https://fluidself.org/books/biographies/ongoingness
 slug: ongoingness
 title: 'Ongoingness: The End of a Diary - by Sarah Manguso'
-wordpress_id: 372
 ---
 
 I wrote so I could say I was truly paying attention. Experience in itself wasn't enough. The diary was my defense against waking up at the end of my life and realizing I'd missed it.

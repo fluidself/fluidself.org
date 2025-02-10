@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2024-10-08 11:43:24+00:00
-link: https://fluidself.org/books/business/here-comes-everybody/
+link: https://fluidself.org/books/business/here-comes-everybody
 slug: here-comes-everybody
 title: 'Here Comes Everybody: The Power of Organizing Without Organizations - by Clay Shirky'
 ---

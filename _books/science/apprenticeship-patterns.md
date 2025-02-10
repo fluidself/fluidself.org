@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-11 17:23:09+00:00
-link: https://fluidself.org/books/science/apprenticeship-patterns/
+link: https://fluidself.org/books/science/apprenticeship-patterns
 slug: apprenticeship-patterns
 title: 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman - by Dave Hoover, Adewale Oshineye'
 ---

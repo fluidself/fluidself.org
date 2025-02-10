@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 16:58:18+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/nonzero/
+link: https://fluidself.org/books/history/nonzero
 slug: nonzero
 title: 'Nonzero: The Logic of Human Destiny - by Robert Wright'
-wordpress_id: 986
 ---
 
 You can capture history's basic trajectory by reference to a core pattern: New technologies arise that permit or encourage new, richer form of non-zero-sum interaction; then (for intelligible reasons grounded ultimately in human nature) social structures evolve that realize this rich potential--that convert non-zero-sum situations into positive sums. Thus does social complexity grow in scope and depth. In short, both organic and human history involve the playing of evermore-numerous, ever-larger, and ever-more-elaborate non-zero-sum games. It is the accumulation of these games--game upon game upon game--that constitutes the growth in biological and social complexity that people like Bergson and Teilhard de Chardin have talked about. I like to refer to this accumulation as an accumulation of "non-zero-sumness." Non-zero-sumness is a kind of potential--a potential for overall gain, or for overall loss, depending on how the game is played.

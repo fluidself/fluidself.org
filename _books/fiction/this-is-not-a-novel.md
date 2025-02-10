@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2022-12-28 08:47:22+00:00
-link: https://fluidself.org/books/fiction/this-is-not-a-novel/
+link: https://fluidself.org/books/fiction/this-is-not-a-novel
 slug: this-is-not-a-novel
 title: This is Not a Novel and Other Novels - by David Markson
 ---

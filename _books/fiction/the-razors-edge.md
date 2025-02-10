@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-07 09:10:02+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-razors-edge/
+link: https://fluidself.org/books/fiction/the-razors-edge
 slug: the-razors-edge
 title: The Razor's Edge - by W. Somerset Maugham
-wordpress_id: 635
 ---
 
 We who are of mature age seldom suspect how unmercifully and yet with what insight the very young judge us.

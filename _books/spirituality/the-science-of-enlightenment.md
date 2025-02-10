@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-12 12:28:23+00:00
-link: https://fluidself.org/books/spirituality/the-science-of-enlightenment/
+link: https://fluidself.org/books/spirituality/the-science-of-enlightenment
 slug: the-science-of-enlightenment
 title: The Science of Enlightenment - by Shinzen Young
 ---

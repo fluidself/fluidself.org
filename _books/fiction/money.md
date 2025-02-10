@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-28 07:09:40+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/money/
+link: https://fluidself.org/books/fiction/money
 slug: money
 title: Money - by Martin Amis
-wordpress_id: 1190
 ---
 
 What is this state, seeing the difference between good and bad and choosing bad – or consenting to bad, okaying bad?

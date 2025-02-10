@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-10-21 09:25:35+00:00
-link: https://fluidself.org/books/fiction/homo-faber/
+link: https://fluidself.org/books/fiction/homo-faber
 slug: homo-faber
 title: Homo Faber - by Max Frisch
 ---

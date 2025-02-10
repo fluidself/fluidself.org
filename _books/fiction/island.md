@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-25 08:19:31+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/island/
+link: https://fluidself.org/books/fiction/island
 slug: island
 title: Island - by Aldous Huxley
-wordpress_id: 947
 ---
 
 The incomeprehensible sequence of changes and chances that make up a life, all the beauties and horrors and absurdities whose conjunctions create the uninterpretable and yet divinely significant pattern of human destiny.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-19 13:03:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/tempo/
+link: https://fluidself.org/books/psychology/tempo
 slug: tempo
 title: 'Tempo: Timing, Tactics and Strategy in Narrative-Driven Decision-Making -
   by Venkatesh Rao'
-wordpress_id: 1058
 ---
 
 Separating work into thought and action is less useful than it used to be. Work is simply whatever we must do to get from one decision to the next.

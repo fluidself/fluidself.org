@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-27 12:19:41+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/why-zebras-dont-get-ulcers/
+link: https://fluidself.org/books/health-and-fitness/why-zebras-dont-get-ulcers
 slug: why-zebras-dont-get-ulcers
 title: Why Zebras Don't Get Ulcers - by Robert M. Sapolsky
-wordpress_id: 1186
 ---
 
 A large body of evidence suggests that stress-related disease emerges, predominantly, out of the fact that we so often activate a physiological system that has evolved for responding to acute physical emergencies, but we turn it on for months on end, worrying about mortgages, relationships, and promotions.

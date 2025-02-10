@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-08-31 19:09:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/thinks/
+link: https://fluidself.org/books/fiction/thinks
 slug: thinks
 title: Thinks... - by David Lodge
 ---

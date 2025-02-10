@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-13 07:33:33+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/a-new-earth/
+link: https://fluidself.org/books/spirituality/a-new-earth
 slug: a-new-earth
 title: "A New Earth: Awakening to Your Life's Purpose - by Eckhart Tolle"
-wordpress_id: 1007
 ---
 
 At the heart of the new consciousness is the transcendence of thought, the newfound ability of rising above thought, of realizing a dimension within yourself that is infinitely more vast than thought. You then no longer derive your identity, your sense of who you are, from the incessant stream of thinking that in the old consciousness you take to be yourself. What a liberation to realize that the "voice in my head" is not who I am. Who am I then? The one who sees that. The awareness that is prior to thought, the space in which the thought – or the emotion or sense perception – happens.

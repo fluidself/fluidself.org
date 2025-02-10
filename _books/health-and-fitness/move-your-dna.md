@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-06-15 18:20:23+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/move-your-dna/
+link: https://fluidself.org/books/health-and-fitness/move-your-dna
 slug: move-your-dna
 title: 'Move Your DNA: Restore Your Health Through Natural Movement - by Katy Bowman'
 ---

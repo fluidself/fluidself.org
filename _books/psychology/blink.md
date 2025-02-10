@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-18 15:59:58+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/blink/
+link: https://fluidself.org/books/psychology/blink
 slug: blink
 title: 'Blink: The Power of Thinking Without Thinking - by Malcolm Gladwell'
-wordpress_id: 521
 ---
 
 The part of our brain that leaps to conclusions like this is called the **adaptive unconscious**. Our unconscious is a powerful force. But it's fallible. It's not the case that our internal computer always shines through, instantly decoding the "truth" of a situation. It can be thrown off, distracted, and disabled. Our instinctive reactions often have to compete with all kinds of other interests and emotions and sentiments. When our powers of rapid cognition go awry, they go awry for a very specific and consistent set of reasons, and those reasons can be identified and understood. It is possible to learn when to listen to that powerful onboard computer and when to be wary of it. Just as we can teach ourselves to think logically and deliberately, we can also teach ourselves to make better snap judgments.

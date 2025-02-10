@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2018-11-17 17:20:20+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/tools-of-titans/
+link: https://fluidself.org/books/self-help/tools-of-titans
 slug: tools-of-titans
 title: Tools of Titans - by Timothy Ferriss
 ---

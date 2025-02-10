@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-05 17:54:37+00:00
-layout: book.hbs
-link: https://fluidself.org/books/self-help/the-subtle-art-of-not-giving-a-fck/
+link: https://fluidself.org/books/self-help/the-subtle-art-of-not-giving-a-fck
 slug: the-subtle-art-of-not-giving-a-fck
 title: 'The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living
   a Good Life - by Mark Manson'
-wordpress_id: 208
 ---
 
 The key to a good life is not giving a fuck about more; it's giving a fuck about less, giving a fuck about only what is true and immediate and important.

@@ -1,13 +1,9 @@
 ---
-author: ugh
-comments: false
 date: 2017-04-11 17:05:43+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/the-fish-that-ate-the-whale/
+link: https://fluidself.org/books/biographies/the-fish-that-ate-the-whale
 slug: the-fish-that-ate-the-whale
 title: "The Fish that Ate the Whale: The Life and Times of America's Banana King
   - by Rich Cohen"
-wordpress_id: 991
 ---
 
 Over time, Sam would develop a philosophy best expressed in a handful of phrases: You're there, we're here; Go see for yourself; Don't trust the report. Though immensely complicated, he was, in a fundamental way, simple, earthy. He believed in staying close to the action--in the fields with the workers, in the dives with the banana cowboys. You drink with a man, you learn what he knows. ("There is no problem you can't solve if you understand your business from A to Z," he said later.)

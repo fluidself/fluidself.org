@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2023-03-01 08:21:22+00:00
-link: https://fluidself.org/books/fiction/diaspora/
+link: https://fluidself.org/books/fiction/diaspora
 slug: diaspora
 title: Diaspora - by Greg Egan
 ---

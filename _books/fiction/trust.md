@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2025-01-24 14:55:35+00:00
-link: https://fluidself.org/books/fiction/trust/
+link: https://fluidself.org/books/fiction/trust
 slug: trust
 title: Trust - by Hernan Diaz
 ---

@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-16 20:47:22+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/the-time-paradox/
+link: https://fluidself.org/books/psychology/the-time-paradox
 slug: the-time-paradox
 title: The Time Paradox - by Philip Zimbardo
-wordpress_id: 320
 ---
 
 Remember that people are more likely to regret actions not taken than actions taken, regardless of outcome.

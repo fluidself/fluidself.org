@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-04 13:48:46+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/the-conquest-of-happiness/
+link: https://fluidself.org/books/philosophy/the-conquest-of-happiness
 slug: the-conquest-of-happiness
 title: The Conquest of Happiness - by Bertrand Russell
-wordpress_id: 591
 ---
 
 **CAUSES OF UNHAPPINESS**

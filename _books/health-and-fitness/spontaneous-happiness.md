@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 06:43:53+00:00
-layout: book.hbs
-link: https://fluidself.org/books/health-and-fitness/spontaneous-happiness/
+link: https://fluidself.org/books/health-and-fitness/spontaneous-happiness
 slug: spontaneous-happiness
 title: Spontaneous Happiness - by Andrew Weil
-wordpress_id: 791
 ---
 
 Ralph Waldo Emerson: "All life is an experiment. The more experiments you make the better."

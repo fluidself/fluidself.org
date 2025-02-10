@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-01-21 13:42:39+00:00
-layout: book.hbs
-link: https://fluidself.org/books/biographies/the-unquiet-grave/
+link: https://fluidself.org/books/biographies/the-unquiet-grave
 slug: the-unquiet-grave
 title: The Unquiet Grave - by Cyril Connolly
-wordpress_id: 327
 ---
 
 My desire is for wisdom, not for the exercise of the will. 'The will is the strong blind man who carries on his shoulders the lame man who can see.'

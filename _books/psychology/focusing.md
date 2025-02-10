@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-16 07:52:43+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/focusing/
+link: https://fluidself.org/books/psychology/focusing
 slug: focusing
 title: Focusing - by Eugene Gendlin
-wordpress_id: 832
 ---
 
 You can sense your living body directly under your thoughts and memories and under your familiar feelings. Focusing happens at a deeper level than your feelings. Under them you can discover a physically sensed "murky zone" which you can enter and open. This is the source from which new steps emerge.

@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2020-12-30 11:51:35+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/point-counter-point/
+link: https://fluidself.org/books/fiction/point-counter-point
 slug: point-counter-point
 title: Point Counter Point - by Aldous Huxley
 ---

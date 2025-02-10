@@ -1,7 +1,6 @@
 ---
-author: ugh
 date: 2021-12-30 16:17:26+00:00
-link: https://fluidself.org/books/philosophy/world-beyond-your-head/
+link: https://fluidself.org/books/philosophy/world-beyond-your-head
 slug: world-beyond-your-head
 title: 'World Beyond Your Head: On Becoming an Individual in an Age of Distraction - by Matthew B. Crawford'
 ---

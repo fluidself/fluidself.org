@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-07 18:13:57+00:00
-layout: book.hbs
-link: https://fluidself.org/books/spirituality/the-joyous-cosmology/
+link: https://fluidself.org/books/spirituality/the-joyous-cosmology
 slug: the-joyous-cosmology
 title: The Joyous Cosmology - by Alan Watts
-wordpress_id: 395
 ---
 
 **Introduction**

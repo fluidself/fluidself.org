@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-02-18 16:07:05+00:00
-layout: book.hbs
-link: https://fluidself.org/books/fiction/the-glass-bead-game/
+link: https://fluidself.org/books/fiction/the-glass-bead-game
 slug: the-glass-bead-game
 title: The Glass Bead Game - by Hermann Hesse
-wordpress_id: 525
 ---
 
 These games sprang from their deep need to close their eyes and flee from unsolved problems and anxious forebodings of doom into an imaginary world as innocuous as possible. They assiduously learned to drive automobiles, to play difficult card games and lose themselves in crossword puzzles – for they faced death, fear, pain, and hunger almost without defenses, could no longer accept the consolations of the churches, and could obtain no useful advice from Reason. These people who read so many articles and listened to so many lectures did not take the time and trouble to strengthen themselves against fear, to combat the dread of death within themselves; they moved spasmodically on through life and had no belief in a tomorrow.

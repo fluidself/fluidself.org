@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2017-03-22 08:14:28+00:00
-layout: book.hbs
-link: https://fluidself.org/books/history/the-electric-kool-aid-acid-test/
+link: https://fluidself.org/books/history/the-electric-kool-aid-acid-test
 slug: the-electric-kool-aid-acid-test
 title: The Electric Kool-Aid Acid Test - by Tom Wolfe
-wordpress_id: 916
 ---
 
 How many?--maybe two dozen people in the world were on to this incredible secret! One was Aldous Huxley, who had taken mescaline and written about it in The Doors of Perception. He compared the brain to a "reducing valve." In ordinary perception, the senses send an overwhelming flood of information to the brain, which the brain then filters down to a trickle it can manage for the purpose of survival in a highly competitive world. Man has become so rational, so utilitarian, that the trickle becomes most pale and thin. It is efficient, for mere survival, but it screens out the most wondrous part of man's potential experience without his even knowing it. We're shut off from our own world. Primitive man once experienced the rich and sparkling flood of the senses fully. Children experience it for a few months--until "normal" training, conditioning, close the doors on this other world, usually for good. Somehow, Huxley had said, the drugs opened these ancient doors. And through them modern man may at last go, and rediscover his divine birthright.

@@ -1,9 +1,6 @@
 ---
-author: ugh
-comments: false
 date: 2019-01-05 16:31:26+00:00
-layout: book.hbs
-link: https://fluidself.org/books/philosophy/skin-in-the-game/
+link: https://fluidself.org/books/philosophy/skin-in-the-game
 slug: skin-in-the-game
 title: 'Skin in the Game: Hidden Asymmetries in Daily Life - by Nassim Nicholas Taleb'
 ---

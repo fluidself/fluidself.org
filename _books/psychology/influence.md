@@ -1,12 +1,8 @@
 ---
-author: ugh
-comments: false
 date: 2016-04-07 19:14:37+00:00
-layout: book.hbs
-link: https://fluidself.org/books/psychology/influence/
+link: https://fluidself.org/books/psychology/influence
 slug: influence
 title: 'Influence: The Psychology of Persuasion - by Robert B. Cialdini'
-wordpress_id: 58
 ---
 
 Ethologists have begun to identify regular, blindly mechanical patterns of action in a wide variety of species. Called fixed-action patterns, they can involve intricate sequences of behavior, such as entire courtship or mating rituals. A fundamental characteristic of these patterns is that the behaviors that compose them occur in virtually the same fashion and in the same order every time. It is almost as if the patterns were recorded on tapes within the animals.
