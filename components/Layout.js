@@ -1,10 +1,10 @@
 import { Container } from '@chakra-ui/react';
 import Header from './Header';
 
-function Layout({ children }) {
+function Layout({ children, isRoot }) {
   return (
     <Container maxWidth="container.lg" p={0}>
-      <Header />
+      <Header isRoot={isRoot} />
       {children}
     </Container>
   );

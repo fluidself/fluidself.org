@@ -4,7 +4,7 @@ import ContentBlock from '../components/ContentBlock';
 
 export default function Home() {
   return (
-    <Layout>
+    <Layout isRoot>
       <ContentBlock heading="PROJECTS">
         <Stack>
           <Heading size="lg">Dunlin</Heading>

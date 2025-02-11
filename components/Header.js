@@ -4,7 +4,7 @@ import { Link, Flex, Stack } from '@chakra-ui/react';
 import ThemeSwitch from './ThemeSwitch';
 import FSIcon from './FSIcon';
 
-export default function Header() {
+export default function Header({ isRoot }) {
   return (
     <Flex as="nav" align="center" justify="space-between" wrap="wrap" w="100%" mb={4} mt={2}>
       <NextLink href="/">
@@ -12,14 +12,18 @@ export default function Header() {
           <FSIcon />
         </a>
       </NextLink>
-      <Stack spacing={6} align="center" direction="row">
-        <NextLink href="/books" passHref>
-          <Link textDecoration="none" fontFamily="mono">
-            /books
-          </Link>
-        </NextLink>
+      {isRoot ? (
+        <Stack spacing={6} align="center" direction="row">
+          <NextLink href="/books" passHref>
+            <Link textDecoration="none" fontFamily="mono">
+              /books
+            </Link>
+          </NextLink>
+          <ThemeSwitch />
+        </Stack>
+      ) : (
         <ThemeSwitch />
-      </Stack>
+      )}
     </Flex>
   );
 }
