@@ -7,7 +7,7 @@ import { getBookData, getAllCategories, getBooksInCategory } from '../../../lib/
 import { customRenderers } from '../../../lib/markdown-renderer';
 
 export default function Book(props) {
-  const { title, content } = props;
+  const { title, content, category, slug } = props;
 
   return (
     <Layout>
@@ -15,7 +15,7 @@ export default function Book(props) {
         <title>{title}</title>
         <meta name="description" content={`${title} book notes`} />
       </Head>
-      <ContentBlock heading={title}>
+      <ContentBlock heading={title} category={category} slug={slug}>
         <ReactMarkdown components={customRenderers} remarkPlugins={[gfm]}>
           {content}
         </ReactMarkdown>
@@ -32,6 +32,8 @@ export async function getStaticProps(context) {
     props: {
       title: bookData.title,
       content: bookData.content,
+      category,
+      slug,
     },
   };
 }
