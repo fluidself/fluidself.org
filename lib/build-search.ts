@@ -6,7 +6,7 @@ const algoliasearch = require('algoliasearch/lite');
 
 const booksDirectory = path.join(process.cwd(), '_books');
 
-function getBookData(category, bookIdentifier) {
+function getBookData(category: string, bookIdentifier: string) {
   const slug = bookIdentifier.replace(/\.md$/, '');
   const filePath = path.join(booksDirectory, `/${category}/${slug}.md`);
   const fileContent = fs.readFileSync(filePath, 'utf-8');
@@ -21,9 +21,9 @@ function getBookData(category, bookIdentifier) {
   return bookData;
 }
 
-function getBooksInCategory(category) {
+function getBooksInCategory(category: string) {
   const categoryPath = path.join(booksDirectory, category);
-  const bookIdentifiers = fs.readdirSync(categoryPath);
+  const bookIdentifiers: string[] = fs.readdirSync(categoryPath);
   const slugsCategoriesTitles = bookIdentifiers.map(bookIdentifier => getBookData(category, bookIdentifier));
 
   return slugsCategoriesTitles;
@@ -43,15 +43,11 @@ const CATEGORY_SLUGS = [
   'spirituality',
 ];
 
-async function getAllBookData() {
-  return [].concat(...CATEGORY_SLUGS.map(category => getBooksInCategory(category)));
-}
-
 (async function () {
   dotenv.config();
 
   try {
-    const searchObjects = await getAllBookData();
+    const searchObjects = CATEGORY_SLUGS.flatMap(category => getBooksInCategory(category));
     const client = algoliasearch(process.env.NEXT_PUBLIC_ALGOLIA_APP_ID, process.env.ALGOLIA_SEARCH_ADMIN_API_KEY);
     const index = client.initIndex(process.env.NEXT_PUBLIC_ALGOLIA_INDEX);
 
