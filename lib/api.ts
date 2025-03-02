@@ -4,22 +4,32 @@ import matter from 'gray-matter';
 
 const booksDirectory = path.join(process.cwd(), '_books');
 
-export function getBookData(category, bookIdentifier) {
+interface BookData {
+  slug: string;
+  content: string;
+  title: string;
+  date: string;
+  link: string;
+}
+
+export function getBookData(category: string, bookIdentifier: string) {
   const slug = bookIdentifier.replace(/\.md$/, '');
   const filePath = path.join(booksDirectory, `/${category}/${slug}.md`);
   const fileContent = fs.readFileSync(filePath, 'utf-8');
   const { data, content } = matter(fileContent);
 
-  const bookData = {
+  const bookData: BookData = {
     slug,
-    ...data,
     content,
+    title: data.title,
+    date: data.date,
+    link: data.link,
   };
 
   return bookData;
 }
 
-export function getBooksInCategory(category) {
+export function getBooksInCategory(category: string) {
   const categoryPath = path.join(booksDirectory, category);
   const bookIdentifiers = fs.readdirSync(categoryPath);
   const slugsAndTitles = bookIdentifiers
