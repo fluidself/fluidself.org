@@ -16,7 +16,7 @@
 # misc
 .DS_Store
 *.pem
-lib/index-books.js
+lib/index-books.ts
 indexed-books.json
 .husky
 
