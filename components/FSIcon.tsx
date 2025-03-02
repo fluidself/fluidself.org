@@ -1,15 +1,12 @@
-import { Icon, useColorMode } from '@chakra-ui/react';
-
 export default function FSIcon() {
-  const { colorMode } = useColorMode();
-
-  const bgFill = colorMode === 'dark' ? '#111111' : '#FDFDFD';
-  const fill = colorMode === 'dark' ? '#FDFDFD' : '#111111';
-
   return (
-    <Icon xmlns="http://www.w3.org/2000/svg" viewBox="0 0 734 734" boxSize={10}>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 734 734"
+      style={{ display: 'block', width: '100%', height: '100%' }}
+    >
       <path
-        fill={bgFill}
+        className="fill-background"
         opacity="1.000000"
         stroke="none"
         d="
@@ -94,7 +91,7 @@ M545.961548,336.376099
 z"
       />
       <path
-        fill={fill}
+        className="fill-primary"
         opacity="1.000000"
         stroke="none"
         d="
@@ -127,7 +124,7 @@ M199.864349,573.894165
 z"
       />
       <path
-        fill={fill}
+        className="fill-primary"
         opacity="1.000000"
         stroke="none"
         d="
@@ -162,7 +159,7 @@ M318.574402,395.532104
 z"
       />
       <path
-        fill={fill}
+        className="fill-primary"
         opacity="1.000000"
         stroke="none"
         d="
@@ -186,6 +183,6 @@ M545.702087,336.659790
 	C548.259399,331.070038 546.781433,333.718079 545.702087,336.659790 
 z"
       />
-    </Icon>
+    </svg>
   );
 }
