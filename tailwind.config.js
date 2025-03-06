@@ -65,10 +65,39 @@ module.exports = {
               borderLeftColor: 'hsl(var(--primary))',
               borderLeftWidth: '0.15rem',
             },
+            h2: {
+              color: 'hsl(var(--primary))',
+              fontWeight: '500',
+              fontSize: '1.25rem',
+            },
             h3: {
-              color: 'hsl(var(--secondary-foreground))',
+              color: 'hsl(var(--primary))',
               fontWeight: '500',
               fontSize: '1.125rem',
+            },
+            li: {
+              marginTop: '0.3em',
+              marginBottom: '0.3em',
+            },
+            '> ul > li p': {
+              marginTop: '0.45em',
+              marginBottom: '0.45em',
+            },
+            '> ul > li > p:first-child': {
+              marginTop: '0.75em',
+            },
+            '> ul > li > p:last-child': {
+              marginBottom: '0.75em',
+            },
+            '> ol > li > p:first-child': {
+              marginTop: '0.75em',
+            },
+            '> ol > li > p:last-child': {
+              marginBottom: '0.75em',
+            },
+            'ul ul, ul ol, ol ul, ol ol': {
+              marginTop: '0.45em',
+              marginBottom: '0.45em',
             },
             strong: {
               color: 'hsl(var(--primary))',
