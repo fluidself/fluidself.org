@@ -2,8 +2,7 @@
 date: 2017-03-21 09:20:10+00:00
 link: https://fluidself.org/books/self-help/the-power-of-habit
 slug: the-power-of-habit
-title: 'The Power of Habit: Why We Do What We Do in Life and Business - by Charles
-  Duhigg'
+title: 'The Power of Habit: Why We Do What We Do in Life and Business - by Charles Duhigg'
 ---
 
 This process within our brains is a three-step loop. First, there is a cue, a trigger that tells your brain to go into automatic mode and which habit to use. Then there is the routine, which can be physical or mental or emotional. Finally, there is a reward, which helps your brain figure out if this particular loop is worth remembering for the future.
@@ -18,15 +17,15 @@ This is how new habits are created: by putting together a cue, a routine, and a 
 
 Belief is the ingredient that makes a reworked habit loop into a permanent behavior.
 
-We do know that for habits to permanently change, people must believe that change is feasible. The same process that makes AA so effective--the power of a group to teach individuals how to believe--happens whenever people come together to help one another change. Belief is easier when it occurs within a community.
+We do know that for habits to permanently change, people must believe that change is feasible. The same process that makes AA so effective—the power of a group to teach individuals how to believe—happens whenever people come together to help one another change. Belief is easier when it occurs within a community.
 
 If you focus on changing or cultivating **keystone habits**, you can cause widespread shifts. However, identifying keystone habits is tricky. To find them, you have to know where to look. Detecting keystone habits means searching out certain characteristics. Keystone habits offer what is known within academic literature as "small wins." They help other habits to flourish by creating new structures, and they establish cultures where change becomes contagious. Keystone habits transform us by creating cultures that make clear the values that, in the heat of a difficult decision or a moment of uncertainty, we might otherwise forget.
 
 This is how **willpower** becomes a habit: by choosing a certain behavior ahead of time, and then following that routine when an inflection point arrives.
 
-**A Reader's Guide to Using These Ideas**
+### A Reader's Guide to Using These Ideas
 
-**THE FRAMEWORK:**
+### THE FRAMEWORK:
 
 - **Identify the routine**
 
@@ -34,4 +33,4 @@ This is how **willpower** becomes a habit: by choosing a certain behavior ahead 
 
 - **Isolate the cue.** Almost all habitual cues fit into one of five categories: Location; Time; Emotional state; Other people; Immediately preceding action
 
-- **Have a plan.** Once you've figured out your habit loop--you've identified the reward driving your behavior, the cue triggering it, and the routine itself--you can begin to shift the behavior. You can change to a better routine by planning for the cue and choosing a behavior that delivers the reward you are craving. What you need is a plan.
+- **Have a plan.** Once you've figured out your habit loop—you've identified the reward driving your behavior, the cue triggering it, and the routine itself—you can begin to shift the behavior. You can change to a better routine by planning for the cue and choosing a behavior that delivers the reward you are craving. What you need is a plan.

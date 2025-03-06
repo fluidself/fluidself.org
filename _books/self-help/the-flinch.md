@@ -13,7 +13,7 @@ When you feel the flinch, you can shut it up by talking out loud. Ask a clear, s
 
 Train yourself to flinch forward, and your world changes radically. You respond to challenges by pushing ahead instead of shrinking back. You become bigger instead of smaller; you're more stable and more confident. Your world becomes a series of obstacles to overcome, instead of attacks you have to defend yourself from. You go on offense instead of defense. You can change the world again, instead of protecting yourself from it.
 
-**CHECKLIST**
+### CHECKLIST
 
 1.  Challenge yourself by doing things that hurt, on purpose. Have a willpower practice, such as very hard exercise, meditation, endurance, or cold showers. Choose something that makes your brain scream with how hard it is, and try to tolerate it. The goal isn't just to get used to it. It's to understand that pain is something you can survive.
 

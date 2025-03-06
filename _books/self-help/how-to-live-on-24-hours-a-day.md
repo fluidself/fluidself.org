@@ -11,7 +11,7 @@ I do suggest that you might, for a commencement, employ an hour and a half every
 
 A life in which conduct does not fairly well accord with principles is a silly life; and that conduct can only be made to accord with principles by means of daily examination, reflection, and resolution.
 
-Books are valuable. But no reading of books will take the place of a daily, candid, honest examination of what one has recently done, and what one is about to do--of a steady looking at one's self in the face (disconcerting though the sight may be).
+Books are valuable. But no reading of books will take the place of a daily, candid, honest examination of what one has recently done, and what one is about to do—of a steady looking at one's self in the face (disconcerting though the sight may be).
 
 1.  Define the direction and scope of your efforts. Choose a limited period, or a limited subject, or a single author. Say to yourself: "I will know something about the French Revolution, or the rise of railways, or the works of John Keats." And during a given period, to be settled beforehand, confine yourself to your choice. There is much pleasure to be derived from being a specialist.
 

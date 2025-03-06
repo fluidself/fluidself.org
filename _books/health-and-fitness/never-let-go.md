@@ -5,7 +5,7 @@ slug: never-let-go
 title: 'Never Let Go: A Philosophy of Lifting, Living and Learning - by Dan John'
 ---
 
-**The Tabata Method — Fat Loss in Four Minutes**
+### The Tabata Method — Fat Loss in Four Minutes
 
 Take one exercise and perform it in the following manner.  
 1. For twenty seconds, do as many repetitions as possible.
@@ -16,7 +16,7 @@ The front squat might be the single best Tabata lift. Generally, I urge people t
 
 I do either Tabata front squats or Tabata thrusters about twice a month.
 
-**If it's Important, Do it Every Day**
+### If it's Important, Do it Every Day
 
 Remember, if it’s important, do it every day. Do this with a weak body part, a weak lift, or something you’re trying to learn. Don’t force it, just keep banging away day after day and soon the body is going to grant your wish; you’re going to have some level of success here. Yes, it’s that simple: Do something you think is important every day.
 
@@ -33,11 +33,11 @@ Try working a weak exercise, lift, or body part each and every workout as part o
 - With a body-part workout, add a few sets of a few reps with whole-body lifts you won’t be targeting.
 - Put together a series of walks, drags, carries, lifts, moves and exercises that challenge you in a variety of ways, but are still doable, and toss in a workout as a bit of dessert at the end of your training day.
 
-**Blood on the Barbell**
+### Blood on the Barbell
 
 For people living in the world of regular hours, regular meals, and regular bowel movements, I have only one bit of advice: planned spontaneity. Learn some new skills. Learn the snatch and clean and jerk. Sign up and compete in a Highland Games or Strongman contest. Learn some new lifts. Hey, there’s an idea!
 
-**New Associations, New Muscle**
+### New Associations, New Muscle
 
 There are basically nine different movements you should do as a human:  
 - Vertical Push
@@ -50,7 +50,7 @@ There are basically nine different movements you should do as a human:
 - The Twist or Torque Moves
 - The Total-body Explosion Exercises (If you’re limited by time, these are the ones to do.)
 
-**The Big Five**
+### The Big Five
 
 - Squat
 - Deadlift

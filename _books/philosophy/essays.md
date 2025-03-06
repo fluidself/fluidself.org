@@ -5,7 +5,7 @@ slug: essays
 title: Essays - by Michel de Montaigne
 ---
 
-I personally believe --and with Socrates it is axiomatic--that anyone who has a clear and vivid idea in his mind will express it, either in rough language, or by gestures if he is dumb:
+I personally believe —and with Socrates it is axiomatic—that anyone who has a clear and vivid idea in his mind will express it, either in rough language, or by gestures if he is dumb:
 _Verbaque provisam rem non invita sequentur._
 'When the matter is ready the words will follow freely.'
 And as another author said just as poetically in prose, 'When things have seized the mind, the words come of themselves.' He knows no ablative, subjunctive, substantive, or grammar; neither does his servant, or a fishwife on the Petit Pont. Yet they will give you your fill of talk if you will listen, and will very likely make no more mistakes in the linguistic rules than the best Master of Arts in France. He knows no rhetoric, nor how, by way of preface, to _capture the benevolence of the candid reader_; nor has he any wish to do so. In fact, all such fine tricks are easily eclipsed by the light of a simple, artless truth.

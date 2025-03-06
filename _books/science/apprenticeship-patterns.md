@@ -29,7 +29,7 @@ When we use the phrase software craftsmanship we’re talking about a community 
 
 - A strong preference for what Etienne Wenger calls “situated learning.” This is an idea that the software community has tried to capture with patterns like Expert in Earshot. Its essence is that the best way to learn is to be in the same room with people who are trying to achieve some goal using the skills you wish to learn.
 
-**Chapter 2: Emptying the Cup**
+### Chapter 2: Emptying the Cup
 
 Expose Your Ignorance. Show the people who are depending on you that the learning process is part of delivering software. Let them see you grow.
 
@@ -39,9 +39,9 @@ With practice and time, you will find that asking direct questions to the most k
 
 **Action:** Write down a list of five things you really don’t understand about your work. Put that list where others can see it. Then get in the habit of refreshing this list as your work changes.
 
-**Chapter 3: Walking the Long Road**
+### Chapter 3: Walking the Long Road
 
-**Craft over Art**
+### Craft over Art
 
 > I would describe programming as a craft, which is a kind of art, but not a fine art. Craft means making useful objects with perhaps decorative touches. Fine art means making things purely for their beauty.
 > &mdash;Richard Stallman in “Art and Programming”
@@ -60,7 +60,7 @@ Work on what you like. Find something at work that interests you, identify it as
 
 You should continuously reassess your map as your circumstances and values change. Sometimes your map will be in accord with that of those around you, and sometimes your map will require you to chart your own path through the wilderness. Some apprentices we’ve spoken to have found that being open about their current map has enabled them to find Kindred Spirits while maintaining healthy relationships with current and past employers. The only constant is that the map is always yours, and you’re free to redraw it at any time.
 
-**Chapter 4: Accurate Self-Assessment**
+### Chapter 4: Accurate Self-Assessment
 
 **Be the Worst.** Surround yourself with developers who are better than you. Find a stronger team where you are the weakest member and have room to grow.
 
@@ -80,7 +80,7 @@ The development practice of Pair Programming is a concrete example of this patte
 
 The applications of this pattern are not limited merely to pair programming. The goal is to find ways to expose yourself to the daily working habits of other skilled people, and observe the ways in which they gradually refine those habits into even greater skill. These habits extend beyond coding and into all aspects of software development.
 
-**Sweep the Floor.**
+### Sweep the Floor.
 
 **Context:** You are a new apprentice on a project. **Problem:** You’re unsure of your place on the team, and the team is unsure of you. You wish to find a means of contributing to the team’s work, earning the team’s trust, and growing in stature as a craftsman. **Solution:** Volunteer for simple, unglamorous, yet necessary, tasks. This is a good way to contribute to the team’s success early on by showing that you can do a high-quality job even when it doesn’t seem to matter.
 
@@ -88,7 +88,7 @@ Examples of these tasks include maintaining the build system, production support
 
 What’s the grungiest task that your team has been putting off for months? It will be the one that everybody complains about and that no one wants to tackle. Tackle it. And don’t just hold your nose and force yourself to do it; see if you can creatively resolve the problem in a way that exceeds people’s expectations and makes it fun for you.
 
-**Chapter 5: Perpetual Learning**
+### Chapter 5: Perpetual Learning
 
 **Practice, Practice, Practice.** Take the time to practice your craft without interruptions, in an environment where you can feel comfortable making mistakes. Short feedback loops need to be incorporated into your practice sessions.
 
@@ -106,20 +106,20 @@ This process of observation, reflection, and change isn’t limited to just your
 
 Your goal should be to become skilled rather than experienced. The increase in your skill level is the only meaningful testament to the effort you have spent inspecting, adapting, and improving your working habits.
 
-**Record What You Learn.**
+### Record What You Learn.
 
 **Context:** You learn the same lessons again and again. They never seem to stick. You often find yourself repeatedly doing things such as setting up CruiseControl, modeling hierarchies in SQL, or introducing patterns to a team. You remember doing very similar things in the past, but the exact details escape you. **Problem:** Those who do not learn from history are doomed to repeat it. **Solution:** Keep a record of your journey in a journal, personal wiki, or blog. A chronological record of the lessons you have learned can provide inspiration to those you mentor, since it makes your journey explicit, but it can also give you a vital resource to draw upon. Those who use this pattern sooner or later experience a moment when they’re searching for the answer to a tricky problem and their search engine gives them a link to their own wiki or blog. Using a blog to record the lessons you’ve learned also has the side benefit of helping you meet Kindred Spirits, while a wiki that has accidental linking allows you to see the connections between your experiences. Try to avoid falling into the trap of just writing down your lessons and forgetting them. Your notebook, blog, or wiki should be a nursery, not a graveyard—lessons should be born from this record, rather than going there to die. You make this happen by regularly going back to read what you’ve written. Try to make new connections every time you review the material.
 
-**Share What You Learn.**
+### Share What You Learn.
 
 **Context:** You have been an apprentice for a little while. You know a few things and people are starting to look to you as a source of knowledge. **Problem:** Up until now, you have focused exclusively on your own improvement as a craftsman. To become a journeyman you will need the ability to communicate effectively and bring other people up to speed quickly. **Solution:** Early in your apprenticeship, develop the habit of regularly sharing the lessons you have learned. This may take the form of maintaining a blog or running “brown bag” sessions amongst your Kindred Spirits. You can also make presentations at conferences or write tutorials for the various technologies and techniques that you are learning. At first this will be difficult. After all, you are not a master or even a journeyman: surely you should wait for someone more experienced to put themselves forward? However, you will find that your fellow apprentices will appreciate one of their own trying to demystify complex topics. You may know only a tiny amount about category theory or prototype-based programming languages, but the little knowledge you have is still more than most. Since you know only a little bit, your explanations will be simple and straight to the point without assuming prior knowledge. This will make them better explanations. You may find that it helps to write the tutorial you wish you had been given when you were first learning a particular topic or technology.
 
-**Chapter 6: Construct Your Curriculum**
+### Chapter 6: Construct Your Curriculum
 
-**Reading List.**
+### Reading List.
 
 **Problem:** The number of books you need to read is increasing faster than you can read them. **Solution:** Maintain a Reading List to track the books you plan to read, and remember the books you’ve read. In the spirit of the Share What You Learn pattern, consider storing your list in a public space. This will allow other people to benefit from the things you learn.
 
-**Study the Classics.**
+### Study the Classics.
 
 **Context:** You are self-taught, or had a highly practical education that valued skills training over theory. **Problem:** The experienced people you collaborate with are constantly referencing concepts such as Brooks’ law from books that they assume you—and any self-respecting software developer—have read. **Solution:** Expose Your Ignorance and ask about the unknown concept and the book it came from. Add this book to your Reading List.

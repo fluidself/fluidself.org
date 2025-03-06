@@ -7,9 +7,9 @@ title: The Way of Zen - by Alan Watts
 
 Zen is above all an experience, nonverbal in character, which is simply inaccessible to the purely literary and scholarly approach. To know what Zen is, and especially what it is not, there is no alternative but to practice it, to experiment with it in the concrete so as to discover the meaning which underlies the words.
 
-**BACKGROUND AND HISTORY**
+## BACKGROUND AND HISTORY
 
-**The Philosophy of the Tao**
+### The Philosophy of the Tao
 
 In English the differences between things and actions are clearly, if not always logically, distinguished, but a great number of Chinese words do duty for both nouns and verbs–so that one who thinks in Chinese has little difficulty in seeing that objects are also events, that our world is a collection of processes rather than entities.
 
@@ -27,7 +27,7 @@ Taoism is, then, the original Chinese way of liberation which combined with Indi
 
 All in all, it would seem that hsin means the totality of our psychic functioning, and, more specifically, the center of that functioning, which is associated with the central point of the upper body. The Japanese form of the word, kokoro, is used with even more subtleties of meaning, but for the present it is enough to realize that in translating it "mind" (a sufficiently vague word) we do not mean exclusively the intellectual or thinking mind, nor even the surface consciousness. The important point is that, according to both Taoism and Zen, the center of the mind's activity is not in the conscious thinking process, not in the ego.
 
-**The Origins of Buddhism**
+### The Origins of Buddhism
 
 Reasonable, unfanatical, humanistic, Confucianism is one of the most workable patterns of social convention that the world has known. Coupled with the "let well enough alone" attitude of Taoism, it nurtured a mellow and rather easygoing type of mentality which, when it absorbed Buddhism, did much to make it more "practical." That is to say, it made Buddhism a possible way of life for human beings, for people with families, with everyday work to do, and with normal instincts and passions. Reasonable–that is, human–men will always be capable of compromise, but men who have dehumanized themselves by becoming the blind worshipers of an idea or an ideal are fanatics whose devotion to abstractions makes them the enemies of life. Modified by such attitudes, Far Eastern Buddhism is much more palatable and "according to nature" than its Indian and Tibetan counterparts, with ideals of life which seem at times to be superhuman, more suited to angels than to men.
 
@@ -41,7 +41,7 @@ It is fundamental to every school of Buddhism that there is no ego, no enduring 
 
 Man is involved in karma when he interferes with the world in such a way that he is compelled to go on interfering, when the solution of a problem creates still more problems to be solved, when the control of one thing creates the need to control several others. Karma is thus the fate of everyone who "tries to be God." He lays a trap for the world in which he himself gets caught. Many Buddhists understand the Round of birth-and-death quite literally as a process of reincarnation, wherein the karma which shapes the individual does so again and again in life after life until, through insight and awakening, it is laid to rest. But in Zen, and in other schools of the Mahayana, it is often taken in a more figurative way, as that the process of rebirth is from moment to moment, so that one is being reborn so long as one identifies himself with a continuing ego which reincarnates itself afresh at each moment of time.
 
-**Mahayana Buddhism**
+### Mahayana Buddhism
 
 To anyone who is highly self-aware, the Buddhism of the Pali Canon leaves many practical problems unanswered. Its psychological insight goes little further than the construction of analytical catalogues of mental functions, and though its precepts are clear it is not always helpful in explaining their practical difficulties. Perhaps it is too sweeping a generalization, but one receives the impression that whereas the Pali Canon would unlock the door to nirvana by sheer effort, the Mahayana would jiggle the key until it turns smoothly. Thus the great concern of the Mahayana is the provision of "skillful means" (upaya) for making nirvana accessible to every type of mentality.
 
@@ -49,7 +49,7 @@ Awakening will not come to pass when one is trying to escape or change the every
 
 One of the cardinal doctrines of the Mahayana is that all beings are endowed with Buddha nature, and so have the possibility of becoming Buddhas.
 
-**The Rise and Development of Zen**
+### The Rise and Development of Zen
 
 Perhaps the special flavor of Zen is best described as a certain directness. In other schools of Buddhism, awakening or bodhi seems remote and almost superhuman, something to be reached only after many lives of patient effort. But in Zen there is always the feeling that awakening is something quite natural, something startlingly obvious, which may occur at any moment. If it involves a difficulty, it is just that it is much too simple. Zen is also direct in its way of teaching, for it points directly and openly to the truth, and does not trifle with symbolism.
 
@@ -65,9 +65,9 @@ The "Zen type" is an extremely fine type–as types go–self-reliant, humorous,
 
 Both Rinzai and Soto Zen as we find them in Japanese monasteries today put enormous emphasis on za-zen or sitting meditation, a practice which they follow for many hours of the day–attaching great importance to the correctness of posture and the way of breathing which it involves. To practice Zen is, to all intents and purposes, to practice za-zen, to which the Rinzai School adds sanzen, the periodic visits to the master (roshi) for presenting one's view of the koan. Even in Japanese Zen one occasionally encounters a Zen practice which lays no special emphasis upon za-zen, but rather stresses the use of one's ordinary work as the means of meditation. This was certainly true of Bankei, and this principle underlies the common use of such arts as "tea ceremony," flute playing, brush drawing, archery, fencing, and ju-jutsu as ways of practicing Zen. Perhaps, then, the exaggeration of za-zen in later times is part and parcel of the conversion of the Zen monastery into a boys' training school.
 
-**PRINCIPLES AND PRACTICE**
+## PRINCIPLES AND PRACTICE
 
-**Empty and Marvelous**
+### Empty and Marvelous
 
 The point is not to make an effort to silence the feelings and cultivate bland indifference. It is to see through the universal illusion that what is pleasant or good may be wrested from what is painful or evil.
 
@@ -85,7 +85,7 @@ The difficulty of Zen is, of course, to shift one's attention from the abstract 
 
 It is true that, when pressed, every attempt to catch hold of our world leaves us empty-handed. Furthermore, when we try to be sure at least of ourselves, the knowing, catching subjects, we disappear. We cannot find any self apart from the mind, and we cannot find any mind apart from those very experiences which the mind–now vanished–was trying to grasp. In R. H. Blyth's arresting metaphor, when we were just about to swat the fly, the fly flew up and sat on the swatter. In terms of immediate perception, when we look for things there is nothing but mind, and when we look for mind there is nothing but things. For a moment we are paralyzed, because it seems that we have no basis for action, no ground under foot from which to take a jump. But this is the way it always was, and in the next moment we find ourselves as free to act, speak, and think as ever, yet in a strange and miraculous new world from which "self" and "other," "mind" and "things" have vanished. The marvel can only be described as the peculiar sensation of freedom in action which arises when the world is no longer felt to be some sort of obstacle standing over against one. This is not freedom in the crude sense of "kicking over the traces" and behaving in wild caprice. It is the discovery of freedom in the most ordinary tasks, for when the sense of subjective isolation vanishes, the world is no longer felt as an intractable object. In the context of Christianity this might be interpreted as feeling that one has become omnipotent, that one is God, directing everything that happens. However, it must be remembered that in Taoist and Buddhist thought there is no conception of a God who deliberately and consciously governs the universe.
 
-**Sitting Quietly, Doing Nothing**
+### Sitting Quietly, Doing Nothing
 
 In both life and art the cultures of the Far East appreciate nothing more highly than spontaneity or naturalness (tzu-jan). This is the unmistakable tone of sincerity marking the action which is not studied and contrived. For a man rings like a cracked bell when he thinks and acts with a split mind-one part standing aside to interfere with the other, to control, to condemn, or to admire. But the mind, or the true nature, of man cannot actually be split.
 
@@ -101,7 +101,7 @@ To the Western reader it may seem that all this is a kind of pantheism, an attem
 
 Although profoundly "inconsequential," the Zen experience has consequences in the sense that it may be applied in any direction, to any conceivable human activity, and that wherever it is so applied it lends an unmistakable quality to the work. The characteristic notes of the spontaneous life are mo chih ch'u m or "going ahead without hesitation," wu-wei, which may here be understood as purposelessness, and wu-shih, lack of affectation or simplicity. While the Zen experience does not imply any specific course of action, since it has no purpose, no motivation, it turns unhesitatingly to anything that presents itself to be done. Mo chih ch'u is the mind functioning without blocks, without "wobbling" between alternatives, and much of Zen training consists in confronting the student with dilemmas which he is expected to handle without stopping to deliberate and "choose." The response to the situation must follow with the immediacy of sound issuing from the hands when they are clapped, or sparks from a flint when struck. The student unaccustomed to this type of response will at first be confused, but as he gains faith in his "original" or spontaneous mind he will not only respond with ease, but the responses themselves will acquire a startling appropriateness. This is something like the professional comedian's gift of unprepared wit which is equal to any situation.
 
-**Za-zen and the Koan**
+### Za-zen and the Koan
 
 No distinction is to be made between the realization of awakening (satori) and the cultivation of Zen in meditation and action. Whereas it might be supposed that the practice of Zen is a means to the end of awakening, this is not so. For the practice of Zen is not the true practice so long as it has an end in view, and when it has no end in view it is awakening–the aimless, self-sufficient life of the "eternal now." To practice with an end in view is to have one eye on the practice and the other on the end, which is lack of concentration, lack of sincerity. To put it in another way: one does not practice Zen to become a Buddha; one practices it because one is a Buddha from the beginning–and this "original realization" is the starting point of the Zen life.
 
@@ -113,7 +113,7 @@ At intervals, the sitting posture is interrupted, and the monks fall into ranks 
 
 Awakening is to know what reality is not. It is to cease identifying oneself with any object of knowledge whatsoever. Just as every assertion about the basic substance or energy of reality must be meaningless, any assertion as to what "I am" at the very roots of my being must also be the height of folly. Delusion is the false metaphysical premise at the root of common sense; it is the average man's unconscious ontology and epistemology, his tacit assumption that he is a "something." The assumption that "I am nothing" would, of course, be equally wrong since something and nothing, being and non-being, are related concepts, and belong equally to the "known."
 
-**Zen in the Arts**
+### Zen in the Arts
 
 Since "one showing is worth a hundred sayings," the expression of Zen in the arts gives us one of the most direct ways of understanding it. This is the more so because the art forms which Zen has created are not symbolic in the same way as other types of Buddhist art, or as is "religious" art as a whole. The favorite subjects of Zen artists, whether painters or poets, are what we should call natural, concrete, and secular things. Even when they turn to the Buddha, or to the Patriarchs and masters of Zen, they depict them in a peculiarly down-to-earth and human way. Furthermore, the arts of Zen are not merely or primarily representational. Even in painting, the work of art is considered not only as representing nature but as being itself a work of nature. For the very technique involves the art of artlessness, or what Sabro Hasegawa has called the "controlled accident," so that paintings are formed as naturally as the rocks and grasses which they depict.
 

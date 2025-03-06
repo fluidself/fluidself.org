@@ -5,7 +5,7 @@ slug: godel-escher-bach
 title: 'Gödel, Escher, Bach: An Eternal Golden Braid - by Douglas R. Hofstadter'
 ---
 
-**The Key Images and Ideas that Lie at the Core of GEB**
+### The Key Images and Ideas that Lie at the Core of GEB
 
 In a word, _GEB_ is a very personal attempt to say how it is that animate beings can come out of inanimate matter. What is a self, and how can a self come out of stuff that is as selfless as a stone or a puddle? What is an "I", and why are such things found (at least so far) only in association with, as poet Russell Edson once wonderfully phrased it, "teetering bulbs of dread and dream"—that is, only in association with certain kinds of gooey lumps encased in hard protective shells mounted atop mobile pedestals that roam the world on pairs of slightly fuzzy, jointed suits?
 
@@ -21,7 +21,7 @@ Something very strange emerges from the Gödelian loop: the revelation of the ca
 
 Strange loops are an abstract structure that crops up in various media and in varying degrees of richness. _GEB_ is in essence a long proposal of strange loops as a metaphor for how selfhood originates, a metaphor by which to begin to grab a hold of just what it is that makes an "I" seem, at one and the same time, so terribly real and tangible to its own possessor, and yet also so vague, so impenetrable, so deeply elusive. I personally cannot imagine that consciousness will be fully understood without reference to Gödelian strange loops or level-crossing feedback loops.
 
-**Introduction: A Musico-Logical Offering**
+### Introduction: A Musico-Logical Offering
 
 The idea of a canon is that one single theme is played against itself. This is done by having "copies" of the theme played by the various participating voices. But there are many ways to do this. The most straightforward of all canons is the round, such as "Three Blind Mice", "Row, Row, Row Your Boat", or "Frere Jacques". Here, the theme enters in the first voice and, after a fixed time-delay, a "copy" of it enters, in precisely the same key. After the same fixed time-delay in the second voice, the third voice enters carrying the theme, and so on. Most themes will not harmonize with themselves in this way. In order for a theme to work as a canon theme, each of its notes must be able to serve in a dual (or triple, or quadruple) role: it must firstly be part of a melody, and secondly it must be part of a harmonization of the same melody. When there are three canonical voices, for instance, each note of the theme must act in two distinct harmonic ways, as well as melodically. Thus, each note in a canon has more than one musical meaning; the listener's ear and brain automatically figure out the appropriate meaning, by referring to context.
 
@@ -45,7 +45,7 @@ Incidentally, this Gödel sentence G is not Gödel's Theorem—no more than the 
 
 In short, Gödel showed that provability is a weaker notion than truth, no matter what axiomatic system is involved.
 
-**Chapter I: The MU-puzzle**
+### Chapter I: The MU-puzzle
 
 One of the most central notions in this book is that of a _formal system_. The type of formal system I use was invented by the American logician Emil Post in the 1920's, and is often called a "Post production system".
 
@@ -63,7 +63,7 @@ It is very important when studying formal systems to distinguish working _within
 
 If there is a test for theoremhood, a test which does always terminate in a finite amount of time, then that test is called a _decision procedure_ for the given formal system. When you have a decision procedure, then you have a very concrete characterization of the nature of all theorems in the system. A decision procedure is a "litmus test" for theoremhood! Incidentally, one requirement on formal systems is that the set of axioms must be characterized by a decision procedure—there must be a litmus test for axiomhood. This ensures that there is no problem in getting off the ground at the beginning, at least. That is the difference between the set of axioms and the set of theorems: the former always has a decision procedure, but the latter may not.
 
-**CHAPTER II: Meaning and Form in Mathematics**
+### CHAPTER II: Meaning and Form in Mathematics
 
 Do words and thoughts follow formal rules, or do they not? That problem is the problem of this book.
 
@@ -77,7 +77,7 @@ Probably the most significant fact of this Chapter, if understood deeply, is thi
 
 In Chapters to come, we will lay out a formal system that (1) includes a stylized vocabulary in which all statements about natural numbers can be expressed, and (2) has rules corresponding to all the types of reasoning which seem necessary. A very important question will be whether the rules for symbol manipulation which we have then formulated are really of equal power (as far as number theory is concerned) to our usual mental reasoning abilities—or, more generally, whether it is theoretically possible to attain the level of our thinking abilities, by using some formal system.
 
-**CHAPTER III: Figure and Ground**
+### CHAPTER III: Figure and Ground
 
 There is a famous artistic distinction between _figure_ and _ground_. When a figure or "positive space" (e.g., a human form, or a letter, or a still life) is drawn inside a frame, an unavoidable consequence is that its complementary shape—also called the "ground", or "background", or "negative space"—has also been drawn. In most drawings, however, this figure-ground relationship plays little role. The artist is much less interested in ground than in the figure. But sometimes, an artist will take interest in ground as well.
 
@@ -86,7 +86,7 @@ Let us now officially distinguish between two kinds of figures: _cursively drawa
 One may also look for figures and grounds in music. One analogue is the distinction between melody and accompaniment—for the melody is always in the forefront of our attention, and the accompaniment is subsidiary, in some sense. Therefore it is surprising when we find, in the lower lines of a piece of music, recognizable melodies. This does not happen too often in post-baroque music. Usually the harmonies are not thought of as foreground. But in baroque music—in Bach above all—the distinct lines, whether high or low or in between, all act as "figures". In this sense, pieces by Bach can be called
 "recursive". Another figure-ground distinction exists in music: that between on-beat and off-beat. If you count notes in a measure "one-and, two-and, three-and, four-and", most melody-notes will come on numbers, not on "and"s. But sometimes, a melody will be deliberately pushed onto the "and"s, for the sheer effect of it.
 
-**CHAPTER IV: Consistency, Completeness, and Geometry**
+### CHAPTER IV: Consistency, Completeness, and Geometry
 
 In Chapter II, we saw how meaning—at least in the relatively simple context of formal systems—arises when there is an isomorphism between rule-governed symbols, and things in the real world. The more complex the isomorphism, in general, the more "equipment"—both hardware and software—is required to extract the meaning from the symbols. If an isomorphism is very simple (or very familiar), we are tempted to say that the meaning which it allows us to see is explicit. We see the meaning without seeing the isomorphism. The most blatant example is human language, where people often attribute meaning to words in themselves, without being in the slightest aware of the very complex "isomorphism" that imbues them with meanings. This is an easy enough error to make. It attributes all the meaning to the object (the word), rather than to the link between that object and the real world. You might compare it to the naive belief that noise is a necessary side effect of any collision of two objects. This is a false belief; if two objects collide in a vacuum, there will be no noise at all. Here again, the error stems from attributing the noise exclusively to the collision, and not recognizing the role of the medium, which carries it from the objects to the ear.
 
@@ -104,7 +104,7 @@ Roughly, then, it should be possible to establish different brands of consistenc
 Consistency: when every theorem, upon interpretation, comes out true (in some imaginable world).  
 Completeness: when all statements which are true (in some imaginable world), and which can be expressed as well-formed strings of the system, are theorems.
 
-**CHAPTER V: Recursive Structures and Processes**
+### CHAPTER V: Recursive Structures and Processes
 
 What is recursion? It is nesting, and variations on nesting. The concept is very general. (Stories inside stories, movies inside movies, paintings inside paintings, Russian dolls inside Russian dolls (even parenthetical comments in. side parenthetical comments!)—these are just a few of the charms of recursion.) Sometimes recursion seems to brush paradox very closely. For example, there are _recursive definitions_. Such a definition may give the casual viewer the impression that something is being defined in terms of itself. That would be circular and lead to infinite regress, if not to paradox proper. Actually, a recursive definition (when properly formulated) never leads to infinite regress or paradox. This is because a recursive definition never defines something in terms of itself, but always in terms of simpler versions of itself.
 
@@ -116,7 +116,7 @@ Now what is the connection between the recursive processes of this Chapter, and 
 
 It might seem that recursively defined sequences of that type possess some sort of inherently increasing complexity of behavior, so that the further out you go, the less predictable they get. This kind of thought carried a little further suggests that suitably complicated recursive systems might be strong enough to break out of any predetermined patterns. And isn't this one of the defining properties of intelligence? Instead of just considering programs composed of procedures which can recursively call themselves, why not get really sophisticated, and invent programs which can _modify_ themselves—programs which can act on programs, extending them, improving them, generalizing them, fixing them, and so on? This kind of "tangled recursion" probably lies at the heart of intelligence.
 
-**CHAPTER VI: The Location of Meaning**
+### CHAPTER VI: The Location of Meaning
 
 Last chapter, we came upon the question, "When are two things the same?" In this Chapter, we will deal with the flip side of that question: "When is one thing not always the same?" The issue we are broaching is whether meaning can be said to be inherent in a message, or whether meaning is always manufactured by the interaction of a mind or a mechanism with a message. In the latter case, meaning could not said to be located in any single place, nor could it be said that a message has any universal, or objective, meaning, since each observer could bring its own meaning to each message. But in the former case, meaning would have both location and universality. In this Chapter, I want to present the case for the universality of at least some messages, without, to be sure, claiming it for all messages. The idea of an "objective meaning" of a message will turn out to be related, in an interesting way, to the simplicity with which intelligence can be described.
 
@@ -138,19 +138,19 @@ This happens because our intelligence is not disembodied, but is instantiated in
 
 It would be nice if we could define intelligence in some other way than "that which gets the same meaning out of a sequence of symbols as we do". For if we can only define it this one way, then our argument that meaning is an intrinsic property is circular, hence content-free. We should try to formulate in some independent way a set of characteristics which deserve the name "intelligence". Such characteristics would constitute the uniform core of intelligence, shared by humans. At this point in history we do not yet have a well-defined list of those characteristics. However, it appears likely that within the next few decades there will be much progress made in elucidating what human intelligence is. In particular, perhaps cognitive psychologists, workers in Artificial Intelligence, and neuroscientists will be able to synthesize their understandings, and come up with a definition of intelligence. It may still be human-chauvinistic; there is no way around that. But to counterbalance that, there may be some elegant and beautiful—and perhaps even simple—abstract ways of characterizing the essence of intelligence. This would serve to lessen the feeling of having formulated an anthropocentric concept. And of course, if contact were established with an alien civilization from another star system, we feel supported in our belief that our own type of intelligence is not just a fluke, but an example of a basic form which reappears in nature in contexts, like stars and uranium nuclei. This in turn would support the idea of meaning being an inherent property.
 
-**CHAPTER VII: The Propositional Calculus**
+### CHAPTER VII: The Propositional Calculus
 
 The Propositional Calculus gives us a set of rules for producing statements which would be true in all conceivable worlds. That is why all of its theorems sound so simple-minded; it seems that they have absolutely no content! Looked at this way, the Propositional Calculus might seem to be a waste of time, since what it tells us is absolutely trivial. On the other hand, it does it by specifying the _form_ of statements that are universally true, and this throws a new kind of light onto the core truths of the universe: they are not only fundamental, but also _regular_: they can be produced by one set of typographical rules. To put it another way, they are all "cut from the same cloth".
 
 Despite its quirks, the Propositional Calculus has some features to recommend itself. If one embeds it into a larger system (as we will do next Chapter), and if one is sure that the larger system contains no contradictions (and we will be), then the Propositional Calculus does all that one could hope: it provides valid propositional inferences—all that can be made. So if ever an incompleteness or an inconsistency is uncovered, one can be sure that it will be the fault of the larger system, and not of its subsystem which is the Propositional Calculus.
 
-**CHAPTER VIII: Typographical Number Theory**
+### CHAPTER VIII: Typographical Number Theory
 
 Gödel's construction depends on describing the form, as well as the content, of strings of the formal system we shall define in this Chapter—Typographical Number Theory (TNT). The unexpected twist is that, because of the subtle mapping which Gödel discovered, the form of strings can be described in the formal system itself.
 
 It is worthwhile pausing for breath and contemplating what it would mean to have a formal system that could sift out the true ones from the false ones. This system would treat all these strings—which to us look like statements—as designs having form, but no content. And this system would be like a sieve through which could pass only designs with a special style—the "style of truth". The boundary separating the set of true statements from the set of false statements (as written in the TNT-notation) is anything but straight; it is a boundary with many treacherous curves, a boundary of which mathematicians have delineated stretches, here and there, working over hundreds of years. Just think what a coup it would be to have a typographical method which was guaranteed to place any formula on the proper side of the border!
 
-**CHAPTER IX: Mumon and Gödel**
+### CHAPTER IX: Mumon and Gödel
 
 One of the basic tenets of Zen Buddhism is that there is no way to characterize what Zen is. No matter what verbal space you try to enclose Zen in, it resists, and spills over. It might seem, then, that all efforts to explain Zen are complete wastes of time. But that is not the attitude of Zen masters and students. For instance, Zen koans are a central part of Zen study, verbal though they are. Koans are supposed to be "triggers" which, though they do not contain enough information in themselves to impart enlightenment, may possibly be sufficient to unlock the mechanisms inside one's mind that lead to enlightenment. But in general, the Zen attitude is that words and truth are incompatible, or at least that no words can capture truth. Only by stepping outside of logic, so the theory goes, can one make the leap to enlightenment. But what is so bad about logic? Why does it prevent the leap to enlightenment?
 
@@ -172,7 +172,7 @@ This simple observation is at the heart of Gödel's method, and it will have an 
 
 Now it could be objected here that a coded message, unlike an uncod message, does not express anything on its own—it requires knowledge of the code. But in reality there is no such thing as an uncoded message. There are only messages written in more familiar codes, and message written in less familiar codes. If the meaning of a message is to be revealed it must be pulled out of the code by some sort of mechanism, or isomorphism. It may be difficult to discover the method by which the decoding should be done; but once that method has been discovered, the message becomes transparent as water. When a code is familiar enough, it ceases appearing like a code; one forgets that there is a decoding mechanism. The message is identified with its meaning.
 
-**CHAPTER X: Levels of Description, and Computer Systems**
+### CHAPTER X: Levels of Description, and Computer Systems
 
 Gödel's string G, and a Bach fugue: they both have the property that they can be understood on different levels. We are all familiar with this kind of thing; and yet in some cases it confuses us, while in others we handle it without any difficulty at all. For example, we all know that we human beings are composed of an enormous number of cells (around twenty-five trillion), and therefore that everything we do could in principle be described in terms of cells. Or it could even be described on the level of molecules. Most of us accept this in a rather matter-of-fact way; we go to the doctor, who looks at us on lower levels than we think of ourselves. We read about DNA and "genetic engineering" and sip our coffee. We seem to have reconciled these two inconceivably different pictures of ourselves simply by disconnecting them from each other. We have almost no way to relate a microscopic description of ourselves to that which we feel ourselves to be, and hence it is possible to store separate representations of ourselves in quite separate "compartments" of our minds. Seldom do we have to flip back and forth between these two concepts of ourselves, wondering "How can these two totally different things be the same _me_?"
 
@@ -201,7 +201,7 @@ There is, however, perhaps one significant negative feature of a chunked model: 
 
 In coming Chapters, where we discuss the brain, we shall examine whether the brain's top level—the mind—can be understood without understanding the lower levels on which it both depends and does not depend. Are there laws of thinking which are "sealed off" from the lower laws that govern the microscopic activity in the cells of the brain? Can mind be "skimmed" off of brain and transplanted into other systems? Or is it impossible to unravel thinking processes into neat and modular subsystems? Is the brain more like an atom, a renormalized electron, a nucleus, a neutron, or a quark? Is consciousness an epiphenomenon? To understand the mind, must one go all the way down to the level of nerve cells?
 
-**CHAPTER XI: Brains and Thoughts**
+### CHAPTER XI: Brains and Thoughts
 
 It was only with the advent of computers that people actually tried to create "thinking" machines, and witnessed bizarre variations on the theme, of thought. Programs were devised whose "thinking" was to human thinking as a slinky flipping end over end down a staircase is to human locomotion. All of a sudden the idiosyncrasies, the weaknesses and powers, the vagaries and vicissitudes of human thought were hinted at by the newfound ability to experiment with alien, yet hand-tailored forms of thought—or approximations of thought.
 
@@ -249,7 +249,7 @@ Needless to say, we have in our brains chunked laws not only of how inanimate ob
 
 A distinction which is made in Artificial Intelligence is that between procedural and declarative types of knowledge. A piece of knowledge is said to be _declarative_ if it is stored explicitly, so that not only the programmer but also the program can "read" it as if it were in an encyclopedia or an almanac. This usually means that it is encoded locally, not spread around. By contrast, _procedural_ knowledge is not encoded as facts—only as programs. A programmer may be able to peer in and say, "I see that because of these procedures here, the program `knows' how to write English sentences"—but the program itself may have no explicit awareness of _how_ it writes those sentences. For instance, its vocabulary may include none of the words "English", "sentence", and "write" at all! Thus procedural knowledge is usually spread around in pieces, and you can't retrieve it, or "key" on it. It is a global consequence of how the program works, not a local detail. In other words, a piece of purely procedural knowledge is an epiphenomenon. The intuitive or chunked laws of physics and other disciplines mentioned earlier fall mainly on the procedural side; the knowledge that an octopus has eight tentacles falls mainly on the declarative side. In between the declarative and procedural extremes, there are all possible shades.
 
-**CHAPTER XII: Minds and Thoughts**
+### CHAPTER XII: Minds and Thoughts
 
 Now that we have hypothesized the existence of very high-level active subsystems of the brain (symbols), we may return to the matter of a possible isomorphism, or partial isomorphism, between two brains. Instead of asking about an isomorphism on the neural level (which surely does not exist), or on the macroscopic suborgan level (which surely does exist but does not tell us very much), we ask about the possibility of an isomorphism between brains on the symbol level: a correspondence which not only maps symbols in one brain onto symbols in another brain, but also maps triggering patterns onto triggering patterns. This means that corresponding symbols in the two brains are linked in corresponding ways. This would be a true functional isomorphism—the same type of isomorphism as we spoke of when trying to characterize what it is that is invariant about all butterflies.
 
@@ -279,7 +279,7 @@ could be created. For instance, it is quite plausible that a computer program wi
 What kind of guarantee is there that a subsystem, such as I have here postulated, which represents the self, actually exists in our brains? Could a whole complex network of symbols such as has been described above evolve without a self-symbol evolving? How could these symbols and their activities play out "isomorphic" mental events to real events in the surrounding universe, if there were no symbol for the host organism, All the stimuli coming into the system are centered on one small mass in space. It would be quite a glaring hole in a brain's symbolic structure not to have a symbol for the physical object in which it is housed, and which plays a larger role in the events it mirrors than any other object. In fact, upon reflection, it seems that the only way one could make sense of the world surrounding a localized animate object is to understand the role of that object in relation to the other objects around it. This necessitates the existence of a self-symbol; and the step from symbol to subsystem is merely a reflection of the importance of the self-
 symbol, and is not a qualitative change.
 
-**CHAPTER XIII: BlooP and FlooP and GlooP**
+### CHAPTER XIII: BlooP and FlooP and GlooP
 
 BlooP, FlooP, and GlooP are three computer languages, each one with is own special purpose. These languages were invented specially for this chapter. They will be of use in explaining some new senses of the word "recursive"—in particular, the notions of _primitive recursivity_ and _general recursivity_. They will prove very helpful in clarifying the machinery of self-reference in TNT.
 
@@ -306,14 +306,14 @@ Here are three related ways to state the CT-Thesis:
 
 As has already been mentioned, “BlooP-computable” is synonymous with “primitive recursive”. Now FlooP computable functions can be divided into two realms: (1) those which are computable by _terminating_ FlooP programs: these are said to be _general recursive_; and (2) those which are computable only by _nonterminating_ FlooP programs: these are said to be _partial recursive_. (Similarly for predicates.) People often just say "recursive" when they mean "general recursive".
 
-**CHAPTER XIV: On Formally Undecidable Propositions of TNT and Related Systems**
+### CHAPTER XIV: On Formally Undecidable Propositions of TNT and Related Systems
 
 I will stress the two key ideas which are at the core of Gödel's proof. The first key idea is the deep discovery that there are strings of TNT which can be
 interpreted as speaking about other strings of TNT; in short, that TNT, as a language, is capable of "introspection", or self-scrutiny. This is what comes from Gödel-numbering. The second key idea is that the property of self scrutiny can be entirely concentrated into a single string; thus that string's sole focus of attention is itself. This "focusing trick" is traceable, in essence, to the Cantor diagonal method.
 
 In my opinion, if one is interested in understanding Gödel's proof in a deep way, then one must recognize that the proof, in its essence, consists of a fusion of these two main ideas. Each of them alone is a master stroke; to put them together took an act of genius. If I were to choose, however, which of the two key ideas is deeper, I would unhesitatingly pick the first one—the idea of Gödel-numbering, for that idea is related to the whole notion of what meaning and reference are, in symbol-manipulating systems. This is an idea which goes far beyond the confines of mathematical logic, whereas the Cantor trick, rich though it is in mathematical consequences, has little if any relation to issues in real life.
 
-**CHAPTER XV: Jumping out of the System**
+### CHAPTER XV: Jumping out of the System
 
 Any system, no matter how complex or tricky it is, can be Gödel-numbered, and then the notion of its proof-pairs can be defined—and this is the petard by which it is hoist. Once a system is well-defined, or "boxed", it becomes vulnerable. So what is to be done? There is no end in sight. It appears that TNT, even when extended ad infinitum, cannot be made complete. TNT is therefore said to suffer from essential incompleteness because the incomepleteness here is part and parcel of TNT; it is an essential part of the nature of TNT and cannot be eradicated in any way, whether simpleminded or ingenious. What's more, this problem will haunt any formal version of number theory, whether it is an extension of TNT, a modification of TNT, or an alternative to TNT.
 
@@ -325,7 +325,7 @@ However, it is important to see the distinction between _perceiving_ oneself, an
 
 In Zen, too, we can see this preoccupation with the concept of transcending the system. Perhaps, self-transcendence is even the central theme of Zen. A Zen person is always trying to understand more deeply what he is, by stepping more and more out of what he sees himself to be, by breaking every rule and convention which he perceives himself to be chained by—needless to say, including those of Zen itself. Somewhere along this elusive path may come enlightenment. In any case (as I see it), the hope is that by gradually deepening one's self-awareness, by gradually widening the scope of "the system", one will in the end come to a feeling of being at one with the entire universe.
 
-**CHAPTER XVI: Self-Ref and Self-Rep**
+### CHAPTER XVI: Self-Ref and Self-Rep
 
 Let us look at sentences which, at first glance, may seem to provide the simplest examples of self-reference. Some such sentences are these:
 
@@ -373,7 +373,7 @@ The Central Dogmap establishes an analogy between two fundamental Tangled Hierar
 
 One of the more interesting similarities between the two sides of the map is the way in which "loops" of arbitrary complexity arise on the top level of both: on the left, proteins which act on proteins which act on proteins and so on, ad infinitum; and on the right, statements about statements about statements of meta-TNT and so on, ad infinitum. These are like heterarchies, where a sufficiently complex substratum allows high-level Strange Loops to occur and to cycle around, totally sealed off from lower levels.
 
-**CHAPTER XVII: Church, Turing, Tarski, and Others**
+### CHAPTER XVII: Church, Turing, Tarski, and Others
 
 We have come to the point where we can develop one of the main theses of this book: that every aspect of thinking can be viewed as a high-level description of a system which, on a low level, is governed by simple, even formal, rules. The "system", of course, is a brain—unless one is speaking of thought processes flowing in another medium, such as a computer's circuits. The image is that of a formal system underlying an "informal system"—a system which can, for instance, make puns, discover number patterns, forget names, make awful blunders in chess, and so forth. This is what one sees from the outside: its informal, overt, software level. By contrast, it has a formal, hidden, hardware level (or "substrate") which is a formidably complex mechanism that makes transitions from state to state according to definite rules physically embodied in it, and according to the input of signals which impinge on it.
 
@@ -395,7 +395,7 @@ AI THESIS: As the intelligence of machines evolves, its underlying mechanisms wi
 
 In other words, all intelligences are just variations on a single theme; to create true intelligence, AI workers will just have to keep pushing to ever lower levels, closer and closer to brain mechanisms, if they wish their machines to attain the capabilities which we have.
 
-**CHAPTER XVIII: Artificial Intelligence: Retrospects**
+### CHAPTER XVIII: Artificial Intelligence: Retrospects
 
 There is a "Theorem" about progress in AI: once some mental function is programmed, people soon cease to consider it as an essential ingredient of "real thinking". The ineluctable core of intelligence is always in that next thing which hasn't yet been programmed. This "Theorem" was first proposed to me by Larry Tesler, so I call it _Tesler's Theorem_. "AI is whatever hasn't been done yet."
 
@@ -419,7 +419,7 @@ When you realize that knowledge representation is an altogether different ball g
 
 What kind of program would it take to make human beings admit that it had some "understanding", even if begrudgingly? What would it take before you wouldn't feel intuitively that there is "nothing there"?
 
-**CHAPTER XIX: Artificial Intelligence: Prospects**
+### CHAPTER XIX: Artificial Intelligence: Prospects
 
 In everyday thought, we are constantly manufacturing mental variants on situations we face, ideas we have, or events that happen, and we let some features stay exactly the same while others "slip". What features do we let slip? What ones do we not even consider letting slip? What events are perceived on some deep intuitive level as being close relatives of ones which really happened? What do we think "almost" happened or "could have" happened, even though it unambiguously did not? What alternative versions of events pop without any conscious thought into our minds when we hear a story? Why do some counterfactuals strike us as "less counterfactual" than other counterfactuals? After all, it is obvious that anything that didn't happen didn't happen. There aren't degrees of "didn't-happen-ness". And the same goes for "almost" situations. There are times when one plaintively says, "It almost happened", and other times when one says the same thing, full of relief. But the "almost" lies in the mind, not in the external facts.
 
@@ -453,7 +453,7 @@ It is obvious that we are talking about mechanization of creativity. But is this
 
 It is a common notion that randomness is an indispensable ingredient of creative acts. This may be true, but it does not have any bearing on the mechanizability—or rather, programmability!—of creativity. The world is a giant heap of randomness; when you mirror some of it inside your head, your head's interior absorbs a little of that randomness. The triggering patterns of symbols, therefore, can lead you down the most random-seeming paths, simply because they came from your interactions with a crazy, random world. So it can be with a computer program, too. Randomness is an intrinsic feature of thought, not something which has to be "artificially inseminated", whether through dice, decaying nuclei, random number tables, or what-have-you. It is an insult to human creativity to imply that it relies on such arbitrary sources.
 
-**CHAPTER XX: Strange Loops, Or Tangled Hierarchies**
+### CHAPTER XX: Strange Loops, Or Tangled Hierarchies
 
 Pause to think where your sense of having a will comes from. Unless you are a soulist, you'll probably say that it comes from your brain—a piece of hardware which you did not design or choose. And yet that doesn't diminish your sense that you want certain things, and not others. You aren't a "self-programmed object" (whatever that would be), but you still do have a sense of desires, and it springs from the physical substrate of your mentality. Likewise, machines may someday have wills despite the fact that no magic program spontaneously appears in memory from out of nowhere (a "self-programmed program"). They will have wills for much the same reason as you do—by reason of organization and structure on many levels of hardware and software.
 

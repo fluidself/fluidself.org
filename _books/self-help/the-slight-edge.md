@@ -13,7 +13,7 @@ Here's the problem: every action that is easy to do, is also easy not to do. Tha
 
 The Slight Edge is all about living in the moment. Greatness is always in the moment of the decision.
 
-**The 7 Slight Edge Principles**
+### The 7 Slight Edge Principles
 
 1.  Show up.
 
@@ -31,7 +31,7 @@ The Slight Edge is all about living in the moment. Greatness is always in the mo
 
 The predominant state of mind displayed by those people on the failure curve is blame. The predominant state of mind displayed by those people on the success curve is responsibility.
 
-There is no treading water in life, no running in place, because everything is in motion. If you're not improving, enriching, building, unfolding, if you're not adding assets to your personal and professional value every day--then you're headed down the curve.
+There is no treading water in life, no running in place, because everything is in motion. If you're not improving, enriching, building, unfolding, if you're not adding assets to your personal and professional value every day—then you're headed down the curve.
 
 You can gauge the limitations of a person's life by the size of the problems that get him or her down. You can measure the impact a person's life has by the size of the problems he or she solves.
 
@@ -39,15 +39,13 @@ You can gauge the limitations of a person's life by the size of the problems tha
 
 **Completion:** Every incomplete promise, commitment and agreement saps your strength, because it blocks your momentum, inhibits your ability to move forward, to progress and improve. Incomplete things keep calling you back to the past to take care of them.
 
-**Habit**
-
 **Reflection:** Being productive and being busy are not necessarily the same thing. Doing things won't create your success; doing the right things will. Were those actions productive? Did you take a step forward?
 
 **Celebration:** Keep your Slight Edge activities, your right choices and incremental successes, right out in the open where you can see them and celebrate them. Acknowledge those steps, no matter how small or insignificant they may seem at the time.
 
 **Continuous Learning:** Book smarts, street smarts. Learning by study, learning by doing. Read about it, apply it, see it in action, take that practical experience back to my reading, deepen my understanding, take that deeper understanding back to my activity ... it's a never-ending cycle, each aspect of learning feeding the other.
 
-**Course Correction:** Once you know the Slight Edge, you know that in getting from point A to point B you'll be off track most of the time. And you know that it's the adjustments--those little, seemingly insignificant corrections in direction--that have the most power in your life.
+**Course Correction:** Once you know the Slight Edge, you know that in getting from point A to point B you'll be off track most of the time. And you know that it's the adjustments—those little, seemingly insignificant corrections in direction—that have the most power in your life.
 
 **Kaizen:** Plan, Do, Review.
 
@@ -57,7 +55,7 @@ You can gauge the limitations of a person's life by the size of the problems tha
 
 **Your Mastermind:** Surround yourself with people of like mind and different talents and temperaments with the purpose of serving the goals of every member of the group. Associate with these people on a regular basis.
 
-**Goal Setting**
+### Goal Setting
 
 - Write it down, make it specific and give it a deadline.
 

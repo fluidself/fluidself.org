@@ -5,7 +5,7 @@ slug: zero-to-one
 title: 'Zero to One: Notes on Startups, or How to Build the Future - by Peter Thiel, Blake Masters'
 ---
 
-**THE CHALLENGE OF THE FUTURE**
+### THE CHALLENGE OF THE FUTURE
 
 It’s easier to copy a model than to make something new. Doing what we already know how to do takes the world from 1 to n, adding more of something familiar. But every time we create something new, we go from 0 to 1. The act of creation is singular, as is the moment of creation, and the result is something fresh and strange.
 
@@ -23,7 +23,7 @@ My own answer to the contrarian question is that most people think the future of
 
 Positively defined, a startup is the largest group of people you can convince of a plan to build a different future. A new company’s most important strength is new thinking: even more important than nimbleness, small size affords space to think.
 
-**PARTY LIKE IT'S 1999**
+### PARTY LIKE IT'S 1999
 
 1. It is better to risk boldness than triviality.
 
@@ -35,7 +35,7 @@ Positively defined, a startup is the largest group of people you can convince of
 
 We still need new technology, and we may even need some 1999-style hubris and exuberance to get it. To build the next generation of companies, we must abandon the dogmas created after the crash. That doesn’t mean the opposite ideas are automatically true: you can’t escape the madness of crowds by dogmatically rejecting them. Instead ask yourself: how much of what you know about business is shaped by mistaken reactions to past mistakes? The most contrarian thing of all is not to oppose the crowd but to think for yourself.
 
-**ALL HAPPY COMPANIES ARE DIFFERENT**
+### ALL HAPPY COMPANIES ARE DIFFERENT
 
 The business version of our contrarian question is: what valuable company is nobody building? This question is harder than it looks, because your company could create a lot of value without becoming very valuable itself. Creating value is not enough—you also need to capture some of the value you create.
 
@@ -55,13 +55,13 @@ Monopolies drive progress because the promise of years or even decades of monopo
 
 Perfect equilibrium may describe the void that is most of the universe. It may even characterize many businesses. But every new creation takes place far from equilibrium. In the real world outside economic theory, every business is successful exactly to the extent that it does something others cannot. Monopoly is therefore not a pathology or an exception. Monopoly is the condition of every successful business. Tolstoy opens Anna Karenina by observing: “All happy families are alike; each unhappy family is unhappy in its own way.” Business is the opposite. All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
 
-**THE IDEOLOGY OF COMPETITION**
+### THE IDEOLOGY OF COMPETITION
 
 Creative monopoly means new products that benefit everybody and sustainable profits for the creator. Competition means no profits for anybody, no meaningful differentiation, and a struggle for survival. So why do people believe that competition is healthy? The answer is that competition is not just an economic concept or a simple inconvenience that individuals and companies must deal with in the marketplace. More than anything else, competition is an ideology—the ideology—that pervades our society and distorts our thinking. We preach competition, internalize its necessity, and enact its commandments; and as a result, we trap ourselves within it—even though the more we compete, the less we gain.
 
 The hazards of imitative competition may partially explain why individuals with an Asperger’s-like social ineptitude seem to be at an advantage in Silicon Valley today. If you’re less sensitive to social cues, you’re less likely to do the same things as everyone else around you. If you’re interested in making things or programming computers, you’ll be less afraid to pursue those activities single-mindedly and thereby become incredibly good at them. Then when you apply your skills, you’re a little less likely than others to give up your own convictions: this can save you from getting caught up in crowds competing for obvious prizes.
 
-**LAST MOVER ADVANTAGE**
+### LAST MOVER ADVANTAGE
 
 Simply stated, the value of a business today is the sum of all the money it will make in the future. (To properly value a business, you also have to discount those future cash flows to their present worth, since a given amount of money today is worth more than the same amount in the future.) Comparing discounted cash flows shows the difference between low-growth businesses and high-growth startups at its starkest. Most of the value of low-growth businesses is in the near term. An Old Economy business (like a newspaper) might hold its value if it can maintain its current cash flows for five or six years. However, any firm with close substitutes will see its profits competed away. Nightclubs or restaurants are extreme examples: successful ones might collect healthy amounts today, but their cash flows will probably dwindle over the next few years when customers move on to newer and trendier alternatives. Technology companies follow the opposite trajectory. They often lose money for the first few years: it takes time to build valuable things, and that means delayed revenue. Most of a tech company’s value will come at least 10 to 15 years in the future.
 
@@ -85,7 +85,7 @@ Disruption has recently transmogrified into a self-congratulatory buzzword for a
 
 You’ve probably heard about “first mover advantage”: if you’re the first entrant into a market, you can capture significant market share while competitors scramble to get started. But moving first is a tactic, not a goal. What really matters is generating cash flows in the future, so being the first mover doesn’t do you any good if someone else comes along and unseats you. It’s much better to be the last mover—that is, to make the last great development in a specific market and enjoy years or even decades of monopoly profits. The way to do that is to dominate a small niche and scale up from there, toward your ambitious long-term vision.
 
-**YOU ARE NOT A LOTTERY TICKET**
+### YOU ARE NOT A LOTTERY TICKET
 
 You can expect the future to take a definite form or you can treat it as hazily uncertain. If you treat the future as something definite, it makes sense to understand it in advance and to work to shape it. But if you expect an indefinite future ruled by randomness, you’ll give up on trying to master it. Indefinite attitudes to the future explain what’s most dysfunctional in our world today. Process trumps substance: when people lack concrete plans to carry out, they use formal rules to assemble a portfolio of various options.
 
@@ -111,7 +111,7 @@ A company is the strangest place of all for an indefinite optimist: why should y
 
 A startup is the largest endeavor over which you can have definite mastery. You can have agency not just over your own life, but over a small and important part of the world. It begins by rejecting the unjust tyranny of Chance. You are not a lottery ticket.
 
-**FOLLOW THE MONEY**
+### FOLLOW THE MONEY
 
 In 1906, economist Vilfredo Pareto discovered what became the “Pareto principle,” or the 80-20 rule, when he noticed that 20% of the people owned 80% of the land in Italy—a phenomenon that he found just as natural as the fact that 20% of the peapods in his garden produced 80% of the peas. This extraordinarily stark pattern, in which a small few radically outstrip all rivals, surrounds us everywhere in the natural and social world. The most destructive earthquakes are many times more powerful than all smaller earthquakes combined. The biggest cities dwarf all mere towns put together. And monopoly businesses capture more value than millions of undifferentiated competitors. The power law—so named because exponential equations describe severely unequal distributions—is the law of the universe. It defines our surroundings so completely that we usually don’t even see it.
 
@@ -125,7 +125,7 @@ Life is not a portfolio: not for a startup founder, and not for any individual. 
 
 It does matter what you do. You should focus relentlessly on something you’re good at doing, but before that you must think hard about whether it will be valuable in the future.
 
-**SECRETS**
+### SECRETS
 
 Every one of today’s most famous and familiar ideas was once unknown and unsuspected.
 
@@ -153,7 +153,7 @@ The best place to look for secrets is where no one else is looking. Most people 
 
 If you find a secret, you face a choice: Do you tell anyone? Or do you keep it to yourself? It depends on the secret: some are more dangerous than others/ Unless you have perfectly conventional beliefs, it’s rarely a good idea to tell everybody everything that you know. So who do you tell? Whoever you need to, and no more. In practice, there’s always a golden mean between telling nobody and telling everybody—and that’s a company. The best entrepreneurs know this: every great business is built around a secret that’s hidden from the outside. A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator.
 
-**FOUNDATIONS**
+### FOUNDATIONS
 
 Every great company is unique, but there are a few things that every business must get right at the beginning. I stress this so often that friends have teasingly nicknamed it “Thiel’s law”: a startup messed up at its foundation cannot be fixed.
 
@@ -183,7 +183,7 @@ Stories of startup chefs becoming millionaires notwithstanding, people often fin
 
 The most valuable kind of company maintains an openness to invention that is most characteristic of beginnings. This leads to a second, less obvious understanding of the founding: it lasts as long as a company is creating new things, and it ends when creation stops. If you get the founding moment right, you can do more than create a valuable company: you can steer its distant future toward the creation of new things instead of the stewardship of inherited success. You might even extend its founding indefinitely.
 
-**THE MECHANICS OF MAFIA**
+### THE MECHANICS OF MAFIA
 
 You can’t accomplish anything meaningful by hiring an interior decorator to beautify your office, a “human resources” consultant to fix your policies, or a branding specialist to hone your buzzwords. “Company culture” doesn’t exist apart from the company itself: no company has a culture; every company is a culture. A startup is a team of people on a mission, and a good culture is just what that looks like on the inside.
 
@@ -201,7 +201,7 @@ On the inside, every individual should be sharply distinguished by her work. The
 
 In the most intense kind of organization, members hang out only with other members. They ignore their families and abandon the outside world. In exchange, they experience strong feelings of belonging, and maybe get access to esoteric “truths” denied to ordinary people. We have a word for such organizations: cults. The best startups might be considered slightly less extreme kinds of cults. The biggest difference is that cults tend to be fanatically wrong about something important. People at a successful startup are fanatically right about something those outside it have missed. You’re not going to learn those kinds of secrets from consultants, and you don’t need to worry if your company doesn’t make sense to conventional professionals. Better to be called a cult—or even a mafia.
 
-**IF YOU BUILD IT, WILL THEY COME?**
+### IF YOU BUILD IT, WILL THEY COME?
 
 The Field of Dreams conceit is especially popular in Silicon Valley, where engineers are biased toward building cool stuff rather than selling it. But customers will not come just because you build it. You have to make that happen, and it’s harder than it looks.
 
@@ -221,13 +221,13 @@ Your company needs to sell more than its product. You must also sell your compan
 
 Selling your company to the media is a necessary part of selling it to everyone else. Nerds who instinctively mistrust the media often make the mistake of trying to ignore it. But just as you can never expect people to buy a superior product merely on its obvious merits without any distribution strategy, you should never assume that people will admire your company without a public relations strategy. Even if your particular product doesn’t need media exposure to acquire customers because you have a viral distribution strategy, the press can help attract investors and employees.
 
-**MAN AND MACHINE**
+### MAN AND MACHINE
 
 Computers are complements for humans, not substitutes. The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete.
 
 When we design new computer technology to help solve problems, we get all the efficiency gains of a hyperspecialized trading partner without having to compete with it for resources. Properly understood, technology is the one way for us to escape competition in a globalizing world. As computers become more and more powerful, they won’t be substitutes for humans: they’ll be complements.
 
-**SEEING GREEN**
+### SEEING GREEN
 
 Most cleantech companies crashed because they neglected one or more of the seven questions that every business must answer:
 
@@ -251,7 +251,7 @@ Doing something different is what’s truly good for society—and it’s also w
 
 The 1990s had one big idea: the internet is going to be big. But too many internet companies had exactly that same idea and no others. An entrepreneur can’t benefit from macro-scale insight unless his own plans begin at the micro-scale. Cleantech companies faced the same problem: no matter how much the world needs energy, only a firm that offers a superior solution for a specific energy problem can make money. No sector will ever be so important that merely participating in it will be enough to build a great company.
 
-**THE FOUNDER’S PARADOX**
+### THE FOUNDER’S PARADOX
 
 It’s more powerful but at the same time more dangerous for a company to be led by a distinctive individual instead of an interchangeable manager.
 
@@ -263,7 +263,7 @@ Apple’s value crucially depended on the singular vision of a particular person
 
 The lesson for business is that we need founders. If anything, we should be more tolerant of founders who seem strange or extreme; we need unusual individuals to lead companies beyond mere incrementalism. The lesson for founders is that individual prominence and adulation can never be enjoyed except on the condition that it may be exchanged for individual notoriety and demonization at any moment—so be careful. Above all, don’t overestimate your own power as an individual. Founders are important not because they are the only ones whose work has value, but rather because a great founder can bring out the best work from everybody at his company. That we need individual founders in all their peculiarity does not mean that we are called to worship Ayn Randian “prime movers” who claim to be independent of everybody around them. In this respect Rand was a merely half-great writer: her villains were real, but her heroes were fake. There is no Galt’s Gulch. There is no secession from society. To believe yourself invested with divine self-sufficiency is not the mark of a strong individual, but of a person who has mistaken the crowd’s worship—or jeering—for the truth. The single greatest danger for a founder is to become so certain of his own myth that he loses his mind. But an equally insidious danger for every business is to lose all sense of myth and mistake disenchantment for wisdom.
 
-**CONCLUSION: STAGNATION OR SINGULARITY?**
+### CONCLUSION: STAGNATION OR SINGULARITY?
 
 Philosopher Nick Bostrom describes four possible patterns for the future of humanity.
 

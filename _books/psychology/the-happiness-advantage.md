@@ -10,7 +10,7 @@ Happiness fuels success, not the other way around. It is when we are positive th
 
 If we study merely what is average, we will remain merely average.
 
-**PRINCIPLE #1 THE HAPPINESS ADVANTAGE**
+### PRINCIPLE #1 THE HAPPINESS ADVANTAGE
 
 For me, happiness is the joy we feel striving after our potential.
 
@@ -36,9 +36,9 @@ Here are a number of proven ways we can improve our moods and raise our levels o
 
 The next time you interact with a colleague or direct report, make an effort to adopt a more positive tone and facial expression. This does not mean you should be inauthentic, smother your true feelings, or paint an awkward smile on your face. But the more you make a genuine effort to avoid slipping into an apathetic or irritable tone, the more your team's performance will benefit.
 
-**PRINCIPLE #2 THE FULCRUM AND THE LEVER**
+### PRINCIPLE #2 THE FULCRUM AND THE LEVER
 
-Our power to maximize our potential is based on two important things: (1) the length of our lever--how much potential power and possibility we believe we have, and (2) the position of our fulcrum--the mindset with which we generate the power to change.
+Our power to maximize our potential is based on two important things: (1) the length of our lever—how much potential power and possibility we believe we have, and (2) the position of our fulcrum—the mindset with which we generate the power to change.
 
 Every second of our own experience has to be measured through a relative and subjective brain. In other words, "reality" is merely our brain's relative understanding of the world based on where and how we are observing it. Most important, we can change this perspective at any moment, and by doing so change our experience of the world around us. This is what I mean by moving our fulcrum. Essentially, our mindset, and in turn our experience of the world, is never set in stone, but constantly in flux.
 
@@ -52,9 +52,9 @@ When your brain conceives of family dinner or Sudoku or fantasy football or a ph
 
 Even a rote or routine task can be meaningful if you find a good reason to be invested. You feel productive at the end of the day. You showed people you were smart or efficient. You made life easier for a client or customer. You improved your skill set. You learned from a mistake.
 
-**PRINCIPLE #3 THE TETRIS EFFECT**
+### PRINCIPLE #3 THE TETRIS EFFECT
 
-Constantly scanning the world for the negative comes with a great cost. It undercuts our creativity, raises our stress levels, and lowers our motivation and ability to accomplish goals. The good news is that we can also train our brains to scan for the positive--for the possibilities dormant in every situation. The goal of a Positive Tetris Effect: Instead of creating a cognitive pattern that looks for negatives and blocks success, it trains our brains to scan the world for the opportunities and ideas that allow our success rate to grow.
+Constantly scanning the world for the negative comes with a great cost. It undercuts our creativity, raises our stress levels, and lowers our motivation and ability to accomplish goals. The good news is that we can also train our brains to scan for the positive—for the possibilities dormant in every situation. The goal of a Positive Tetris Effect: Instead of creating a cognitive pattern that looks for negatives and blocks success, it trains our brains to scan the world for the opportunities and ideas that allow our success rate to grow.
 
 When our brains constantly scan for and focus on the positive, we profit from three of the most important tools available to us: happiness, gratitude, and optimism.
 
@@ -62,7 +62,7 @@ When our brains constantly scan for and focus on the positive, we profit from th
 
 Start making a daily list of the good things in your job, your career, and your life. "Three good things" that happened that day. Write a short journal entry about a positive experience. Ritualize the task. For example, pick the same time each day to write down your gratitude list, and keep the necessary items easily accessible and convenient.
 
-**PRINCIPLE #4 FALLING UP**
+### PRINCIPLE #4 FALLING UP
 
 The most successful people see adversity not as a stumbling block, but as a stepping-stone to greatness.
 
@@ -70,30 +70,30 @@ Fail early and often. In his book The Pursuit of Perfect, Tal Ben-Shahar writes 
 
 A counterfact is an alternate scenario our brains create to help us evaluate and make sense of what really happened. Because it's invented, we actually have the power in any given situation to consciously select a counterfact that makes us feel fortunate rather than helpless. And choosing a positive counterfact, besides simply making us feel better, sets ourselves up for the whole host of benefits to motivation and performance we now know accompanies a positive mindset.
 
-Explanatory style--how we choose to explain the nature of past events--has a crucial impact on our happiness and future success.
+Explanatory style—how we choose to explain the nature of past events—has a crucial impact on our happiness and future success.
 
-Adversity, Belief, Consequence, and Disputation. Adversity is the event we can't change; it is what it is. Belief is our reaction to the event; why we thought it happened and what we think it means for the future. Is it a problem that is only temporary and local in nature or do we think it is permanent and pervasive? Are there ready solutions, or do we think it is unsolvable? If we believe the former--that is, if we see the adversity as short-term or as an opportunity for growth or appropriately confined to only part of our life--then we maximize the chance of a positive Consequence. But if the Belief has led us down a more pessimistic path, helplessness and inaction can bring negative Consquences. That's when it's time to put the D to work. Disputation involves first telling ourselves that our belief is just that--a belief, not fact--and then challenging (or disputing) it. Psychologists recommend that we externalize this voice (i.e., pretend it's coming from someone else), so it's like we're actually arguing with another person. What is the evidence for this belief? Is it airtight? Would we let a friend get away with such reasoning? Or is the reasoning clearly specious once we step outside of ourselves and take a look? What are some other plausible interpretations of this event? What are some more adaptive reactions to it? Is there another counterfactual we can adopt instead?
+Adversity, Belief, Consequence, and Disputation. Adversity is the event we can't change; it is what it is. Belief is our reaction to the event; why we thought it happened and what we think it means for the future. Is it a problem that is only temporary and local in nature or do we think it is permanent and pervasive? Are there ready solutions, or do we think it is unsolvable? If we believe the former—that is, if we see the adversity as short-term or as an opportunity for growth or appropriately confined to only part of our life—then we maximize the chance of a positive Consequence. But if the Belief has led us down a more pessimistic path, helplessness and inaction can bring negative Consquences. That's when it's time to put the D to work. Disputation involves first telling ourselves that our belief is just that—a belief, not fact—and then challenging (or disputing) it. Psychologists recommend that we externalize this voice (i.e., pretend it's coming from someone else), so it's like we're actually arguing with another person. What is the evidence for this belief? Is it airtight? Would we let a friend get away with such reasoning? Or is the reasoning clearly specious once we step outside of ourselves and take a look? What are some other plausible interpretations of this event? What are some more adaptive reactions to it? Is there another counterfactual we can adopt instead?
 
-**PRINCIPLE #5 THE ZORRO CIRCLE**
+### PRINCIPLE #5 THE ZORRO CIRCLE
 
-Concentrating your efforts on small areas where you know you can make a difference. By tackling one small challenge at a time--a narrow circle that slowly expands outward--we can relearn that our actions do have a direct effect on our outcomes, that we are largely the masters of our own fates. With an increasingly internal locus of control and a greater confidence in our abilities, we can then expand our efforts outward.
+Concentrating your efforts on small areas where you know you can make a difference. By tackling one small challenge at a time—a narrow circle that slowly expands outward—we can relearn that our actions do have a direct effect on our outcomes, that we are largely the masters of our own fates. With an increasingly internal locus of control and a greater confidence in our abilities, we can then expand our efforts outward.
 
-The first goal we need to conquer--or circle we need to draw--is self-awareness. Experiments show that when people are primed to feel high levels of distress, the quickest to recover are those who can identify how they are feeling and put those feelings into words. Brain scans show verbal information almost immediately diminishes the power of these negative emotions, improving well-being and enhancing decision-making skills. Verbalizing the stress and helplessness you are feeling is the first step toward regaining control.
+The first goal we need to conquer—or circle we need to draw—is self-awareness. Experiments show that when people are primed to feel high levels of distress, the quickest to recover are those who can identify how they are feeling and put those feelings into words. Brain scans show verbal information almost immediately diminishes the power of these negative emotions, improving well-being and enhancing decision-making skills. Verbalizing the stress and helplessness you are feeling is the first step toward regaining control.
 
 Once you've mastered the self-awareness circle, your next goal should be to identify which aspects of the situation you have control over and which you don't.
 
 When the challenges we face are particularly challenging and the payoff remains far away, setting smaller, more manageable goals helps us build our confidence and celebrate our forward progress, and keeps us committed to the task at hand.
 
-**PRINCIPLE #6 THE 20-SECOND RULE**
+### PRINCIPLE #6 THE 20-SECOND RULE
 
 Lower the activation energy for habits you want to adopt, and raise it for habits you want to avoid. The more we can lower or even eliminate the activation energy for our desired actions, the more we enhance our ability to jump-start positive change.
 
 Set rules of engagement. The key to reducing choice is setting and following a few simple rules. Psychologists call these kinds of rules "second-order decisions," because they are essentially decisions about when to make decisions.
 
-**PRINCIPLE #7 SOCIAL INVESTMENT**
+### PRINCIPLE #7 SOCIAL INVESTMENT
 
 In the midst of challenges and stress at work, nothing is more crucial to our success than holding on to the people around us. Investing in social connections means that you'll find it easier to interpret adversity as a path to growth and opportunity; and when you do have to experience the stress, you'll bounce back from it faster and better protected against its long-term negative effects.
 
 Be present, both physically and mentally. When someone walks into your office to talk, don't stare at your computer screen. When someone calls you on the phone, don't keep typing that e-mail.
 
-Positive emotions are contagious. While authentic positivity will always trump its faux counterpart, there is significant evidence that changing your behavior first--even your facial expression and posture--can dictate emotional change.
+Positive emotions are contagious. While authentic positivity will always trump its faux counterpart, there is significant evidence that changing your behavior first—even your facial expression and posture—can dictate emotional change.

@@ -5,13 +5,13 @@ slug: the-beginning-of-infinity
 title: The Beginning of Infinity - by David Deutsch
 ---
 
-**Introduction**
+### Introduction
 
 In this book I argue that all progress, both theoretical and practical, has resulted from a single human activity: the quest for what I call good explanations.
 
 Must progress come to an end – either in catastrophe or in some sort of completion – or is it unbounded? The answer is the latter. That unboundedness is the ‘ininity’ referred to in the title of this book.
 
-**1 The Reach of Explanations**
+### 1 The Reach of Explanations
 
 > Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?
 >
@@ -43,14 +43,14 @@ Because explanation plays this central role in science, and because testability 
 
 Conjectures are the products of creative imagination. But the problem with imagination is that it can create iction much more easily than truth. As I have suggested, historically, virtually all human attempts to explain experience in terms of a wider reality have indeed been iction, in the form of myths, dogma and mistaken common sense – and the rule of testability is an insuficient check on such mistakes. But the quest for good explanations does the job: inventing falsehoods is easy, and therefore they are easy to vary once found; discovering good explanations is hard, but the harder they are to ind, the harder they are to vary once found. The ideal that explanatory science strives for is nicely described by the quotation from Wheeler with which I began this chapter: ‘Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise.
 
-**Summary**
+### Summary
 Appearances are deceptive. Yet we have a great deal of knowledge about the vast and unfamiliar reality that causes them, and of the elegant, universal laws that govern that reality. This knowledge consists of explanations: assertions about what is out there beyond the appearances, and how it behaves.
 
 For most of the history of our species, we had almost no success in creating such knowledge. Where does it come from? Empiricism said that we derive it from sensory experience. This is false. The real source of our theories is conjecture, and the real source of our knowledge is conjecture alternating with criticism. We create theories by rearranging, combining, altering and adding to existing ideas with the intention of improving upon them. The role of experiment and observation is to choose between existing theories, not to be the source of new ones. We interpret experiences through explanatory theories, but true explanations are not obvious.
 
 _Fallibilism_ entails not looking to authorities but instead acknowledging that we may always be mistaken, and trying to correct errors. We do so by seeking good explanations – explanations that are hard to vary in the sense that changing the details would ruin the explanation. This, not experimental testing, was the decisive factor in the scientiic revolution, and also in the unique, rapid, sustained progress in other ields that have participated in the Enlightenment. That was a rebellion against authority which, unlike most such rebellions, tried not to seek authoritative justifications for theories, but instead set up a tradition of criticism. Some of the resulting ideas have enormous reach: they explain more than what they were originally designed to. The reach of an explanation is an intrinsic attribute of it, not an assumption that we make about it as empiricism and inductivism claim.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The fact that some explanations have reach.
 - The universal reach of some explanations.
@@ -60,13 +60,13 @@ _Fallibilism_ entails not looking to authorities but instead acknowledging that 
 - The discovery of how to make progress: science, the scientiic revolution, seeking good explanations, and the political principles of the West.
 - Fallibilism
 
-**2 Closer to Reality**
+### 2 Closer to Reality
 
 It may seem strange that scientific instruments bring us closer to reality when in purely physical terms they only ever separate us further from it. But we observe nothing directly anyway. All observation is theoryladen. Likewise, whenever we make an error, it is an error in the explanation of something. That is why appearances can be deceptive, and it is also why we, and our instruments, can correct for that deceptiveness.
 
 The growth of knowledge consists of correcting misconceptions in our theories. Edison said that research is one per cent inspiration and ninety-nine per cent perspiration – but that is misleading, because people can apply creativity even to tasks that computers and other machines do uncreatively. So science is not mindless toil for which rare moments of discovery are the compensation: the toil can be creative, and fun, just as the discovery of new explanations is.
 
-**3 The Spark**
+### 3 The Spark
 
 Every putative physical transformation, to be performed in a given time with given resources or under any other conditions, is either
 
@@ -77,7 +77,7 @@ That momentous dichotomy exists because if there were transformations that techn
 
 Both the Principle of Mediocrity and the Spaceship Earth idea are, contrary to their motivations, irreparably parochial and mistaken. From the least parochial perspectives available to us, people are the most signiicant entities in the cosmic scheme of things. They are not ‘supported’ by their environments, but support themselves by creating knowledge. Once they have suitable knowledge (essentially, the knowledge of the Enlightenment), they are capable of sparking unlimited further progress. Apart from the thoughts of people, the only process known to be capable of creating knowledge is biological evolution. The knowledge it creates (other than via people) is inherently bounded and parochial. Yet it also has close similarities with human knowledge.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The fact that everything that is not forbidden by laws of nature is achievable, given the right knowledge.‘Problems are soluble.’
 - The ‘perspiration’ phase can always be automated.
@@ -87,7 +87,7 @@ Both the Principle of Mediocrity and the Spaceship Earth idea are, contrary to t
 - The environments that could create an open-ended stream of knowledge, if suitably primed – i.e. almost all environments.
 - The fact that new explanations create new problems
 
-**4 Creation**
+### 4 Creation
 
 The evolution of biological adaptations and the creation of human knowledge share deep similarities, but also some important differences. The main similarities: genes and ideas are both replicators; knowledge and adaptations are both hard to vary. The main difference: human knowledge can be explanatory and can have great reach; adaptations are never explanatory and rarely have much reach beyond the situations in which they evolved.
 
@@ -95,27 +95,27 @@ False explanations of biological evolution have counterparts in false explanatio
 
 The ‘fine-tuning’ of the laws or constants of physics has been used as a modern form of the argument from design. For the usual reasons, it is not a good argument for a supernatural cause. But ‘anthropic’ theories that try to account for it as a pure selection effect from an infinite number of different universes are, by themselves, bad explanations too – in part because most logically possible laws are themselves bad explanations.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - Evolution.
 - More generally, the creation of knowledge.
 
-**5 The Reality of Abstractions**
+### 5 The Reality of Abstractions
 
 Reductionism and holism are both mistakes. In reality, explanations do not form a hierarchy with the lowest level being the most fundamental. Rather, explanations at any level of emergence can be fundamental. Abstract entities are real, and can play a role in causing physical phenomena. Causation is itself such an abstraction.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The existence of emergent phenomena, and the fact that they can encode knowledge about other emergent phenomena.
 - The existence of levels of approximation to true explanations.
 - The ability to understand explanations.
 - The ability of explanation to escape from parochialism by ‘letting our theories die in our place’.
 
-**6 The Jump to Universality**
+### 6 The Jump to Universality
 
 All knowledge growth is by incremental improvement, but in many fields there comes a point when one of the incremental improvements in a system of knowledge or technology causes a sudden increase in reach, making it a universal system in the relevant domain. In the past, innovators who brought about such a jump to universality had rarely been seeking it, but since the Enlightenment they have been, and universal explanations have been valued both for their own sake and for their usefulness. Because error-correction is essential in processes of potentially unlimited length, the jump to universality only ever happens in digital systems.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The existence of universality in many fields.
 - The jump to universality.
@@ -124,7 +124,7 @@ All knowledge growth is by incremental improvement, but in many fields there com
 - The origin of life.
 - The mysterious universality to which the genetic code jumped.
 
-**7 Artificial Creativity**
+### 7 Artificial Creativity
 
 I have settled on a simple test for judging claims, including Dennett’s, to have explained the nature of consciousness (or any other computational task): if you can’t program it, you haven’t understood it.
 
@@ -132,9 +132,9 @@ We should expect AI to be achieved in a jump to universality, starting from some
 
 The field of artificial (general) intelligence has made no progress because there is an unsolved philosophical problem at its heart: we do not understand how creativity works. Once that has been solved, programming it will not be dificult. Even artificial evolution may not have been achieved yet, despite appearances. There the problem is that we do not understand the nature of the universality of the DNA replication system.
 
-**8 A Window on Inifnity**
+### 8 A Window on Inifnity
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The ending of the ancient aversion to the infinite (and the universal).
 - Calculus, Cantor’s theory and other theories of the infinite and the infinitesimal in mathematics.
@@ -145,7 +145,7 @@ The field of artificial (general) intelligence has made no progress because ther
 - The internal structure of a multiverse which gives meaning to an ‘infinity of universes’.
 - The unpredictability of the content of future knowledge is a necessary condition for the unlimited growth of that knowledge.
 
-**9 Optimism**
+### 9 Optimism
 
 _The Principle of Optimism:_ All evils are caused by insuficient knowledge.
 
@@ -153,19 +153,19 @@ Optimism (in the sense that I have advocated) is the theory that all failures �
 
 Problems are inevitable, because our knowledge will always be infinitely far from complete. Some problems are hard, but it is a mistake to confuse hard problems with problems unlikely to be solved. Problems are soluble, and each particular evil is a problem that can be solved. An optimistic civilization is open and not afraid to innovate, and is based on traditions of criticism. Its institutions keep improving, and the most important knowledge that they embody is knowledge of how to detect and eliminate errors.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - Optimism.(And the end of pessimism.)
 - Learning how not to fool ourselves.
 - Mini-enlightenments like those of Athens and Florence were potential beginnings of infinity.
 
-**11 The Multiverse**
+### 11 The Multiverse
 
 The physical world is a multiverse, and its structure is determined by how information flows in it. In many regions of the multiverse, information flows in quasi-autonomous streams called histories, one of which we call our ‘universe’. Universes approximately obey the laws of classical (pre-quantum) physics. But we know of the rest of the multiverse, and can test the laws of quantum physics, because of the phenomenon of quantum interference. Thus a universe is not an exact but an emergent feature of the multiverse.
 
 One of the most unfamiliar and counter-intuitive things about the multiverse is fungibility. The laws of motion of the multiverse are deterministic, and apparent randomness is due to initially fungible instances of objects becoming different. In quantum physics, variables are typically discrete, and how they change from one value to another is a multiversal process involving interference and fungibility.
 
-**12 A Physicist’s History of Bad Philosophy With Some Comments on Bad Science**
+### 12 A Physicist’s History of Bad Philosophy With Some Comments on Bad Science
 
 Let me define ‘bad philosophy’ as philosophy that is not merely false, but actively prevents the growth of other knowledge.
 
@@ -179,7 +179,7 @@ One currently inluential philosophical movement goes under various names such as
 
 Perhaps inevitably, these charges are true of postmodernism itself: it is a narrative that resists rational criticism or improvement, precisely because it rejects all criticism as mere narrative. Creating a successful postmodernist theory is indeed purely a matter of meeting the criteria of the postmodernist community – which have evolved to be complex, exclusive and authority-based. Nothing like that is true of rational ways of thinking: creating a good explanation is hard not because of what anyone has decided, but because there is an objective reality that does not meet anyone’s prior expectations, including those of authorities. The creators of bad explanations such as myths are indeed just making things up. But the method of seeking good explanations creates an engagement with reality, not only in science, but in good philosophy too – which is why it works, and why it is the antithesis of concocting stories to meet made-up criteria.
 
-**13 Choices**
+### 13 Choices
 
 To choose an option, rationally, is to choose the associated explanation. Therefore, rational decision-making consists not of weighing evidence but of explaining it, in the course of explaining the world. One judges arguments as explanations, not justifications, and one does this creatively, using conjecture, tempered by every kind of criticism. It is in the nature of good explanations – being hard to vary – that there is only one of them. Having created it, one is no longer tempted by the alternatives. They have been not outweighed, but out-argued, refuted and abandoned. During the course of a creative process, one is not struggling to distinguish between countless different explanations of nearly equal merit; typically, one is struggling to create even one good explanation, and, having succeeded, one is glad to be rid of the rest.
 
@@ -189,23 +189,23 @@ In science, we do not consider it surprising that a community of scientists with
 
 It is a mistake to conceive of choice and decision-making as a process of selecting from existing options according to a fixed formula. That omits the most important element of decision-making, namely the creation of new options. Good policies are hard to vary, and therefore conflicting policies are discrete and cannot be arbitrarily mixed. Just as rational thinking does not consist of weighing the justiications of rival theories, but of using conjecture and criticism to seek the best explanation, so coalition governments are not a desirable objective of electoral systems. They should be judged by Popper’s criterion of how easy they make it to remove bad rulers and bad policies. That designates the plurality voting system as best in the case of advanced political cultures.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - Choice that involves creating new options rather than weighing existing ones.
 - Political institutions that meet Popper’s criterion.
 
-**14 Why are Flowers Beautiful**
+### 14 Why are Flowers Beautiful
 
 It is true that, just as one cannot deduce moral maxims from scientific theories, likewise nor can one deduce aesthetic values. But that would not prevent aesthetic truths from being linked to physical facts through explanations, as moral ones are.
 
 There are objective truths in aesthetics. The standard argument that there cannot be is a relic of empiricism. Aesthetic truths are linked to factual ones by explanations, and also because artistic problems can emerge from physical facts and situations. The fact that lowers reliably seem beautiful to humans when their designs evolved for an apparently unrelated purpose is evidence that beauty is objective. Those convergent criteria of beauty solve the problem of creating hard-to-forge signals where prior shared knowledge is insuficient to provide them.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The fact that elegance is a heuristic guide to truth.
 - The need to create objective knowledge in order to allow different people to communicate
 
-**15 The Evolution of Culture**
+### 15 The Evolution of Culture
 
 A culture is a set of ideas that cause their holders to behave alike in some ways. By ‘ideas’ I mean any information that can be stored in people’s brains and can affect their behaviour. Thus the shared values of a nation, the ability to communicate in a particular language, the shared knowledge of an academic discipline and the appreciation of a given musical style are all, in this sense, ‘sets of ideas’ that define cultures.
 
@@ -229,13 +229,13 @@ Thus, memes of this new kind, which are created by rational and critical thought
 
 Existing accounts of memes have neglected the all-important distinction between the rational and anti-rational modes of replication. Consequently they end up missing most of what is happening, and why. Moreover, since the most obvious examples of memes are long-lived anti-rational memes and short-lived arbitrary fads, the tenor of such accounts is usually anti-meme, even when these accounts formally accept that the best and most valuable knowledge also consists of memes.
 
-**Living with memes**
+### Living with memes
 
 How should we understand the existence of the distinctively human emergent phenomena such as creativity and choice, in the light of the fact that part of our behaviour is caused by autonomous entities whose content we do not know? And, worse, given that we are liable to be systematically misled by those entities about the reasons for our own thoughts, opinions and behaviour? The basic answer is that it should not come as a surprise that we can be badly mistaken in any of our ideas, even about ourselves, and even when we feel strongly that we are right. So we should respond no differently, in principle, from how we respond to the possibility of being in error for any other reason. We are fallible, but through conjecture, criticism and seeking good explanations we may correct some of our errors. Memes hide, but, just as with the optical blind spot, there is nothing to prevent our using a combination of explanation and observation to detect a meme and discover its implicit content indirectly.
 
 For example, whenever we find ourselves enacting a complex or narrowly defined behaviour that has been accurately repeated from one holder to the next, we should be suspicious. If we find that enacting this behaviour thwarts our efforts to attain our personal objectives, or is faithfully continued when the ostensible justifications for it disappear, we should become more suspicious. If we then find ourselves explaining our own behaviour with bad explanations, we should become still more suspicious. Of course, at any given point we may fail either to notice these things or to discover the true explanation of them. But failure need not be permanent in a world in which all evils are due to lack of knowledge. We failed at first to notice the non-existence of a force of gravity. Now we understand it. Locating hang-ups is, in the last analysis, easier.
 
-**Another thing that should make us suspicious is the presence of the conditions for anti-rational meme evolution, such as deference to authority, static subcultures and so on. Anything that says ‘Because I say so’ or ‘It never did me any harm,’ anything that says ‘Let us suppress criticism of our idea because it is true,’ suggests static-society thinking. We should examine and criticize laws, customs and other institutions with an eye to whether they set up conditions for anti-rational memes to evolve. Avoiding such conditions is the essence of Popper’s criterion.**
+### Another thing that should make us suspicious is the presence of the conditions for anti-rational meme evolution, such as deference to authority, static subcultures and so on. Anything that says ‘Because I say so’ or ‘It never did me any harm,’ anything that says ‘Let us suppress criticism of our idea because it is true,’ suggests static-society thinking. We should examine and criticize laws, customs and other institutions with an eye to whether they set up conditions for anti-rational memes to evolve. Avoiding such conditions is the essence of Popper’s criterion.
 
 Cultures consist of memes, and they evolve. In many ways memes are analogous to genes, but there are also profound differences in the way they evolve. The most important differences are that each meme has to include its own replication mechanism, and that a meme exists alternately in two different physical forms: a mental representation and a behaviour. Hence also a meme, unlike a gene, is separately selected, at each replication, for its ability to cause behaviour and for the ability of that behaviour to cause new recipients to adopt the meme.
 
@@ -243,7 +243,7 @@ The holders of memes typically do not know why they are enacting them: we enact 
 
 There are only two basic strategies of meme replication: to help prospective holders or to disable the holders’ critical faculties. The two types of meme – rational memes and antirational memes – inhibit each other’s replication and the ability of the culture as a whole to propagate itself. Western civilization is in an unstable transitional period between stable, static societies consisting of anti-rational memes and a stable dynamic society consisting of rational memes. Contrary to conventional wisdom, primitive societies are unimaginably unpleasant to live in. Either they are static, and survive only by extinguishing their members’ creativity and breaking their spirits, or they quickly lose their knowledge and disintegrate, and violence takes over. Existing accounts of memes fail to recognize the signiicance of the rational/anti-rational distinction and hence tend to be implicitly anti-meme. This is tantamount to mistaking Western civilization for a static society, and its citizens for the crushed, pessimistic victims of memes that the members of static societies are.
 
-**16 The Evolution of Creativity**
+### 16 The Evolution of Creativity
 
 What replicates human memes is creativity; and creativity was used, while it was evolving, to replicate memes. In other words, it was used to acquire existing knowledge, not to create new knowledge. But the mechanism to do both things is identical, and so in acquiring the ability to do the former, we automatically became able to do the latter. It was a momentous example of reach, which made possible everything that is uniquely human.
 
@@ -253,12 +253,12 @@ Not only is creativity necessary for human meme replication, it is also suficien
 
 On the face of it, creativity cannot have been useful during the evolution of humans, because knowledge was growing much too slowly for the more creative individuals to have had any selective advantage. This is a puzzle. A second puzzle is: how can complex memes even exist, given that brains have no mechanism to download them from other brains? Complex memes do not mandate speciic bodily actions, but rules. We can see the actions, but not the rules, so how do we replicate them? We replicate them by creativity. That solves both problems, for replicating memes unchanged is the function for which creativity evolved. And that is why our species exists.
 
-**Meanings of 'the beginning of infinity' encountered in this chapter**
+### Meanings of 'the beginning of infinity' encountered in this chapter
 
 - The evolution of creativity.
 - The reassignment of creativity from its original function of preserving memes faithfully, to the function of creating new knowledge.
 
-**17 Unsustainable**
+### 17 Unsustainable
 
 Physical resources such as plants, animals and minerals afford opportunities, which may inspire new ideas, but they can neither create ideas nor cause people to have particular ideas. They also cause problems, but they do not prevent people from inding ways to solve those problems. Some overwhelming natural event like a volcanic eruption might have wiped out an ancient civilization regardless of what the victims were thinking, but that sort of thing is exceptional. Usually, if there are human beings left alive to think, there are ways of thinking that can improve their situation, and then improve it further. Unfortunately, as I have explained, there are also ways of thinking that can prevent all improvement. Thus, since the beginning of civilization and before, both the principal opportunities for progress and the principal obstacles to progress have consisted of ideas alone. These are the determinants of the broad sweep of history. The primeval distribution of horses or llamas or lint or uranium can affect only the details, and then only after some human being has had an idea for how to use those things. The effects of ideas and decisions almost entirely determine which biogeographical factors have a bearing on the next chapter of human history, and what that effect will be. Marx, Engels and Diamond have it the wrong way round.
 
@@ -268,7 +268,7 @@ Prevention and delaying tactics are useful, but they can be no more than a minor
 
 There is as yet no serious sign of retreat into a sustainable lifestyle (which would really mean achieving only the semblance of sustainability), but even the aspiration is dangerous. For what would we be aspiring to? To forcing the future world into our image, endlessly reproducing our lifestyle, our misconceptions and our mistakes. But if we choose instead to embark on an openended journey of creation and exploration whose every step is unsustainable until it is redeemed by the next – if this becomes the prevailing ethic and aspiration of our society – then the ascent of man, the beginning of infinity, will have become, if not secure, then at least sustainable
 
-**18 The Beginning**
+### 18 The Beginning
 
 Illness and old age are going to be cured soon – certainly within the next few lifetimes – and technology will also be able to prevent deaths through homicide or accidents by creating backups of the states of brains, which could be uploaded into new, blank brains in identical bodies if a person should die. Once that technology exists, people will consider it considerably more foolish not to make frequent backups of themselves than they do today in regard to their computers. If nothing else, evolution alone will ensure that, because those who do not back themselves up will gradually die out. So there can be only one outcome: effective immortality for the whole human population, with the present generation being one of the last that will have short lives.
 

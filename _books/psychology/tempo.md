@@ -8,7 +8,7 @@ title: 'Tempo: Timing, Tactics and Strategy in Narrative-Driven Decision-Making 
 
 Separating work into thought and action is less useful than it used to be. Work is simply whatever we must do to get from one decision to the next.
 
-Being aware of tempo allows you to manage the momentum of your life. Managing momentum also means that when you do choose to slow down and pluck out individual consequential decisions for conscious and detailed processing, you won't be the victim of conjuring tricks pulled on you by the mob of unruly autopilots -- what Marvin Minsky called the "Society of Mind" -- that exists just below conscious awareness. The more you consciously manage tempo, the more creative and realistic your options during the big decisions.
+Being aware of tempo allows you to manage the momentum of your life. Managing momentum also means that when you do choose to slow down and pluck out individual consequential decisions for conscious and detailed processing, you won't be the victim of conjuring tricks pulled on you by the mob of unruly autopilots — what Marvin Minsky called the "Society of Mind" — that exists just below conscious awareness. The more you consciously manage tempo, the more creative and realistic your options during the big decisions.
 
 I define tempo as the set of characteristic rhythms of decision-making in the subjective life of an individual or organization, colored by associated patterns of emotion and energy.
 
@@ -28,7 +28,7 @@ What makes us suspicious of going-with-the-flow behaviors is that they can becom
 
 Do not let the unpleasantness of tasks mislead you into overestimating their magnitude.
 
-**Skill: Tempo Doodling**
+### Skill: Tempo Doodling
 
 Used judiciously, interruption and talking over others is how you, as a socially situated decision-maker, can arrest the momentum of developing group-think and assumed consensus. If you do not develop the thick skin to occasionally interrupt, and allow yourself to be interrupted, you will help enable pathological decision-making cultures wherever you go. Go too far though, and your thick skin will enable abrasiveness in others, or numb your ability to feel emotion (remember the ability to feel emotion is necessary for maintaining situation awareness).
 

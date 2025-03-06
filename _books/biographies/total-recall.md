@@ -17,7 +17,7 @@ You can overthink anything. There are always negatives. The more you know, the l
 
 I still had my old discipline of setting concrete goals each New Year's Day.
 
-**Arnold's Rules**
+### Arnold's Rules
 
 - Turn your liabilities into assets.
 

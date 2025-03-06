@@ -9,7 +9,7 @@ People get to live their lives on a scale two or three times bigger than they ot
 
 I call what I present here a “science of enlightenment.” By science, I mean an experiment that is reproducible by anyone. Meditation is something that human beings all over the world have been doing for a long time. Done properly, under the guidance of a qualified teacher, the results are—to a certain extent—predictable. Science can also refer to a structured body of knowledge, which the path of meditation definitely represents. The other noun in the title is “enlightenment.” Defining enlightenment is notoriously tricky. Almost anything you say about it, no matter how true, may also be misleading. Having said that, here’s a place to start: you can think of enlightenment as a kind of permanent shift in perspective that comes about through direct realization that there is no thing called “self” inside you.
 
-**The Most Fundamental Skill**
+### The Most Fundamental Skill
 
 A person’s baseline of focus can be elevated through systematic practice. The discovery that extraordinary focus can be intentionally cultivated is one of the most significant findings the human species has made and has enormous ramifications for both our personal lives and our world. The systematic training in focus is called meditation practice; it is the basic tool in the science of enlightenment.
 
@@ -25,7 +25,7 @@ Meditation allows us to experience pain without suffering and pleasure without n
 
 I started to meditate back in the 1960s, when a catch phrase said that you were “either part of the problem or part of the solution.” It is a very good expression, although perhaps the current understanding of it—an exhortation to political correctness—may be somewhat limiting. There is a fundamental way for anyone to become part of the solution on this planet, regardless of their political perspective, and that is to snip the cycle of suffering and distortion. This cycle has a name: the law of karma. Meditation makes it possible to break the cycle of karma. Imagine a woodcutter whose job it is to cut down many trees, year after year, yet who refuses to spend twenty minutes each day to sharpen his ax. Then he wonders why he can’t cut as much wood as he needs to, and why it is such hard work. He never realizes that he is using a dull ax, a less than optimal tool. If we look at the big picture, this is the general human condition. Meditation sharpens the ax of awareness, allowing one to cut the karmic cycle, the cycle of pain propagating pain.
 
-**Mysticism in World Culture**
+### Mysticism in World Culture
 
 Several themes dominated my life from a very early age. One was that I hated the idea of wasting time. My idea of hell was standing in line, or being trapped at an airport, or any other unproductive use of time. But after learning to meditate, I realized I would never waste time again, because, even if I was just waiting in a line, I could use that time to work on deepening my samadhi. I could literally make use of every waking moment, because during the dead moments when I wasn’t engaged in something specific, I could use the time to cultivate my concentration.
 
@@ -39,7 +39,7 @@ But there is a third kind of spirituality, which is the one that I find most int
 
 Surveying mystical experience across traditions and cultures, we are struck by two extraordinary facts. Fact 1: Despite enormous cultural and philosophical differences, mystics describe their experiences in rather similar ways. Fact 2: These descriptions sound counterintuitive and paradoxical to the average person. I believe that those two facts imply that enlightenment is something distinct and universal for humans. The English writer Aldous Huxley referred to this universal phenomenon as the perennial philosophy. I like this phrase. Perennial means something that is constantly coming back, constantly popping up again, in different ages, within different traditions, and within different cultures.
 
-**Calming and Clarifying**
+### Calming and Clarifying
 
 While concentrating and calming down is certainly a part of meditation, it is only half of the story. The other half of the process is clarifying, that is, observing, analyzing, and deconstructing sensory experience. Clarifying leads to insight. This clarifying aspect of meditation is known technically as vipassana. One way to think about meditation is as a dialectical interplay between a calming-concentrating aspect (samatha) and a clarifying-dissecting aspect (vipassana). For simplicity, I’ll just call these two sides of meditation the calming part and the clarifying part.
 
@@ -61,7 +61,7 @@ The Buddhist emphasis on cultivating systematic sensory clarity represents a uni
 
 So there is a complementarity between samatha and vipassana. If you do the samatha practice and experience wonderful, tranquil states, these represent a porous and attenuated self that can be relatively easily penetrated with vipassana. If you can’t get to the restful states, that’s okay. You do dry vipassana, and as a result, the blockages get deconstructed into their elements, and they lose their gripping force. After that, you automatically find yourself dropping into pleasant, absorbed samatha states simply because you’ve worked through the forces that would prevent those states from happening. It’s a win-win situation. Samatha helps vipassana, and vipassana helps samatha. If you really understand the complementary relationship between samatha practice and vipassana practice, you realize that, no matter what your situation, there is always something productive you can do.
 
-**Insight and Purification**
+### Insight and Purification
 
 Often meditation works this way: we measure its value in terms of the suffering that would have happened but didn’t—thanks to the fact that we have a practice.
 
@@ -87,7 +87,7 @@ There is a deep complementarity between having complete experiences and purifyin
 
 Here’s the top-page summary: Ordinary experience, when greeted with concentration, clarity, and equanimity catalyzes a process of insight and purification which culminates in the ability to have complete experiences whenever you want. This theory is quite elegant. It has all the marks of good science. A good scientific theory has simplicity, generality, and power. Simplicity means that it is not overly complicated. Generality means that it applies to a wide range of circumstances. And power means it gives you a good handle on what is going on. The theory of meditation has all these marks. It well deserves the name “science of enlightenment.”
 
-**The Many Faces of Impermanence**
+### The Many Faces of Impermanence
 
 In early Buddhism, impermanence was closely linked with another concept, dukkha, which is usually translated as “suffering.” The Buddha said that human suffering is caused by grasping. One way grasping can cause us to suffer is when we pin our happiness on things that cannot and will not last. Most people depend solely on things like health, wealth, reputation, relationships, appearance, family, or children for happiness. The problem is that these things are not eternal. People change; our health eventually deteriorates; wealth comes and goes; war may follow peace. All sources of conditional happiness are impermanent. In the words of Ecclesiastes, “All things must pass.” If we make these impermanent things the cornerstone of our happiness, then we set ourselves up for inevitable suffering, or dukkha. So in early Buddhism, impermanence had a negative connotation. We suffer because we count on impermanent things for our happiness. We pin all hope of happiness on things that will not last. But is there an alternative? Yes. Go ahead and pin some, even most, of your happiness on things that won’t last. But be sure to allocate at least some time and energy for exploring the dimension of happiness that does last. Ironically, the dimension of happiness that does last is itself a facet of impermanence. It’s the positive face of impermanence—the flow of Creator Spiritus that is always present, surrounding each moment of conditional happiness, embracing it from within and from without.
 
@@ -121,7 +121,7 @@ For human beings, world and self seem to be solid objects, time and space seem t
 
 Freedom lies in being able to live in both of these worlds—the normal paradigm and the enlightened paradigm—and to know when to go to which, and to be able to do so anytime. This is why enlightenment is sometimes referred to as liberation. Liberated people live a lot of the time in their body-mind just like anybody else, but they are not confined to it.
 
-**The Realm of Power**
+### The Realm of Power
 
 What characterizes ordinary experience? We have the sense that there is a thing inside us called a self; the self is surrounded by other selves that are also things; material objects are solid; and these are all fundamentally separate. Moreover, events in the objective world and subjective states of thought and emotion arise and pass along a continuum of time that seems to extend in a linear way endlessly forward and backward. Finally, ourselves, the other selves, and material things seem to be embedded in a rigid framework of always-existing space. So at the surface of consciousness, self is a thing, objects are solid, space is rigid, and time is a two-way, endless line. This is the ordinary view of things; it’s the perspective that is natural at the surface of consciousness.
 
@@ -139,7 +139,7 @@ Whatever the experiences may be, it’s how we relate to them that really matter
 
 Meditation teachers tend to fall into three categories vis-à-vis how they deal with the intermediate realm. Zen or vipassana teachers tend to caution people about it. Hindu or Tibetan teachers tend to be positive about it. Personally, I like to take the middle ground. It’s good that you are experiencing the realm of power. For one thing, it is a sign that you are dropping deep, and for another, it’s a platform from which you can do some very profound insight and purification work. But in order to do that, you have to be able to treat it like any other phenomenon. Break it up into body sensation, mental image, and internal talk, then break those up into waves of impermanence, and then watch where the waves go to when they cease. When you are directing attention to the place where things go when they cease, you are directing attention toward the Source where things come from when they arise.
 
-**The Real No Self**
+### The Real No Self
 
 One of the most perplexing and potentially off-putting teachings of the Buddha is the teaching of anatta, often translated as “no self.” In the Pali language an means “without,” and atta means “self” in the sense of thing, essence, or separate particle. The Buddha taught there is no thing inside us called a self.
 
@@ -151,7 +151,7 @@ It’s often said that if we practice meditation, we lose our ego, or we get rid
 
 When we talk about the experience of self-consciousness, it usually implies something uncomfortable. When you think about it, that is very strange. Why should self-consciousness be uncomfortable? Look carefully at the experience. What causes the discomfort is holding on to or interfering with the natural flow of self-referential thoughts and feelings—a kind of viscosity within inner see-hear-feel activity. The self-as-wave cannot flow smoothly. Once we can experience self in terms of its sensory components, we can then allow those components to arise uninhibited moment by moment. When we do so, our subjective experience of who we are becomes wave-like. Experiencing our inner see-hear-feel self as an effortless activity is extremely fulfilling, but it is also empty and vacuous because it doesn’t congeal into a thing. So enlightened people often have expressive, engaging, and charismatic personalities. That’s because their internal fluidity manifests as external spontaneity. They possess the doingness of self as opposed to being possessed by the somethingness of self.
 
-**The Power of Gone**
+### The Power of Gone
 
 Which technique would I pick as the quickest path to enlightenment? It’s a difficult choice, but I think it would be the technique I call Just Note Gone. Most people are aware of the moment when a sensory event starts, but are seldom aware of the moment when it vanishes. We are instantly drawn to a new sound, or new sight, or a new body sensation, but rarely notice when the previous sound, sight, or body sensation disappears. This is natural because each new arising of sensory experience represents what we need to deal with in the next moment. But to always be aware of sensory arisings and hardly ever be aware of sensory passings creates an unbalanced view of the nature of sensory experience. It also causes us to miss one of the more interesting ways to contact the Source.
 
@@ -169,7 +169,7 @@ But some effects of Gone are not intuitively obvious. It’s not intuitively obv
 
 It is intuitively obvious that noticing vanishings might reverberate through your senses as a restful experience, that as the result of noticing the moment when a burst of talk comes to an end, it might be followed by some quiet. The relative rest states—a blank mental screen, a defocused external gaze, physical relaxation, emotional neutrality, physical silence, mental quiet—may begin to pervade your sensory experience as the result of noticing vanishings.
 
-**Return to the Source**
+### Return to the Source
 
 Bring concentration, clarity, and equanimity to your experience. Do that consistently for a long time. At some point, you will hopefully notice an ordering principle that’s so primordial that it can never be disordered. No matter how uncomfortable your body might get, no matter how confused or negative your mind might become, that discomfort, confusion, or negativity is always surrounded by an effortless spontaneity. Once you notice this, you realize that you never needed to train, never needed to search, never needed to improve. But—and there’s just no way around this one—it may require considerable training before you’re able to notice this, and noticing it should give you an optimal place from which to improve yourself.
 
@@ -183,7 +183,7 @@ Zen people say that the ordinary mind is the way, the ordinary mind is the Tao. 
 
 When you start to meditate, it seems like your mind and body are the abiding background, and within them, you are having various sensory experiences. But at some point, a striking figure-ground reversal takes place. Your mind and body become a transient figure, and the field of impermanence becomes the abiding ground. For a moment, you shift from identifying with the mind and body, which are the product of that field, to identifying with the field itself. For a period of time you un-become the product of impermanence, and you re-identify with impermanence itself. Impermanence viewed this way could also be called spirit or even soul. That is a profound change in your fundamental perspective of things. It seems as if you are participating in the activity of the Source. You become the Source; you realize that you are the Source. You realize that you are not your mind and body, you are the Source of your mind and body, which is also the Source of all minds and all bodies.
 
-**My Happiest Thought**
+### My Happiest Thought
 
 Here’s my happiest thought: most likely, there are things that are true and important about enlightenment that neither the Buddha nor any of the great masters of the past knew, because to know them requires an understanding of modern science.
 

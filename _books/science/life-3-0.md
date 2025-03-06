@@ -5,7 +5,7 @@ slug: life-3-0
 title: 'Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Tegmark'
 ---
 
-**Welcome to the Most Important Conversation of Our Time**
+### Welcome to the Most Important Conversation of Our Time
 
 - Life, defined as a process that can retain its complexity and replicate, can develop through three stages: a biological stage (1.0), where its hardware and software are evolved, a cultural stage (2.0), where it can design its software (through learning) and a technological stage (3.0), where it can design its hardware as well, becoming the master of its own destiny.
 
@@ -17,7 +17,7 @@ title: 'Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Teg
 
 - The beneficial-AI movement also views it as likely this century, but views a good outcome not as guaranteed, but as something that needs to be ensured by hard work in the form of AI-safety research.
 
-**Matter Turns Intelligent**
+### Matter Turns Intelligent
 
 - Intelligence, defined as ability to accomplish complex goals, can’t be measured by a single IQ, only by an ability spectrum across all goals.
 
@@ -31,7 +31,7 @@ title: 'Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Teg
 
 - A neural network is a powerful substrate for learning because, simply by obeying the laws of physics, it can rearrange itself to get better and better at implementing desired computations.
 
-**The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs**
+### The Near Future: Breakthroughs, Bugs, Laws, Weapons and Jobs
 
 - Near-term AI progress has the potential to greatly improve our lives in myriad ways, from making our personal lives, power grids and financial markets more efficient to saving lives with self-driving cars, surgical bots and AI diagnosis systems.
 
@@ -55,7 +55,7 @@ title: 'Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Teg
 
 - Career advice for today’s kids: Go into professions that machines are bad at—those involving people, unpredictability and creativity.
 
-**Intelligence Explosion?**
+### Intelligence Explosion?
 
 - If we one day succeed in building human-level AGI, this may trigger an intelligence explosion, leaving us far behind.
 
@@ -69,11 +69,11 @@ title: 'Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Teg
 
 - Cyborgs and uploads are plausible, but arguably not the fastest route to advanced machine intelligence.
 
-**Aftermath: The Next 10,000 Years**
+### Aftermath: The Next 10,000 Years
 
 The current race toward AGI can end in a fascinatingly broad range of aftermath scenarios for upcoming millennia. There’s absolutely no consensus on which, if any, of these scenarios are desirable, and all involve objectionable elements. This makes it all the more important to continue and deepen the conversation around our future goals, so that we don’t inadvertently drift or steer in an unfortunate direction.
 
-**AI Aftermath Scenarios**
+### AI Aftermath Scenarios
 
 |                         |                                                                                                                                                                                                                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,7 +90,7 @@ The current race toward AGI can end in a fascinatingly broad range of aftermath 
 | **Reversion**           | Technological progress toward superintelligence is prevented by reverting to a pre-technological society in the style of the Amish.                                                                                                                                                               |
 | **Self-destruction**    | Superintelligence is never created because humanity drives itself extinct by other means (say nuclear and/or biotech mayhem fueled by climate crisis).                                                                                                                                            |
 
-**Our Cosmic Endowment: The Next Billion Years and Beyond**
+### Our Cosmic Endowment: The Next Billion Years and Beyond
 
 - Compared to cosmic timescales of billions of years, an intelligence explosion is a sudden event where technology rapidly plateaus at a level limited only by the laws of physics.
 
@@ -112,7 +112,7 @@ The current race toward AGI can end in a fascinatingly broad range of aftermath 
 
 - If we do keep improving our technology with enough care, foresight and planning to avoid pitfalls, life has the potential to flourish on Earth and far beyond for many billions of years, beyond the wildest dreams of our ancestors.
 
-**Goals**
+### Goals
 
 - The ultimate origin of goal-oriented behavior lies in the laws of physics, which involve optimization.
 
@@ -138,7 +138,7 @@ The current race toward AGI can end in a fascinatingly broad range of aftermath 
 
 - It’s unclear how to imbue a superintelligent AI with an ultimate goal that neither is undefined nor leads to the elimination of humanity, making it timely to rekindle research on some of the thorniest issues in philosophy!
 
-**Consciousness**
+### Consciousness
 
 - There’s no undisputed definition of “consciousness.” I use the broad and non-anthropocentric definition _consciousness = subjective experience_.
 
@@ -160,7 +160,7 @@ The current race toward AGI can end in a fascinatingly broad range of aftermath 
 
 - This suggests that as we humans prepare to be humbled by ever smarter machines, we take comfort mainly in being _Homo sentiens_, not _Homo sapiens_.
 
-**The Asilomar AI Principles**
+### The Asilomar AI Principles
 
 _Artificial intelligence has already provided beneficial tools that are used every day by people around the world. Its continued development, guided by the following principles, will offer amazing opportunities to help and empower people in the decades and centuries ahead._
 

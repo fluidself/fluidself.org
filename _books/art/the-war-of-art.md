@@ -8,7 +8,7 @@ title: 'The War of Art: Break Through the Blocks and Win Your Inner Creative Bat
 
 Any act that rejects immediate gratification in favor of long-term growth, health, or integrity. Or, expressed another way, any act that derives from our higher nature instead of our lower. Any of these will elicit Resistance.
 
-Like a magnetized needle floating on a surface of oil, Resistance will unfailingly point to true North -- meaning that calling or action it most wants to stop us from doing. We can use this. We can use it as a compass. We can navigate by Resistance, letting it guide us to that calling or action that we must follow before all others. Rule of thumb: The more important a call or action is to our soul's evolution, the more Resistance we will feel toward pursuing it.
+Like a magnetized needle floating on a surface of oil, Resistance will unfailingly point to true North—meaning that calling or action it most wants to stop us from doing. We can use this. We can use it as a compass. We can navigate by Resistance, letting it guide us to that calling or action that we must follow before all others. Rule of thumb: The more important a call or action is to our soul's evolution, the more Resistance we will feel toward pursuing it.
 
 Never forget: This very moment, we can change our lives. There never was a moment, and never will be, when we are without the power to alter our destiny. This second, we can turn the tables on Resistance. This second, we can sit down and do our work.
 
@@ -29,7 +29,7 @@ The amateur plays for fun. The professional plays for keeps. To the amateur, the
 
 The Principle of Priority states (a) you must know the difference between what is urgent and what is important, and (b) you must do what's important first.
 
-**Characteristics of a Professional**
+### Characteristics of a Professional
 
 - The professional shows up every day
 
@@ -84,7 +84,7 @@ When we sit down day after day and keep grinding, something mysterious starts to
 
 For the artist to define himself hierarchically is fatal: the artist cannot look to others to validate his efforts or his calling. The artist can't do his work hierarchically. He has to work territorially.
 
-**The Qualities of a Territory**
+### The Qualities of a Territory
 
 - A territory provides sustenance. Runners know what a territory is. So do rock climbers and kayakers and yogis. Artists and entrepreneurs know what a territory is. The swimmer who towels off after finishing her laps feels a helluva lot better than the tired, cranky person who dove into the pool thirty minutes earlier.
 

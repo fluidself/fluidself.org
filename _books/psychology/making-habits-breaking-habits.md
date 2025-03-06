@@ -6,7 +6,7 @@ title: 'Making Habits, Breaking Habits: How to Make Changes that Stick - by Jere
   Dean'
 ---
 
-**Three main characteristics of a habit:**
+### Three main characteristics of a habit:
 
 1.  We're only vaguely aware of performing them.
 
@@ -26,7 +26,7 @@ People's choices are affected by what thoughts arrive most easily in consciousne
 
 **30-second ‘screen break':** For people who sit in front of monitors all day long, allowing the eyes to relax is a much better use of time than checking email. What's more, this space can be used to reflect on what you're working on.
 
-**Action triggers**
+### Action triggers
 
 What we want is a strong linkage between a specific situation and an action – once this connection is automatic, we'll have a new habit. This implementation intention, this if-then link, is like an embryonic habit; it's the blueprint for the habit to come.
 
@@ -36,17 +36,17 @@ While setting specific times to perform habits is not recommended, it's very imp
 
 In order to break old habits, the attempt needs to be paired with making a new habit.
 
-**Environment**
+### Environment
 
 If you notice that you're failing to perform your new habit successfully, have a look at the reminders you've set up in your environment. Is it possible that you've started ignoring them? If so, it's time to change the reminder to something you will notice.
 
-**Creativity**
+### Creativity
 
 The key to creativity is being able to switch between a wide-open, playful mind and a narrow analytical frame.
 
 If you're stuck in a rut with a creative problem, going down the same old avenues of thought, then these studies suggest a way out. Whether it's using spatial or temporal distance, the key is always inducing psychological distance in order to get into an abstract state of mind and away from established habits. People often say while they are fruitlessly searching for insight into a problem that they are ‘too close to it'. In a psychological sense this turns out to be true. For creativity, the further away, the better the view. At least, it is at the start of the process, when new ideas and originality are most important. Later on, different types of thinking come into play.
 
-**Happiness**
+### Happiness
 
 We have a certain level of control over our happiness if we choose the right habits, but which habits should we cultivate? Many different activities have been tested by psychologists and some have been shown consistently to improve how we feel day to day. These include things like boosting positive thinking and social connections, dealing with stress, being present in the moment, committing to goals, and practising gratitude.
 

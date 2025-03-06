@@ -21,17 +21,17 @@ Each half of a duality cannot exist without the other. A descriptive concept cre
 
 The emptiness of the Tao is not a vacuous state of nothingness, because its infinite depths conceal the seeds of Creation. There appears to be nothing in the Tao, and yet it contains everything. It is the "pregnant void," a field of unlimited potentialities. One way to describe the Tao is to compare it with an empty container with infinite capacity. This container cannot be filled up, and the water that flows out of it can never be used up. It continues to function indefinitely.
 
-The Tao does not play favorites. The rain waters weeds and orchids equally; the sun shines on everyone with the same brightness and warmth despite variations in individual merits. The sage, in emulating the Tao, also regards everyone in the same egalitarian light--none higher and none lower.
+The Tao does not play favorites. The rain waters weeds and orchids equally; the sun shines on everyone with the same brightness and warmth despite variations in individual merits. The sage, in emulating the Tao, also regards everyone in the same egalitarian light—none higher and none lower.
 
-**Selflessness**
+### Selflessness
 
-Heaven and Earth perform their functions without selfish desires. When we emulate this aspect of nature, we think of others first and ourselves last. By letting go of self-centered thoughts, we can feel the way our inner nature mirrors the greater Tao. When we let this natural mirroring process take place without interference, we become like Heaven and Earth--existing to be of service to others.
+Heaven and Earth perform their functions without selfish desires. When we emulate this aspect of nature, we think of others first and ourselves last. By letting go of self-centered thoughts, we can feel the way our inner nature mirrors the greater Tao. When we let this natural mirroring process take place without interference, we become like Heaven and Earth—existing to be of service to others.
 
 A genuine, selfless desire to be helpful inspires people and wins their respect. Although sages have no wish to draw attention, people single them out and look to them for leadership. Although the sages place themselves last out of humility, the people push them to the forefront, into positions of responsibility.
 
 Make it a point to put this teaching into practice, and see what happens. Spend an entire day living this selfless mindset. You'll discover the world responding to you in wonderful and even miraculous ways.
 
-**Water**
+### Water
 
 Water is the most fitting metaphor for the Tao. Water always flows to the lowest place, not because it is forced to do so, but because it follows its own nature. We also place ourselves lower, not because we contrive to do so, but because it is our nature to be humble.
 
@@ -43,23 +43,23 @@ Moderation and restraint are crucial to life. In general, doing anything to exce
 
 Sages emulate the Mystic Virtue in their interactions with other people. They nurture, encourage, teach, and mentor those around them without the need to possess, gloat, or dominate.
 
-An inflated sense of self-importance causes us to become attached to the praise and approval of our peers. It also causes us to fear disapproval and rejection. This is why Lao Tzu sees it as the leading source of adversity and trouble--the greatest misfortune.
+An inflated sense of self-importance causes us to become attached to the praise and approval of our peers. It also causes us to fear disapproval and rejection. This is why Lao Tzu sees it as the leading source of adversity and trouble—the greatest misfortune.
 
-Note that Lao Tzu does not advocate that we should be completely without ego, or that we should eliminate it. We need at least a moderate sense of self to function in society. Therefore, it's perfectly fine to value and love the ego--as long as we don't focus so much on ourselves that we neglect the world. As Tao cultivators, we love and value the world. Our caution against the sensory stimuli of the material world does not make us distant or uncaring. We can be joyously involved with the world and yet totally unaffected by its temptations and distractions.
+Note that Lao Tzu does not advocate that we should be completely without ego, or that we should eliminate it. We need at least a moderate sense of self to function in society. Therefore, it's perfectly fine to value and love the ego—as long as we don't focus so much on ourselves that we neglect the world. As Tao cultivators, we love and value the world. Our caution against the sensory stimuli of the material world does not make us distant or uncaring. We can be joyously involved with the world and yet totally unaffected by its temptations and distractions.
 
 Tao cultivators accept reality as it is, rather than as they wish it to be. The troubles we encounter in life and the pain associated with them are caused by the disparity between our expectations and the way things are. The more stubbornly we refuse to accept, the more we suffer.
 
 _End sagacity; abandon knowledge_
 
-The concept is clear: we should put a stop to the obsession with book knowledge and focus on the wisdom of living outside of books. It is the ancient Chinese way of telling a bookworm to "get a life." The blind pursuit of learning leads to excessive desires--the more you see, the more you want. Excessive desires, in turn, lead to anxiety and misery.
+The concept is clear: we should put a stop to the obsession with book knowledge and focus on the wisdom of living outside of books. It is the ancient Chinese way of telling a bookworm to "get a life." The blind pursuit of learning leads to excessive desires—the more you see, the more you want. Excessive desires, in turn, lead to anxiety and misery.
 
 Lao Tzu went about life with a healthy dose of caution. If people considered something to be bad, there was probably a reason for it, so he would proceed with care, even though he understood the relative nature of value judgments.
 
-The Chinese have a saying: "Take one step back. The ocean is wide; the sky is empty." What it teaches us is that when we yield in a potentially tense situation, we will suddenly feel a sense of wide open space--and wide open heart. Some may see yielding as a sign of weakness. Tao cultivators see it as a manifestation of courage and character, amply rewarded by wide open vistas.
+The Chinese have a saying: "Take one step back. The ocean is wide; the sky is empty." What it teaches us is that when we yield in a potentially tense situation, we will suddenly feel a sense of wide open space—and wide open heart. Some may see yielding as a sign of weakness. Tao cultivators see it as a manifestation of courage and character, amply rewarded by wide open vistas.
 
 Yielding in the Taoist sense does not mean suppressing the desire to fight. Instead, it means we relinquish the need to be defensive. Our views do not gain validity when we defend them, nor do they lose validity when we choose not to defend them. Therefore, being defensive amounts to nothing more than a tremendous waste of energy. Yielding lets us save this energy to be directed to something more constructive.
 
-Tao cultivators value quality over quantity, and prefer fewer words with more meaning over many words with little meaning. Wind and rain (the words of nature) never last for too long. Therefore, measuring our words and saying more with less is an excellent way to emulate nature. We should express ourselves in a concise manner and return to quietude once we have conveyed our meaning. We should also beware of people who claim to study the Tao and yet speak at great length in platitudes--they have no true understanding of this chapter.
+Tao cultivators value quality over quantity, and prefer fewer words with more meaning over many words with little meaning. Wind and rain (the words of nature) never last for too long. Therefore, measuring our words and saying more with less is an excellent way to emulate nature. We should express ourselves in a concise manner and return to quietude once we have conveyed our meaning. We should also beware of people who claim to study the Tao and yet speak at great length in platitudes—they have no true understanding of this chapter.
 
 These lines are a way to describe the law of cause and effect. The function of the Tao is indifferent and will let us reap what we sow. Whether it is the Tao, virtue, or loss, we become what we think about. This means that we have the mandate to determine and direct our own thinking. Rather than allowing the mind to wander off in random directions, Tao cultivators impose discipline on themselves. Using fewer words is only the first stage in this discipline. It is followed by quiet introspection, where we consider our purpose in life and the best way to serve that purpose. Once we solidify our thoughts on this matter, our path (Tao) through life will become clear.
 
@@ -67,7 +67,7 @@ _Those who are on tiptoes cannot stand 1
 Those who straddle cannot walk 2_
 
 1 To stand on tiptoes is to raise oneself above others. This is an effective metaphor for arrogance, because we know from everyday experience that it is not possible to stand that way for long. Similarly, an arrogant person's façade of superiority cannot last.
-2 To straddle is to strike an exaggerated pose. This represents pomposity--a pretentious display of the ego. Just as we cannot walk while straddling, so too can we not make any progress in life when we are too busy projecting a boastful sense of self-importance.
+2 To straddle is to strike an exaggerated pose. This represents pomposity—a pretentious display of the ego. Just as we cannot walk while straddling, so too can we not make any progress in life when we are too busy projecting a boastful sense of self-importance.
 
 Skilled travelers in the journey of life follow the path of nature. They do not force their way through obstacles or trample over fellow travelers. They leave no signs of their passing. If we are similarly skillful in personal interactions, we would also follow the path of nature and not use words to find fault in others. To do so would be to leave unskillful skid marks all over the emotional landscape.
 
@@ -83,7 +83,7 @@ To be boundless means being able to move and act without being bound by limitati
 
 Let us emulate the natural balance of the Tao. Like the sages, we, too, can live in accordance with the principle of moderation. This chapter gives us three simple ways to behave: reduce extremes, avoid excess, and let go of arrogance.
 
-When we hold on to the Tao, everything seems to fall into place. Plans progress smoothly, people come to our aid, and things somehow work out in our favor more often than not. It is as if Heaven and Earth are actively helping us by granting us extra luck--thus
+When we hold on to the Tao, everything seems to fall into place. Plans progress smoothly, people come to our aid, and things somehow work out in our favor more often than not. It is as if Heaven and Earth are actively helping us by granting us extra luck—thus
 
 Lao Tzu often uses water as a metaphor for the Tao. When water encounters an obstacle such as a rock, it does not attempt to destroy the obstacle. It simply flows around, over, or under it. We can learn from this and apply it to life. When we encounter an obstacle, we may feel the urge to smash it, but the effort required to do that is not the best use of our energy. Instead, we should emulate water and simply find a way past it. There is always a way, as water demonstrates over and over again.
 
@@ -95,7 +95,7 @@ The Tao is both eternally devoid of action and the ultimate cause of all actions
 
 Those who have real virtue are not intentionally so; their actions are natural and unforced. Those who possess low virtue are not naturally virtuous, so they constantly have to remind themselves to act virtuously. Oftentimes, their actions advance specific personal agendas, such as improving their public image, assuaging guilty feelings, and so on.
 
-Those who have etiquette without the Tao act with contrived politeness and propriety. They fall back on protocol and rules to mask their true intentions, and if they fail to elicit from others the response they are looking for, they will use their arms--physical means--to force their views upon others in an aggressive manner.
+Those who have etiquette without the Tao act with contrived politeness and propriety. They fall back on protocol and rules to mask their true intentions, and if they fail to elicit from others the response they are looking for, they will use their arms—physical means—to force their views upon others in an aggressive manner.
 
 This is an admonition for us to focus on the inner essence instead of the veneer of superficiality. Instead of fussing over etiquette and knowledge, we should reach for benevolence, virtue … and finally the Tao.
 
@@ -109,7 +109,7 @@ Lower people hear of the Tao
 They laugh loudly at it
 If they do not laugh, it would not be the Tao_
 
-Tao cultivators do not take offense at this. We understand that many people still live with the illusion of separateness--their world is black and white, us versus them, so anything beyond their comfort zone must be an enemy of sorts. Their lives are limited, so we do not regard them with annoyance or indignation, only with compassion and goodwill. Sages liken such individuals to a frog who lives in a well. From its perspective at the bottom, the sky is rather small. If a bird were to stop by and tell it about the vast spaces outside, the frog would react with disbelief. Then, perhaps feeling a tinge of fear that it might be wrong, it would ridicule the bird, to drive it away, and along with it, the sense of discomfort. The day will come when the frog grows strong enough to jump out of the well. Similarly, one day those who laugh at the Tao will gain enough spiritual maturity to venture beyond their limits. When that happens, they will see the wide open vistas for themselves, and they will know, in their heart of hearts, that nothing will ever be the same again.
+Tao cultivators do not take offense at this. We understand that many people still live with the illusion of separateness—their world is black and white, us versus them, so anything beyond their comfort zone must be an enemy of sorts. Their lives are limited, so we do not regard them with annoyance or indignation, only with compassion and goodwill. Sages liken such individuals to a frog who lives in a well. From its perspective at the bottom, the sky is rather small. If a bird were to stop by and tell it about the vast spaces outside, the frog would react with disbelief. Then, perhaps feeling a tinge of fear that it might be wrong, it would ridicule the bird, to drive it away, and along with it, the sense of discomfort. The day will come when the frog grows strong enough to jump out of the well. Similarly, one day those who laugh at the Tao will gain enough spiritual maturity to venture beyond their limits. When that happens, they will see the wide open vistas for themselves, and they will know, in their heart of hearts, that nothing will ever be the same again.
 
 The Tao acts in a _wu wei_ (unattached action) manner and effortlessly achieves the miracle of life. We find inspiration in this and see the possibility to act without attachments and achieve great works without friction or resistance.
 
@@ -120,7 +120,7 @@ There are people who study the Tao for years and see no significant improvements
 _Those who know do not talk
 Those who talk do not know_
 
-To be piercing is to impose one's discipline of being incorruptible upon others. Sages do not do this--they are tough on themselves but tolerant toward everyone else. This makes perfect sense because we can always change ourselves but never others. Therefore, discipline is most effective when we apply it in our own lives, and completely ineffective when we try to force it on other people, even if we start out with the best of intentions. The wisest thing we can do is give up trying to control others and focus energy on improving ourselves instead.
+To be piercing is to impose one's discipline of being incorruptible upon others. Sages do not do this—they are tough on themselves but tolerant toward everyone else. This makes perfect sense because we can always change ourselves but never others. Therefore, discipline is most effective when we apply it in our own lives, and completely ineffective when we try to force it on other people, even if we start out with the best of intentions. The wisest thing we can do is give up trying to control others and focus energy on improving ourselves instead.
 
 _Ruling a large country is like cooking a small fish_
 

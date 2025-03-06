@@ -5,7 +5,7 @@ slug: the-path-of-least-resistance
 title: 'The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life - by Robert Fritz'
 ---
 
-**The Path of Least Resistance**
+### The Path of Least Resistance
 
 We observe two contradictory forces in play in our lives. The force to create, which is generative and independent from circumstances, and the force to avoid threat, which is reactive or responsive and is driven by the circumstances. These motivations are incompatible with each other. Blending them is impossible. Either our generative urge, or our reactions and responses will be the dominant motivational force. Some people may have episodes in their lives that are motivated by their dynamic urge to create, but for the majority of the time, they are reactive or responsive. Others may react or respond to the prevailing circumstances on occasion, but they spend most of their time motivated by an urge to create, a motivation that initiates itself independently from conditions they happen to be in. Most of our education, social tradition, and upbringing promotes responsive motivation. With the assumption that there is a correct way to conduct oneself, our job in life seems to be to find that proper way, and then to act accordingly.
 
@@ -13,7 +13,7 @@ The principle of the path of least resistance is something we all understand on 
 
 Individuals and organizations have this in common. If you have attempted change, improvement, advancement, and growth, but have not changed the underlying structures that cause the current tendencies for behavior, you are unlikely to succeed for long. Why? You have not changed the path of least resistance.
 
-**Three Insights**
+### Three Insights
 
 You are like a river. _You go through life taking the path of least resistance._ We all do—all human beings and all of nature. It is important to know that. You may try to change the direction of your own flow in certain areas of your life—your eating habits, the way you work, the way you relate to others, the way you treat yourself, the attitudes you have about life. And you may even succeed for a time. But eventually you will find you return to your original behavior and attitudes. This is because your life is determined, insofar as it is a law of nature for you to take the path of least resistance.
 
@@ -29,7 +29,7 @@ The study of structure is independent of and different from the study of psychol
 
 The second principle is: _Some structures are more useful than others in leading to desired results_. Structure is "nothing personal." Someone in a structure that leads to pain, frustration, and hopelessness is not being desig nated by the universe as a victim of life. Put anyone else in that same structure and that person will have similar experiences. On the other hand, put anyone in a structure that leads to fulfillment, accomplishment, and success, and that person will have these experiences. People commonly believe that if they change their behavior, they can change the structures in their lives. In fact, just the opposite is true. To attempt a psychological solution to what is really a structural phenomenon does nothing to change the underlying structure.
 
-**The Reactive-Responsive Orientation**
+### The Reactive-Responsive Orientation
 
 One way or another, most people believe circumstances are the driving force in their life. When circumstances are central to your life, you may feel you have only two types of choices: either to respond to the circumstances or to react against the circumstances. You can be either the "fair-haired boy" or the "last angry man." Reacting or responding is more than just a policy of how to live your life. It becomes a way of life, a life orientation. I call this the _reactive-responsive orientation_. In this orientation you take action based on the circumstances in which you find yourself, or might find yourself in the future. Unfortunately, most education systems reinforce this reactiveresponsive orientation. One focus of education is to weave the child into the fabric of society. In fact, most school systems see their job as teaching their students how to respond. Many students "adapt well" and learn how to respond "appropriately." Their actions, however, are not motivated by a love of learning or a thirst for knowledge, but by a desire to fit in and avoid trouble
 
@@ -43,7 +43,7 @@ While at times circumstantial stimuli evoke spontaneous reactions, at other time
 
 Some people who enjoy better than ordinary life situations base their lives on an avoidance strategy that permeates many of their actions and attitudes. They manage to reach a certain plateau of insulation, keeping themselves "safe" and "certain." Such people continually compromise whatever they may truly want in their lives for the sake of safety, security, and a sense of peace. However, they never experience true safety, security, or peace. Through this defensive strategy, the most they can hope to attain in their lives is complacency and mediocrity. Beneath all their pseudosecurity is an undercurrent of dissatisfaction and vulnerability to circumstances beyond their direct control. Many of these people eventually become cynical about life. Others become stoical.
 
-**Creating Is No Problem— Problem Solving Is Not Creating**
+### Creating Is No Problem— Problem Solving Is Not Creating
 
 There is a profound difference between problem solving and creating. Problem solving is taking action to have something go away—the problem. Creating is taking action to have something come into being—the creation. Most of us have been raised in a tradition of problem solving and have had little real exposure to the creative process. For this reason many people confuse the two. It doesn't help when some "experts" talk about "creative" problem solving. They think that the creative process and problem solving are the same. They are completely different. The problem solvers propose elaborate schemes to define the problem, generate alternative solutions, and put the best solution into practice. If this process is successful, you might eliminate the problem. Then what you have is the absence of the problem you are solving. But what you do not have is the presence of a result you want to create.
 
@@ -53,7 +53,7 @@ _Freeing the mind_ is a different act from _focusing the mind_. Focus needs an o
 
 Since they don't know how to create what they want to create, people often see problems as relevant to life and filled with important content. But upon close examination, problems are most often irrelevant. As a way of life, not much can come out of problem solving.
 
-**Creating**
+### Creating
 
 Creating is completely different from reacting or responding to the circumstances you are in. The process of creating is not generated by the circumstances in which you find yourself, but by the creation itself. It is popular to think of creativity as a product of your environment, culture, or other circumstances that foster the creative process. An example of this notion was the corporate fad, popular just a few years ago, of "engineer environments" that were supposed to be conducive for creating. But a quick survey of the history of creativity will make it obvious that people have created in a wide range of circumstances, from convenient ones to difficult ones. As you begin to consider what you want to create in your life, it is good for you to know that the circumstances that presently exist are not the determining factor of the results you desire to create. You are not limited by them, even though it may seem you are entrenched in them.
 
@@ -69,7 +69,7 @@ It is common to assume that the unknown is unknowable, or at least unknowable by
 
 5. **Creating momentum.** Many of the theories describing creativity these days have a tone of "beginners luck." For professional creators there is a different tone, that of ever-increasing momentum. Not only is the creative process a reliable method for producing the results you want, it also contains seeds of its own development. Who do you think has a greater chance for successfully creating the results they want: those who have done it for years, or those who are novices
 
-**The Orientation of the Creative**
+### The Orientation of the Creative
 
 A person in the reactive-responsive orientation is in a kind of maze. The circumstances are the walls. The person's life consists of negotiating through the maze. Some people have found safety in traveling the same route, and some are consistently surprised when confronted with a new dead end, but either way there is always a limitation of choice, often between the lesser of two evils. When you are in the orientation of the creative, life is often interesting, exciting, and special. This is not because creators try to be interested in whatever they are doing, but because they are involved in life on a level where there is always the possibility of something new and wonderful happening that has never existed before.
 
@@ -77,13 +77,13 @@ In the creative orientation, when you answer the question "What do I want to cre
 
 Once a vision is clear, processes organically form that lead to the accomplishment of that vision. This means that, in the creative orientation, process is invented along the way.
 
-**Tension Seeks Resolution**
+### Tension Seeks Resolution
 
 The path of least resistance oscillates in some structures and resolves in others. If you are in an oscillating structure, you will experience a recurring pattern. This is a pattern that moves toward what you want, and then away from what you want, and then toward what you want, and then away from what you want, and so on. If you are in a structure that resolves, the path of least resistance moves toward final resolution of the structure. One major skill of the creative process is forming structures that resolve in favor of the creation. These structures are the most useful because they support movement in the direction of your final result.
 
 People often attempt to circumvent the effects of structural conflict with great hope and optimism, which is usually followed by great disillusionment. It is inherent in this structure that any actions you take to solve structural conflict only reinforce the experience of limitation and hence the structure itself. Since the nature of this conflict is structural, it is only by changing the underlying structure of your life that you can make any real and lasting change. However, any attempt you make to change the structure from within this structure will not work. Because of the structure in play, the path of least resistance will lead you to futile actions, actions designed to relieve the conflict, but that ironically will only entrench the conflict further. In fact, if you are in a structural conflict, you will develop strategies to compensate for the inability of the structure to support final resolution.
 
-**Compensating Strategies**
+### Compensating Strategies
 
 How do these compensating strategies develop? Usually gradually. Your own compensating strategies develop so subtly that they are probably not obvious to you.
 
@@ -111,7 +111,7 @@ If you worry chronically, you use conflict manipulation. If you are driven by yo
 
 There are two assumptions, generally unexpressed and unexamined, at the roots of schools of positive thinking. The first is that you need to control yourself by overpowering your habitual negativity. The second is that the objective truth about reality is somehow dangerous to you and that you must therefore impose upon the truth a beneficent interpretation. The radical difference between positive thinking and the creative orientation can be seen in parallel assumptions about the creative process. First, in the orientation of the creative, there is no need to control yourself. Instead, the orientation assumes that whether you are habitually negative or not, you have a natural inclination toward creating what you most truly want. Furthermore, there are no inner forces you must overcome, only inner forces that might be aligned organically as part of the creative process. This is not programming yourself, but rather working with all of the forces in play—including the forces you may not especially like. Second, in the orientation of the creative, it is essential to report to yourself what reality truly is, no matter what the conditions and circumstances may be. A clear description of reality is necessary input in the creative process. Were you to impose any "rose-colored" or otherwise synthetic views on your reality, you would obscure it.
 
-**Structural Tension**
+### Structural Tension
 
 To change this structure there must be another structure in play, and this structure must take precedence over the old structure, so that the path of least resistance will change and energy may move easily along that new path. The structure that is senior to structural conflict has the following properties:
 
@@ -131,7 +131,7 @@ You weaken structural tension when you lower your vision. If you compromise what
 
 Another way of weakening structural tension is to misrepresent current reality. This strategy is often employed by people who "hold the vision" while ignoring what is going on around them. These are the idle dreamers who give real visionaries a bad name. Do not confuse a creator with a dreamer. Dreamers only dream, but creators bring their dreams into reality. Only an accurate awareness of reality and an accurate awareness of your vision will enable you to form structural tension as an important part of the creative process. When you form and hold structural tension, resolution moves toward the vision you want to create. Holding structural tension is not the same as evoking a magical incantation, but rather organizing forces in play. The energy generated by the discrepancy you establish is directly useful in the actions you take on behalf of the vision. Movement leads to more movement. Once you establish structural tension, your natural tendency will be to generate actions in order to resolve the tension. From the inception of the creative process to its conclusion, the actions you take will be supported by the structure. All of the actions you take to create your vision will help you move toward the result you want, including the ones that are not directly successful
 
-**Vision**
+### Vision
 
 The best place to begin the creative process is at the end. What is the final result you want? This way of thinking helps you conceive the result you want to create independently from how you will create it. This is probably the opposite of what you learned in school. Our educational system teaches us how to enact procedures. Students are taught the _how_ long before they are taught to consider _what_ they want. Learning how to do anything before you have any notion of what you will use this knowledge for can give you a false sense of purposelessness. Some of the best education relates what the student is learning with what can result from its mastery.
 
@@ -155,7 +155,7 @@ The following principles will help you experiment with conceiving of what you wa
 
 3. **Separate what you want from questions of possibility.** If you find yourself limiting what you want based on what seems possible to you, you are censoring and inhibiting your vision. If you don't admit to yourself what you want simply because it does not seem possible for you to have it, you are actually misrepresenting the truth to yourself
 
-**Current Reality**
+### Current Reality
 
 Avoiding describing reality accurately is often a strategy to overcome the negative consequences of your actions. Our society puts a high premium on reasons and excuses. Most people learn that if they have a good reason for not succeeding, they can sometimes avoid negative consequences. Many people misrepresent reality though a smoke screen of plausible-sounding reasons that are designed to distract themselves and others from the truth.
 
@@ -171,7 +171,7 @@ When it comes to observing reality, people often do not see what is before their
 
 People who have strong beliefs in a conceptual framework of reality often interpret reality to fit their biases. When you begin to observe reality, begin freshly with the notion that you know nothing. Separate the ideas you have from your observations. You might find this hard to do. But if you truly want to know how reality is, your observations must not be burdened by your own biases. It takes practice to put preconceived concepts aside and observe what is truly going on. When you master this practice, you will have a powerful tool you can use to create what matters most to you in life.
 
-**The Creative Cycle**
+### The Creative Cycle
 
 There are three major stages in the growth and life-building process: _germination_, _assimilation_, and _completion_. Every complete creative process moves through this cycle and always in the same sequence. The cycles of creating are as natural and organic as the human birth cycle and have the same three stages. Germination occurs at conception. This is the prime initiating act from which the entire process emanates. Assimilation, the second distinct stage, is akin to gestation, during which the fetus develops and grows.Completion, the final stage, occurs when the birth of this new human being takes place.
 
@@ -185,7 +185,7 @@ Germinational energy occurs when you are conceiving your vision. During the assi
 
 The third distinct stage of creation is completion, which includes bringing to fruition, manifesting the whole, finishing, following through, and learning to live with your creation.
 
-**Germination and Choice**
+### Germination and Choice
 
 Germination does not consist merely of conceiving what you want and establishing a direction in which you want to go, but most importantly in activating the seeds of your creation. The way you activate the seeds of your creation is by _making choices about results you want to create_. When you make a choice, you mobilize vast energies and resources that otherwise often go untapped. All too often people fail to focus their choices upon results, and therefore their choices are ineffective.
 
@@ -217,7 +217,7 @@ _Second_, formalize the choice by actually saying the words, "I choose to have .
 
 When you make a formal choice, you activate the seeds of germination. You align all the energies at your disposal and set them in motion toward your choice. You initiate the first stage of the creative cycle. For many, making such a formal choice seems to be a momentary leap into the unknown, especially if the choice they are making involves something important they have never chosen before. After that moment of uncertainty, however, they often experience clarity, energy, and physical lightness. Whether or not you have unusual experiences, when you make a choice in the orientation of the creative, you actively set energy in motion in your chosen direction. Choices about results have power.
 
-**Primary, Secondary, and Fundamental Choice**
+### Primary, Secondary, and Fundamental Choice
 
 _Primary choices are choices about major results_. You may make primary choices in almost any area of your life. At work, you may choose to be one of the most effective managers in your company, to harness superconductivity for practical applications, to develop a safe method of transporting hazardous materials, to integrate artificial intelligence and sophisticated retrieval systems, to open a manufacturing plant in Singapore. Personally, you may make primary choices to have a superb relationship, a meaningful job, a house in which you really feel at home, or a wonderful vacation. You may make a primary choice to create a work of art, to cook a fantastic meal, or to conduct a brilliant workshop or meeting. A primary choice is about some result you want in itself and for itself. It is not something you want because it will lead you to something elseeven though it may. A primary choice does not function mainly as a step in a series of steps. It functions as the ultimate goal.
 
@@ -229,7 +229,7 @@ The fundamental choices for most people are the choices to be free, to be health
 
 Fundamental choices are not subject to changes in internal or external circumstances. If you make the fundamental choice to be true to yourself, then you will act in ways that are true to yourself whether you feel inspired or depressed, whether you feel fulfilled or frustrated, whether you are at home, at work, with your friends, or with your enemies.
 
-**Assimilation**
+### Assimilation
 
 Assimilation is an important stage of growth and development because it is the period during which we incorporate intricate physical and mental skills in such a way that they become a natural part of ourselves.
 
@@ -249,13 +249,13 @@ What you embody tends to be created. This principle provides the key to assimila
 
 Assimilation, like embodiment, has two phases—an internalizing phase and an externalizing phase. What you create grows within you and eventually expresses itself outwardly as you give birth to that which you are creating
 
-**Momentum**
+### Momentum
 
 Assimilation is a graduated process. Its steps build upon one another. As they build organically, the process generates energy. This energy builds on itself, and the process gains momentum.
 
 Not only is assimilation an organic process itself, but it tends to generate other organic processes. The steps by which you move from where you are in your life to where you want to be cannot be put into a formula. The steps of that process develop organically, and what you are creating is unique, at least to your life. You may find yourself taking actions you have never taken before, thinking thoughts you have never thought before, being moved and inspired in ways you have never experienced before.
 
-**Strategic Moments**
+### Strategic Moments
 
 In the creative process there are certain strategic moments in which it seems as if you are either standing still or even going backward. These moments of apparent lack of progress are strategic because the actions you take at such moments will largely determine whether or not you are ultimately successful.
 
@@ -275,7 +275,7 @@ The pivotal technique in the creative orientation may help you use unwanted circ
 
 **Step 4. Move on.** Once you have observed where you are (current reality) and where you want to be (vision) and have formally chosen the result you want to create (reestablished structural tension), change the focus of your conscious attention from being in an unwanted situation. Shift gears. Change the subject. You may look at the scenery, read a book, enjoy each other's company, or go back to what you were doing before you became focused on being lost or stuck. Step 4 of the pivotal technique leaves the structural tension unresolved. This is very desirable, because then you are able to assimilate structural tension more easily. The tension will be particularly helpful in generating natural processes in which the path of least resistance leads you directly toward the result.
 
-**Completion**
+### Completion
 
 Completion, the third and final stage of the creative cycle is the full and total accomplishment of the result you want to create. When this stage is finished, you have successfully created your vision.
 
@@ -285,7 +285,7 @@ Acknowledging the results you have created is a different act from receiving tho
 
 Good judgment takes practice. Judgment should be encouraged, not discouraged. When you are creating, you need to make judgments about the current status of the creative process. How close are you to the result you are creating? Are the actions you are taking working or not working? Is the current state of your creation good or bad? It is difficult to know where you stand in life, what matters to you, and what you live for when you do not make distinctions. When you avoid distinctions, everything takes on a glow of arbitrariness. Nothing seems to matter when everything has equal value.
 
-**Signs of the Future, Signs of the Times**
+### Signs of the Future, Signs of the Times
 
 There are two direct streams in history. One is the story of a reactive-responsive world. Events that shaped the lives of people and civilization emanated from the existing circumstances. The other story is that of the builder, the explorer, and the creator. Events that shaped the times were based on a different aspect of humanity, that of the quest to build, create, and know what was around the next hill. This instinct has always been an important force. These two streams have operated somewhat independently of each other. Sometimes they collide, and sometimes they collaborate. During times of war they have often done both. In different ways these two streams have both been dominant. Even though there have been great wars, political shifts, intrigue, economic manipulation, and power wielding; building and creating have always been a dominant force in the development of civilization. But perhaps, in spite of all our building, we are still in the Dark Ages. The majority of people are still raised to be reactiveresponsive. Much of the political and educational thrust is still in support of reaction or response to prevailing circumstances.
 
@@ -295,7 +295,7 @@ At last the revolution has come, one in which more of the power ends up in the h
 
 One of the major differences between the technological age and the industrial age is the location of power. In the industrial age power was located in the hands of a few. Many people had to organize their lives to accommodate industry. People lived near where they worked. The local economy was fed from the work base, and complex, intricate relationships arose between the work force, the management, the local store keepers, the services from government, and national and international economic trends. In the new technological age, power lies in more and more hands. This leads to more and more choice. Where to work, how to work, where to live, how to educate our children, how to organize our communities.
 
-**The Power of Transcendence**
+### The Power of Transcendence
 
 When you shift to the orientation of the creative, you begin to move along the path of mastering causality. You become the predominant causal force in your life, which is a natural and desirable situation. This shift is made by evoking senior forces, such as fundamental choice, primary and secondary choices, structural tension, aspiration to your true values, and being true to yourself. These senior forces always take priority over lesser forces, such as willpower manipulation, conflict manipulation, and structural conflict. There is another force inherent in the orientation of the creative that is senior even to mastering causality. This senior force I call transcendence.
 

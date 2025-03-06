@@ -15,6 +15,6 @@ It was like certain dinners I remember from the war. There was much wine, an ign
 
 That was morality; things that made you disgusted afterward. No, that must be immorality. That was a large statement.
 
-**From The Complete Short Stories**
+### From The Complete Short Stories
 
 In going where you have to go, and doing what you have to do, and seeing what you have to see, you dull and blunt the instrument you write with. But I would rather have it bent and dull and know I had to put it on the grindstone again and hammer it into shape and put a whetstone to it, and know that I had something to write about, than to have it bright and shining and nothing to say, or smooth and well-oiled in the closet, but unused.

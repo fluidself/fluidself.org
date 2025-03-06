@@ -7,7 +7,7 @@ title: 'A Brief History of Intelligence: Evolution, AI, and the Five Breakthroug
 
 We need to ground our understanding of how the brain works and how it evolved in our understanding of how intelligence works—for which we must look to the field of artificial intelligence. The relationship between AI and the brain goes both ways; while the brain can surely teach us much about how to create artificial humanlike intelligence, AI can also teach us about the brain. If we think some part of the brain uses some specific algorithm but that algorithm doesn’t work when we implement it in machines, this gives us evidence that the brain might not work this way. Conversely, if we find an algorithm that works well in AI systems, and we find parallels between the properties of these algorithms and properties of animal brains, this gives us some evidence that the brain might indeed work this way.
 
-**The World Before Brains**
+### The World Before Brains
 
 Even the simplest single-celled organisms—such as bacteria—have proteins designed for movement, motorized engines that convert cellular energy into propulsion, rotating propellers using a mechanism no less complex than the motor of a modern boat. Bacteria also have proteins designed for perception—receptors that reshape when they detect certain features of the external environment, such as temperature, light, or touch. Armed with proteins for movement and perception, early life could monitor and respond to the outside world.
 
@@ -21,9 +21,9 @@ These features of neurons—all-or-nothing spikes, rate coding, adaptation, and 
 
 While the first animals, whether gastrula-like or polyp-like creatures, clearly had neurons, they had no brain. Like today’s coral polyps and jellyfish, their nervous system was what scientists call a nerve net: a distributed web of independent neural circuits implementing their own independent reflexes. But with the evolutionary feedback loop of predator-prey in full force, with the animal niche of active hunting, and the building blocks of neurons in place, it was only a matter of time before evolution stumbled on breakthrough #1, which led to rewiring nerve nets into brains.
 
-**Breakthrough #1: Steering and the First Bilaterians**
+### Breakthrough #1: Steering and the First Bilaterians
 
-**The Birth of Good and Bad**
+### The Birth of Good and Bad
 
 Almost all animals on Earth have the same body plan. They all have a front that contains a mouth, a brain, and the main sensory organs (such as eyes and ears), and they all have a back where waste comes out. Evolutionary biologists call animals with this body plan bilaterians because of their bilateral symmetry. This is in contrast to our most distant animal cousins—coral polyps, anemones, and jellyfish—which have body plans with radial symmetry; that is, with similar parts arranged around a central axis, without any front or back. The most obvious difference between these two categories is how the animals eat. Bilaterians eat by putting food in their mouths and then pooping out waste products from their butts. Radially symmetrical animals have only one opening—a mouth-butt if you will—which swallows food into their stomachs and spits it out.
 
@@ -45,7 +45,7 @@ This is another example of how past innovations enabled future innovations. Just
 
 Steering requires at least four things: a bilateral body plan for turning, valence neurons for detecting and categorizing stimuli into good and bad, a brain for integrating input into a single steering decision, and the ability to modulate valence based on internal states.
 
-**The Origin of Emotion**
+### The Origin of Emotion
 
 Our internal states are not only imbued with a level of valence, but also a degree of arousal. Blood-boiling fury is not only a bad mood but an aroused bad mood. Different from an unaroused bad mood, like depression or boredom. Similarly, the tingly serenity of lying on a warm beach is not only a good mood but a good mood with low arousal. Different from the highly arousing good mood produced by getting accepted to college or riding a roller coaster (if you like that sort of thing). Neuroscientists and psychologists use the word affect to refer to these two attributes of emotions; at any given point, humans are in an affective state represented by a location across these two dimensions of valence and arousal. While rigorous definitions of categories of human emotions themselves elude philosophers, psychologists, and neuroscientists alike, affect is the relatively well accepted unifying foundation of emotion.
 
@@ -65,7 +65,7 @@ Any consistent, inescapable, or repeating negative stimuli, such as constant pai
 
 Affect, despite all its modern color, evolved 550 million years ago in early bilaterians for nothing more than the mundane purpose of steering. The basic template of affect seems to have emerged from two fundamental questions in steering. The first was the arousal question: Do I want to expend energy moving or not? The second was the valence question: Do I want to stay in this location or leave this location? The release of specific neuromodulators enforced specific answers to each of these questions. And these global signals for stay and leave could then be used to modulate suites of reflexes, such as whether it was safe to lay eggs, mate, and expend energy digesting food.
 
-**Associating, Predicting, and the Dawn of Learning**
+### Associating, Predicting, and the Dawn of Learning
 
 It turns out that Pavlov’s associative learning is an intellectual ability of all bilaterians, even simple ones. If you expose nematodes simultaneously to both a yummy food smell and a noxious chemical that makes them sick, nematodes will subsequently steer away from that food smell. If you feed nematodes at a specific temperature, they will shift their preferences toward that temperature. Pair a gentle tap to the side of a slug with a small electric shock, which triggers a withdrawal reflex, and the slug will learn to withdraw to just the tap, an association that will last for days.
 
@@ -81,7 +81,7 @@ Learning occurs when synapses change their strength or when new synapses are for
 
 From the bilaterian brain onward, the evolution of learning was primarily a process of finding new applications of preexisting synaptic learning mechanisms, without changing the learning mechanisms themselves. Learning was not the core function of the first brain; it was merely a feature, a trick to optimize steering decisions. Association, prediction, and learning emerged for tweaking the goodness and badness of things. In some sense, the evolutionary story that will follow is one of learning being transformed from a cute feature of the brain to its core function.
 
-**Summary of Breakthrough #1: Steering**
+### Summary of Breakthrough #1: Steering
 
 Our ancestors from around 550 million years ago transitioned from a radially symmetric brainless animal, like a coral polyp, to a bilaterally symmetric brain-enabled animal, like a nematode. And while many neurological changes occurred across this transition, a surprisingly broad set of them can be understood through the lens of enabling a singular breakthrough: that of navigating by steering. These include:
 
@@ -103,9 +103,9 @@ Our ancestors from around 550 million years ago transitioned from a radially sym
 
 All of these changes made steering possible and solidified our ancestors’ place as the first large multicellular animals who survived by navigating—moving not with microscopic cellular propellers but with muscles and neurons.
 
-**Breakthrough #2: Reinforcing and the First Vertebrates**
+### Breakthrough #2: Reinforcing and the First Vertebrates
 
-**The Cambrian Explosion**
+### The Cambrian Explosion
 
 The discovery of steering in our nematode-like ancestor accelerated the evolutionary arms race of predation. This triggered what is now known as the Cambrian explosion, the most dramatic expansion in the diversity of animal life Earth has ever seen. From the heat of the Cambrian explosion was forged the vertebrate brain template, one that, even today, is shared across all the descendants of these early fishlike creatures.
 
@@ -115,7 +115,7 @@ This ability of fish to learn arbitrary sequences of actions through trial and e
 
 The second breakthrough was reinforcement learning: the ability to learn arbitrary sequences of actions through trial and error. Thorndike’s idea of trial-and-error learning sounds so simple—reinforce behaviors that lead to good things and punish behaviors that lead to bad things. But this is an example where our intuitions about what is intellectually easy and what is hard are mistaken. It was only when scientists tried to get AI systems to learn through reinforcement that they realized that it wasn’t as easy as Thorndike had thought.
 
-**The Evolution of Temporal Difference Learning**
+### The Evolution of Temporal Difference Learning
 
 Minsky was one of the first to realize that training algorithms the way that Thorndike believed animals learned—by directly reinforcing positive outcomes and punishing negative outcomes—was not going to work. Here’s why. Suppose we teach an AI to play checkers using Thorndike’s version of trial-and-error learning. This AI would start by making random moves, and we would give it a reward whenever it won and a punishment whenever it lost. Presumably, if it played enough games of checkers, it should get better. But here’s the problem: The reinforcements and punishments in a game of checkers—the outcome of winning or losing—occur only at the end of the game. A game can consist of hundreds of moves. If you win, which moves should get credit for being good? If you lose, which moves should get credit for being bad?
 
@@ -139,7 +139,7 @@ The hypothalamus is, in principle, just a more sophisticated version of the stee
 
 But as Minsky found with his attempts to make reinforcement learning algorithms in the 1950s, if brains learned only from actual rewards, they would never be able to do anything all that intelligent. They would suffer from the problem of temporal credit assignment. So then how is dopamine transformed from a valence signal for actual rewards to a temporal difference signal for changes in predicted future reward? In all vertebrates, there is a mysterious mosaic of parallel circuits within the basal ganglia, one that flows down to motor circuits and gates movement, and another that flows back toward dopamine neurons directly. One leading theory of basal ganglia function is that these parallel circuits are literally Sutton’s actor-critic system for implementing temporal difference learning. One circuit is the “actor,” learning to repeat the behaviors that trigger dopamine release; the other circuit is the “critic,” learning to predict future rewards and trigger its own dopamine activation. In our metaphor, the basal ganglian student initially learns solely from the hypothalamic judge, but over time learns to judge itself, knowing when it makes a mistake before the hypothalamus gives any feedback.
 
-**The Problems of Pattern Recognition**
+### The Problems of Pattern Recognition
 
 When you recognize that a plate is too hot or a needle too sharp, you are recognizing attributes of the world the way early bilaterians did, with the activations of individual neurons. However, when you recognize a smell, a face, or a sound, you are recognizing things in the world in a way that was beyond early bilaterians; you are using a skill that emerged later in early vertebrates. Early vertebrates could recognize things using brain structures that decoded patterns of neurons. This dramatically expanded the scope of what animals could perceive.
 
@@ -161,7 +161,7 @@ Perhaps the best lesson from CNNs is not the success of the specific assumptions
 
 In the predatory arms race of the Cambrian, evolution shifted from arming animals with new sensory neurons for detecting specific things to arming animals with general mechanisms for recognizing anything. With this new ability of pattern recognition, vertebrate sensory organs exploded with complexity, quickly flowering into their modern form. Noses evolved to detect chemicals; inner ears evolved to detect frequencies of sound; eyes evolved to detect sights. The coevolution of the familiar sensory organs and the familiar brain of vertebrates is not a coincidence—they each facilitated the other’s growth and complexity. Each incremental improvement to the brain’s pattern recognition expanded the benefits to be gained by having more detailed sensory organs; and each incremental improvement in the detail of sensory organs expanded the benefits to be gained by more sophisticated pattern recognition. In the brain, the result was the vertebrate cortex, which somehow recognizes patterns without supervision, somehow accurately discriminates overlapping patterns and generalizes patterns to new experiences, somehow continually learns patterns without suffering from catastrophic forgetting, and somehow recognizes patterns despite large variances in its input.
 
-**Why Life Got Curious**
+### Why Life Got Curious
 
 Sutton had always known that a problem with any reinforcement learning system is something called the exploitation-exploration dilemma. For trial-and-error learning to work, agents need to, well, have lots of trials from which to learn. This means that reinforcement learning can’t work by just exploiting behaviors they predict lead to rewards; it must also explore new behaviors. In other words, reinforcement learning requires two opponent processes—one for behaviors that were previously reinforced (exploitation) and the other for behaviors that are new (exploration). These choices are, by definition, opposing each other. Exploitation will always drive behavior toward known rewards, and exploration will always drive toward what is unknown.
 
@@ -171,13 +171,13 @@ The importance of curiosity in reinforcement learning algorithms suggests that a
 
 Games of gambling are carefully designed to exploit this. In games of gambling, you don’t have a 0 percent chance of winning (which would lead you not to play); you have a 48 percent chance of winning, high enough to make it possible, uncertain enough to make it surprising when you win (giving you a dopamine boost), and low enough so that the casino will, in the long run, suck you dry. Our Facebook and Instagram feeds exploit this as well. With each scroll, there is a new post, and randomly, after some number of scrolls, something interesting shows up. Even though you might not want to use Instagram, the same way gamblers don’t want to gamble or drug addicts don’t want to use anymore, the behavior is subconsciously reinforced, making it harder and harder to stop.
 
-**The First Model of the World**
+### The First Model of the World
 
 The ability to learn a spatial map is seen across vertebrates. Fish, reptiles, mice, monkeys, and humans all do this. And yet simple bilaterians like nematodes are incapable of learning such a spatial map—they cannot remember the location of one thing relative to another thing.
 
 The evolution of spatial maps in the minds of early vertebrates marked numerous firsts. It was the first time in the billion-year history of life that an organism could recognize where it was. It is not hard to envision the advantage this would have offered. While most invertebrates steered around and executed reflexive motor responses, early vertebrates could remember the places where arthropods tended to hide, how to get back to safety, and the locations of nooks and crannies filled with food. It was also the first time a brain differentiated the self from the world. To track one’s location in a map of space, an animal needs to be able to tell the difference between “something swimming toward me” and “me swimming toward something.” And most important, it was the first time that a brain constructed an internal model—a representation of the external world. The initial use of this model was, in all likelihood, pedestrian: it enabled brains to recognize arbitrary locations in space and to compute the correct direction to a given target location from any starting location. But the construction of this internal model laid the foundation for the next breakthrough in brain evolution. What began as a trick for remembering locations would go on to become much more.
 
-**Summary of Breakthrough #2: Reinforcing**
+### Summary of Breakthrough #2: Reinforcing
 
 Our ancestors from around five hundred million years ago transitioned from simple wormlike bilaterians to fishlike vertebrates. Many new brain structures and abilities emerged in these early vertebrate brains, most of which can be understood as enabling and emerging from breakthrough #2: reinforcement learning. These include:
 
@@ -195,9 +195,9 @@ Our ancestors from around five hundred million years ago transitioned from simpl
 
 Reinforcement learning in early vertebrates was possible only because the mechanisms of valence and associative learning had already evolved in early bilaterians. Reinforcement learning is bootstrapped on simpler valence signals of good and bad. Conceptually, the vertebrate brain is built on top of the more ancient steering system of bilaterians. Without steering, there is no starting point for trial and error, no foundation on which to measure what to reinforce or un-reinforce.
 
-**Breakthrough #3: Simulating and the First Mammals**
+### Breakthrough #3: Simulating and the First Mammals
 
-**The Neural Dark Ages**
+### The Neural Dark Ages
 
 History repeats itself. One and a half billion years ago, the explosion of cyanobacteria suffocated the Earth with carbon dioxide and polluted it with oxygen. Over a billion years later, the explosion of plants on land seems to have committed a similar crime. The inland march of plants was too rapid for evolution to accommodate and rebalance carbon dioxide levels through the expansion of more CO2-producing animals. Carbon dioxide levels plummeted, which caused the climate to cool. The oceans froze over and gradually became inhospitable to life. This was the Late Devonian Extinction, the first great death of this era. From the end of this extinction event and for the next one hundred fifty million years, reptiles would rule.
 
@@ -209,7 +209,7 @@ The neocortex gave this small mouse a superpower—the ability to simulate actio
 
 The neocortex of this early mammal was small and took up only a small fraction of the brain. Most volume was given to the olfactory cortex (early mammals, like many modern mammals, had an incredible sense of smell). But despite the small size of the neocortex in early mammals, it was still the kernel from which human intelligence would arise. In the human brain, the neocortex takes up 70 percent of brain volume. In the breakthroughs that followed, this originally small structure would progressively expand from a clever trick to the epicenter of intelligence.
 
-**Generative Models and the Neocortical Mystery**
+### Generative Models and the Neocortical Mystery
 
 According to Mountcastle, the neocortex does not do different things; each neocortical column does exactly the same thing. The only difference between regions of neocortex is the input they receive and where they send their output; the actual computations of the neocortex itself are identical. The only difference between, for example, the visual cortex and the auditory cortex is that the visual cortex gets input from the retina, and the auditory cortex gets input from the ear.
 
@@ -229,7 +229,7 @@ The reason the neocortex is so powerful is not only that it can match its inner 
 
 This was the gift the neocortex gave to early mammals. It was imagination—the ability to render future possibilities and relive past events—that was the third breakthrough in the evolution of human intelligence.
 
-**Mice in the Imaginarium**
+### Mice in the Imaginarium
 
 There were three new abilities that neocortical simulating provided early mammals, all three of which were essential for surviving the one-hundred-and-fifty-million-year predatory onslaught of sharp-toothed dinosaurs.
 
@@ -239,7 +239,7 @@ There were three new abilities that neocortical simulating provided early mammal
 
 - New Ability #3: Episodic Memory. This is the form of memory in which we recall specific past episodes of our lives. This is distinct from, say, procedural memory, where we remember how to do various movements, such as speaking, typing, or throwing a baseball. But here is the weird thing—we don’t truly remember episodic events. The process of episodic remembering is one of simulating an approximate re-creation of the past. When imagining future events, you are simulating a future reality; when remembering past events, you are simulating a past reality. Both are simulations.
 
-**Model-Based Reinforcement Learning**
+### Model-Based Reinforcement Learning
 
 While model-free approaches like temporal difference learning can do well in backgammon and certain video games, they do not perform well in more complex games like chess. The problem is that in complex situations, model-free learning—which contains no planning or playing out of possible futures—is not good at finding the moves that don’t look great right now but set you up well for the future.
 
@@ -265,7 +265,7 @@ It is somewhat magical that the very same neocortical microcircuit that construc
 
 In a typical neuroscience textbook, the four functions ascribed to the frontal neocortex are attention, working memory, executive control, and, as we have already seen, planning. The connecting theme of these functions has always been confusing; it seems odd that one structure would subserve all these distinct roles. But through the lens of evolution, it makes sense that these functions are all intimately related—they are all different applications of controlling the neocortical simulation.
 
-**The Secret to Dishwashing Robots**
+### The Secret to Dishwashing Robots
 
 The motor cortex was clearly not the locus of motor commands in early mammals, and it was only later—in primates—that it became required for movement. So why did the motor cortex evolve? What was its original function? What changed with primates?
 
@@ -277,7 +277,7 @@ The secret to dishwashing robots lives somewhere in the motor cortex and the bro
 
 If we successfully build robots with motor systems similar to those of mammals, they will come along with many desirable properties. These robots will automatically learn new complex skills on their own. They will adjust their movements in real time to account for perturbations and changes in the world. We will give them high-level goals, and they will be able to figure out all the subgoals necessary to achieve it. When they try to learn some new task, they will be slow and careful as they simulate each body movement before they act, but as they get better, the behavior will become more automatic. Over the course of their lifetimes, the speed with which they learn new skills will increase as they reapply previously learned low-level skills to newly experienced higher-level goals. And if their brains work at all like mammal brains, they will not require massive supercomputers to accomplish these tasks. Indeed, the entire human brain operates on about the same amount of energy as a lightbulb. Or maybe not. Perhaps roboticists will get all this to work in a very nonmammalian way—perhaps roboticists will figure it all out without reverse-engineering human brains. But just as bird wings were an existence proof for the possibility of flight—a goal for humans to strive for—the motor skills of mammals are our existence proof for the type of motor skills we hope to build into machines one day, and the motor cortex and the surrounding motor hierarchy are nature’s clues about how to make it all work.
 
-**Summary of Breakthrough #3: Simulating**
+### Summary of Breakthrough #3: Simulating
 
 The primary new brain structure that emerged in early mammals was the neocortex. With the neocortex came the gift of simulation—the third breakthrough in our evolutionary story. To summarize how this occurred and how it was used:
 
@@ -299,9 +299,9 @@ The primary new brain structure that emerged in early mammals was the neocortex.
 
 Our mammalian ancestors from a hundred million years ago weaponized the imaginarium to survive. They engaged in vicarious trial and error, counterfactual learning, and episodic memory to outplan dinosaurs. Our ancestral mammal, like a modern cat, could look at a set of branches and plan where it wanted to place its paws. Together, these ancient mammals behaved more flexibly, learned faster, and performed more clever motor skills than their vertebrate ancestors. Most vertebrates at the time, as with modern lizards and fish, could still move quickly, remember patterns, track the passage of time, and intelligently learn through model-free reinforcement learning, but their movements were not planned.
 
-**Breakthrough #4: Mentalizing and the First Primates**
+### Breakthrough #4: Mentalizing and the First Primates
 
-**The Arms Race for Political Savvy**
+### The Arms Race for Political Savvy
 
 In the 1980s and 1990s, numerous primatologists and evolutionary psychologists, including Nicholas Humphrey, Frans de Waal, and Robin Dunbar, began speculating that the growth of the primate brain had nothing to do with the ecological demands of being a monkey in the African jungles ten to thirty million years ago and was instead a consequence of the unique social demands. They argued that these primates had stable mini-societies: Groups of individuals that stuck together for long periods. Scientists hypothesized that to maintain these uniquely large social groups, these individuals needed unique cognitive abilities. This created pressure, they argued, for bigger brains.
 
@@ -311,11 +311,11 @@ What makes these monkey societies unique is not the presence of a social hierarc
 
 It isn’t clear how political savviness would even be possible if a species did not have at least a basic and primitive version of theory of mind—only through this ability can individuals infer what others want and thereby figure out whom to cozy up to and how. Only through theory of mind can individual primates know not to mess with a low-ranking individual with high-ranking friends; this requires understanding the intent of the high-ranking individuals and what they will do in future situations. Only through this ability of theory of mind can you figure out who is likely to become powerful in the future, whom you need to make friends with, and whom you can deceive.
 
-**How to Model Other Minds**
+### How to Model Other Minds
 
 As far back as Plato, there has been a running hypothesis about how humans understand the minds of other humans. The theory is that we first understand our own minds and then use this understanding of ourselves to understand others. Modern formulations of this old idea are referred to as “simulation theory” or “social projection theory.” When we try to understand why someone else did something, we do so by imagining ourselves in their situation—with their knowledge and life history: “She probably yelled at me because she is stressed out about having a test tomorrow; I know I yell more when I am stressed.” When we try to understand what others will do, we imagine what we would do in their situation if we had their knowledge and their background: “I don’t think James will share his food with George anymore; I believe James saw George steal, and I know if I saw my friend steal from me, I wouldn’t share with him anymore.” We understand others by imagining ourselves in their shoes. The best evidence for social projection theory is the fact that tasks that require understanding yourself and tasks that require understanding others both activate and require the same uniquely primate neural structures. Reasoning about your own mind and reasoning about other minds is, in the brain, the same process.
 
-**Monkey Hammers and Self-Driving Cars**
+### Monkey Hammers and Self-Driving Cars
 
 If the driver of brain evolution in early primates was a politicking arms race, why would primates be uniquely good tool users? If the new brain regions of primates were “designed” to enable theory of mind, then from where do the unique tool-using skills of primates emerge?
 
@@ -329,13 +329,13 @@ There is still much work to be done when it comes to imitation learning in robot
 
 Theory of mind evolved in early primates for politicking. But this ability was repurposed for imitation learning. The ability to infer the intent of others enabled early primates to filter out extraneous behaviors and focus only on the relevant ones (what did the person mean to do?); it helped youngsters stay focused on learning over long stretches of time; and it may have enabled early primates to actively teach each other by inferring what a novice does and does not understand. While our ancestral mammal likely could select known skills by observing others, it was with early primates, armed with theory of mind, when the ability to acquire truly novel skills through observation emerged. This created a new degree of transmissibility: skills that were discovered by clever individuals and that would once have faded when they died, could now propagate throughout a group and be passed down endlessly through generations. This is why primates use hammers and rats do not.
 
-**Why Rats Can’t Go Grocery Shopping**
+### Why Rats Can’t Go Grocery Shopping
 
 Although Robin Dunbar's social-brain hypothesis has, for the past several decades, held primacy among scientists as the leading explanation of brain expansion in primates, there is an alternative explanation: what has been called the ecological-brain hypothesis. The ecological-brain hypothesis argues that it was the frugivore diet of early primates that drove the rapid expansion of their brains.
 
 The ability to anticipate future needs would have offered numerous benefits to our ancestral frugivores. It would have enabled our ancestors to plan their foraging routes long in advance, thereby ensuring they were the first to get newly ripened fruits. Our ability to make decisions today for faraway, abstract, and not-yet-existent goals was inherited from tree faring primates. A trick that, perhaps, was first used for getting the first pick of fruits, but today, in humans, is used for far greater purposes. It laid the foundation for our ability to make long term plans over vast stretches of time.
 
-**Summary of Breakthrough #4: Mentalizing**
+### Summary of Breakthrough #4: Mentalizing
 
 There are three broad abilities that seem to have emerged in early primates:
 
@@ -351,9 +351,9 @@ However, the best evidence for this idea goes all the way back to Mountcastle. T
 
 All these abilities—theory of mind, imitation learning, and anticipating future needs—would have been particularly adaptive in the unique niche of early primates. Dunbar argues that the social-brain hypothesis and the ecological-brain hypothesis are two sides of the same coin. The ability to mentalize may have simultaneously unlocked both the ability to successfully forage fruits and to successfully politick. The pressures of both frugivorism and social hierarchies may have converged to produce continual evolutionary pressure to develop and elaborate brain regions—such as the gPFC—for modeling your own mind.
 
-**Breakthrough #5: Speaking and the First Humans**
+### Breakthrough #5: Speaking and the First Humans
 
-**The Search for Human Uniqueness**
+### The Search for Human Uniqueness
 
 Linguists make a distinction between declarative and imperative labels. An imperative label is one that yields a reward: “When I hear sit, if I sit, I will get a treat” or “When I hear stay, if I stop moving, I will get a treat.” This is basic temporal difference learning—all vertebrates can do this. Declarative labeling, on the other hand, is a special feature of human language. A declarative label is one that assigns an object or behavior an arbitrary symbol—“That is a cow,” “That is running,”—without any imperative at all. No other form of naturally occurring animal communication has been found to do this. The second way in which human language differs from other animal communication is that it contains grammar. Human language contains rules by which we merge and modify symbols to convey specific meanings. We can thereby weave these declarative labels into sentences, and we can knit these sentences into concepts and stories. This allows us to convert the few thousand words present in a typical human language into a seemingly infinite number of unique meanings.
 
@@ -371,13 +371,13 @@ Eventually, the corpus of ideas accumulated reached a tipping point of complexit
 
 The real reason why humans are unique is that we accumulate our shared simulations (ideas, knowledge, concepts, thoughts) across generations. We are the hive-brain apes. We synchronize our inner simulations, turning human cultures into a kind of meta-life-form whose consciousness is instantiated within the persistent ideas and thoughts flowing through millions of human brains over generations. The bedrock of this hive brain is our language. The emergence of language marked an inflection point in humanity’s history, the temporal boundary when this new and unique kind of evolution began: the evolution of ideas. In this way, the emergence of language was as monumental an event as the emergence of the first self-replicating DNA molecules. Language transformed the human brain from an ephemeral organ to an eternal medium of accumulating inventions.
 
-**Language in the Brain**
+### Language in the Brain
 
 We don’t realize it, but when we happily go back and forth making incoherent babbles with babies (proto-conversations), when we pass objects back and forth and smile (joint attention), and when we pose and answer even nonsensical questions from infants, we are unknowingly executing an evolutionarily hard-coded learning program designed to give human infants the gift of language. This is why humans deprived of contact with others will develop emotional expressions, but they’ll never develop language. The language curriculum requires both a teacher and a student. And as this instinctual learning curriculum is executed, young human brains repurpose older mentalizing areas of the neocortex for the new purpose of language. It isn’t Broca’s or Wernicke’s areas that are new, it is the underlying learning program that repurposes them for language that is new.
 
 Here is the point: There is no language organ in the human brain, just as there is no flight organ in the bird brain. Asking where language lives in the brain may be as silly as asking where playing baseball or playing guitar lives in the brain. Such complex skills are not localized to a specific area; they emerge from a complex interplay of many areas. What makes these skills possible is not a single region that executes them but a curriculum that forces a complex network of regions to work together to learn them. So this is why your brain and a chimp brain are practically identical and yet only humans have language. What is unique in the human brain is not in the neocortex; what is unique is hidden and subtle, tucked deep in older structures like the amygdala and brain stem. It is an adjustment to hardwired instincts that makes us take turns, makes children and parents stare back and forth, and that makes us ask questions.
 
-**The Perfect Storm**
+### The Perfect Storm
 
 We diverged from chimpanzees around seven million years ago, and brains stayed largely the same size until around two and a half million years ago, at which point something mysterious and dramatic happened. The human brain rapidly became over three times larger and earned its place as one of the largest brains on Earth. In the words of the neurologist John Ingram, some mysterious force more than two million years ago triggered a “runaway growth of the brain.”
 
@@ -395,7 +395,7 @@ The key point: The use of language for gossip plus the punishment of moral viola
 
 This is exactly the kind of feedback loop where evolutionary changes occur rapidly. For every incremental increase in gossip and punishment of violators, the more altruistic it was optimal to be. For every incremental increase in altruism, the more optimal it was to freely share information with others using language, which would select for more advanced language skills. For every incremental increase in language skills, the more effective gossip became, thereby reinforcing the cycle. Every roundabout of this cycle made our ancestors’ brains bigger and bigger. As social groups got bigger (powered by improved gossip, altruism, and punishment), it created more pressure for bigger brains to keep track of all the social relationships. As more ideas accumulated across generations, it created more pressure for bigger brains to increase the storage capacity of ideas that could be maintained within a generation. As the usefulness of inner simulations increased due to more reliable sharing of thoughts through language, it created more pressure for bigger brains to render more sophisticated inner simulations in the first place.
 
-**ChatGPT and the Window into the Mind**
+### ChatGPT and the Window into the Mind
 
 Human brains have an automatic system for predicting words (one probably similar, at least in principle, to models like GPT-3) and an inner simulation. Much of what makes human language powerful is not the syntax of it, but its ability to give us the necessary information to render a simulation about it and, crucially, to use these sequences of words to render the same inner simulation as other humans around us.
 
@@ -403,13 +403,13 @@ By training GPT-4 to not just predict the answer, but to predict the next step i
 
 What is most amazing about the success of LLMs is how much they seemingly understand about the world despite being trained on nothing but language. LLMs can correctly reason about the physical world without ever having experienced that world. Like a military cryptanalyst decoding the meaning behind encryped secret messages, finding patterns and meanings in what was originally gibberish, these LLMs have been able to tease out aspects of a world they have never seen or heard, that they have never touched or experienced, by merely scanning the entire corpus of our uniquely human code for transferring thoughts.
 
-**Summary of Breakthrough #5: Speaking**
+### Summary of Breakthrough #5: Speaking
 
 Early humans got caught in an unlikely perfect storm of effects. The dying forests of the African savannah pushed early humans into a tool-making meat-eating niche, one that required the accurate propagation of tool use across generations. Proto-languages emerged, enabling tool use and manufacture skills to successfully propogate across generations. The neurological change that enabled language was not a new neurological structure but an adjustment to more ancient structures, which created a learning program for language; the program of proto-conversations and joint attention that enables children to tether names to components of their inner simulation. Trained with this curriculum, older areas of the neocortex were repurposed for language.
 
 From here, humans began experimenting with using this proto-language with unrelated individuals, and this kicked off a feedback loop of gossip, altruism, and punishment, which continuously selected for more sophisticated language skills. As social groups expanded and ideas began hopping from brain to brain, the human hive mind emerged, creating an ephemeral medium for ideas to propagate and accumulate across generations. This would have begged for bigger brains to store and share more accumulated knowledge. And perhaps due to this, or enabling it, cooking was invented, offering a huge caloric surplus that could be spent on tripling the size of brains. And so, from this perfect storm emerged the fifth and final breakthrough in the evolutionary story of the human brain: language. And along with language came the many unique traits of humans, from altruism to cruelty. If there is anything that truly makes humans unique, it is that the mind is no longer singular but is tethered to others through a long history of accumulated ideas.
 
-**Conclusion: The Sixth Breakthrough**
+### Conclusion: The Sixth Breakthrough
 
 Thus far, humanity’s story has been a saga of two acts. Act 1 is the evolutionary story: how biologically modern humans emerged from the raw lifeless stuff of our universe. Act 2 is the cultural story: how societally modern humans emerged from largely biologically identical but culturally primitive ancestors from around one hundred thousand years ago. While act 1 unfolded over billions of years, most of what we have learned in history class unfolded during the comparatively much shorter time of act 2—all civilizations, technologies, wars, discoveries, dramas, mythologies, heroes, and villains unfolded in this time window that, compared to act 1, was a mere blink of an eye.
 

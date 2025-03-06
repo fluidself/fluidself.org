@@ -6,7 +6,7 @@ title: 'The Willpower Instinct: How Self-Control Works, Why It Matters, and What
   Can Do to Get More of It - by Kelly McGonigal'
 ---
 
-Willpower is actually three powers--I will, I won't, and I want--that help us to be a better version of ourselves.
+Willpower is actually three powers—I will, I won't, and I want—that help us to be a better version of ourselves.
 
 Willpower is a biological instinct, like stress, that evolved to help us protect ourselves from ourselves.
 
@@ -18,7 +18,7 @@ Self-control is like a muscle. It gets tired from use, but regular exercise make
 
 - **A willpower workout.** Exercise your self-control muscle by picking one thing to do (I will power) or not do (I won't power) this week, or keeping track of something you aren't used to paying close attention to.
 
-- **Find your "want" power.** When you find your biggest want power--the motivation that gives you strength when you feel weak--bring it to mind whenever you find yourself most tempted to give in or give up.
+- **Find your "want" power.** When you find your biggest want power—the motivation that gives you strength when you feel weak—bring it to mind whenever you find yourself most tempted to give in or give up.
 
 When we turn willpower challenges into measures of moral worth, being good gives us permission to be bad. For better self-control, forget virtue, and focus on goals and values.
 
@@ -64,6 +64,6 @@ Trying to suppress thoughts, emotions, and cravings backfires and makes you more
 
 - **Feel what you feel, but don't believe everything you think.** When an upsetting thought comes to mind, notice it and how it feels in your body. Then turn your attention to your breathing, and imagine the thought dissolving or passing by.
 
-- **Accept those cravings--just don't act on them.** When a craving hits, notice it and don't try to immediately distract yourself or argue with it. Remind yourself of the white-bear rebound effect, and remember your goal to resist.
+- **Accept those cravings—just don't act on them.** When a craving hits, notice it and don't try to immediately distract yourself or argue with it. Remind yourself of the white-bear rebound effect, and remember your goal to resist.
 
 - **Surf the urge.** When an urge takes hold, stay with the physical sensations and ride them like a wave, neither pushing them away nor acting on them.

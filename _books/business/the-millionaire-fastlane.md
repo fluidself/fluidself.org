@@ -12,7 +12,7 @@ When you consistently act and bombard the world with your efforts, interacting w
 
 Force your process out into the world and you can defy the odds of "being in the right place at the right time."
 
-Immunization for victimitis occurs when you are both responsible for AND accountable to your actions and the possible poor consequences of those actions. Own your mistakes, failures, and triumphs. Reflect on your choices. Are you in a situation because you delivered yourself there? Did you error in the process? Were you lazy? Most bad situations are consequences of bad choices. Own them and you own your life. No one can steer you off course, because you are in the driver's seat. And when you own your decisions, something miraculous happens. Failure doesn't become the badge of victimhood--it becomes wisdom. Deny accountability and responsibility and the keys of your life are given to someone else. In other words, take the damn driver's seat to your life!
+Immunization for victimitis occurs when you are both responsible for AND accountable to your actions and the possible poor consequences of those actions. Own your mistakes, failures, and triumphs. Reflect on your choices. Are you in a situation because you delivered yourself there? Did you error in the process? Were you lazy? Most bad situations are consequences of bad choices. Own them and you own your life. No one can steer you off course, because you are in the driver's seat. And when you own your decisions, something miraculous happens. Failure doesn't become the badge of victimhood—it becomes wisdom. Deny accountability and responsibility and the keys of your life are given to someone else. In other words, take the damn driver's seat to your life!
 
 A job seals your fate into a criminal time trade: five days of life traded for two days of freedom. A job chains you to a set grade of experience. A job takes away your control. A job forces you to work with people you can't stand. A job forces you to get paid last. A job imposes a dictatorship on your income. These limitations are counter-insurgencies to wealth.
 
@@ -36,7 +36,7 @@ The Law of Effection states that the more lives you affect in an entity you cont
 
 The sweat of success is failure. While you can't build cardiovascular endurance without sweating, you can't experience success without failure. Failure is simply a natural response to success. If you avoid failure you will also avoid success.
 
-Minimize moronic risk and take advantage of intelligent risk. As for failure, trust me--it is easier to live in regret of failure than in regret of never trying.
+Minimize moronic risk and take advantage of intelligent risk. As for failure, trust me—it is easier to live in regret of failure than in regret of never trying.
 
 Not all businesses are the right road. Few roads move at, through, or near the Law of Effection. The best roads and the purest Fastlanes satisfy the Five Fastlane Commandments: Need, Entry, Control, Scale, and Time.
 

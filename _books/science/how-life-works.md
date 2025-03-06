@@ -9,13 +9,13 @@ When organisms first became multicellular, when they became able to adjust to an
 
 The problem of defining “life” has bedeviled biology throughout its history, and still there is no agreed resolution. But one of the best ways to characterize living entities is not through any of the features or properties usually considered to define it, such as replication, metabolism, or evolution. Rather, living entities are generators of meaning. They mine their environment (including their own bodies) for things that have meaning for them: moisture, nutrients, warmth. It is not sentimental but simply following the same logic to say that, for we human organisms, another of those meaningful things is love.
 
-**The End of the Machine: A New View of Life**
+### The End of the Machine: A New View of Life
 
 One of the fundamental messages of this book is that we cannot properly understand how life works through analogies or metaphorical comparison with any technology that humans have ever invented (so far). Such analogies may provide a foothold for our understanding, but in the end they will fall short, and will constrain and even mislead us if we don’t recognize when to relinquish them.
 
 Only for living things—or, to speak more generally, for things that, by their very nature, are imbued with purposes and goals—can there be a “point.” I suspect it is in fact precisely by virtue of being a thing that has autonomous goals, and that can autonomously attribute meaning, that an entity can be said to be alive. For some feature of an organism’s environment to acquire meaning, the organism doesn’t have to be “aware” of it. I don’t think (although some biologists would dispute this) that a bacterium is conscious of its environment. The organism simply needs mechanisms for evaluating the value of that feature and acting accordingly. Looked at this way, life can be considered to be a meaning generator. Living things are, you could say, those entities capable of attributing value in their environment, and thereby finding a point to the universe.
 
-**Genes: What DNA Really Does**
+### Genes: What DNA Really Does
 
 Living things are not, after all, complex yet deterministic readouts of genes. In Michel Morange’s words, “Biological processes are genetically controlled, but this does not imply that the gene products are in and of themselves responsible for these processes. They are simply components that participate in these processes.”
 
@@ -35,7 +35,7 @@ We now see that most of the genes in the human genome do not have any assigned f
 
 Is the genome _informationally complete_ to specify an organism (as we surely might expect of an instruction book or a blueprint)? The answer to that is an unequivocal “No.” You can’t compute from the genome how an organism will turn out, not even in principle. There is plenty that happens during development that is not hardwired by genes. And from a single protein-coding gene, you can’t even tell in general what the product of its expression will be, let alone what function that product will serve in the cell. You couldn’t even predict that a genome _will_ build a cell—for the simple reason that a genome _can’t_ build a cell. Rather, the cell is a precondition for anything the genome _can_ do.
 
-**RNA and Transcription: Reading the Message**
+### RNA and Transcription: Reading the Message
 
 Why do things in this roundabout way? Why didn’t evolution find enzymes that can make proteins directly from the DNA template? No one knows the full answer, but it is surely in part that _this is not the objective_. Genes—or more generally, functional sections of DNA—are _not_ simply instructions for making proteins. Rather, some of them determine what kinds of proteins cells, tissues and organs can make. Some do other things: RNA-related things that don’t directly involve proteins at all. Another answer is that making a protein directly from DNA would be a little as if, as I write these words into my draft manuscript on screen, they are immediately transmitted to the publisher, printed, and sent to the bookshops. You have no idea what a disaster that would be. While the analogy is loose, the crucial stages of editing, reformatting, cutting and pasting, and proofreading are an absolutely vital part of the process. An RNA intermediary creates a buffer layer and gives flexibility and versatility to the readout process from the genome. It also allows many protein molecules to be produced rapidly from a single piece of DNA, a bit like making many copies of a book so that readers can all access the information simultaneously rather than each having to read the original in turn.
 
@@ -57,7 +57,7 @@ Epigenetics is thus a central aspect of how life works, but is neither a new dis
 
 There is a lesson here that we can take from the evolution of minds. In a sense, minds might be regarded as the highest-level counterpart of gene regulation as a mechanism for rapid adaptability that doesn’t depend on the evolution of genomes themselves. Rather than changing our genes, minds create the option of changing our _behavior_—of finding innovative new solutions to problems on the hoof. We might say that minds are the nuclear option. They require a truly enormous investment, for brains are hugely expensive in terms of energy use, and so only become cost-effective as organisms get bigger and more complex. This creates a kind of bootstrapping acceleration: the more complicated a mind gets, the more it opens up new opportunities and niches that also bring fresh challenges to be faced. This solution is _cognitive_, in that it involves the organism collecting, processing, and integrating information. But as we will see, it is meaningful to regard lower-level adaptive processes in biology as cognitive too—even in the way single-celled organisms operate. Life is, as biologist Michael Levin and philosopher Daniel Dennett have argued, “cognition all the way down.”
 
-**Proteins: Structure and Unstructure**
+### Proteins: Structure and Unstructure
 
 The prevailing view has long been that a protein’s structure dictates its function. Typically an enzyme has only one job, and is shaped to be is extremely good at it. Other proteins are _structural_: they don’t function as enzymes but, rather, as components of the cell’s fabric. These molecules don’t tend to fold up into blobs, but instead intertwine or stick their chains to one another to make fibrous structures. They are the constituents of hair, bone, claw, and silk. During the 1960s, thanks in particular to the work of molecular biologists Walter Gilbert and Mark Ptashne, it became clear that some proteins act not to catalyze reactions but to regulate genes.
 
@@ -75,7 +75,7 @@ There is a loose analogy with the way the computational architectures known as n
 
 The analogy is far from perfect, not least because proteins don’t need to be “trained” to acquire their roles: cells could hardly survive if they did. But those roles arise from a complex interplay of the “information” they possess by virtue of the genetic sequence from which they were derived, the processing that takes place during transcription of their mRNA (such as exon splicing), any post-translational chemical modifications, and the way they interact with other proteins and molecules in their vicinity, facilitated by the versatility that disorder supplies. You might say that the proteins have to wait to be told what to do. In this way, the states and operations of the cell are selected through a combination of prescribed “bottom-up” information along with inputs both within the cell and outside it. (And we mustn’t forget too that even the “bottom-up” information from genes gets regulated epigenetically from the top down.) In other words, the information ecosystem within which proteins operate is not that of a _closed_ genetic blueprint, but is _open_. It makes no sense to suppose that any given level of this complex system is more “in control” than any other. We must think about how all this works in a different fashion.
 
-**Networks: The Webs That Make Us**
+### Networks: The Webs That Make Us
 
 Whatever their exact nature, transcription hubs show biology working at the molecular level in a very different way to the conventional picture of precise and specific molecular interactions directing cell processes like pieces of clockwork. “Many of the textbooks and even our language conveys this kind of factory-floor image of what goes on inside of a cell,” says Brangwynne. “But the reality is that the computational logic underlying life is much more soft, wet and stochastic than anyone appreciates.” The molecular decisions are made by rather ad hoc committees consisting (or so it might seem) of whoever happens to be around. Hyman has compared them to flash mobs: they congregate when the music is on and disperse when it stops.
 
@@ -97,7 +97,7 @@ The work I’ve described in this chapter, however, seems to suggest that what c
 
 I think we will find that what gave us cognitive abilities no other species possesses—in particular, the ability to develop language, to think abstractly, and to maintain highly nuanced social interactions—is a change at a higher level than the genomic: a change in the emergent properties of the brain. No single gene “made us human.” What makes this story so complicated—and has hindered us from seeing it sooner—is that the migration of causation to higher systemic levels is not total; hence “spreading,” not “shift.”
 
-**Cells: Decisions, Decisions**
+### Cells: Decisions, Decisions
 
 You’ll no more get a human from a random mass of cells than you’ll get a functioning business by collecting a hundred people off the street and gathering them into an office block. Before anything useful can emerge from such a crowd, the people will need to talk to one another, to be assigned specialized tasks, and to operate in collaborative fashion. Something much like this occurs as our bodies grow by cell multiplication from an initial single-celled zygote (the fertilized egg). Different cells take on specialized roles, developing into particular tissue types that each have their own designated shape and position in the body. In the end, this community of cells may have members that look very little like one another, having been shaped for their specialized jobs.
 
@@ -139,7 +139,7 @@ Here again, then, is Michael Levin and Daniel Dennett’s notion that life is �
 
 Cognitive systems exist to integrate information from many sources to produce a goal-oriented response. To that extent, all living systems _have_ to be cognitive agents almost by definition. And the fact that evolution grants this capacity should really be seen as unremarkable, for cognition is clearly a good way to deal with the unforeseen: to develop versatile and instantly adaptive responses to circumstances an organism has never encountered in its evolutionary past. The more complex an organism is (or perhaps it’s better to say, the more complex and unpredictable its environment is), the more cognitive resources we should expect it to have. I don’t anticipate a consensus any time soon on the question of how to define life, but it seems to me that cognition provides a much better, more apt way to talk about it than invoking more passive capabilities such as metabolism and replication. Those latter two attributes might be necessary, but they are means to an end: they’re not really what life is _about_. And the fact that life has an _aboutness_ at all is intrinsic to what it is.
 
-**Tissues: How to Build, When to Stop**
+### Tissues: How to Build, When to Stop
 
 How does the featureless blob that is the early embryo know what to make, and where to make it, if not by reference to a blueprint? The answer is that cells produce order and form by dialogue: by communicating with and responding to one another. Each is bounded by a membrane studded with molecules capable of receiving signals arriving at the cell surface from outside and converting them into messages within the cell’s own networks of interacting molecules. This signaling typically leads to the activation or suppression of specific genes, changing the internal state of the cell.
 
@@ -157,7 +157,7 @@ One thing does seem plain: life doesn’t make systems that can do or construct 
 
 The rules that govern life are, then, not _prescriptive_ but _generative_.
 
-**Bodies: Uncovering the Pattern**
+### Bodies: Uncovering the Pattern
 
 The key question for understanding development is how a cell knows where it is in the body, from which it may deduce what it should become. Such positional information can be delivered throughout a tissue by a _gradient_ in the concentration of some signaling protein, the expression of which is switched on in one place and which then diffuses through the tissue. It’s a little like figuring out from the intensity of smell how close you are to the kitchen.
 
@@ -177,7 +177,7 @@ Body-patterning processes based on the diffusion of biochemical morphogens are u
 
 This picture of body patterning suggests too a new perspective on the phenomenon of _convergent evolution_, which refers to the way organisms end up with similar features or body shapes through independent evolutionary pathways. Convergent evolution is often regarded as a sign that certain shapes or structures are ideal adaptations to particular environments for physical reasons: wings consisting of flat, thin membranes are best for flying, torpedo-shaped bodies are streamlined for efficient swimming, and so on. The idea is then that evolution will find its way independently and repeatedly to a “good” engineering solution. There is likely to be some truth in this, but it’s also possible that sometimes the same forms recur independently in nature because they are the only ones generically permitted by the physical mechanisms of their generation. There is a tendency in evolutionary biology to regard natural selection as a process with an infinite palette: anything is possible so long as it doesn’t break the laws of physics. But the laws of physics might impose more constraint than that, precisely because biology uses rather than merely suffers them. Both the zebra and the zebrafish are striped nobecause stripes are the pattern best suited to their circumstances but because stripes are a generic pattern that arises from a Turing activator-inhibitor scheme. Maybe, says Newman, “evolution ‘selects’ preexisting, generically templated forms, rather than incrementally moving from one adaptive peak to another through nonadaptive intermediates.”
 
-**Agency: How Life Gets Goals and Purposes**
+### Agency: How Life Gets Goals and Purposes
 
 One of the big challenges for biology is to develop a rational, productive framework for understanding concepts such as _agency_, _information_, _meaning_, and _purpose_. These are not optional add-ons for the philosophically inclined, once we have solved all the minutiae of how life works at the microscopic scale. Rather, they sit at the core of life itself. Without that big picture, we risk ending up with the equivalent of a detailed description of everything about a complex machine’s operation except for an understanding of what it actually does. What, after all, is the point of knowing how life works if we don’t know what it is working toward?
 
@@ -233,7 +233,7 @@ I think we should regard purpose itself as an evolutionary innovation much like 
 
 Far too often, biology has been regarded as inventing everything from scratch. Nature, in this view, is a blank slate, an inert mass of atoms that must somehow be corralled and arranged into the intricate forms and patterns of interaction on which life depends. But the physical world is not like this at all. It offers all kinds of organization, process, and structure that life can use: phase separation, say, or dynamical landscapes, or self-organizing Turing structures, or the potential for entropic decline to be staved off and even reversed with a judicious use of information. It would be strange indeed if life did not exploit these features; indeed, we know that it does.
 
-**Troubleshooting: Rethinking Medicine**
+### Troubleshooting: Rethinking Medicine
 
 For many conditions, genes and their protein products are simply not the right level of intervention—because, as we have seen in this book, they are not where “cause” arises. For the same reason, the much-vaunted notion of “personalized medicine”—where treatments are customized to the attributes of the individual—cannot rely solely on genetic information. To treat disease at its root, we have to identify the level in the hierarchy of life where that root is embedded. We have to attune the cure to the problem.
 
@@ -247,7 +247,7 @@ Some researchers would like to be able to track the immune system of individuals
 
 If cancer is at root a matter of cells falling into the “wrong” state—the wrong basin of attraction—perhaps the real goal is to get them back out again. That might have more in common with the kind of cell-state engineering involved in stem-cell research than with developing drugs against molecular targets. It’s about redirecting life itself to new destinations.
 
-**Making and Hacking: Redesigning Life**
+### Making and Hacking: Redesigning Life
 
 Bodies aren’t arbitrary constructs. Neither, though, are they fully specified by a blueprint. As we have seen, they emerge as solutions to the rules that govern the production of tissues from cells. Guided by these rules, cells find solutions that work. An emerging discipline called _synthetic morphology_ is now exploring how, and how far, those outcomes can be tailored and modified to alter the shapes and forms of living matter. The goal is not to create mermaids or other grotesque creatures, but both to better understand the rules of natural morphology and to make useful structures and devices by engineering with living tissue, with potential applications in medicine, robotics, and beyond.
 

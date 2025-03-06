@@ -26,17 +26,17 @@ A well-designed life is a life that is generative—it is constantly creative, p
 
 **Ask for Help.** The last mind-set of design thinking is perhaps the most important, especially when it comes to designing your life: radical collaboration. What this means is simple—you are not alone. The best designers know that great design requires radical collaboration. It takes a team. A painter can create an artistic masterpiece alone on a windswept coast, but a designer cannot create the iPhone alone, windswept beach or not. And your life is more like a great design than a work of art, so you cannot create it alone, either. You do not have to come up with a brilliant life design by yourself. Design is a collaborative process, and many of the best ideas are going to come from other people. You just need to ask. And know the right questions to ask. In this book, you will learn how to use mentors and a supportive community to help with your life design. When you reach out to the world, the world reaches right back. And this changes everything. In other words, life design, like all design, is a team sport.
 
-**Start Where You Are**
+### Start Where You Are
 
 Problem Finding + Problem Solving = Well-Designed Life
 
 If it’s not actionable, it’s not a problem. It’s a situation, a circumstance, a fact of life. It may be a drag (so to speak), but, like gravity, it’s not a problem that can be solved. Here’s a little tidbit that is going to save you a lot of time—months, years, decades even. It has to do with reality. People fight reality. They fight it tooth and nail, with everything they’ve got. And anytime you are arguing or fighting with reality, reality will win. You can’t outsmart it. You can’t trick it. You can’t bend it to your will. Not now. Not ever.
 
-**The Life Design Assessment**
+### The Life Design Assessment
 
 If you’re beginning to think like a designer, you will recognize that life is never done. Work is never done. Play is never done. Love and health are never done. We are only done designing our lives when we die. Until then, we’re involved in a constant iteration of the next big thing: life as we know it. So the questions remain: Are you happy right now with where your gauges stand in each of these four areas? Have you looked at them honestly? Are there areas that need action?
 
-**Try Stuff: Health / Work / Play / Love Dashboard**
+### Try Stuff: Health / Work / Play / Love Dashboard
 
 1. Write a few sentences about how it’s going in each of the four areas.
 
@@ -46,7 +46,7 @@ If you’re beginning to think like a designer, you will recognize that life is 
 
 4. Now ask yourself if your “problem” is a gravity problem.
 
-**Building a Compass**
+### Building a Compass
 
 Our goal for your life is rather simple: coherency. A coherent life is one lived in such a way that you can clearly connect the dots between three things:
 
@@ -98,7 +98,7 @@ What we’re after is your philosophy of work—what it’s for, what it means. 
 
 - Does one drive the other? How?
 
-**Wayfinding**
+### Wayfinding
 
 **Good Time Journal Exercise:** There are two elements to the Good Time Journal:
 
@@ -122,7 +122,7 @@ Getting great insights out of your Good Time Journal reflections isn’t always 
 
 - **Users.** Who else was there, and what role did they play in making it either a positive or a negative experience?
 
-**Getting Unstuck**
+### Getting Unstuck
 
 **Dysfunctional Belief:** _I’m stuck._  
 **Reframe:** _I’m never stuck, because I can always generate a lot of ideas._
@@ -142,7 +142,7 @@ Mind mapping works by using simple free association of words, one after another,
 
 2. Making the mind map
 
-**Try Stuff: Mind Mapping**
+### Try Stuff: Mind Mapping
 
 1. Review your Good Time Journal and note activities in which you were engaged, energized, and in flow.
 
@@ -152,7 +152,7 @@ Mind mapping works by using simple free association of words, one after another,
 
 4. Create a role for each job description, and draw a napkin sketch.
 
-**Design Your Lives**
+### Design Your Lives
 
 **Dysfunctional Belief:** _I need to figure out my best possible life, make a plan, and then execute it._  
 **Reframe:** _There are multiple great lives (and plans) within me, and I get to choose which one to build my way forward to next._
@@ -163,7 +163,7 @@ Mind mapping works by using simple free association of words, one after another,
 
 **Life Three—The Thing You’d Do or the Life You’d Live If Money or Image Were No Object.** If you knew you could make a decent living at it and you knew no one would laugh at you or think less of you for doing it—what would you do?
 
-**Try Stuff: Odyssey Plan**
+### Try Stuff: Odyssey Plan
 
 1. Create three alternative five-year plans, using the worksheet downloadable at www.designingyour.life
 
@@ -173,12 +173,12 @@ Mind mapping works by using simple free association of words, one after another,
 
 4.Present your plan to another person, a group, or your Life Design Team. Note how each alternative energizes you.
 
-**Prototyping**
+### Prototyping
 
 **Dysfunctional Belief:** _If I comprehensively research the best data for all aspects of my plan, I’ll be fine._  
 **Reframe:** _I should build prototypes to explore questions about my alternatives._
 
-**The Rules of Brainstorming**
+### The Rules of Brainstorming
 
 1. Go for quantity, not quality.
 
@@ -188,7 +188,7 @@ Mind mapping works by using simple free association of words, one after another,
 
 4. Encourage wild ideas.
 
-**Try Stuff: Prototyping**
+### Try Stuff: Prototyping
 
 1. Review your three Odyssey Plans and the questions you wrote down for each.
 
@@ -200,7 +200,7 @@ Mind mapping works by using simple free association of words, one after another,
 
 5. Build your prototypes by actively seeking out Life Design Interviews and experiences.
 
-**How Not to Get a Job**
+### How Not to Get a Job
 
 Here is a summary of our tips to make your Internet job search strategy more effective:
 
@@ -215,7 +215,7 @@ Here is a summary of our tips to make your Internet job search strategy more eff
 **Dysfunctional Belief:** _You should focus on your need to find a job._  
 **Reframe:** _You should focus on the hiring manager’s need to find the right person._
 
-**Designing Your Dream Job**
+### Designing Your Dream Job
 
 **Dysfunctional Belief:** _My dream job is out there waiting._  
 **Reframe:** _You design your dream job through a process of actively seeking and co-creating it._
@@ -226,7 +226,7 @@ Here is a summary of our tips to make your Internet job search strategy more eff
 **Dysfunctional Belief:** _I am looking for a job._  
 **Reframe:** _I am pursuing a number of offers._
 
-**Choosing Happiness**
+### Choosing Happiness
 
 **Dysfunctional Belief:** _To be happy, I have to make the right choice._  
 **Reframe:** _There is no right choice—only good choosing._
@@ -234,7 +234,7 @@ Here is a summary of our tips to make your Internet job search strategy more eff
 **Dysfunctional Belief:** _Happiness is having it all._  
 **Reframe:** _Happiness is letting go of what you don’t need._
 
-**The Life Design Choosing Process**
+### The Life Design Choosing Process
 
 Step 1: Gather and Create Options
 
@@ -246,7 +246,7 @@ In order to make a good decision, we need access to our feelings and gut reactio
 
 Step 4: ~~Agonize~~ Let Go and Move On
 
-**Failure Immunity**
+### Failure Immunity
 
 Fortunately, if you’re designing your life, you can’t be a failure. You may experience some prototypes and engagements that don’t attain their goals (that “fail”), but remember, those were designed so you could learn some things. Once you become a life designing person and are living the ongoing creative process of life design, you can’t fail; you can only be making progress and learning from the different kinds of experiences that failure and success both have to offer.
 
@@ -256,7 +256,7 @@ Fortunately, if you’re designing your life, you can’t be a failure. You may 
 **Dysfunctional Belief:** _Life is a finite game, with winners and losers._  
 **Reframe:** _Life is an infinite game, with no winners or losers._
 
-**Try Stuff: Reframing Failure**
+### Try Stuff: Reframing Failure
 
 1. Look back over the last week (or month or year), and log your failures.
 
@@ -266,7 +266,7 @@ Fortunately, if you’re designing your life, you can’t be a failure. You may 
 
 4. Build a habit of converting failures to growth by doing this once or twice a month.
 
-**Building a Team**
+### Building a Team
 
 **Dysfunctional Belief:** _It’s my life, I have to design it myself._  
 **Reframe:** _You live and design your life in collaboration with others._
@@ -283,7 +283,7 @@ Try to build a team of three to five people for the best dynamics and most innov
 
 If you’re like most of the people we’ve worked with, you’ll find the time you spend with your Life Design Team and collaborators to be pretty stimulating and life-giving. The kind of support and sincere and respectful listening that we’re hoping you’re experiencing as you do this are pretty habit-forming. There is something incredibly special about being part of a community. It’s how humans are supposed to live. Community is more than just sharing resources or hanging out now and then. It’s showing up and investing in the ongoing creation of one another’s lives. Being in that kind of community is a great way to live, and we highly recommend it as an ongoing practice, not just when making big plans or starting new things.
 
-**Conclusion: A Well-Designed Life**
+### Conclusion: A Well-Designed Life
 
 **Dysfunctional Belief:** _I finished designing my life; the hard work is done, and everything will be great._  
 **Reframe:** _You never finish designing your life—life is a joyous and never-ending design project of building your way forward._

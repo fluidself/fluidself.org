@@ -17,7 +17,7 @@ The three common explanations for our species’ ecological success are (1) gene
 
 Humans survive neither by our instinctual abilities to find food and shelter, nor by our individual capacities to improvise solutions “on the fly” to local environmental challenges. We can survive because, across generations, the selective processes of cultural evolution have assembled packages of cultural adaptations—including tools, practices, and techniques—that cannot be devised in a few years, even by a group of highly motivated and cooperative individuals. Moreover, the bearers of these cultural adaptations themselves often don’t understand much of how or why they work, beyond the understanding necessary for effectively using them.
 
-**HOW TO MAKE A CULTURAL SPECIES**
+### HOW TO MAKE A CULTURAL SPECIES
 
 We need to understand how populations generate cultural adaptations—the suites or packages of skills, beliefs, practices, motivations, and organizational forms that permit people to survive, and often thrive, in diverse and challenging environments. The process is—in some crucial sense—smarter than we are. Over generations, often outside of conscious awareness, individuals’ choices, learned preferences, lucky mistakes, and occasional insights aggregate to produce cultural adaptations. These often-complex packages contain subtle and implicit insights that impress modern engineers and scientists.
 
@@ -33,7 +33,7 @@ In experiments, undergraduates rely on success-biased learning when real money i
 
 Our cultural learning biases are why role models matter so much.
 
-**Why Care What Others Think? Conformist Transmission**
+### Why Care What Others Think? Conformist Transmission
 
 Evolutionary models, which are built to mathematically capture the logic of natural selection, predict that learners ought to use what’s called conformist transmission to tackle a variety of learning problems. As long as individual learning, intuitions, direct experience, and other cultural learning mechanisms tend to produce adaptive practices, beliefs, and motivations, then conformist transmission can help learners aggregate the information that is distributed across a group. Thus, the wisdom of crowds is built into our psychology.
 
@@ -43,7 +43,7 @@ The central argument in this book is that relatively early in our species’ evo
 
 Cultural evolution can shape our environments, and consequently, it can drive genetic evolution. In cases of recent culture-gene coevolution, in which the relevant genes have not spread to replace all or most competing genetic variants, we can isolate the causes and effects and sometimes even finger the specific genes being favored. This is important because some researchers have argued that culture could never be strong enough for long enough to drive genetic evolution. Recently, however, new mathematical models and mounting evidence from the human genome provide a clear, if only preliminary, answer. Not only has culture driven specific genes to high frequency in some populations in the last ten millennia, but in fact, sometimes cultural evolution can create selection pressures more powerful than seen elsewhere in nature. Sometimes, culture catalyzes and drives more rapid genetic evolution.
 
-**ON THE ORIGIN OF FAITH**
+### ON THE ORIGIN OF FAITH
 
 Cultural evolution is often much smarter than we are. Operating over generations as individuals unconsciously attend to and learn from more successful, prestigious, and healthier members of their communities, this evolutionary process generates cultural adaptations. Though these complex repertoires appear well designed to meet local challenges, they are not primarily the products of individuals applying causal models, rational thinking, or cost-benefit analyses. Often, most or all of the people skilled in deploying such adaptive practices do not understand how or why they work, or even that they “do” anything at all. Such complex adaptations can emerge precisely because natural selection has favored individuals who often place their faith in cultural inheritance—in the accumulated wisdom implicit in the practices and beliefs derived from their forbearers—over their own intuitions and personal experiences.
 
@@ -59,7 +59,7 @@ Of course, people can, and do, attempt to break down complex procedures and prot
 
 An enormous amount of scientific causal understanding, for example, has developed in trying to explain existing technologies, like the steam engine, hot air balloon, or airplane. A device or technology often preexisted the development of any causal understanding, but by existing, such cultural products opened a window on the world that facilitated the development of an improved causal understanding. That is, for much of human history until recently, cumulative cultural evolution drove the emergence of deeper causal understandings much more than causal understanding drove cultural evolution.
 
-**PRESTIGE, DOMINANCE, AND MENOPAUSE**
+### PRESTIGE, DOMINANCE, AND MENOPAUSE
 
 Once humans became good cultural learners, they needed to locate and learn from the best models. The best models are those who seem to possess the information most likely to be valuable to learners, now or later in their lives. To be effective, learners must hang around their chosen models for long periods and at crucial times. Learners also benefit if their models are willing to share nonobvious aspects of their practices, or at least not actively conceal the secrets of their success. As a consequence, humans reliably develop emotions and motivations to seek out particularly skilled, successful, and knowledgeable models and then are willing to pay deference to those models in order to gain their cooperation (pedagogy), or at least acquiescence, in cultural transmission. This deference can come in many forms, including giving assistance (e.g., helping with chores), gifts and favors (e.g., watching their children), as well as speaking well of them in public (thus broadcasting their prestige). Without some form of deference, prestigious individuals have little incentive to allow unrelated learners to be around them and would not be inclined to provide any preferential access to their skills, strategies, or know-how.
 
@@ -77,7 +77,7 @@ If the elderly are so often prestigious across human societies, why aren’t the
 
 What are the implications of the fact that once we are a cultural species, decades of accumulated individual and cultural learning make us increasingly valuable to younger generations? The longer we live, the more information we accumulate, and the potentially more valuable we are as transmitters of this wisdom, provided the world is relatively stable during one lifetime (which it probably was for most of our species’ evolutionary history). Under these conditions, natural selection should favor extending our lives in order to give us time to transmit our accumulated know-how to our children and grandchildren and to make sure they have the time and opportunity to learn what they will need. As individuals, our cultural stock is going up over the decades while our physical skills are going down, as are our abilities to produce high-quality babies. At a certain point, those lines cross, and it’s time to stop reproduction and focus all of our efforts on the current children and grandchildren. However, given our declining physical abilities, one of the major ways we can help our younger relatives, especially in traditional societies, is by dispensing our accumulated wisdom. This is why humans, but not other primates, live for decades beyond when we stop reproducing, and even live past when we stop being economically productive. This longevity not only emerges in modern societies, but has also now been shown among hunter-gatherers and other small-scale societies, and likely dates back tens or even hundreds of thousands of years into the Paleolithic.
 
-**IN-LAWS, INCEST TABOOS, AND RITUALS**
+### IN-LAWS, INCEST TABOOS, AND RITUALS
 
 The emergence of social norms drove a genetic evolutionary process of self-domestication that dramatically shaped our species’ sociality. This view contrasts sharply with the canonical view of the evolution of human cooperation.
 
@@ -100,7 +100,7 @@ Our ability to learn from each other gives rise to sets of social norms, includi
 
 Such social norms are crucial for understanding community and cooperation in all human societies, including those of mobile hunter-gatherers.
 
-**INTERGROUP COMPETITION SHAPES CULTURAL EVOLUTION**
+### INTERGROUP COMPETITION SHAPES CULTURAL EVOLUTION
 
 Intergroup competition provides one important process that can help explain the spread of norms that foster prosociality. Different groups culturally evolve different social norms. Having norms that increase cooperation can favor success in competition with other groups that lack these norms. Over time, intergroup competition can aggregate and assemble packages of social norms that more effectively promote such success, and these packages will include social norms related to cooperation, helping, sharing, and maintaining internal harmony.
 
@@ -108,7 +108,7 @@ Over a million years ago, our genus expanded out of Africa into a vast range of 
 
 In more recent millennia, especially since the origins of plant and animal domestication some 12,000 years ago, the intensity of intergroup competition has dramatically escalated, driving the rise of increasingly large and complex societies. At the global level, Jared Diamond has argued that intergroup competition is crucial for explaining the expansion of particular agricultural groups around the globe and that the elevated intensity of this competition in Europe, and Eurasia more broadly, helps explain why it was Europeans who conquered the world after 1500 CE, and not the Aztecs or Warlpiri.
 
-**SELF-DOMESTICATION**
+### SELF-DOMESTICATION
 
 Some of the essential features that distinguish human social life in all societies from that of other species:  
 - We live in a world governed by social rules, even if not everyone knows the rules.
@@ -130,7 +130,7 @@ This approach to how and why we think about tribes and ethnicity has broader imp
 
 When disaster threatens and uncertainty reigns, people cling more tightly to their community’s social norms, including their rituals and supernatural beliefs, because it’s these social norms that have long allowed human communities to adhere, cooperate, and survive.
 
-**OUR COLLECTIVE BRAINS**
+### OUR COLLECTIVE BRAINS
 
 Once individuals evolve to learn from one another with sufficient accuracy (fidelity), social groups of individuals develop what might be called collective brains. The power of these collective brains to develop increasingly effective tools and technologies, as well as other forms of nonmaterial culture (e.g., know-how), depends in part on the size of the group of individuals engaged and on their social interconnectedness. It’s our collective brains operating over generations, and not the innate inventive power or creative abilities of individual brains, that explain our species’ fancy technologies and massive ecological success.
 
@@ -138,7 +138,7 @@ Larger and more interconnected populations generate more sophisticated tools, te
 
 If intergroup competition is favoring sophisticated tools and weapons, it has to favor the social norms and institutions that can sustain a larger collective brain—technology and sociality have to coevolve. Since it is far more important for a cultural species to be social than innately smart in producing complex technologies, when we see technological and other cultural flourishing we ought to also consider the realm of the social—the institutions, marriage practices, and rituals—in trying to understand the origins of that cultural flourishing.
 
-**COMMUNICATIVE TOOLS WITH RULES**
+### COMMUNICATIVE TOOLS WITH RULES
 
 1. Languages are packages of cultural adaptations for communication. Just as with technologies and social norms, once cultural evolution is unleashed, it will begin generating increasingly complex communicative repertoires adapted to local contexts. We have seen that cultural evolution can even assemble sign and whistle languages or alter the sonority of words to fit the recurrent acoustic environments faced by different speech communities.
 2. These repertoires will evolve culturally to be learnable, and this learnability will create shared features among languages as they exploit diverse nonlinguistic aspects of our innate psychology. However, the details of this process will depend on who has to learn the languages—only children or people of all ages.
@@ -148,7 +148,7 @@ If intergroup competition is favoring sophisticated tools and weapons, it has to
 6. As a recurrent product of cultural evolution, languages have produced powerful genetic selection pressures over the course of human evolution, shaping our bodies and brains for speech and cooperative communication. This process continues.
 7. Understanding the evolution of language requires seating it within the broader context of the culture-gene coevolution of tools, skills, and social norms.
 
-**ENCULTURATED BRAINS AND HONORABLE HORMONES**
+### ENCULTURATED BRAINS AND HONORABLE HORMONES
 
 Cultural differences are biological differences but not genetic differences. Human biology, including our brains, involves much more than genes. Oddly, many people, including scientists and science journalists who should know better, often treat cultural differences as if they were nonbiological and nonmaterial, almost otherworldly. This confusion emerges when people think that showing something is “in the brain” or driven by hormones means it’s genetic. This is not the case.
 
@@ -158,11 +158,11 @@ The world is full of cultures of honor, societies with complex sets of social no
 
 Growing up in the social and technological worlds built by cultural evolution changes our biology in profound ways, even when it has not yet had time to alter our gene frequencies. Unconsciously and automatically, we culturally learn motivations, preferences, and values that change our brains in ways that alter what is neurologically rewarding (what we “like”) and endow us with our rapid intuitive responses. This does not mean we can culturally learn to like anything, but it’s worth noting we can learn to enjoy certain types of pain, including muscle soreness and the burn of a chili pepper. We also culturally acquire mental models or beliefs about how the world works, which direct our attention and generate our expectations. These explain why numerous medical treatments (which are purely placebo effects) and witchcraft often actually work and cause important biological effects. Cumulative cultural evolution also produces packages of technologies, practices, and social norms that provide us with the mental and physical tools, as well as the reputational incentives, to change our brains in ways that create whole new cognitive abilities or hone existing capacities.
 
-**WHY US?**
+### WHY US?
 
 The key to explaining why our lineage crossed the Rubicon and so many other species have not is to understand how we solved the start-up problem: bigger brains calibrated to rely on learning from others can’t pay for themselves unless there is already a lot to learn out there in the minds of others. So, assuming we are starting with a creature with good individual learning abilities (e.g., big apes), we first consider the conditions that would favor increasing the amount of know-how that one could potentially learn without increasing brain size. Terrestriality gives a boost by providing better opportunities for individual learning and more chances for social learning. Predation, by forcing primates to live in larger groups for protection, increases the size and interconnectedness of groups. Both terrestriality and predation will thereby increase the size of groups’ cultural repertoires and may begin to push a species past the threshold. Nevertheless, expanding brains to store more cultural information still face a crucial obstacle: the high cost to mothers of investing in offspring who take a long time to grow up and learn what they need to know to survive. Even when this pays in the short run for mothers, it can result in extinction in the long run when famines, droughts, and floods hit. Circumventing this constraint, the larger groups of social learners created by predation can also lead to the spread of pair-bonding strategies, which eventually expand kinship circles, increase social learning opportunities, and favor greater alloparental care. Combined with the increased production of high-quality foods made possible by more cultural know-how (due to more social learning opportunities), the alloparental help delivered by relatives and others to mom and her offspring lower her costs in the short and long run, which permits her to produce children more rapidly. This opens the door for a massive expansion of brains, increasingly selected for their cultural learning abilities.
 
-**A NEW KIND OF ANIMAL**
+### A NEW KIND OF ANIMAL
 
 The case I’ve presented in this book suggests that humans are undergoing what biologists call a _major transition_. Such transitions occur when less complex forms of life combine in some way to give rise to more complex forms. Examples include the transition from independently replicating molecules to replicating packages called chromosomes or, the transition from different kinds of simple cells to more complex cells in which these once-distinct simple cell types came to perform critical functions and become entirely mutually interdependent, such as the nucleus and mitochondria in our own cells. Our species’ dependence on cumulative culture for survival, on living in cooperative groups, on alloparenting and a division of labor and information, and on our communicative repertoires mean that humans have begun to satisfy all the requirements for a major biological transition. Thus, we are literally the beginnings of a new kind of animal. By contrast, the wrong way to understand humans is to think that we are just a really smart, though somewhat less hairy, chimpanzee. This view is surprisingly common.
 
@@ -170,7 +170,7 @@ Recognizing that we are a cultural species means that, even in the short run (wh
 
 Once we understand the importance of collective brains, we begin to see why modern societies vary in their innovativeness. It’s not the smartness of individuals or the formal incentives. It’s the willingness and ability of large numbers of individuals at the knowledge frontier to freely interact, exchange views, disagree, learn from each other, build collaborations, trust strangers, and be wrong. Innovation does not take a genius or a village; it takes a big network of freely interacting minds. Achieving this depends on people’s psychology, which arises from a package of social norms and beliefs, along with the formal institutions they foster or permit.
 
-**Can This Help Us Build Stuff?**
+### Can This Help Us Build Stuff?
 
 Once we understand humans as a cultural species, the toolbox for designing new organizations, policies, and institutions begins to look quite different. Here are eight insights drawn from this book.  
 1. Humans are adaptive cultural learners who acquire ideas, beliefs, values, social norms, motivations, and worldviews from others in their communities. To focus our cultural learning, we use cues of prestige, success, sex, dialect, and ethnicity, among others, and especially attend to particular domains, such as those involving food, sex, danger, and norm violations. We do this especially under uncertainty, time pressure, and stress.

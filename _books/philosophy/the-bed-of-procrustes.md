@@ -12,13 +12,13 @@ Work destroys your soul by stealthily invading your brain during the hours not o
 
 Using, as an excuse, others' failure of common sense is in itself a failure of common sense.
 
-If you know, in the morning, what your day looks like with any precision, you are a little bit dead--the more precision, the more dead you are.
+If you know, in the morning, what your day looks like with any precision, you are a little bit dead—the more precision, the more dead you are.
 
 Never say no twice if you mean it.
 
 Most of what they call humility is successfully disguised arrogance.
 
-The characteristic feature of the loser is to bemoan, in general terms, mankind's flaws, biases, contradictions, and irrationality--without exploiting them for fun and profit.
+The characteristic feature of the loser is to bemoan, in general terms, mankind's flaws, biases, contradictions, and irrationality—without exploiting them for fun and profit.
 
 Wisdom in the young is as unattractive as frivolity in the elderly.
 
@@ -40,7 +40,7 @@ Only in recent history has "working hard" signaled pride rather than shame for l
 
 We are hunters; we are only truly alive in those moments when we improvise; no schedule, just small surprises and stimuli from the environment.
 
-Skills that transfer: street fights, off-path hiking, seduction, broad erudition. Skills that don't: school, games, sports, laboratory--what's reduced and organized.
+Skills that transfer: street fights, off-path hiking, seduction, broad erudition. Skills that don't: school, games, sports, laboratory—what's reduced and organized.
 
 You need to keep reminding yourself of the obvious: charm lies in the unsaid, the unwritten, and the undisplayed. It takes mastery to control silence.
 
@@ -80,7 +80,7 @@ How superb to become wise without being boring; how sad to be boring without bei
 
 A verbal threat is the most authentic certificate of impotence.
 
-By all means, avoid words--threats, complaints, justification, narratives, reframing, attempts to win arguments, supplications; avoid words!
+By all means, avoid words—threats, complaints, justification, narratives, reframing, attempts to win arguments, supplications; avoid words!
 
 You know you have influence when people start noticing your absence more than the presence of others.
 

@@ -5,13 +5,13 @@ slug: zen-mind-beginners-mind
 title: Zen Mind, Beginner's Mind - by Shunryu Suzuki
 ---
 
-The practice of Zen mind is beginner's mind. The innocence of the first inquiry--what am I?--is needed throughout Zen practice. The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities. It is the kind of mind which can see things as they are, which step by step and in a flash can realize the original nature of everything.
+The practice of Zen mind is beginner's mind. The innocence of the first inquiry—what am I?—is needed throughout Zen practice. The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities. It is the kind of mind which can see things as they are, which step by step and in a flash can realize the original nature of everything.
 
 In the beginner's mind there are many possibilities; in the expert's mind there are few.
 
 In the beginner's mind there is no thought, "I have attained something." All self-centered thoughts limit our vast mind. When we have no thought of achievement, no thought of self, we are true beginners. Then we can really learn something.
 
-**RIGHT PRACTICE**
+### RIGHT PRACTICE
 
 Our body and mind are not two and not one. If you think your body and mind are two, that is wrong; if you think that they are one, that is also wrong. Our body and mind are both two and one.
 
@@ -41,7 +41,7 @@ At first you will have various problems, and it is necessary for you to make som
 
 Calmness of mind does not mean you should stop your activity. Real calmness should be found in activity itself. We say, "It is easy to have calmness in inactivity, it is hard to have calmness in activity, but calmness in activity is true calmness."
 
-**RIGHT ATTITUDE**
+### RIGHT ATTITUDE
 
 Whatever you do, it should be an expression of the same deep activity. We should appreciate what we are doing. There is no preparation for something else.
 
@@ -65,7 +65,7 @@ without any intentional, fancy way of adjusting yourself, to express yourself fr
 
 Dogen-zenji said, "When you say something to someone, he may not accept it, but do not try to make him understand it intellectually. Do not argue with him; just listen to his objections until he himself finds something wrong with them." This is very interesting. Try not to force your idea on someone, but rather think about it with him. If you feel you have won the discussion, that also is the wrong attitude. Try not to win in the argument; just listen to it; but it is also wrong to behave as if you had lost.
 
-**RIGHT UNDERSTANDING**
+### RIGHT UNDERSTANDING
 
 We should find perfect existence through imperfect existence. We should find perfection in imperfection. For us, complete perfection is not different from imperfection. The eternal exists because of non-eternal existence. In Buddhism it is a heretical view to expect something outside this world. We do not seek for something besides ourselves. We should find the truth in this world, through our difficulties, through our suffering. This is the basic teaching of Buddhism.
 
@@ -83,7 +83,7 @@ The important thing in our understanding is to have a smooth, free-thinking way 
 
 Because we cannot accept the truth of transiency, we suffer.
 
-**ANECDOTES**
+### ANECDOTES
 
 One day I complained to Suzuki Roshi about the people I was working with. He listened intently. Finally, he said, "If you want to see virtue, you have to have a calm mind."
 

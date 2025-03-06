@@ -9,7 +9,7 @@ Individuals have rights, and there are things no person or group may do to them 
 
 Our main conclusions about the state are that a minimal state, limited to the narrow functions of protection against force, theft, fraud, enforcement of contracts, and so on, is justified; that any more extensive state will violate persons’ rights not to be forced to do certain things, and is unjustified; and that the minimal state is inspiring as well as right. Two noteworthy implications are that the state may not use its coercive apparatus for the purpose of getting some citizens to aid others, or in order to prohibit activities to people for their own good or protection.
 
-**PART I State-of-Nature Theory, or How to Back into a State without Really Trying**
+### PART I State-of-Nature Theory, or How to Back into a State without Really Trying
 
 If the state did not exist would it be necessary to invent it? Would one be needed, and would it have to be invented? These questions arise for political philosophy and for a theory explaining political phenomena and are answered by investigating the “state of nature,” to use the terminology of traditional political theory.
 
@@ -31,7 +31,7 @@ A protective agency dominant in a territory does satisfy the two crucial necessa
 
 The moral objections of the individualist anarchist to the minimal state are overcome. It is not an unjust imposition of a monopoly; the de facto monopoly grows by an invisible-hand process and by morally permissible means, without anyone’s rights being violated and without any claims being made to a special right that others do not possess. And requiring the clients of the de facto monopoly to pay for the protection of those they prohibit from self-help enforcement against them, far from being immoral, is morally required by the principle of compensation.
 
-**PART II Beyond the Minimal State?**
+### PART II Beyond the Minimal State?
 
 In this chapter we consider the claim that a more extensive state is justified, because necessary (or the best instrument) to achieve distributive justice.
 
@@ -61,7 +61,7 @@ Rawls’ view seems to be that everyone has some entitlement or claim on the tot
 
 People’s talents and abilities are an asset to a free community; others in the community benefit from their presence and are better off because they are there rather than elsewhere or nowhere. (Otherwise they wouldn’t choose to deal with them.) Life, over time, is not a constant-sum game, wherein if greater ability or effort leads to some getting more, that means that others must lose. In a free society, people’s talents do benefit others, and not only themselves. Is it the extraction of even more benefit to others that is supposed to justify treating people’s natural assets as a collective resource? What justifies this extraction?   No one deserves his greater natural capacity nor merits a more favorable starting place in society. But it does not follow that one should eliminate these distinctions. There is another way to deal with them. The basic structure can be arranged so that these contingencies work for the good of the least fortunate. And if there weren’t “another way to deal with them”? Would it then follow that one should eliminate these distinctions? What exactly would be contemplated in the case of natural assets? If people’s assets and talents couldn’t be harnessed to serve others, would something be done to remove these exceptional assets and talents, or to forbid them from being exercised for the person’s own benefit or that of someone else he chose, even though this limitation wouldn’t improve the absolute position of those somehow unable to harness the talents and abilities of others for their own benefit? Is it so implausible to claim that envy underlies this conception of justice, forming part of its root notion?
 
-**Equality, Envy, Exploitation, Etc.**
+### Equality, Envy, Exploitation, Etc.
 
 The legitimacy of altering social institutions to achieve greater equality of material condition is, though often assumed, rarely argued for. Writers note that in a given country the wealthiest n percent of the population holds more than that percentage of the wealth, and the poorest n percent holds less; that to get to the wealth of the top n percent from the poorest, one must look at the bottom p percent (where p is vastly greater than n), and so forth. They then proceed immediately to discuss how this might be altered. On the entitlement conception of justice in holdings, one cannot decide whether the state must do something to alter the situation merely by looking at a distributional profile or at facts such as these. It depends upon how the distribution came about. Some processes yielding these results would be legitimate, and the various parties would be entitled to their respective holdings. If these distributional facts did arise by a legitimate process, then they themselves are legitimate. This is, of course, not to say that they may not be changed, provided this can be done without violating people’s entitlements. Any persons who favor a particular end-state pattern may choose to transfer some or all of their own holdings so as (at least temporarily) more nearly to realize their desired pattern. The entitlement conception of justice in holdings makes no presumption in favor of equality, or any other overall end state or patterning. It cannot merely be assumed that equality must be built into any theory of justice.
 
@@ -81,7 +81,7 @@ Since inequalities in economic position often have led to inequalities in politi
 
 In this chapter and in the previous one we have canvassed the most important of the considerations that plausibly might be thought to justify a state more extensive than the minimal state. When scrutinized closely, none of these considerations succeeds in doing so (nor does their combination); the minimal state remains as the most extensive state that can be justified.
 
-**Demoktesis**
+### Demoktesis
 
 Is there some way to continue our story of the origin of the (minimal) state from the state of nature to arrive, via only legitimate steps which violate no one’s rights, at something more closely resembling a modern state? Were such a continuation of the story possible, it would illuminate essential aspects of the more extensive states people everywhere now live under, laying bare their nature. I shall offer a modest effort in that direction.
 
@@ -95,7 +95,7 @@ Might a more-than-minimal state arise through a process of boycott? People favor
 
 How should hypothetical histories affect our current judgment of the institutional structure of a society? Let me venture some tentative remarks. If an existing society was led to by an actual history that is just, then so is that society. If the actual history of an existing society is unjust, and no hypothetical just history could lead to the structure of that society, then that structure is unjust.
 
-**PART III Utopia**
+### PART III Utopia
 
 No state more extensive than the minimal state can be justified. But doesn’t the idea, or ideal, of the minimal state lack luster? Can it thrill the heart or inspire people to struggle or sacrifice? Would anyone man barricades under its banner? It seems pale and feeble in comparison with, to pick the polar extreme, the hopes and dreams of utopian theorists. Whatever its virtues, it appears clear that the minimal state is no utopia. We would expect then that an investigation into utopian theory should more than serve to highlight the defects and shortcomings of the minimal state as the end of political philosophy. Such an investigation also promises to be intrinsically interesting. Let us then pursue the theory of utopia to where it leads.
 

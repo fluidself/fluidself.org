@@ -15,7 +15,7 @@ We are told to live our lives by focusing on the future and by believing in ours
 
 It is not what we own that satisfies us but rather what we have in relation to what we feel is possible and attainable for ourselves. That is the tension that causes dissatisfaction. Luxuries beyond that horizon (a billionaire’s fleet of private jets) are not likely to seriously interest us.
 
-**Two Selves**
+### Two Selves
 
 When we look back over our lives and decide if we have had a happy time in this world, it is the remembering self that is making that judgement. However, it may be that some of those choices we made, which satisfied the future remembering self, were not at the time the most enjoyable experiences and therefore did not provide particular pleasure to the experiencing self. For our purposes, Kahneman’s separation of those two selves seems to correlate with what we might intuitively understand to be the separation of happiness and pleasure: the former comes from a judgement we make, a sense of things being or having been right or as we would like them to be, and tends to be retrospective; whereas the latter relates to what we are being made to directly feel right now. Thus you might choose to spend an afternoon attending to a sick relative rather than go to a theme park with friends, choosing the least ‘pleasurable’ option and leaving your experiencing self less fulfilled. But this choice might furnish your future remembering self with a better story of how you spent your afternoon and even contribute to a wider sense of happiness regarding what you do with your life.
 
@@ -45,7 +45,7 @@ Today, we very much remain heirs to Romanticism in several areas relating to hap
 
 Unhappiness is seen as a sign of failure, not a healthy symptom of our natural condition. Unarmed with an appreciation of the intrigues of wondrous tragedy, and having forgotten the importance of myth, we are at a loss to contextualise – and value – the disconsolate yearnings of the soul.
 
-**The Stoic Building Blocks**
+### The Stoic Building Blocks
 
 **1. If you are pained by external things, it is not they that disturb you, but your own judgement of them. And it is in your power to wipe out that judgement now.**
 
@@ -67,13 +67,13 @@ it became permissible to prefer certain external things such as wealth, family a
 
 If, then, we can afford nice things or find them bestowed upon us, we should not feel bad about enjoying their presence in our lives. However, all the previous instructions still apply in full force: we are to keep a check on our relationship to external goods. Regarding the desire to accumulate more luxuries, we should keep a check on our ‘impressions’ of such ‘appearances’ (how those external things affect us) and make sure that we remain, as much as possible, in charge of our emotions.
 
-**The Stoics and Fate**
+### The Stoics and Fate
 
 We’re going to reclaim for ourselves the notion of Fate. Often today, when we use the word, we’re referring to ‘how things will turn out’ in the future. As we’ve seen, the Stoics use the term to mean how things are at any particular moment.
 
 Marcus is reminding himself in his Meditations, and Nietzsche is telling us in the concept of eternal recurrence, to aim for the uncompromising acceptance of life as it is. To align ourselves with fortune; to cease trying to control it. This is the love of fate – **amor fati**. Neither philosopher would discourage improving our lot – ‘Become who you are’ was Nietzsche’s rallying cry – or trying to ensure social change where it mattered. But these efforts notwithstanding, a key to living more happily is to simply decide that you are very happy with reality per se. We might as well be, because if we try to change things we cannot control, we are going to become angry and frustrated.
 
-**Applying Stoic Methods**
+### Applying Stoic Methods
 
 When others inspire us, they tend to do so through the clear expression of these sketchy, adumbrated thoughts we ourselves have known but never had the perspicacity to formulate with certainty. I knew, for example, that I had always lacked ambition, never feeling a need to be famous. I knew I pretended to be excited by the idea of career success and viewing figures because that seemed to motivate the grown-ups I worked with. Reading Seneca on the wisdom of non-attachment to external things felt very powerful and encouraging: not only was it okay to not be fame-hungry, or to be wary of being better known, it might even be preferable.
 
@@ -99,7 +99,7 @@ Now we can consider these people and events from a distance and while our centre
 
 **Third-person perspective:** If you bring to mind a recent event that makes you feel especially good or bad, you are likely to view it through your own eyes, as if it were happening still around you. The same applies to thinking about images that trigger phobic responses, such as spiders or snakes. In order to feel the emotions attached to these thoughts, we represent them vividly to ourselves in a first-person perspective. It can therefore be very helpful, if we wish to gain some emotional distance from a memory or the thought of an upcoming event, to picture it as if it were being filmed with a CCTV camera up in the corner of the room. By seeing ourselves from the outside, we are a step removed from any feelings otherwise provoked by the scene. This practice of distancing is known amongst contemporary psychologists as a therapeutic technique.
 
-**Anger and Hurt**
+### Anger and Hurt
 
 What, then, actually annoys us? While triggers will vary wildly from person to person, we might identify some reliably provocative categories. Firstly, we are likely to feel angry when certain social rules are broken. You might have formulated a rule that it is wrong for a person, when sitting across a table from you, to browse his phone. Watching him do so might be infuriating.
 
@@ -109,13 +109,13 @@ A third source of annoyance stems from irritants. Examples of irritants in their
 
 Then there is our temperament. We know what reliably angers us, and what seems to bother others but leaves us undisturbed. We know if we are prone to anger or tend to bury or detach from our negative emotions. We can always trace this back to our past experience.
 
-**Some good reasons to avoid anger**
+### Some good reasons to avoid anger
 
 1. **Not making the point:** our open displays of anger completely distract from any point we might want to make. For it to serve its evolutionary purpose as well as possible, by letting people know they have offended and that they should reconsider their behaviour, it cannot emerge in its raw form.
 
 2. **Our inevitable regret:** We may have punished or upset the people we wished to reprimand, but if we did so in anger, we will most likely experience contrition after the event. Anger destroys relationships and cuts through love of any sort. In fact, it tends to feed on the closeness of relationships; after all, we reserve our real fury for those people whom we have admitted into our most intimate circles. We can only feel betrayed by those whom we love and trust, and it is betrayal that often stings us the most. Whatever short-term pleasure is afforded by verbally or physically lashing out at a person who has upset us in this way, it will be greatly exceeded by the remorse we are likely to feel afterwards.
 
-**Seven ways of removing anger**
+### Seven ways of removing anger
 
 **1. Wait**  
 Time is a vital factor in allowing anger to dissipate. I came across a useful metaphor in Overcoming Anger and Irritability, William Davies’s practical book of cognitive-behavioural techniques for those troubled or debilitated by this particular problem. He describes anger in terms of a leaky bucket: it gets filled, can overflow if we keep topping it up, but if we give it time, our anger will dribble away.
@@ -161,19 +161,19 @@ The Stoics would not deny us feelings of excitement, but they would encourage us
 
 We can only guarantee success in trying our best. The desired outcome in the world may prove impossible, but having succeeded in our private aims, we won’t be ruined by a feeling of crushing failure. The result we’re aiming for has moved into our sphere of control (we aim to do our utmost), and therefore we are more likely to arrive at a pleasing outcome. And real-world success is also more likely, as we will not be hampered by the anxiety that comes from trying to control what we cannot. The Stoic stance brings a uniquely quiet, persistent resoluteness in the face of adversity.
 
-**Empathy and connectedness**
+### Empathy and connectedness
 
 Above all, we can look forward to a greater feeling of connectedness with others when we make these shifts. No longer mistaking our judgements about events for the events themselves; being open to the complex narratives that lead to the imperfect behaviours of others; deflating our exalted sense of self to a more modest measure; letting our experience of others decide what’s realistic to expect. These changes, of course easier to describe than to implement, can only culminate in an increased feeling of overall tranquillity and of warmth towards those whom we meet.
 
 I have a particular passion for street photography. People, in relation to each other and their environments, can unwittingly create moments of poetry. When I carry out my novice efforts to capture these, I feel both detached from the world (as any observer might do – especially when looking at it through a view-finder) yet feel very connected to people around me. I am paying far more attention to them than normal; I’m far more interested in life. I’m attracted to people and the snapshots of life that show through their postures and faces; I am drawn to the geometry of architecture and bodies. I become interested in the relationships between them and the possibilities of something lovely and serendipitous arising from that interplay (quite aside from whether or not I capture it with any success). My normal, regrettable practice of minimal eye contact and uncharitable pigeonholing is suspended in favour of a real fascination with everything human.
 
-**Happy Endings**
+### Happy Endings
 
 If we wish to enjoy a considered life, we must be able to step back and see an overall shape to our allotted span. Mortality provides that shape and can surprise us by being the wellspring of deep meaning, value and joy.
 
 One of the qualities of death is that it does not bring with it any closure. It does not bring our lives to an end in the way the last chapter of a novel or the last scenes of a film wind up the story and give meaning to the events that have come before. Death does not allow our lives to come to some sort of fruition. It simply curtails life. It may stop it in its tracks quite suddenly, or we might be permitted to hear the trundling of its dark carriage from a distance, but it does not complete the story for us. That’s for us to do, if we are given the chance.
 
-**Fearing Death**
+### Fearing Death
 
 Two arguments have endured through a couple of thousand years of Western philosophy, urging us to shed our fear of death.
 
@@ -192,13 +192,13 @@ The finite boundary death imposes on us provides fundamental meaning and structu
 
 We must somehow embrace transience and connect where we can with the present moment in order to overcome our fear of death. Likewise, we must connect with death in order to experience the richness of the here and now.
 
-**How to Die Well**
+### How to Die Well
 
 We are all heading there. And we all care enormously about how our loved ones will meet their end. Yet when that time comes, no one talks about it. A conspiracy of silence descends, and dying often becomes very, very lonely. Unwilling to upset or burden those she loves, the dying person does not speak about her fears to her family and friends. Horrified at the thought of saying the wrong thing or appearing to ‘write off’ their dying beloved, the living do everything to avoid mentioning it as well. Instead, a new modern narrative is imposed on the situation, that of the ‘brave battle’. This tale, in truth designed only to keep the living happy, can put further pressure on the person facing death and alienate her from the possibility of a deep richness that only acceptance can bring.
 
 If a person knows she is dying, I would suggest that she needs from her loved ones every opportunity to take stock of her story and bring it to a meaningful end. Despite the fact that those of us who must watch them deteriorate are just doing our painful and miserable best to deal with the situation, it remains better for everyone that the dying person’s story is given priority, and not that of the onlookers. Their experience is likely to be enriched too, if the deceased is able to leave with as much closure as possible. If you are facing your own death, and have the clarity of mind and opportunity to make such choices, then realise that for you to own your death, to author it and to shape it, is tremendously important. You are the protagonist and the author. If you do not insist on this central role, you may find yourself reduced to a mere cameo. Others, stronger in body and in number, may take the leading role if you do not. Your death does not belong to your family or your doctors. They will have their important parts to play, but it is, I think, of ultimate importance that you insist, firmly and sensitively, and through discussion with everyone else, that your choices must steer the process.
 
-**Regrets**
+### Regrets
 
 As priorities change, regrets may surface. Bronnie Ware, an Australian nurse working in palliative care, recorded what she perceived to be the top five regrets of the dying. They were: I wish I’d had the courage to live a life true to myself, not the life others expected of me. I wish I hadn’t worked so hard. I wish I’d had the courage to express my feelings. I wish I had stayed in touch with my friends. I wish that I had let myself be happier. It is hard to read this list without bringing our own choices into question. It’s unlikely that we are going about our lives now in a way that will significantly mitigate our likely future regrets.
 
@@ -220,7 +220,7 @@ Paying attention to certain future regrets might genuinely enhance our lives in 
 
 - Look at what takes up your time and see what is worth doing and what is not. Think about what provides enjoyment, connectivity, a sense of fulfilment, and what, when you look back, will have been a waste of time or stifled you. Look for ways of removing those latter activities from your life. Not only does this offer the benefit of removing negative behaviours, it also engages you with the considered life. Suddenly you have a vantage point from which to view your behaviour, and from there you can give your life shape and meaning.
 
-**Living Now**
+### Living Now
 
 We generally feel defined by our past. Our past, however, is a story that we tell ourselves in the present. We create it every day when we accept the narratives we have developed about who we are and why we are who we are. Our scripts are indeed written in our histories, but whatever our backgrounds, and however traumatic our pasts, the key to overcoming them is to stop telling ourselves the same unhelpful story today, to consciously own what has remained unconscious and therefore governed us, and to regain authorship ourselves.
 
@@ -230,7 +230,7 @@ One way to do that, having recognised the process for what it is, is to consciou
 
 The present moment, on the other hand, can be a more productive place to focus our attention. The here and now, we have seen, rarely contains problems; it is released from the tyranny of our imposing narratives. We might feel bad about events in the past or dread those yet to come, but rarely in the present – rarely right now – do we find ourselves in the middle of a serious difficulty. Right now we can gain some perspective by stepping back from our feelings and recognising that they are not us. Right now we can undo some of the grip of the past by recognising the patterns that rule over us.
 
-**Getting old**
+### Getting old
 
 In the same way we might imagine travelling back in time to meet our younger self and giving him or her much-needed advice from the future, we can play the same game a different way around: what might our future, older self have to offer us now? How will we improve and learn in ways that will benefit us? And viewing our current and future lives as one worm-like entity that also includes our past, what traits might we start to learn now that will benefit us in the future? What qualities can we start to nurture now? ‘We can think of ourselves like wine connoisseurs laying down bottles that will improve with age; similarly we can try to foster in ourselves qualities that deepen and enrich over the years.’
 
@@ -238,7 +238,7 @@ The approach of death gives us a chance to pay attention to how our lives might 
 
 There are three deaths. The first is when the body ceases to function. The second is when the body is consigned to the grave. The third is that moment, sometime in the future, when your name is spoken for the last time. We resurrect our loved ones whenever we find ourselves thinking and feeling like them. We carry them with us, in that blueprint of how to think and feel that they have left behind. And the closer we are to them, the more we understand them, the more accurate that blueprint will be. It turns out, then, to be the positive connections between people that provide the mechanism for our ‘self’ to survive death in any meaningful way. It turns out to be love.
 
-**And Now**
+### And Now
 
 This is our condition. Here on the one hand is the world, full of rich and mysterious things, experiences and people; and here on the other is our need to navigate it, and the only compass we know how to use has been battered and misaligned long ago. To forge ahead and do our best, we have to turn an ambiguous world into a set of easily navigable certainties. Thus we name the unnameable so we can identify it, tick it off and move forward. To get our bearings, we glibly label those things that remain eternally unresolved. We overgeneralise and reduce in order to make sense of the world and our place in it. Concepts fall prey to our projections, which reduce rich ideas to what we’d like them to be; these projections are often illuminated by our fears. Happiness is one of those concepts.
 

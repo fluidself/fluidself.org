@@ -10,7 +10,7 @@ A genuinely creative accomplishment is almost never the result of a sudden insig
 
 It is practically impossible to learn a domain deeply enough to make a change in it without dedicating all of one's attention to it and thereby appearing to be arrogant, selfish, and ruthless to those who believe they have a right to the creative person's attention.
 
-**THE CREATIVE PROCESS**
+### THE CREATIVE PROCESS
 
 Creativity is any act, idea, or product that changes an existing domain, or that transforms an existing domain into a new one. And the definition of a creative person is: someone whose thoughts or actions change a domain, or establish a new domain. It is important to remember, however, that a domain cannot be changed without the explicit or implicit consent of a field responsible for it.
 
@@ -18,9 +18,9 @@ Creativity must, in the last analysis, be seen not as something happening within
 
 A person who wants to make a creative contribution not only must work within a creative system but must also reproduce that system within his or her mind. In other words, the person must learn the rules and the content of the domain, as well as the criteria of selection, the preferences of the field.
 
-**The Creative Personality**
+### The Creative Personality
 
-Are there then no traits that distinguish creative people? If I had to express in one word what makes their personalities different from others, it would be complexity. By this I mean that they show tendencies of thought and action that in most people are segregated. They contain contradictory extremes--instead of being an "individual," each of them is a "multitude." Ten pairs of apparently antithetical traits that are often both present in such individuals and integrated with each other in a dialectical tension.
+Are there then no traits that distinguish creative people? If I had to express in one word what makes their personalities different from others, it would be complexity. By this I mean that they show tendencies of thought and action that in most people are segregated. They contain contradictory extremes—instead of being an "individual," each of them is a "multitude." Ten pairs of apparently antithetical traits that are often both present in such individuals and integrated with each other in a dialectical tension.
 
 1.  Creative individuals have a great deal of physical energy, but they are also often quiet and at rest. They work long hours, with great concentration, while projecting an aura of freshness and enthusiasm.
 
@@ -42,7 +42,7 @@ Are there then no traits that distinguish creative people? If I had to express i
 
 10. Finally, the openness and sensitivity of creative individuals often exposes them to suffering and pain yet also a great deal of enjoyment.
 
-**The Work of Creativity**
+### The Work of Creativity
 
 There are three main sources from which problems typically arise: personal experiences, requirements of the domain, and social pressures.
 
@@ -52,7 +52,7 @@ After a creative person senses that on the horizon of his or her expertise there
 
 After an insight occurs, one must check it out to see if the connections genuinely make sense. If everything checks out, the slow and often routine work of elaboration begins. There are four main conditions that are important during this stage of the process. First of all, the person must pay attention to the developing work, to notice when new ideas, new problems, and new insights arise out of the interaction with the medium. Keeping the mind open and flexible is an important aspect of the way creative persons carry on their work. Next, one must pay attention to one's goals and feelings, to know whether the work is indeed proceeding as intended. The third condition is to keep in touch with domain knowledge, to use the most effective techniques, the fullest information, and the best theories as one proceeds. And finally, especially in the later stages of the process, it is important to listen to colleagues in the field. By interacting with others involved with similar problems, it is possible to correct a line of solution that is going in the wrong direction, to refine and focus one's ideas, and to find the most convincing mode of presenting them, the one that has the best chance of being accepted.
 
-**The Flow of Creativity**
+### The Flow of Creativity
 
 In many ways, the secret to a happy life is to learn to get flow from as many of the things we have to do as possible.
 
@@ -76,15 +76,15 @@ In many ways, the secret to a happy life is to learn to get flow from as many of
 
 It seems that surroundings can influence creativity in different ways, in part depending on the stage of the process in which a person is involved. During preparation, when one is gathering the elements out of which the problem is going to emerge, an ordered, familiar environment is indicated, where one can concentrate on interesting issues without the distractions of "real" life. For the scientist it is the laboratory, for the businessperson the office, for the artist the studio. At the next stage, when thoughts about the problem incubate below the level of awareness, a different environment may be more helpful. The distraction of novel stimuli, of magnificent views, of alien cultures, allows the subconscious mental processes to make connections that are unlikely when the problem is pursued by the linear logic learned from experience. And after the unexpected connection results in an insight, the familiar environment is again more conducive for completing the process; evaluation and elaboration proceed more efficiently in the sober atmosphere where the logic of the domain prevails.
 
-**DOMAINS OF CREATIVITY**
+### DOMAINS OF CREATIVITY
 
 There were many similarities also in the methods these **writers** follow as they ply their craft. All of them keep notebooks handy for when the voice of the Muse calls, which tends to be early in the morning while the writer is still in bed, half asleep. Most of them have been keeping diaries for many years. They usually start a working day with a word, a phrase, or an image, rather than a concept or planned composition. The work evolves on its own rather than the author's intentions, but is always monitored by the critical eye of the writer. What is so difficult about this process is that one must keep the mind focused on two contradictory goals: not to miss the message whispered by the unconscious and at the same time force it into a suitable form. The first requires openness, the second critical judgment. If these two processes are not kept in a constantly shifting balance, the flow of writing dries up. After a few hours the tremendous concentration required for this balancing act becomes so exhausting that the writer has to change gears and focus on something else, something mundane. But while it lasts, creative writing is the next best thing to having a world of one's own in which what's wrong with the "real" world can be set right.
 
-**Enhancing Personal Creativity**
+### Enhancing Personal Creativity
 
-It is important to try as many domains as possible. Start with things you already enjoy and then move to related domains. If you like to read biography, you might try history. Swimming may lead to skin diving, to scuba, and then--why not?--to skydiving. Learning to operate within a new domain is always difficult, and love at first sight is rare. A certain amount of persistence is necessary. On the other hand, it makes no sense to persevere in an activity that gives no joy, or the promise of it.
+It is important to try as many domains as possible. Start with things you already enjoy and then move to related domains. If you like to read biography, you might try history. Swimming may lead to skin diving, to scuba, and then—why not?—to skydiving. Learning to operate within a new domain is always difficult, and love at first sight is rare. A certain amount of persistence is necessary. On the other hand, it makes no sense to persevere in an activity that gives no joy, or the promise of it.
 
-- _Try to be surprised by something every day._ Experience this one thing for what it is, not what you think it is. Be open to what the world is telling you. Life is nothing more than a stream of experiences--the more widely and deeply you swim in it, the richer your life will be.
+- _Try to be surprised by something every day._ Experience this one thing for what it is, not what you think it is. Be open to what the world is telling you. Life is nothing more than a stream of experiences—the more widely and deeply you swim in it, the richer your life will be.
 
 - _Try to surprise at least one person every day._ Instead of being your predictable self, say something unexpected, express an opinion that you have not dared to reveal, ask a question you wouldn't ordinarily ask. Experiment with your appearance. Comfortable routines are great when they save energy for doing what you really care about; but if you are still searching, they restrict and limit the future.
 
@@ -102,13 +102,13 @@ It is important to try as many domains as possible. Start with things you alread
 
 - _Start doing more of what you love, less of what you hate._ After a few weeks of self-monitoring, sit down with your diary or your notes and begin to analyze them.
 
-- _Develop the internal traits that you lack._ To start, it makes sense to identify your most obvious characteristic, the one that your friends would use to describe you--such as "reckless" or "stingy" or "intellectual." If you don't trust your own assessment, you can ask a friend to help. When you have identified a central trait, you can begin to try its opposite. If you are basically reckless, take a future project, or relationship, and instead of rushing into it plan your moves carefully and patiently. If you are stingy, splurge. If you are an intellectual, get someone to explain to you why football is such a great sport and try watching a ball game in light of this knowledge. Keep exploring what it takes to be the opposite of who you are.
+- _Develop the internal traits that you lack._ To start, it makes sense to identify your most obvious characteristic, the one that your friends would use to describe you—such as "reckless" or "stingy" or "intellectual." If you don't trust your own assessment, you can ask a friend to help. When you have identified a central trait, you can begin to try its opposite. If you are basically reckless, take a future project, or relationship, and instead of rushing into it plan your moves carefully and patiently. If you are stingy, splurge. If you are an intellectual, get someone to explain to you why football is such a great sport and try watching a ball game in light of this knowledge. Keep exploring what it takes to be the opposite of who you are.
 
 - _Shift often from openness to closure._
 
 - _Aim for complexity._
 
-**Problem Finding**
+### Problem Finding
 
 - _Find a way to express what moves you._
 
@@ -118,7 +118,7 @@ It is important to try as many domains as possible. Start with things you alread
 
 - _Implement the solution._
 
-**Divergent Thinking**
+### Divergent Thinking
 
 - _Produce as many ideas as possible._
 

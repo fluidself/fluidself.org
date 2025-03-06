@@ -39,7 +39,7 @@ How do you grade yourself? It's important to know in advance, to make sure you'r
 
 Act like you don't need the money. When someone's doing something for love, being generous instead of stingy, trusting instead of fearful, it triggers this law: We want to give to those who give.
 
-Don't try to impress an invisible jury of MBA professors. It's OK to be casual. There's a benefit to being naive about the norms of the world--deciding from scratch what seems like the right thing to do, instead of just doing what others do.
+Don't try to impress an invisible jury of MBA professors. It's OK to be casual. There's a benefit to being naive about the norms of the world—deciding from scratch what seems like the right thing to do, instead of just doing what others do.
 
 **Being, not having:** When you want to learn how to do something yourself, most people won't understand. They'll assume the only reason we do anything is to get it done, and doing it yourself is not the most efficient way. But that's forgetting about the joy of learning and doing. In the end, it's about what you want to be, not what you want to have. To have something (a finished recording, a business, or millions of dollars) is the means, not the end. To be something (a good singer, a skilled entrepreneur, or just plain happy) is the real point. When you sign up to run a marathon, you don't want a taxi to take you to the finish line.
 

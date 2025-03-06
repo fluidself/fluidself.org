@@ -5,7 +5,7 @@ slug: the-pathless-path
 title: 'The Pathless Path: Imagining a New Story For Work and Life - by Paul Millerd'
 ---
 
-**PART ONE: THE DEFAULT PATH**
+### PART ONE: THE DEFAULT PATH
 
 The pathless path is an alternative to the default path. It is an embrace of uncertainty and discomfort. It’s a call to adventure in a world that tells us to conform. For me, it’s also a gentle reminder to laugh when things feel out of control and trusting that an uncertain future is not a problem to be solved. Ultimately, it’s a new story for thinking about finding a path in life.
 
@@ -49,7 +49,7 @@ However, some fear‑related problems cannot be solved. The authors of Designing
 
 This shifts the focus from the future, which is inherently uncertain, to the present, which helps us see our tendency to overestimate future costs and underestimate costs related to the status quo.
 
-**PART TWO: THE PATHLESS PATH**
+### PART TWO: THE PATHLESS PATH
 
 I started to wonder if taking a break from work and embracing states of non‑doing were e#ective ways to improve life satisfaction. I was starting to realize a profound and positive shift in how I was thinking about my life and wondered if others had similar results. I reached out to people who had taken such breaks and found that most people credited these breaks from work as one of the most important things in helping them see the possibilities in their life. I also started to notice that many of the shifts that people experienced were somewhat predictable. Four stand out: First, people become aware of their own suffering. Often we don’t notice our drift into a state of low‑grade anxiety until we step away from what causes it, as I noticed the first day after I quit my job and realized I was burned out.
 

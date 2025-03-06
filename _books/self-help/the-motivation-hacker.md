@@ -7,9 +7,9 @@ title: The Motivation Hacker - by Nick Winter
 
 I wrote this book as a way of forcing myself to live excellently, and to give good ideas on how to do the same to those who hunger, who can't subsist on wishful thinking alone.
 
-Hack like this: first pick your goals, then figure out which motivation hacks to use on the subtasks that lead to those goals--and then use far more of them than you need, so that you not only succeed, but that you do so with excitement, with joy, with extra verve and a hunger for the next goal.
+Hack like this: first pick your goals, then figure out which motivation hacks to use on the subtasks that lead to those goals—and then use far more of them than you need, so that you not only succeed, but that you do so with excitement, with joy, with extra verve and a hunger for the next goal.
 
-**The Motivation Equation**
+### The Motivation Equation
 
 Motivation = Expectancy x Value / Impulsiveness x Delay
 
@@ -19,26 +19,26 @@ The biggest hack a motivation hacker can perform is to build her confidence to t
 
 Will is simply the process of making personal rules for ourselves that will help us reach our goals, and how much willpower we can muster is precisely how good we are at setting up these personal rules so that the we always prefer to keep our rules than to break them. This is a learnable skill. Willpower seems to be needed in one scenario: when deciding to begin. In order to commit to a goal, you need to deny yourself room to weasel out. Instead, you must design a sufficiently powerful motivational structure in advance.
 
-**Success Spirals**
+### Success Spirals
 
-Success spirals--backed up by simple tracking of success--were the key habit for me. Starting tiny, tracking success, and slowly strengthening the habit of building habits: this is how you tend your success spirals.
+Success spirals—backed up by simple tracking of success—were the key habit for me. Starting tiny, tracking success, and slowly strengthening the habit of building habits: this is how you tend your success spirals.
 My organization for success spirals is simple. I keep recurring goals that I might forget in my To-Do software, like journaling daily or measuring my bodyfat percentage every two weeks. Others I add to existing routines, like doing handstands before bed or eating vitamins on waking. Others are habitual enough now that I don't remind myself. At night before bed, I open my Google Drive spreadsheet and quickly record whether I have achieved each daily goal (while also recording some useful self-experimental data). This habit ties all the success spirals together, and also conveniently reminds me to do anything I've forgotten at that moment where I would have to put a zero in its column otherwise. The most difficult and important part of starting a success spiral is starting small enough that it's trivial to succeed. The tip which worked for me was to focus on input-based process goals (write for five minutes) rather than output-based results goals (write one page), and to keep the required inputs minuscule at first.
 
 No To-Dos older than 3 days - make sure no miscellaneous tasks have remained undone longer than three days.
 
 Expenditures of willpower serve only to signal poor planning and a need to tweak the spiral. When I notice myself skipping something more important, I take that as a cue to add more motivation hacks to make sure I do it, since in the long run, that's much easier than trying to keep doing it with sufficient-but-not-excess motivation. When I find myself wasting time, I increase the difficulty by adding more pursuits.
 
-**Precommitment**
+### Precommitment
 
 To precommit is to choose now to limit your options later, preventing yourself from making the wrong choice in the face of temptation. Publicly announcing your goal is a common form of precommitment. The more difficult the goal, then the more care you'll take when choosing your precommitment. Don't be scared into weakening the resolution. You should bind yourself with something far beyond the scope of the goal you're trying to accomplish, so that there's no contest: your motivation should be much higher than needed to get the job done, both so that you don't fall a little short, and so that you have more fun.
 
-**Beeminder**
+### Beeminder
 
 Many goals are neither achieved with one jump nor failed with one drink. What about losing thirty pounds or finishing a dissertation? You need to make steady progress toward your goal by making far more good choices than bad ones, even while the end result is still months away. The solution is to precommit to staying on track toward your goal at all times, not just by the end. Most goals are a matter of effort over time, and for those types of goals, if they're important enough to warrant thirty seconds of bookkeeping a day, you should use Beeminder. Of everything I did, using Beeminder to precommit, to build my success spiral, and to visualize my progresss was the most helpful.
 
 I started doing internetless mornings on the first day of writing this book. I also decided that I would only check email once per day, between Skritter work and dinner, and when I did check it, I would do all of it. It was easier than I thought, and far more effective. Why had this taken me so long to do? I had read countless times that I should eliminate distractions, and the first example was always to turn off the internet. Maybe the answer is just that addiction is hard to admit.
 
-**Social Skills**
+### Social Skills
 
 If you have an ugh field surrounding your goal, it will be hard to admit that you need to do this. You might flinch away from the problem, saying to yourself, "I need to finish before I can focus on reducing my drinking," or "I could probably start dating any time, but I can wait until after this work project is done." I find that journaling helps with this. It's much easier for me to tell when I'm lying to myself when I write things down, or especially when I hesitate to write about something. If it's not a problem, then why am I so reluctant to engage it and prove that?
 
@@ -46,7 +46,7 @@ Rejection Therapy is an exercise designed to get you over this useless fear. It 
 
 You could design similar exercises for any small skill that you need to acquire, or any large skill which can be broken down into smaller skills. Lifehacker Luke Muehlhauser has broken down social skills into a map of such skills, from handshakes to reading faces to hairstyle, which you can look through to find techniques to learn or to see how you might apply the technique to other areas. With many skills and drills, it's good to get feedback on your technique, because you don't want to practice the wrong things in the wrong ways.
 
-**Goal Picking Exercises**
+### Goal Picking Exercises
 
 1.  Imagine your ideal day. What do you do? Whom do you talk to? Where do you go? Then pick a few goals that will bring your days closer to this ideal.
 
@@ -54,17 +54,17 @@ You could design similar exercises for any small skill that you need to acquire,
 
 3.  Imagine that you're another person, more competent than yourself, who was just dropped into your current life at this moment, without any of your current obligations but with all of your current predicaments. Forget everything that has come before and where you used to be going. What would you do? This is an exercise in overcoming the Sunk Cost Fallacy.
 
-**Learning Anything: 3-Month Projects**
+### Learning Anything: 3-Month Projects
 
 This is a good strategy for learning many things: 1. Get excited about a skill. 2. While you're excited, make time and hack up motivation to practice it. 3. Learn how to practice it from reading or from a teacher. 4. Start doing it right away.
 
 You can often manufacture this type of trigger: sign up to do something you don't know how to do in the hyperbolically discounted, not-so-scary future. When the time comes, you'll have to learn it. You're sending your future self a motivation bomb.
 
-**Anki**
+### Anki
 
 If you want to learn facts, then you should use a spaced-repetition system (SRS). You break knowledge you want to acquire into short answers to tiny questions, and then you make digital flashcards of those in an SRS program, which will then prompt you to review them at the most efficient time for strengthening your memories: right before you were in danger of forgetting them. You learn fast, you remember almost everything, and it's easy to turn into a daily habit that can deliver massive piles of knowledge in a few minutes a day.
 
-**Task management systems**
+### Task management systems
 
 - [Getting Things Done](http://zenhabits.net/the-getting-things-done-gtd-faq/)
 
@@ -76,7 +76,7 @@ If you want to learn facts, then you should use a spaced-repetition system (SRS)
 
 - [Four Quadrant To-Do list](http://sidsavara.com/personal-development/nerdy-productivity-coveys-time-management-matrix-illustrated-with-xkcd-comics)
 
-**Measure Your Results**
+### Measure Your Results
 
 Whatever goals you pick, you should have some way of measuring the results. Many goals are intended to make you happier, so measure your happiness and see what is effective.
 
@@ -84,7 +84,7 @@ Set up more motivation hacks than you can ever imagine needing: I'm going to hac
 
 Stopping after you reach a goal is better than stopping before you start, during your pursuit, or never.
 
-**List of Motivation Techniques**
+### List of Motivation Techniques
 
 **Expectancy.** These techniques increase motivation by making you certain that you'll succeed.
 
@@ -120,7 +120,7 @@ Stopping after you reach a goal is better than stopping before you start, during
 
 - **Build Useful Habits.** Make an autopilot schedule for yourself and put your goals into it, or add goals to existing routines.
 
-- **Schedule Play Before Work.** Plan times to have as much fun as you can--this leads to more efficient recreation, and it also lets you focus on your goals during the other times, rather than just having low-grade leisure constantly tempting you as an option. Play hard.
+- **Schedule Play Before Work.** Plan times to have as much fun as you can—this leads to more efficient recreation, and it also lets you focus on your goals during the other times, rather than just having low-grade leisure constantly tempting you as an option. Play hard.
 
 **Delay.** Delay is how far off the reward seems to be. This is often hard to manipulate directly, but sometimes you can set yourself up to perceive Delay differently, thus scoring a big motivation win.
 

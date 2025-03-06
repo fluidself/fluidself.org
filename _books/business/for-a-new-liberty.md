@@ -11,7 +11,7 @@ The object of the classical liberals was to bring about individual liberty in al
 
 Socialism was a confused and hybrid movement because it tried to achieve the liberal goals of freedom, peace, and industrial harmony and growth—goals which can only be achieved through liberty and the separation of government from virtually everything—by imposing the old conservative means of statism, collectivism, and hierarchical privilege.
 
-**PROPERTY AND EXCHANGE: THE NONAGGRESSION AXIOM**
+### PROPERTY AND EXCHANGE: THE NONAGGRESSION AXIOM
 
 The libertarian creed rests upon one central axiom: that no man or group of men may aggress against the person or property of anyone else. This may be called the “nonaggression axiom.” “Aggression” is defined as the initiation of the use or threat of physical violence against the person or property of anyone else.
 
@@ -21,13 +21,13 @@ The libertarian favors the right to unrestricted private property and free excha
 
 The most viable method of elaborating the natural-rights statement of the libertarian position is to divide it into parts, and to begin with the basic axiom of the “right to self-ownership.” The right to self-ownership asserts the absolute right of each man, by virtue of his (or her) being a human being, to “own” his or her own body; that is, to control that body free of coercive interference.
 
-**SOCIETY AND THE INDIVIDUAL**
+### SOCIETY AND THE INDIVIDUAL
 
 We have talked at length of individual rights; but what, it may be asked, of the “rights of society”? Don’t they supersede the rights of the mere individual? The libertarian, however, is an individualist; he believes that one of the prime errors in social theory is to treat “society” as if it were an actually existing entity. “Society” is sometimes treated as a superior or quasi-divine figure with overriding “rights” of its own; at other times as an existing evil which can be blamed for all the ills of the world. The individualist holds that only individuals exist, think, feel, choose, and act; and that “society” is not a living entity but simply a label for a set of interacting individuals.
 
 The central core of the libertarian creed, then, is to establish the absolute right to private property of every man: first, in his own body, and second, in the previously unused natural resources which he first transforms by his labor. These two axioms, the right of self-ownership and the right to “homestead,” establish the complete set of principles of the libertarian system.
 
-**THE STATE AS AGGRESSOR**
+### THE STATE AS AGGRESSOR
 
 Libertarians regard the State as the supreme, the eternal, the best organized aggressor against the persons and property of the mass of the public.
 
@@ -37,15 +37,15 @@ A second distinction is that, apart from criminal outlaws, only the government c
 
 Another critical distinction of the State is that it compels the monopolization of the service of protection; the State arrogates to itself a virtual monopoly of violence and of ultimate decision-making in society.
 
-**THE STATE AND THE INTELLECTUALS**
+### THE STATE AND THE INTELLECTUALS
 
 Since the early origins of the State, its rulers have always turned, as a necessary bolster to their rule, to an alliance with society’s class of intellectuals. The masses do not create their own abstract ideas, or indeed think through these ideas independently; they follow passively the ideas adopted and promulgated by the body of intellectuals, who become the effective “opinion moulders” in society. And since it is precisely a moulding of opinion on behalf of the rulers that the State almost desperately needs, this forms a firm basis for the age-old alliance of the intellectuals and the ruling classes of the State. The alliance is based on a _quid pro quo_: on the one hand, the intellectuals spread among the masses the idea that the State and its rulers are wise, good, sometimes divine, and at the very least inevitable and better than any conceivable alternatives. In return for this panoply of ideology, the State incorporates the intellectuals as part of the ruling elite, granting them power, status, prestige, and material security. Furthermore, intellectuals are needed to staff the bureaucracy and to “plan” the economy and society.
 
 The intellectual arguments used by the State throughout history to “engineer consent” by the public can be classified into two parts: (1) that rule by the existing government is inevitable, absolutely necessary, and far better than the indescribable evils that would ensue upon its downfall; and (2) that the State rulers are especially great, wise, and altruistic men—far greater, wiser, and better than their simple subjects. In former times, the latter argument took the form of rule by “divine right” or by the “divine ruler” himself, or by an “aristocracy” of men. In modern times, as we indicated earlier, this argument stresses not so much divine approval as rule by a wise guild of “scientific experts” especially endowed in knowledge of statesmanship and the arcane facts of the world. The increasing use of scientific jargon, especially in the social sciences, has permitted intellectuals to weave apologia for State rule which rival the ancient priestcraft in obscurantism.
 
-**LIBERTARIAN APPLICATIONS TO CURRENT PROBLEMS**
+## LIBERTARIAN APPLICATIONS TO CURRENT PROBLEMS
 
-**PORNOGRAPHY**
+### PORNOGRAPHY
 
 To the libertarian, the arguments between conservatives and liberals over laws prohibiting pornography are distressingly beside the point. The conservative position tends to hold that pornography is debasing and immoral and therefore should be outlawed. Liberals tend to counter that sex is good and healthy and that therefore pornography will only have good effects, and that depictions of violence—say on television, in movies, or in comic books—should be outlawed instead. Neither side deals with the crucial point: that the good, bad, or indifferent consequences of pornography, while perhaps an interesting problem in its own right, is completely irrelevant to the question of whether or not it should be outlawed. The libertarian holds that it is not the business of the law—the use of retaliatory violence—to enforce anyone’s conception of morality. It is not the business of the law—even if this were practically possible, which is, of course, most unlikely—to make anyone good or reverent or moral or clean or upright. This is for each individual to decide for himself. It is only the business of legal violence to defend people against the use of violence, to defend them from violent invasions of their person or property. But if the government presumes to outlaw pornography, it itself becomes the genuine outlaw—for it is invading the property rights of people to produce, sell, buy, or possess pornographic material.
 
@@ -53,7 +53,7 @@ We do not pass laws to make people upright; we do not pass laws to force people 
 
 The irony, of course, is that by forcing men to be “moral”—i.e., to act morally—the conservative or liberal jailkeepers would in reality deprive men of the very possibility of being moral. The concept of “morality” makes no sense unless the moral act is freely chosen.
 
-**EDUCATION: PUBLIC AND COMPULSORY SCHOOLING**
+### EDUCATION: PUBLIC AND COMPULSORY SCHOOLING
 
 A crucial fallacy of the middle-class school worshippers is confusion between formal schooling and education in general. Education is a lifelong process of learning, and learning takes place not only in school, but in all areas of life. When the child plays, or listens to parents or friends, or reads a newspaper, or works at a job, he or she is becoming educated. Formal schooling is only a small part of the educational process, and is really only suitable for formal subjects of instruction, particularly in the more advanced and systematic subjects. The elementary subjects, reading, writing, arithmetic and their corollaries, can easily be learned at home and outside the school.
 
@@ -61,7 +61,7 @@ Furthermore, one of the great glories of mankind is its diversity, the fact that
 
 It is important to realize that the very nature of the public school requires the imposition of uniformity and the stamping out of diversity and individuality in education. For it is in the nature of any governmental bureaucracy to live by a set of rules, and to impose those rules in a uniform and heavy-handed manner.
 
-**INFLATION AND THE BUSINESS CYCLE: THE COLLAPSE OF THE KEYNESIAN PARADIGM**
+### INFLATION AND THE BUSINESS CYCLE: THE COLLAPSE OF THE KEYNESIAN PARADIGM
 
 Inflation is not ineluctably built into the economy, nor is it a prerequisite for a growing and thriving world. During most of the nineteenth century (apart from the years of the War of 1812 and the Civil War), prices were falling, and yet the economy was growing and industrializing. Falling prices put no damper whatsoever on business or economic prosperity.
 
@@ -77,7 +77,7 @@ Just as the State arrogates to itself a monopoly power over legalized kidnapping
 
 Furthermore, since the interest of a counterfeiter is to print as much money as he can get away with, so too will the State print as much money as it can get away with, just as it will employ the power to tax in the same way: to extract as much money as it can without raising too many howls of protest. Government control of money supply is inherently inflationary, then, for the same reason that any system in which a group of people obtains control over the printing of money is bound to be inflationary.
 
-**THE FEDERAL RESERVE AND FRACTIONAL RESERVE BANKING**
+### THE FEDERAL RESERVE AND FRACTIONAL RESERVE BANKING
 
 Inflating by simply printing more money, however, is now considered old-fashioned. For one thing, it is too visible; with a lot of high-denomination bills floating around, the public might get the troublesome idea that the cause of the unwelcome inflation is the government’s printing of all the bills—and the government might be stripped of that power. Instead, governments have come up with a much more complex and sophisticated, and much less visible, means of doing the same thing: of organizing increases in the money supply to give themselves more money to spend and to subsidize favored political groups. The idea was this: instead of stressing the printing of money, retain the paper dollars or marks or francs as the basic money (the “legal tender”), and then pyramid on top of that a mysterious and invisible, but no less potent, “checkbook money,” or bank demand deposits. The result is an inflationary engine, controlled by government, which no one but bankers, economists, and government central bankers understands—and designedly so.
 
@@ -87,7 +87,7 @@ The monetary history of this century has been one of repeated loosening of restr
 
 There is, of course, a crucial difference between gold and Federal Reserve Notes. The government cannot create new gold at will. Gold has to be dug, in a costly process, out of the ground. But Federal Reserve Notes can be issued at will, at virtually zero cost in resources. In 1933, the United States government removed the gold restraint on its inflationary potential by shifting to fiat money: to making the paper dollar itself the standard of money, with government the monopoly supplier of dollars. It was going off the gold standard that paved the way for the mighty U.S. money and price inflation during and after World War II.
 
-**BANK CREDIT AND THE BUSINESS CYCLE**
+### BANK CREDIT AND THE BUSINESS CYCLE
 
 There is no reason to expect boom-bust cycles in the overall economy. In fact, there is reason to expect just the opposite; for usually the free market works smoothly and efficiently, and especially with no massive cluster of error such as becomes evident when boom turns suddenly to bust and severe losses are incurred. And indeed, before the late eighteenth century there were no such overall cycles.
 
@@ -101,7 +101,7 @@ The government must not try to inflate again in order to get out of the depressi
 
 Thus, what the government should do, according to the Austrian analysis of the depression and the business cycle, is absolutely nothing. It should stop its own inflating, and then it should maintain a strict hands-off, laissez-faire policy. Anything it does will delay and obstruct the adjustment processes of the market; the less it does, the more rapidly will the market adjustment process do its work and sound economic recovery ensue.
 
-**THE PUBLIC SECTOR, I: GOVERNMENT IN BUSINESS**
+### THE PUBLIC SECTOR, I: GOVERNMENT IN BUSINESS
 
 Government, in the United States and elsewhere, for centuries and seemingly from time immemorial has been supplying us with certain essential and necessary services, services which nearly everyone concedes are important: defense (including army, police, judicial, and legal), firefighting, streets and roads, water, sewage and garbage disposal, postal service, etc. So identified has the State become in the public mind with the provision of these services that an attack on State financing appears to many people as an attack on the service itself. Thus if one maintains that the State should not supply court services, and that private enterprise on the market could supply such service more efficiently as well as more morally, people tend to think of this as denying the importance of courts themselves.
 
@@ -115,19 +115,19 @@ One of the reasons that private firms are models of efficiency is because the fr
 
 The ultimate libertarian program may be summed up in one phrase: the abolition of the public sector, the conversion of all operations and services performed by the government into activities performed voluntarily by the private-enterprise economy.
 
-**THE PUBLIC SECTOR, III: POLICE, LAW, AND THE COURTS**
+### THE PUBLIC SECTOR, III: POLICE, LAW, AND THE COURTS
 
 The government only knows that it has a limited budget. Its allocations of funds are then subject to the full play of politics, boondoggling, and bureaucratic inefficiency, with no indication at all as to whether the police department is serving the consumers in a way responsive to their desires or whether it is doing so efficiently. The situation would be different if police services were supplied on a free, competitive market. In that case, consumers would pay for whatever degree of protection they wish to purchase. The consumers who just want to see a policeman once in a while would pay less than those who want continuous patrolling, and far less than those who demand 24-hour bodyguard service. On the free market, protection would be supplied in proportion and in whatever way that the consumers wish to pay for it. A drive for efficiency would be insured, as it always is on the market, by the compulsion to make profits and avoid losses, and thereby to keep costs low and to serve the highest demands of the consumers. Any police firm that suffers from gross inefficiency would soon go bankrupt and disappear.
 
 The legal code, simply, would insist on the libertarian principle of no aggression against person or property, define property rights in accordance with libertarian principle, set up rules of evidence (such as currently apply) in deciding who are the wrongdoers in any dispute, and set up a code of maximum punishment for any particular crime. Within the framework of such a code, the particular courts would compete on the most efficient procedures, and the market would then decide whether judges, juries, etc., are the most efficient methods of providing judicial services.
 
-**WAR AND FOREIGN POLICY**
+### WAR AND FOREIGN POLICY
 
 Pending the dissolution of States, libertarians desire to limit, to whittle down, the area of government power in all directions and as much as possible. We have already demonstrated how this principle of “de-statizing” might work in various important “domestic” problems, where the goal is to push back the role of government and to allow the voluntary and spontaneous energies of free persons full scope through peaceful interaction, notably in the free-market economy. In foreign affairs, the goal is the same: to keep government from interfering in the affairs of other governments or other countries. Political “isolationism” and peaceful coexistence—refraining from acting upon other countries—is, then, the libertarian counterpart to agitating for laissez-faire policies at home. The idea is to shackle government from acting abroad just as we try to shackle government at home. Isolationism or peaceful coexistence is the foreign policy counterpart of severely limiting government at home.
 
 War, in the words of the libertarian Randolph Bourne, “is the health of the State.” War has always been the occasion of a great—and usually permanent—acceleration and intensification of State power over society. War is the great excuse for mobilizing all the energies and resources of the nation, in the name of patriotic rhetoric, under the aegis and dictation of the State apparatus. It is in war that the State really comes into its own: swelling in power, in number, in pride, in absolute dominion over the economy and the society. Society becomes a herd, seeking to kill its alleged enemies, rooting out and suppressing all dissent from the official war effort, happily betraying truth for the supposed public interest. Society becomes an armed camp, with the values and the morals—as the libertarian Albert Jay Nock once phrased it—of an “army on the march.”
 
-**A STRATEGY FOR LIBERTY EDUCATION: THEORY AND MOVEMENT**
+### A STRATEGY FOR LIBERTY EDUCATION: THEORY AND MOVEMENT
 
 Cleaving to principle means something more than holding high and not contradicting the ultimate libertarian ideal. It also means striving to achieve that ultimate goal as rapidly as is physically possible. In short, the libertarian must never advocate or prefer a gradual, as opposed to an immediate and rapid, approach to his goal. For by doing so, he undercuts the overriding importance of his own goals and principles. And if he himself values his own goals so lightly, how highly will others value them?
 

@@ -5,7 +5,7 @@ slug: listful-thinking
 title: Listful Thinking - by Paula Rizzo
 ---
 
-**Oprah Quotes**
+### Oprah Quotes
 
 1.  "You become what you believe."
 
@@ -19,7 +19,7 @@ title: Listful Thinking - by Paula Rizzo
 
 6.  "Surround yourself with only people who are going to lift you higher."
 
-7.  "When you know better--you do better."
+7.  "When you know better—you do better."
 
 8.  "I don't believe in failure. It's not failure if you enjoyed the process."
 
@@ -27,9 +27,9 @@ The act of writing something down is powerful. In fact, Dr. Gail Matthews, a pro
 
 There's a therapeutic and calming effect to writing a list. Using lists to map out the pros and cons of a situation is also extremely helpful when making a difficult decision.
 
-**A PRO-AND-CON LIST**
+### A PRO-AND-CON LIST
 
-1.  **Start listing.** I write down whatever comes to mind--even if it seems like a minor detail. Think like a journalist: Who? What? Where? When? Why? Think of these details when you begin your list. You need to be objective and to look at the facts first. Try not to inject too much opinion while you make this list. Just get everything down on paper. You can prioritize and give each item weight later.
+1.  **Start listing.** I write down whatever comes to mind—even if it seems like a minor detail. Think like a journalist: Who? What? Where? When? Why? Think of these details when you begin your list. You need to be objective and to look at the facts first. Try not to inject too much opinion while you make this list. Just get everything down on paper. You can prioritize and give each item weight later.
 
 2.  **Revise.** Once you've written down all your thoughts, assign value to them. Also, consolidate similar points so that you don't end up with a long list that could overwhelm you.
 
@@ -39,7 +39,7 @@ There's a therapeutic and calming effect to writing a list. Using lists to map o
 
 5.  **Talk it out.** If you're having difficulty deciding what to do, talk with a friend, your spouse, or a coworker.
 
-**RESEARCH LISTS**
+### RESEARCH LISTS
 
 The idea behind a research list is that you can work out the details for just about anything you need help planning:
 
@@ -57,7 +57,7 @@ The idea behind a research list is that you can work out the details for just ab
 
 Begin by making a list of all the things you hope to accomplish or to learn about your given topic. I often use this type of list when planning a trip or a big event. Everything can be broken down into lists to help you organize your thoughts.
 
-**CATALOG LIST**
+### CATALOG LIST
 
 When I said I make a list for everything, I wasn't kidding:
 
@@ -73,13 +73,13 @@ When I said I make a list for everything, I wasn't kidding:
 
 I like to call these lists catalog lists. These are lists of things, not tasks.
 
-**LIFE LIST**
+### LIFE LIST
 
-This is one of my favorite types of lists because it's so personal. If you aren't a list maker yet, start with a life list. A bucket list itemizes all the things you want to do before you "kick the bucket." Any dream, however big or small, should go on this list. I like to write my life list in a notebook, but you can do anything that works for you. The value of a life list is immense. Yes, it's great to dream, but I believe that once you write something down, you set an intention that moves things in that direction--whether consciously or subconsciously.
+This is one of my favorite types of lists because it's so personal. If you aren't a list maker yet, start with a life list. A bucket list itemizes all the things you want to do before you "kick the bucket." Any dream, however big or small, should go on this list. I like to write my life list in a notebook, but you can do anything that works for you. The value of a life list is immense. Yes, it's great to dream, but I believe that once you write something down, you set an intention that moves things in that direction—whether consciously or subconsciously.
 
-**GRATITUDE LIST**
+### GRATITUDE LIST
 
-**THE ULTIMATE TO-DO LIST**
+### THE ULTIMATE TO-DO LIST
 
 1.  Just write it down.
 
@@ -91,13 +91,13 @@ This is one of my favorite types of lists because it's so personal. If you aren'
 
 5.  Repeat.
 
-**MANAGE YOUR LIFESTYLE THROUGH LISTS**
+### MANAGE YOUR LIFESTYLE THROUGH LISTS
 
 I now make a list when I get together with friends. When I know I'm going to see a friend, I start jotting down things that I need to tell her. Sometimes I do this over time by keeping a separate page in a notebook or a list dedicated to just that person in one of my many apps. I'll include everything and anything noteworthy to tell this person. Silly and serious things make the list, and it's important for me to write them down or else I'll never remember everything I want to tell.
 
-**KNOWING WHAT TO SAY**
+### KNOWING WHAT TO SAY
 
-**Dinner Parties**
+### Dinner Parties
 
 - Ask open-ended questions, not ones that can be answered with a simple yes or no.
 
@@ -107,7 +107,7 @@ I now make a list when I get together with friends. When I know I'm going to see
 
 - Talk about food. Ask about restaurants the person likes or places they have visited in your city. People are usually very passionate about this subject.
 
-**Questions to Keep on Hand**
+### Questions to Keep on Hand
 
 - What was the best part of your day today?
 

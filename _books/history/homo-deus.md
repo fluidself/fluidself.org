@@ -9,7 +9,7 @@ Each and every one of us has been born into a given historical reality, ruled by
 
 Studying history aims to loosen the grip of the past. It enables us to turn our head this way and that, and begin to notice possibilities that our ancestors could not imagine, or didn’t want us to imagine. By observing the accidental chain of events that led us here, we realise how our very thoughts and dreams took shape—and we can begin to think and dream differently. Studying history will not tell us what to choose, but at least it gives us more options.
 
-**On religion**
+### On religion
 
 Most of the misunderstandings regarding science and religion result from faulty definitions of religion. All too often people confuse religion with superstition, spirituality, belief in supernatural powers or belief in gods. Religion is none of these things. Religion cannot be equated with superstition, because most people are unlikely to call their most cherished beliefs ‘superstitions’. We always believe in ‘the truth’; only other people believe in superstitions.
 
@@ -21,7 +21,7 @@ Defining religion as ‘belief in gods’ is also problematic. We tend to say th
 
 Liberals, communists and followers of other modern creeds dislike describing their own system as a ‘religion’, because they identify religion with superstitions and supernatural powers. If you tell communists or liberals that they are religious, they think you are accusing them of blindly believing in groundless pipe dreams. In fact, it means only that they believe in some system of moral laws that wasn’t invented by humans, but that humans must nevertheless obey. As far as we know, all human societies believe in this. Every society tells its members that they must obey some superhuman moral law, and that breaking this law will result in catastrophe.
 
-**Science and religion as bedfellows**
+### Science and religion as bedfellows
 
 It is customary to portray the history of modernity and a struggle between science and religion. In theory, both science and religion are interested above all in the truth, and because each upholds a different truth, they are doomed to clash. In fact, neither science nor religion cares that much about the truth, hence they can easily compromise, coexist and even cooperate.
 
@@ -29,7 +29,7 @@ Religion is interested above all in order. It aims to create and maintain the so
 
 It would accordingly be far more accurate to view modern history as the process of formulating a deal between science and one particular religion—namely, humanism. Modern society believes in humanist dogmas, and uses science not in order to question these dogmas, but rather in order to implement them. In the twenty-first century the humanist dogmas are unlikely to be replaced by pure scientific theories. However, the covenant linking science and humanism may well crumble and give way to a very different kind of deal, between science and some new post-humanist religion.
 
-**The Humanist Revolution**
+### The Humanist Revolution
 
 The modern deal offers us power, on condition that we renounce our belief in a great cosmic plan that gives meaning to life. Yet when you examine the deal closely, you find a cunning escape clause. If humans somehow manage to find meaning without predicating it upon some great cosmic plan, this is not considered a breach of contract.
 
@@ -41,7 +41,7 @@ If there is no cosmic plan, and we are not committed to any divine or natural la
 
 For centuries humanism has been convincing us that we are the ultimate source of meaning, and that our free will is therefore the highest authority of all. Instead of waiting for some external entity to tell us what’s what, we can rely on our own feelings and desires. From infancy we are bombarded with a barrage of humanist slogans counselling us: ‘Listen to yourself, be true to yourself, trust yourself, follow your heart, do what feels good.’
 
-**The Great Decoupling**
+### The Great Decoupling
 
 Liberals uphold free markets and democratic elections because they believe that every human is a uniquely valuable individual, whose free choices are the ultimate source of authority. In the twenty-first century three practical developments might make this belief obsolete:
 
@@ -49,7 +49,7 @@ Liberals uphold free markets and democratic elections because they believe that 
 2. The system will continue to find value in humans collectively, but not in unique individuals.
 3. The system will still find value in some unique individuals, but these will constitute a new elite of upgraded superhumans rather than the mass of the population.
 
-**The Useless Class**
+### The Useless Class
 
 The idea that humans will always have a unique ability beyond the reach of non-conscious algorithms is just wishful thinking. The current scientific answer to this pipe dream can be summarised in three simple principles:
 
@@ -59,7 +59,7 @@ The idea that humans will always have a unique ability beyond the reach of non-c
 
 True, at present there are numerous things that organic algorithms do better than non-organic ones, and experts have repeatedly declared that something will ‘for ever’ remain beyond the reach of non-organic algorithms. But it turns out that ‘for ever’ often means no more than a decade or two.
 
-**Techno-humanism**
+### Techno-humanism
 
 The new religions are unlikely to emerge from the aves of Afghanistan or from the madrasas of the Middle East. Rather, they will emerge from research laboratories. Just as socialism took over the world by promising salvation through steam and electricity, so in the coming decades new techno-religions may conquer the world by promising salvation through algorithms and genes.
 
@@ -69,7 +69,7 @@ Seventy thousand years ago the Cognitive Revolution transformed the Sapiens mind
 
 This idea is an updated variant on the old dreams of evolutionary humanism, which already a century ago called for the creation of superhumans. However, whereas Hitler and his ilk planned to create superhumans by means of selective breeding and ethnic cleansing, twenty-first century techno-humanism hopes to reach that goal far more peacefully, with the help of genetic engineering, nanotechnology and brain-computer interfaces.
 
-**The Data Religion**
+### The Data Religion
 
 Dataism declares that the universe consists of data flows, and the value of any phenomenon or entity is determined by its contribution to data processing. This may strike you as some eccentric fringe notion, but in fact it has already conquered most of the scientific establishment. Dataism was born from the explosive confluence of two scientific tidal waves. In the 150 years since Charles Darwin published On the Origin of Species, the life sciences have come to see organisms as biochemical algorithms. Simultaneously, in the eight decades since Alan Turing formulated the idea of a Turing Machine, computer scientists have learned to engineer increasingly sophisticated electronic algorithms. Dataism puts the two together, pointing out that exactly the same mathematical laws apply to both biochemical and electronic algorithms. Dataism thereby collapses the barrier between animals and machines, and expects electronic algorithms to eventually decipher and outperform biochemical algorithms.
 

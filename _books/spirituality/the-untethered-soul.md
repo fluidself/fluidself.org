@@ -5,7 +5,7 @@ slug: the-untethered-soul
 title: 'The Untethered Soul: The Journey Beyond Yourself - by Michael A. Singer'
 ---
 
-There is nothing more important to true growth than realizing that you are not the voice of the mind--you are the one who hears it. Come to know the one who watches the voice, and you will come to know one of the great mysteries of creation.
+There is nothing more important to true growth than realizing that you are not the voice of the mind—you are the one who hears it. Come to know the one who watches the voice, and you will come to know one of the great mysteries of creation.
 
 The real cause of problems is not life itself. It's the commotion the mind makes about life that really causes problems.
 
@@ -17,7 +17,7 @@ You have to break the habit of thinking that the solution to your problems is to
 
 You practice opening by not closing. Any time you start to close, ask yourself whether you really want to cut off the energy flow. Because if you want, you can learn to stay open no matter what happens in this world. You just make a commitment to explore your capacity for receiving unlimited energy. You simply decide not to close. At first it feels unnatural since your innate tendency is to close as a means of protection. But closing your heart does not really protect you from anything; it just cuts you off from your source of energy. In the end, it only serves to lock you inside. If you make lists of how the world must be for you to open, you have limited your openness to those conditions. Better to be open no matter what.
 
-Don't sell yourself short. This can go on all the time--unending inspiration, unending love, and unending openness. That is the natural state of a healthy heart. To achieve this state, simply allow the experiences of life to come in and pass through your being. If old energies come back up because you were unable to process them before, let go of them now. It's that easy.
+Don't sell yourself short. This can go on all the time—unending inspiration, unending love, and unending openness. That is the natural state of a healthy heart. To achieve this state, simply allow the experiences of life to come in and pass through your being. If old energies come back up because you were unable to process them before, let go of them now. It's that easy.
 
 When you close down and protect yourself, you are pulling a shell around the part of you that is weak. This is the part that feels it needs protection even though no physical attack is taking place. You are protecting your ego, your self-concept. Although a situation may present no physical danger, it may cause you to experience disturbance, fear, insecurity, and other emotional problems. So you feel the need to protect yourself. Life becomes stagnant when people protect their stored issues. People say things like, "You know we don't talk about that subject around your father." There are all these rules about things that are not supposed to happen outside because they could cause disturbance inside. Living like this allows for very little spontaneous joy, enthusiasm, and excitement for life.
 
@@ -53,9 +53,9 @@ How does it feel when you drift up? You don't feel as much anger, fear, or self-
 
 What does it feel like to identify more with Spirit than with form? You used to walk around feeling anxiety and tension; now you walk around feeling love. You just feel love for no reason. Your backdrop is love. Your backdrop is openness, beauty, and appreciation. You don't have to make yourself feel that way; that is how Spirit feels.
 
-As you go deeper and deeper, you start noticing a phenomenal thing--you are no longer judging. The process of judging simply stops. There is just appreciating and honoring. Where there used to be judging, there is now respecting, loving, and cherishing. To differentiate is to judge. To see, to experience, and to honor is to participate in life instead of standing back and judging it.
+As you go deeper and deeper, you start noticing a phenomenal thing—you are no longer judging. The process of judging simply stops. There is just appreciating and honoring. Where there used to be judging, there is now respecting, loving, and cherishing. To differentiate is to judge. To see, to experience, and to honor is to participate in life instead of standing back and judging it.
 
-**Contemplating Death**
+### Contemplating Death
 
 A wise being completely and totally embraces the reality, the inevitability, and the unpredictability of death. What are you doing with life? That is what death asks you.
 
@@ -63,6 +63,6 @@ The beauty of embracing deep truths is that you don't have to change your life; 
 
 You should be experiencing the life that's happening to you, not the one you wish was happening. Don't waste a moment of life trying to make other things happen; appreciate the moments you are given. Don't you understand that every minute you're a step closer to death? This is how to live your life. You live it as though you were on the verge of death, because you are. Learn to live as though you are facing death at all times, and you'll become bolder and more open. If you live life fully, you won't have any last wishes. You will have lived them every moment. Only then will you have fully experienced life and released the part of you that is afraid of living.
 
-**The Secret of the Middle Way**
+### The Secret of the Middle Way
 
 All the great teachings reveal the way of the center, the way of balance. Constantly look to see if that's where you are living or if you are lost in the extremes. The extremes create their opposites; the wise avoid them. Find the balance in the center and you will live in harmony.

@@ -9,7 +9,7 @@ All mass movements generate in their adherents a readiness to die and a proclivi
 
 This book concerns itself chiefly with the active, revivalist phase of mass movements. This phase is dominated by the true believer—the man of fanatical faith who is ready to sacrifice his life for a holy cause—and an attempt is made to trace his genesis and outline his nature. As an aid in this effort, use is made of a working hypothesis. Starting out from the fact that the frustrated predominate among the early adherents of all mass movements and that they usually join of their own accord, it is assumed: 1) that frustration of itself, without any proselytizing prompting from the outside, can generate most of the peculiar characteristics of the true believer; 2) that an effective technique of conversion consists basically in the inculcation and fixation of proclivities and responses indigenous to the frustrated mind.
 
-**PART 1. The Appeal of Mass Movements**
+## PART 1. The Appeal of Mass Movements
 
 It is a truism that many who join a rising revolutionary movement are attracted by the prospect of sudden and spectacular change in their conditions of life. A revolutionary movement is a conspicuous instrument of change.
 
@@ -47,7 +47,7 @@ Since all mass movements draw their adherents from the same types of humanity an
 
 Emigration offers some of the things the frustrated hope to find when they join a mass movement, namely, change and a chance for a new beginning. The same types who swell the ranks of a rising mass movement are also likely to avail themselves of a chance to emigrate. Thus migration can serve as a substitute for a mass movement.
 
-**PART 2. The Potential Converts**
+## PART 2. The Potential Converts
 
 There is a tendency to judge a race, a nation or any distinct group by its least worthy members. Though manifestly unfair, this tendency has some justification. For the character and destiny of a group are often determined by its inferior elements. The inert mass of a nation, for instance, is in its middle section. The decent, average people who do the nation’s work in cities and on the land are worked upon and shaped by minorities at both ends—the best and the worst. The superior individual, whether in politics, literature, science, commerce or industry, plays a large role in shaping a nation, but so do individuals at the other extreme—the failures, misfits, outcasts, criminals, and all those who have lost their footing, or never had one, in the ranks of respectable humanity. The game of history is usually played by the best and the worst over the heads of the majority in the middle. The reason that the inferior elements of a nation can exert a marked influence on its course is that they are wholly without reverence toward the present. They see their lives and the present as spoiled beyond remedy and they are ready to waste and wreck both: hence their recklessness and their will to chaos and anarchy. They also crave to dissolve their spoiled, meaningless selves in some soul-stirring spectacular communal undertaking—hence their proclivity for united action. Thus they are among the early recruits of revolutions, mass migrations and of religious, racial and chauvinist movements, and they imprint their mark upon these upheavals and movements which shape a nation’s character and history. The discarded and rejected are often the raw material of a nation’s future. The stone the builders reject becomes the cornerstone of a new world. A nation without dregs and malcontents is orderly, decent, peaceful and pleasant, but perhaps without the seed of things to come. It was not the irony of history that the undesired in the countries of Europe should have crossed an ocean to build a new world on this continent. Only they could do it.
 
@@ -111,7 +111,7 @@ Fervent patriotism as well as religious and revolutionary enthusiasm often serve
 
 An effective mass movement cultivates the idea of sin. It depicts the autonomous self not only as barren and helpless but also as vile. To confess and repent is to slough off one’s individual distinctness and separateness, and salvation is found by losing oneself in the holy oneness of the congregation.
 
-**PART 3. United Action and Self-Sacrifice**
+## PART 3. United Action and Self-Sacrifice
 
 The vigor of a mass movement stems from the propensity of its followers for united action and self-sacrifice. When we ascribe the success of a movement to its faith, doctrine, propaganda, leadership, ruthlessness and so on, we are but referring to instruments of unification and to means used to inculcate a readiness for self-sacrifice.
 
@@ -119,41 +119,41 @@ With few exceptions, any group or organization which tries, for one reason or an
 
 What ails the frustrated? It is the consciousness of an irremediably blemished self. Their chief desire is to escape that self—and it is this desire which manifests itself in a propensity for united action and self-sacrifice. The revulsion from an unwanted self, and the impulse to forget it, mask it, slough it off and lose it, produce both a readiness to sacrifice the self and a willingness to dissolve it by losing one’s individual distinctness in a compact collective whole.
 
-**Factors Promoting Self-sacrifice**
+### Factors Promoting Self-sacrifice
 
-**Identification with a Collective Whole**
+### Identification with a Collective Whole
 
 To ripen a person for self-sacrifice he must be stripped of his individual identity and distinctness. He must cease to be George, Hans, Ivan, or Tadao—a human atom with an existence bounded by birth and death. The most drastic way to achieve this end is by the complete assimilation of the individual into a collective body. The fully assimilated individual does not see himself and others as human beings. When asked who he is, his automatic response is that he is a German, a Russian, a Japanese, a Christian, a Moslem, a member of a certain tribe or family. He has no purpose, worth and destiny apart from his collective body; and as long as that body lives he cannot really die.
 
-**Make-Believe**
+### Make-Believe
 
 Dying and killing seem easy when they are part of a ritual, ceremonial, dramatic performance or game. There is need for some kind of make-believe in order to face death unflinchingly. To our real, naked selves there is not a thing on earth or in heaven worth dying for. It is only when we see ourselves as actors in a staged (and therefore unreal) performance that death loses its frightfulness and finality and becomes an act of make-believe and a theatrical gesture. It is one of the main tasks of a real leader to mask the grim reality of dying and killing by evoking in his followers the illusion that they are participating in a grandiose spectacle, a solemn or light-hearted dramatic performance.
 
-**Deprecation of the Present**
+### Deprecation of the Present
 
 At its inception a mass movement seems to champion the present against the past. It sees in the established institutions and privileges an encroachment of a senile, vile past on a virginal present. But, to pry loose the stranglehold of the past, there is need for utmost unity and unlimited self-sacrifice. This means that the people called upon to attack the past in order to liberate the present must be willing to give up enthusiastically any chance of ever tasting or inheriting the present. The absurdity of the proposition is obvious. Hence the inevitable shift in emphasis once the movement starts rolling. The present—the original objective—is shoved off the stage and its place taken by posterity—the future. More still: the present is driven back as if it were an unclean thing and lumped with the detested past. The battle line is now drawn between things that are and have been, and the things that are not yet. To lose one’s life is but to lose the present; and, clearly, to lose a defiled, worthless present is not to lose much.
 
 All mass movements deprecate the present by depicting it as a mean preliminary to a glorious future; a mere doormat on the threshold of the millennium. To a religious movement the present is a place of exile, a vale of tears leading to the heavenly kingdom; to a social revolution it is a mean way station on the road to Utopia; to a nationalist movement it is an ignoble episode preceding the final triumph.
 
-**“Things Which are Not”**
+### “Things Which are Not”
 
 One of the rules that emerges from a consideration of the factors that promote self-sacrifice is that we are less ready to die for what we have or are than for what we wish to have and to be. It is a perplexing and unpleasant truth that when men already have “something worth fighting for,” they do not feel like fighting. People who live full, worthwhile lives are not usually ready to die for their own interests nor for their country nor for a holy cause. Craving, not having, is the mother of a reckless giving of oneself. “Things which are not” are indeed mightier than “things that are.” In all ages men have fought most desperately for beautiful cities yet to be built and gardens yet to be planted.
 
 Dreams, visions and wild hopes are mighty weapons and realistic tools. The practical-mindedness of a true leader consists in recognizing the practical value of these tools. Yet this recognition usually stems from a contempt of the present which can be traced to a natural ineptitude in practical affairs. The successful businessman is often a failure as a communal leader because his mind is attuned to the “things that are” and his heart set on that which can be accomplished in “our time.” Failure in the management of practical affairs seems to be a qualification for success in the management of public affairs. And it is perhaps fortunate that some proud natures when suffering defeat in the practical world do not feel crushed but are suddenly fired with the apparently absurd conviction that they are eminently competent to direct the fortunes of the community and the nation.
 
-**Doctrine**
+### Doctrine
 
 The readiness for self-sacrifice is contingent on an imperviousness to the realities of life. He who is free to draw conclusions from his individual experience and observation is not usually hospitable to the idea of martyrdom. For self-sacrifice is an unreasonable act. It cannot be the end-product of a process of probing and deliberating. All active mass movements strive, therefore, to interpose a fact-proof screen between the faithful and the realities of the world. They do this by claiming that the ultimate and absolute truth is already embodied in their doctrine and that there is no truth nor certitude outside it. The facts on which the true believer bases his conclusions must not be derived from his experience or observation but from holy writ.
 
 Thus the effectiveness of a doctrine should not be judged by its profundity, sublimity or the validity of the truths it embodies, but by how thoroughly it insulates the individual from his self and the world as it is. What Pascal said of an effective religion is true of any effective doctrine: it must be “contrary to nature, to common sense and to pleasure.”
 
-**Fanaticism**
+### Fanaticism
 
 The estrangement from the self, which is a precondition for both plasticity and conversion, almost always proceeds in an atmosphere of intense passion. For not only is the stirring of passion an effective means of upsetting an established equilibrium between a man and his self, but it is also the inevitable by-product of such an upsetting. Passion is released even when the estrangement from the self is brought about by the most unemotional means. Only the individual who has come to terms with his self can have a dispassionate attitude toward the world. Once the harmony with the self is upset, and a man is impelled to reject, renounce, distrust or forget his self, he turns into a highly reactive entity. Like an unstable chemical radical he hungers to combine with whatever comes within his reach. He cannot stand apart, poised and self-sufficient, but has to attach himself wholeheartedly to one side or another.
 
-**Unifying Agents**
+### Unifying Agents
 
-**Hatred**
+### Hatred
 
 Hatred is the most accessible and comprehensive of all unifying agents. It pulls and whirls the individual away from his own self, makes him oblivious of his weal and future, frees him of jealousies and self-seeking. He becomes an anonymous particle quivering with a craving to fuse and coalesce with his like into one flaming mass. Heine suggests that what Christian love cannot do is effected by a common hatred. Mass movements can rise and spread without belief in a God, but never without belief in a devil. Usually the strength of a mass movement is proportionate to the vividness and tangibility of its devil.
 
@@ -163,11 +163,11 @@ Passionate hatred can give meaning and purpose to an empty life. Thus people hau
 
 The act of self-denial seems to confer on us the right to be harsh and merciless toward others. The impression somehow prevails that the true believer, particularly the religious individual, is a humble person. The truth is that the surrendering and humbling of the self breed pride and arrogance. The true believer is apt to see himself as one of the chosen, the salt of the earth, the light of the world, a prince disguised in meekness, who is destined to inherit this earth and the kingdom of heaven, too. He who is not of his faith is evil; he who will not listen shall perish. There is also this: when we renounce the self and become part of a compact whole, we not only renounce personal advantage but are also rid of personal responsibility. There is no telling to what extremes of cruelty and ruthlessness a man will go when he is freed from the fears, hesitations, doubts and the vague stirrings of decency that go with individual judgment. When we lose our individual independence in the corporateness of a mass movement, we find a new freedom—freedom to hate, bully, lie, torture, murder and betray without shame and remorse.
 
-**Imitation**
+### Imitation
 
 The chief burden of the frustrated is the consciousness of a blemished, ineffectual self, and their chief desire is to slough off the unwanted self and begin a new life. They try to realize this desire either by finding a new identity or by blurring and camouflaging their individual distinctness; and both these ends are reached by imitation. The less satisfaction we derive from being ourselves, the greater is our desire to be like others. We are therefore more ready to imitate those who are different from us than those nearly like us, and those we admire than those we despise.
 
-**Persuasion and Coercion**
+### Persuasion and Coercion
 
 The truth seems to be that propaganda on its own cannot force its way into unwilling minds; neither can it inculcate something wholly new; nor can it keep people persuaded once they have ceased to believe. It penetrates only into minds already open, and rather than instill opinion it articulates and justifies opinions already present in the minds of its recipients. The gifted propagandist brings to a boil ideas and passions already simmering in the minds of his hearers. He echoes their innermost feelings. Where opinion is not coerced, people can be made to believe only in what they already “know.”
 
@@ -179,7 +179,7 @@ There is hardly an example of a mass movement achieving vast proportions and a d
 
 Proselytizing is more a passionate search for something not yet found than a desire to bestow upon the world something we already have. It is a search for a final and irrefutable demonstration that our absolute truth is indeed the one and only truth. The proselytizing fanatic strengthens his own faith by converting others. The creed whose legitimacy is most easily challenged is likely to develop the strongest proselytizing impulse. It is doubtful whether a movement which does not profess some preposterous and patently irrational dogma can be possessed of that zealous drive which “must either win men or destroy the world.” It is also plausible that those movements with the greatest inner contradiction between profession and practice—that is to say with a strong feeling of guilt—are likely to be the most fervent in imposing their faith on others.
 
-**Leadership**
+### Leadership
 
 Once the stage is set, the presence of an outstanding leader is indispensable. Without him there will be no movement. The ripeness of the times does not automatically produce a mass movement, nor can elections, laws and administrative bureaus hatch one.
 
@@ -195,7 +195,7 @@ People whose lives are barren and insecure seem to show a greater willingness to
 
 The frustrated follow a leader less because of their faith that he is leading them to a promised land than because of their immediate feeling that he is leading them away from their unwanted selves. Surrender to a leader is not a means to an end but a fulfillment. Whither they are led is of secondary importance.
 
-**Action**
+### Action
 
 Action is a unifier. There is less individual distinctness in the genuine man of action—the builder, soldier, sportsman and even the scientist—than in the thinker or in one whose creativeness flows from communion with the self. The go-getter and the hustler have much in them that is abortive and undifferentiated. One is never really stripped for action unless one is stripped of a distinct and differentiated self. An active people thus tends toward uniformity.
 
@@ -203,13 +203,13 @@ Men of thought seldom work well together, whereas between men of action there is
 
 All mass movements avail themselves of action as a means of unification. The conflicts a mass movement seeks and incites serve not only to down its enemies but also to strip its followers of their distinct individuality and render them more soluble in the collective medium. Clearing of land, building of cities, exploration and large-scale industrial undertakings serve a similar purpose. Even mere marching can serve as a unifier. The Nazis made vast use of this preposterous variant of action.
 
-**Suspicion**
+### Suspicion
 
 The awareness of their individual blemishes and shortcomings inclines the frustrated to detect ill will and meanness in their fellow men. Self-contempt, however vague, sharpens our eyes for the imperfections of others. We usually strive to reveal in others the blemishes we hide in ourselves. Thus when the frustrated congregate in a mass movement, the air is heavy-laden with suspicion. There is prying and spying, tense watching and a tense awareness of being watched. The surprising thing is that this pathological mistrust within the ranks leads not to dissension but to strict conformity. Knowing themselves continually watched, the faithful strive to escape suspicion by adhering zealously to prescribed behavior and opinion. Strict orthodoxy is as much the result of mutual suspicion as of ardent faith.
 
 Collective unity is not the result of the brotherly love of the faithful for each other. The loyalty of the true believer is to the whole—the church, party, nation—and not to his fellow true believer. True loyalty between individuals is possible only in a loose and relatively free society. As Abraham was ready to sacrifice his only son to prove his devotion to Jehovah, so must the fanatical Nazi or Communist be ready to sacrifice relatives and friends to demonstrate his total surrender to the holy cause. The active mass movement sees in the personal ties of blood and friendship a diminution of its own corporate cohesion. Thus mutual suspicion within the ranks is not only compatible with corporate strength, but, one might almost say, a precondition of it.
 
-**PART 4. Beginning and End**
+## PART 4. Beginning and End
 
 Mass movements do not usually rise until the prevailing order has been discredited. The discrediting is not an automatic result of the blunders and abuses of those in power, but the deliberate work of men of words with a grievance. Where the articulate are absent or without a grievance, the prevailing dispensation, though incompetent and corrupt, may continue in power until it falls and crumbles of itself. On the other hand, a dispensation of undoubted merit and vigor may be swept away if it fails to win the allegiance of the articulate minority.
 
@@ -231,7 +231,7 @@ Still, he cannot help being awed by the tremendous achievements of faith and spo
 
 In the hands of a man of action the mass movement ceases to be a refuge from the agonies and burdens of an individual existence and becomes a means of self-realization for the ambitious. The irresistible attraction which the movement now exerts on those preoccupied with their individual careers is a clear-cut indication of the drastic change in its character and of its reconciliation with the present. It is also clear that the influx of these career men accelerates the transformation of the movement into an enterprise.
 
-**Good and Bad Mass Movements**
+### Good and Bad Mass Movements
 
 The mass movement leader who benefits his people and humanity knows not only how to start a movement, but, like Gandhi, when to end its active phase. Where a mass movement preserves for generations the pattern shaped by its active phase (as in the case of the militant church through the Middle Ages), or where by a successive accession of fanatical proselytes its orthodoxy is continually strengthened (as in the case of Islam), the result is an era of stagnation—a dark age. Whenever we find a period of genuine creativeness associated with a mass movement, it is almost always a period which either precedes or, more often, follows the active phase. Provided the active phase of the movement is not too long and does not involve excessive bloodletting and destruction, its termination, particularly when it is abrupt, often releases a burst of creativeness.
 

@@ -18,7 +18,7 @@ Ask better questions, sweet pea. The fuck is your life. Answer it. Yours, Sugar
 
 Compassion isn't about solutions. It's about giving all the love that you've got.
 
-There's a line by the Italian writer Carlo Levi that I think is apt here: "The future has an ancient heart." I love it because it expresses with such grace and economy what is certainly true--that who we become is born of who we most primitively are; that we both know and cannot possibly know what it is we've yet to make manifest in our lives.
+There's a line by the Italian writer Carlo Levi that I think is apt here: "The future has an ancient heart." I love it because it expresses with such grace and economy what is certainly true—that who we become is born of who we most primitively are; that we both know and cannot possibly know what it is we've yet to make manifest in our lives.
 
 There is no why. You don't have a right to the cards you believe you should have been dealt. You have an obligation to play the hell out of the ones you're holding.
 

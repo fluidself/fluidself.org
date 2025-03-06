@@ -6,7 +6,7 @@ title: 'The Art of Living: The Classical Mannual on Virtue, Happiness, and Effec
   - by Sharon Lebell'
 ---
 
-**THE MANUAL**
+### THE MANUAL
 
 **Know What You Can Control and What You Can't**
 
@@ -86,7 +86,7 @@ We are like actors in a play. The divine will has assigned us our roles in life 
 
 **Everything Happens for a Good Reason**
 
-All events contain an advantage for you--if you look for it!
+All events contain an advantage for you—if you look for it!
 
 **Happiness Can Only Be Found Within**
 
@@ -130,7 +130,7 @@ Cultivate the habit of surveying and testing a prospective action before underta
 
 **Our Duties Are Revealed by Our Relations with-One Another**
 
-Our duties naturally emerge from such fundamental relations as our families, neighborhoods, workplaces, our state or nation. Make it your regular habit to consider your roles--parent, child, neighbor, citizen, leader--and the natural duties that arise from them. Once you know who you are and to whom you are linked, you will know what to do. When you are faithfully occupied with performing the acts of a wise and decent person, seeking to conform your intentions and acts to the divine will, you do not feel victimized by the words or deeds of others. At worst, those words and deeds will seem amusing or pitiable.
+Our duties naturally emerge from such fundamental relations as our families, neighborhoods, workplaces, our state or nation. Make it your regular habit to consider your roles—parent, child, neighbor, citizen, leader—and the natural duties that arise from them. Once you know who you are and to whom you are linked, you will know what to do. When you are faithfully occupied with performing the acts of a wise and decent person, seeking to conform your intentions and acts to the divine will, you do not feel victimized by the words or deeds of others. At worst, those words and deeds will seem amusing or pitiable.
 
 **The Essence of Faithfulness**
 
@@ -156,7 +156,7 @@ First and foremost, think before you speak to make sure you are speaking with go
 
 **Be Careful About the Company You Keep**
 
-If true wisdom is your object and you are sincere, you will have work to do on yourself. You will have to overcome many unhealthy cravings and knee-jerk reactions. You will have to reconsider whom you associate with. Are your friends and associates worthy people? Does their influence--their habits, values, and behavior--elevate you or reinforce the slovenly habits from which you seek escape? Regularly ask yourself, "How are my thoughts, words, and deeds affecting my friends, my spouse, my neighbor, my child, my employer, my subordinates, my fellow citizens? Am I doing my part to contribute to the spiritual progress of all with whom I come in contact?" Make it your business to draw out the best in others by being an exemplar yourself.
+If true wisdom is your object and you are sincere, you will have work to do on yourself. You will have to overcome many unhealthy cravings and knee-jerk reactions. You will have to reconsider whom you associate with. Are your friends and associates worthy people? Does their influence—their habits, values, and behavior—elevate you or reinforce the slovenly habits from which you seek escape? Regularly ask yourself, "How are my thoughts, words, and deeds affecting my friends, my spouse, my neighbor, my child, my employer, my subordinates, my fellow citizens? Am I doing my part to contribute to the spiritual progress of all with whom I come in contact?" Make it your business to draw out the best in others by being an exemplar yourself.
 
 **Don't Defend Your Reputation or Intentions**
 
@@ -216,9 +216,9 @@ There is a big difference between saying valuable things and doing valuable thin
 
 **Start Living Your Ideals**
 
-Put your principles into practice--now. Stop the excuses and the procrastination. This is your life! You aren't a child anymore. The sooner you set yourself to your spiritual program, the happier you will be. The longer you wait, the more you will be vulnerable to mediocrity and feel filled with shame and regret, because you know you are capable of better. From this instant on, vow to stop disappointing yourself. Separate yourself from the mob. Decide to be extraordinary and do what you need to do--now.
+Put your principles into practice—now. Stop the excuses and the procrastination. This is your life! You aren't a child anymore. The sooner you set yourself to your spiritual program, the happier you will be. The longer you wait, the more you will be vulnerable to mediocrity and feel filled with shame and regret, because you know you are capable of better. From this instant on, vow to stop disappointing yourself. Separate yourself from the mob. Decide to be extraordinary and do what you need to do—now.
 
-**ESSENTIAL TECHINGS ON VIRTUE, HAPPINESS, AND TRANQUILITY**
+### ESSENTIAL TECHINGS ON VIRTUE, HAPPINESS, AND TRANQUILITY
 
 **The Real Purpose of Philosophy**
 
@@ -226,7 +226,7 @@ Philosophy's purpose is to illuminate the ways our soul has been infected by uns
 
 **The First Step**
 
-The first step to living wisely is to relinquish self-conceit. See the delusional folly in being a nervous know-it-all whose giddy mind is always prattling on about its knee-jerk impressions of events and other people, forcing current experiences into previously formed categories: "Oh yes, this thing here is just like such and such." Behold the world fresh--as it is, on its own terms--through the eyes of a beginner. To know that you do not know and to be willing to admit that you do now know without sheepishly apologizing is real strength and sets the stage for learning and progress in any endeavor.
+The first step to living wisely is to relinquish self-conceit. See the delusional folly in being a nervous know-it-all whose giddy mind is always prattling on about its knee-jerk impressions of events and other people, forcing current experiences into previously formed categories: "Oh yes, this thing here is just like such and such." Behold the world fresh—as it is, on its own terms—through the eyes of a beginner. To know that you do not know and to be willing to admit that you do now know without sheepishly apologizing is real strength and sets the stage for learning and progress in any endeavor.
 
 **Be Suspicious of Convention**
 

@@ -5,7 +5,7 @@ slug: justice
 title: "Justice: What's The Right Thing to Do? - by Michael J. Sandel"
 ---
 
-**1. DOING THE RIGHT THING**
+### 1. DOING THE RIGHT THING
 
 Thomas Sowell, a free-market economist, called price gouging an “emotionally powerful but economically meaningless expression that most economists pay no attention to, because it seems too confused to bother with.” Writing in the Tampa Tribune, Sowell sought to explain “how ‘price gouging’ helps Floridians.” Charges of price gouging arise “when prices are significantly higher than what people have been used to,” Sowell wrote. But “the price levels that you happen to be used to” are not morally sacrosanct. They are no more “special or ‘fair’ than other prices” that market conditions—including those prompted by a hurricane—may bring about.
 
@@ -17,7 +17,7 @@ So when we probe our reactions to price gouging, we find ourselves pulled in two
 
 According to the textbook account, this question divides ancient and modern political thought. In one important respect, the textbook is right. Aristotle teaches that justice means giving people what they deserve. And in order to determine who deserves what, we have to determine what virtues are worthy of honor and reward. Aristotle maintains that we can’t figure out what a just constitution is without first reflecting on the most desirable way of life. For him, law can’t be neutral on questions of the good life. By contrast, modern political philosophers—from Immanuel Kant in the eighteenth century to John Rawls in the twentieth century—argue that the principles of justice that define our rights should not rest on any particular conception of virtue, or of the best way to live. Instead, a just society respects each person’s freedom to choose his or her own conception of the good life. So you might say that ancient theories of justice start with virtue, while modern theories start with freedom.
 
-**2. THE GREATEST HAPPINESS PRINCIPLE / UTILITARIANISM**
+### 2. THE GREATEST HAPPINESS PRINCIPLE / UTILITARIANISM
 
 Is morality a matter of counting lives and weighing costs and benefits, or are certain moral duties and human rights so fundamental that they rise above such calculations? And if certain rights are fundamental in this way—be they natural, or sacred, or inalienable, or categorical—how can we identify them? And what makes them fundamental? Jeremy Bentham (1748–1832) left no doubt where he stood on this question. He heaped scorn on the idea of natural rights, calling them “nonsense upon stilts.”
 
@@ -29,13 +29,13 @@ Bentham, an English moral philosopher and legal reformer, founded the doctrine o
 
 Utilitarians see our tendency to recoil at placing a monetary value on human life as an impulse we should overcome, a taboo that obstructs clear thinking and rational social choice. For critics of utilitarianism, however, our hesitation points to something of moral importance—the idea that it is not possible to measure and compare all values and goods on a single scale.
 
-**John Stuart Mill**
+### John Stuart Mill
 
 Mill’s writings can be read as a strenuous attempt to reconcile individual rights with the utilitarian philosophy he inherited from his father and adopted from Bentham. His book _On Liberty_ (1859) is the classic defense of individual freedom in the English-speaking world. Its central principle is that people should be free to do whatever they want, provided they do no harm to others. Government may not interfere with individual liberty in order to protect a person from himself, or to impose the majority’s beliefs about how best to live. The only actions for which a person is accountable to society, Mill argues, are those that affect others. As long as I am not harming anyone else, my “independence is, of right, absolute. Over himself, over his own body and mind, the individual is sovereign.” This unyielding account of individual rights would seem to require something stronger than utility as its justification. Mill disagrees. He insists that the case for individual liberty rests entirely on utilitarian considerations: Mill thinks we should maximize utility, not case by case, but in the long run. And over time, he argues, respecting individual liberty will lead to the greatest human happiness. Allowing the majority to silence dissenters or censor free-thinkers might maximize utility today, but it will make society worse off—less happy—in the long run.
 
 Why should we assume that upholding individual liberty and the right to dissent will promote the welfare of society in the long run? Mill offers several reasons: The dissenting view may turn out to be true, or partially true, and so offer a corrective to prevailing opinion. And even if it is not, subjecting prevailing opinion to a vigorous contest of ideas will prevent it from hardening into dogma and prejudice. Finally, a society that forces its members to embrace custom and convention is likely to fall into a stultifying conformity, depriving itself of the energy and vitality that prompt social improvement.
 
-**3. DO WE OWN OURSELVES? / LIBERTARIANISM**
+### 3. DO WE OWN OURSELVES? / LIBERTARIANISM
 
 Libertarians favor unfettered markets and oppose government regulation, not in the name of economic efficiency but in the name of human freedom. Their central claim is that each of us has a fundamental right to liberty—the right to do whatever we want with the things we own, provided we respect other people’s rights to do the same.
 
@@ -59,11 +59,11 @@ Those who favor the redistribution of income through taxation offer various obje
 
 **Objection 5: Jordan is lucky.** He is fortunate to possess the talent to excel at basketball, and lucky to live in a society that prizes the ability to soar through the air and put a ball through a hoop. No matter how hard he has worked to develop his skills, Jordan cannot claim credit for his natural gifts, or for living at a time when basketball is popular and richly rewarded. These things are not his doing. So it cannot be said that he is morally entitled to keep all the money his talents reap. The community does him no injustice by taxing his earnings for the public good. Libertarian reply: This objection questions whether Jordan’s talents are really his. But this line of argument is potentially dangerous. If Jordan is not entitled to the benefits that result from the exercise of his talents, then he doesn’t really own them. And if he doesn’t own his talents and skills, then he doesn’t really own himself. But if Jordan doesn’t own himself, who does? Are you sure you want to attribute to the political community a property right in its citizens?
 
-**4. HIRED HELP / MARKETS AND MORALS**
+### 4. HIRED HELP / MARKETS AND MORALS
 
 The case for free markets typically rests on two claims—one about freedom, the other about welfare. The first is the libertarian case for markets. It says that letting people engage in voluntary exchanges respects their freedom; laws that interfere with the free market violate individual liberty. The second is the utilitarian argument for markets. It says that free markets promote the general welfare; when two people make a deal, both gain. As long as their deal makes them better off without hurting anyone else, it must increase overall utility. Market skeptics question these claims. They argue that market choices are not always as free as they may seem. And they argue that certain goods and social practices are corrupted or degraded if bought and sold for money.
 
-**5. WHAT MATTERS IS THE MOTIVE / IMMANUEL KANT**
+### 5. WHAT MATTERS IS THE MOTIVE / IMMANUEL KANT
 
 Kant’s emphasis on human dignity informs present-day notions of universal human rights. More important, his account of freedom figures in many of our contemporary debates about justice.
 
@@ -95,7 +95,7 @@ Kant offers several versions or formulations of the categorical imperative, whic
 
 **Categorical imperative II: Treat persons as ends** “Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end.”
 
-**Questions for Kant**
+### Questions for Kant
 
 **QUESTION 1:** Kant’s categorical imperative tells us to treat everyone with respect, as an end in itself. Isn’t this pretty much the same as the Golden Rule? (“Do unto others as you would have them do unto you.”) ANSWER: No. The Golden Rule depends on contingent facts about how people would like to be treated. The categorical imperative requires that we abstract from such contingencies and respect persons as rational beings, regardless of what they might want in a particular situation.
 
@@ -105,7 +105,7 @@ Kant offers several versions or formulations of the categorical imperative, whic
 
 Whether I lie to the murderer at the door or offer him a clever evasion, my intention is to mislead him into thinking that my friend is not hiding in my house. And on Kant’s moral theory, it’s the intention, or motive, that matters. The difference, I think, is this: A carefully crafted evasion pays homage to the duty of truth-telling in a way that an outright lie does not. Anyone who goes to the bother of concocting a misleading but technically true statement when a simple lie would do expresses, however obliquely, respect for the moral law. A misleading truth includes two motives, not one. If I simply lie to the murderer, I act out of one motive—to protect my friend from harm. If I tell the murderer that I recently saw my friend at the grocery store, I act out of two motives—to protect my friend and at the same time to uphold the duty to tell the truth. In both cases, I am pursuing an admirable goal, that of protecting my friend. But only in the second case do I pursue this goal in a way that accords with the motive of duty.
 
-**6. THE CASE FOR EQUALITY / JOHN RAWLS**
+### 6. THE CASE FOR EQUALITY / JOHN RAWLS
 
 In _A Theory of Justice_ (1971), he argues that the way to think about justice is to ask what principles we would agree to in an initial situation of equality. Rawls reasons as follows: Suppose we gathered, just as we are, to choose the principles to govern our collective life—to write a social contract. What principles would we choose?
 
@@ -125,11 +125,11 @@ He shows that a leveling equality is not the only alternative to a meritocratic 
 
 Although the difference principle does not require an equal distribution of income and wealth, its underlying idea expresses a powerful, even inspiring vision of equality: The difference principle represents, in effect, an agreement to regard the distribution of natural talents as a common asset and to share in the benefits of this distribution whatever it turns out to be. Those who have been favored by nature, whoever they are, may gain from their good fortune only on terms that improve the situation of those who have lost out. The naturally advantaged are not to gain merely because they are more gifted, but only to cover the costs of training and education and for using their endowments in ways that help the less fortunate as well. No one deserves his greater natural capacity nor merits a more favorable starting place in society. But it does not follow that one should eliminate these distinctions. There is another way to deal with them. The basic structure of society can be arranged so that these contingencies work for the good of the least fortunate.
 
-**Objection 1: Incentives**
+### Objection 1: Incentives
 
 If the talented can benefit from their talents only on terms that help the least well off, what if they decide to work less, or not to develop their skills in the first place? If tax rates are high or pay differentials small, won’t talented people who might have been surgeons go into less demanding lines of work? Won’t Michael Jordan work less hard on his jump shot, or retire sooner than he otherwise might? Rawls’s reply is that the difference principle permits income inequalities for the sake of incentives, provided the incentives are needed to improve the lot of the least advantaged. Paying CEOs more or cutting taxes on the wealthy simply to increase the gross domestic product would not be enough. But if the incentives generate economic growth that makes those at the bottom better off than they would be with a more equal arrangement, then the difference principle permits them. It is important to notice that allowing wage differences for the sake of incentives is different from saying that the successful have a privileged moral claim to the fruits of their labor. If Rawls is right, income inequalities are just only insofar as they call forth efforts that ultimately help the disadvantaged, not because CEOs or sports stars deserve to make more money than factory workers.
 
-**Objection 2: Effort**
+### Objection 2: Effort
 
 What about effort? Rawls rejects the meritocratic theory of justice on the grounds that people’s natural talents are not their own doing. But what about the hard work people devote to cultivating their talents? Bill Gates worked long and hard to develop Microsoft. Michael Jordan put in endless hours honing his basketball skills. Notwithstanding their talents and gifts, don’t they deserve the rewards their efforts bring? Rawls replies that even effort may be the product of a favorable upbringing. “Even the willingness to make an effort, to try, and so to be deserving in the ordinary sense is itself dependent upon happy family and social circumstances.” Like other factors in our success, effort is influenced by contingencies for which we can claim no credit. “It seems clear that the effort a person is willing to make is influenced by his natural abilities and skills and the alternatives open to him. The better endowed are more likely, other things equal, to strive conscientiously ..“
 
@@ -143,7 +143,7 @@ Rawls rejects moral desert as the basis for distributive justice on two grounds.
 
 So, while we are entitled to the benefits that the rules of the game promise for the exercise of our talents, it is a mistake and a conceit to suppose that we deserve in the first place a society that values the qualities we have in abundance.
 
-**7. ARGUING AFFIRMATIVE ACTION**
+### 7. ARGUING AFFIRMATIVE ACTION
 
 One reason for taking race and ethnicity into account is to correct for possible bias in standardized tests.
 
@@ -161,7 +161,7 @@ On this view, if my grades, test scores, and other measures of academic promise 
 
 Here lies the deep though contested claim at the heart of the diversity argument for affirmative action: Admission is not an honor bestowed to reward superior merit or virtue. Neither the student with high test scores nor the student who comes from a disadvantaged minority group morally deserves to be admitted. Her Admission is justified insofar as it contributes to the social purpose the university serves, not because it rewards the student for her merit or virtue, independently defined. Dworkin’s point is that justice in admissions is not a matter of rewarding merit or virtue; we can know what counts as a fair way of allocating seats in the freshman class only once the university defines its mission. The mission defines the relevant merits, not the other way around. Dworkin’s account of justice in university admissions runs parallel to Rawls’s account of justice in income distribution: It is not a matter of moral desert.
 
-**8. WHO DESERVES WHAT? / ARISTOTLE**
+### 8. WHO DESERVES WHAT? / ARISTOTLE
 
 Central to Aristotle’s political philosophy are two ideas:
 
@@ -179,7 +179,7 @@ But why is it necessary to live in a polis to live a virtuous life? Why can’t 
 
 We can now see more clearly why, for Aristotle, politics is not one calling among others, but is essential to the good life. First, the laws of the polis inculcate good habits, form good character, and set us on the way to civic virtue. Second, the life of the citizen enables us to exercise capacities for deliberation and practical wisdom that would otherwise lie dormant. This is not the kind of thing we can do at home. We can sit on the sidelines and wonder what policies we would favor if we had to decide. But this is not the same as sharing in significant action and bearing responsibility for the fate of the community as a whole. We become good at deliberating only by entering the arena, weighing the alternatives, arguing our case, ruling and being ruled—in short, by being citizens. Aristotle’s vision of citizenship is more elevated and strenuous than ours. For him, politics is not economics by other means. Its purpose is higher than maximizing utility or providing fair rules for the pursuit of individual interests. It is, instead, an expression of our nature, an occasion for the unfolding of our human capacities, an essential aspect of the good life.
 
-**9. WHAT DO WE OWE ONE ANOTHER? / DILEMMAS OF LOYALTY**
+### 9. WHAT DO WE OWE ONE ANOTHER? / DILEMMAS OF LOYALTY
 
 The principled objection to official apologies is not easy to dismiss. It rests on the notion that we are responsible only for what we ourselves do, not for the actions of other people, or for events beyond our control. We are not answerable for the sins of our parents or our grandparents or, for that matter, our compatriots. But this puts the matter negatively. The principled objection to official apologies carries weight because it draws on a powerful and attractive moral idea. We might call it the idea of “moral individualism.” The doctrine of moral individualism does not assume that people are selfish. It is rather a claim about what it means to be free. For the moral individualist, to be free is to be subject only to obligations I voluntarily incur; whatever I owe others, I owe by virtue of some act of consent—a choice or a promise or an agreement I have made, be it tacit or explicit. The notion that my responsibilities are limited to the ones I take upon myself is a liberating one. It assumes that we are, as moral agents, free and independent selves, unbound by prior moral ties, capable of choosing our ends for ourselves. Not custom or tradition or inherited status, but the free choice of each individual is the source of the only moral obligations that constrain us. You can see how this vision of freedom leaves little room for collective responsibility, or for a duty to bear the moral burden of historic injustices perpetrated by our predecessors. If I promised my grandfather to pay his debts or apologize for his sins, that would be one thing. My duty to carry out the recompense would be an obligation founded on consent, not an obligation arising from a collective identity extending across generations. Absent some such promise, the moral individualist can make no sense of a responsibility to atone for the sins of my predecessors. The sins, after all, were theirs, not mine.
 
@@ -195,7 +195,7 @@ If the voluntarist conception of the person is too spare—if all our obligation
 
 So if the liberal account of obligation is right, the average citizen has no special obligations to his or her fellow citizens, beyond the universal, natural duty not to commit injustice. From the standpoint of the narrative conception of the person, the liberal account of obligation is too thin. It fails to account for the special responsibilities we have to one another as fellow citizens. More than this, it fails to capture those loyalties and responsibilities whose moral force consists partly in the fact that living by them is inseparable from understanding ourselves as the particular persons we are—as members of this family or nation or people; as bearers of that history; as citizens of this republic. On the narrative account, these identities are not contingencies we should set aside when deliberating about morality and justice; they are part of who we are, and so rightly bear on our moral responsibilities. So one way of deciding between the voluntarist and narrative conceptions of the person is to ask if you think there is a third category of obligations—call them obligations of solidarity, or membership—that can’t be explained in contractarian terms. Unlike natural duties, obligations of solidarity are particular, not universal; they involve moral responsibilities we owe, not to rational beings as such, but to those with whom we share a certain history. But unlike voluntary obligations, they do not depend on an act of consent. Their moral weight derives instead from the situated aspect of moral reflection, from a recognition that my life story is implicated in the stories of others.
 
-**THREE CATEGORIES OF MORAL RESPONSIBILITY**
+### THREE CATEGORIES OF MORAL RESPONSIBILITY
 
 1. Natural duties: universal; don’t require consent
 
@@ -213,7 +213,7 @@ The claims of solidarity seen in these examples are familiar features of our mor
 
 The prospect of bringing conceptions of the good life into public discourse about justice and rights may strike you as less than appealing—even frightening. After all, people in pluralist societies such as ours disagree about the best way to live. Liberal political theory was born as an attempt to spare politics and law from becoming embroiled in moral and religious controversies. The philosophies of Kant and Rawls represent the fullest and clearest expression of that ambition. But this ambition cannot succeed. Many of the most hotly contested issues of justice and rights can’t be debated without taking up controversial moral and religious questions. In deciding how to define the rights and duties of citizens, it’s not always possible to set aside competing conceptions of the good life. And even when it’s possible, it may not be desirable. Asking democratic citizens to leave their moral and religious convictions behind when they enter the public realm may seem a way of ensuring toleration and mutual respect. In practice, however, the opposite can be true. Deciding important public questions while pretending to a neutrality that cannot be achieved is a recipe for backlash and resentment. A politics emptied of substantive moral engagement makes for an impoverished civic life. It is also an open invitation to narrow, intolerant moralisms. Fundamentalists rush in where liberals fear to tread. If our debates about justice unavoidably embroil us in substantive moral questions, it remains to ask how these arguments can proceed. Is it possible to reason about the good in public without lapsing into wars of religion? What would a more morally engaged public discourse look like, and how would it differ from the kind of political argument to which we’ve become accustomed? These are not merely philosophical questions. They lie at the heart of any attempt to reinvigorate political discourse and renew our civic life.
 
-**10. JUSTICE AND THE COMMON GOOD**
+### 10. JUSTICE AND THE COMMON GOOD
 
 Kennedy’s view of religion as a private, not public, affair reflected more than the need to disarm anti-Catholic prejudice. It reflected a public philosophy that would come to full expression during the 1960s and ’70s—a philosophy that held that government should be neutral on moral and religious questions, so that each individual could be free to choose his or her own conception of the good life. Both major political parties appealed to the idea of neutrality, but in different ways. Generally speaking, Republicans invoked the idea in economic policy, while Democrats applied it to social and cultural issues.
 

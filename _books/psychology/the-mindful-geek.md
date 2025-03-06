@@ -9,7 +9,7 @@ So what are the essential aspects that make meditation meditation? In my opinion
 
 When you use meditation to become more aware of what you’re feeling, the unconscious or semi-conscious flavors of emotional experience begin to come into focus. Your own motivations and drives become clearer. Not just in a conceptual way, but in a way you can physically detect, moment by moment, throughout your day. This is the essence of emotional intelligence, and it is life changing.
 
-**What Is Mindfulness?**
+### What Is Mindfulness?
 
 In short, mindfulness is a type of meditation, a subset of meditation. Specifically, mindfulness means paying attention to your present-moment sensory experience in a nonjudgmental manner.
 
@@ -17,7 +17,7 @@ Now that we know what mindfulness means, we can upgrade our definition of medita
 
 In short, the human mind is a wandering mind, and a wandering mind is an unhappy mind. There are many ways of feeling better, but one of the most powerful is simply to concentrate on what you are doing in the moment. Concentrating on what you are doing is, of course, the essence of mindfulness practice. As you sit more and more, you’ll probably notice that you’re feeling better more often.
 
-**Labeling**
+### Labeling
 
 labeling is a great ally in meditation and is a standard feature of mindfulness practice. Distracted thoughts pull your attention away from the object of your meditation, but labeling helps to focus your attention on it. So even though you’re technically creating extra words in your head, these words are helping you to remain mindful.
 
@@ -40,11 +40,11 @@ Let’s look at how to label correctly and how to avoid the most common pitfalls
 
 The secret to being able to stay sitting when you feel like you just can’t stay sitting is this: meditate on the reaction that’s trying to catapult you out of your seat. That is, if you’re feeling upset, see if you can find where that upset is manifesting in your body. It might be a strong feeling of tension in your belly, or a sharp tightness in your throat. Focus your awareness on that spot, investigating it in detail. At the same time, try to be as accepting of it as possible. With practice, meditating on the reaction to the meditation can significantly deepen your meditation, as well as keep you seated for the allotted time.
 
-**The Three Elements**
+### The Three Elements
 
 No matter what meditation technique you’re using, it will probably be composed of some ratio of these three core elements. **Concentration** means being able to train your attention on whatever object you choose, and sustain it there over time. **Sensory clarity** means having a lot of resolution of the details of whatever object you’re focusing on. **Acceptance** means having an attitude of openness, curiosity, and nonjudgment with whatever is happening in the moment.
 
-**The Meditation Algorithm**
+### The Meditation Algorithm
 
 This algorithm assumes that you’ve already sat down, relaxed, and gotten all set to meditate. It also assumes that you know which meditation technique you’re going to practice. Once you are ready to actually meditate, the practice is expressed by this algorithm:
 
@@ -55,7 +55,7 @@ This algorithm assumes that you’ve already sat down, relaxed, and gotten all s
 5. Continue focusing, contacting, and accepting for about 5 seconds.
 6. Repeat.
 
-**Beyond High Hopes**
+### Beyond High Hopes
 
 A few simple brain hacks can nudge your meditation tendency over the line to a sustainable, lifelong practice. Here are seven methods that do just that:
 
@@ -73,7 +73,7 @@ A few simple brain hacks can nudge your meditation tendency over the line to a s
 
 - **Once a Week, Consciously List the Goals and Benefits of Mediation Practice:** I recommend journaling about why you’re meditating (the reasons may change over time) and what concrete benefits you’ve gotten from meditation recently.
 
-**Meditation in Life**
+### Meditation in Life
 
 With a little bit of adaptability, you can gain valuable and effective meditation practice while watching the clock hands crawl at the DMV. Do simple (and safe) meditation exercises while you’re stuck in traffic or waiting at the airport. Every formerly wasted moment can become a part of your mindfulness training regimen. Here are some possibilities:
 
@@ -85,7 +85,7 @@ With a little bit of adaptability, you can gain valuable and effective meditatio
 
 - **Driving —** This is another externally focused practice that you can do while in the car. It combines the listening practice above with intentional seeing. Not only do you listen to what’s going on around you, you also concentrate on the visual activity of driving. You pay close attention to the relevant details of the road, the signage, the movement of the other cars around you, and so forth.
 
-**Acceptance**
+### Acceptance
 
 If I had to choose just one thing out of this whole book, a single practice to give someone to most improve their life, it would be the practice of acceptance. In my opinion, acceptance has the most power to positively impact your sense of wellbeing. You can practice acceptance as part of meditation and also as you walk around in daily life.
 
@@ -97,7 +97,7 @@ P x R = S, or “pain times resistance equals suffering.” This means that your
 
 Remember that by “accept” I don’t mean that you believe that you deserve the pain, or that it’s a good thing, or that you shouldn’t palliate it given the chance. It’s about relaxing and letting go of all resistance to the pain, whether that resistance is mental or physical. Let the pain be there, don’t try to fight it. You may be surprised how effective this is.
 
-**Reach Out with Your Feelings**
+### Reach Out with Your Feelings
 
 From an evolutionary perspective of Darwin’s Dharma, emotions evolved to help us survive and thrive, and they do this by motivating and directing our behaviors. That is, they act like a guidance system for the human organism.
 
@@ -119,7 +119,7 @@ You wouldn’t actually want to feel happy all of the time. If emotions comprise
 
 By cultivating this space between stimulus and response, you gain something every human being ever born has wanted: the ability to choose whether to respond to an emotional urge or not. The emotions haven’t changed; you’re not submerging yourself in some numbing sea of bliss. Instead, you feel everything very keenly, but have the ability to not act on it if you don’t want to.
 
-**Coping with Too Much Feeling**
+### Coping with Too Much Feeling
 
 There are two basic strategies for working with overwhelming emotions in the body: focus on a neutral spot in the body, or focus on something external.
 
@@ -127,7 +127,7 @@ There are two basic strategies for working with overwhelming emotions in the bod
 
 - **Focus on Something External:** When the body is too emotionally hot, a second good idea is to meditate on something outside the body. External sights and sounds are powerful meditation objects, especially when they are interesting, beautiful, or compelling in some way.
 
-**Meditation and Meaning**
+### Meditation and Meaning
 
 Psychologist Martin Seligman, a founder of the positive psychology movement, created a five-part definition of “flourishing,” dubbed PERMA, and posits these five qualities:
 
@@ -145,13 +145,13 @@ As you meditate on body sensations, you eventually get better at knowing what yo
 
 Many of us have a list of things we can rattle off at will if somebody asks us about what we love or what we think is important. But when did you make that list, and when was the last time you checked to see if it was still true? Do you really feel that passionately about the things you did ten years ago? Did you ever really care about it, or did it just seem like the right thing to care about? The only way to know is to think about it and feel what happens in your body. If the feeling of excitement, energy, or a tingling sensation is there, that is the sign that you still find this important. If not—or if you actually feel some subtle deflation, let down, or even negative feelings—maybe your interest in it is taking a momentary break, or you’ve moved on to other things. Give yourself the room to change, grow, and discover new interests. There’s no law that what is meaningful to you has to stay the same from day to day, year to year.
 
-**Concentration and Flow**
+### Concentration and Flow
 
 In between anxiety when the task is too hard, and boredom when it’s too easy, there is a Goldilocks zone for the flow state; a condition of a task that is just right. If you’re involved in doing something that falls into your Goldilocks zone, what we might call the “flow channel,” then flow can take place. The secret, then, to good concentration (according to Csikszentmihalyi) is to learn how to make any task you are doing just the right level of difficulty for you.
 
 Meditation can expand the Goldilocks zone for achieving a flow state. Because meditation functions as training in concentration, it gets harder and harder to get either bored or anxious. Remember that the formula for concentration is simply to bring your attention back to a focus object repeatedly. That is both the essence and the totality of concentration practice. Having iterated through this in meditation for a while, you can focus pleasurably on things you would’ve otherwise found really boring, and also on things that are hard enough to have put you off before.
 
-**Distraction-free Living**
+### Distraction-free Living
 
 Concentration is the opposite of distraction. Distraction dilutes brainpower, frazzles the nerves, and results in non-optimum outcomes. You end up stressed out and spun around, and don’t even get the satisfaction of a job well done.
 
@@ -167,13 +167,13 @@ The cure is to do one thing at a time. That’s it in a nutshell. Do just what y
 
 Remember that these tips don’t just count for work. If you’re playing a game, play the game. If you’re making love, make love. If you’re walking in nature, just walk and enjoy.
 
-**Learning to Listen**
+### Learning to Listen
 
 The first step in learning to listen is to learn to be quiet. Make a friend of silence.
 
 Try this experiment: When talking with someone, play a mental game of waiting one full second before responding to anything they have said. That’s it, just one second of silence, no matter what you’re talking about. This is a long, long time in a normal conversation. Don’t think about what you are going to say, think about what the other person has just said. Give it one long, delicious second of your full concentrated, attention. Then respond, saying whatever it is you have to say. Make sure to maintain eye contact so that they know you’re listening to what they’re saying and considering it.
 
-**Sensory Clarity**
+### Sensory Clarity
 
 The secret is to begin investigating more and more minute levels of detail in sensation. To increase the resolution of your senses, so to speak. In the realm of the body, this means to get even more curious about the fine details of body sensations. There are several ways to work on cultivating this.
 
@@ -189,7 +189,7 @@ A variation on this is attempting to feel more and more subtle sensations. It’
 
 There is a fifth method that works in a very different way to boost sensory clarity. Rather than upping the resolution, it works by making fine distinctions between types of sensations. For example, you can distinguish between pleasant and unpleasant sensations, two very basic categories that provide a lot of insight into your experience. But it’s possible to get nerdier than that. Try distinguishing between “textures” of sensation: smooth, rough, sharp, mushy, bumpy, goopy, tingly, stinging, and so on. Or note the difference between sensations that are moving and those that are still.
 
-**The Brain’s Screensaver**
+### The Brain’s Screensaver
 
 Scientists have discovered that there is a brain network associated with mind wandering, and have named it the default mode network (DMN), since mind wandering seems to be our default setting. We experience it subjectively as a stream of memories, plans, and fantasies, mostly centered around ourselves and our personal concerns. Mark Twain’s snarky remark; “I’ve had a lot of worries in my life, most of which never happened,” serves as a perfect description of DMN activity. For most of us the DMN is the nexus of negative, self-referential anxiety and depression.
 

@@ -9,7 +9,7 @@ A central paradox of Stoicism is therefore its assumption that, far from being h
 
 Some ancient Stoics were prolific writers and lecturers, who dedicated their lives to educating others. Indeed, early Stoics reputedly taught that all wise men have a natural love of writing the sort of books that can help other people. So perhaps modern students of Stoicism, although far removed from the lofty ideal of the Sage, can nevertheless be expected to enjoy writing self-help books or blogs with the purpose of aiding others and exchanging ideas about the modern relevance of Stoicism. Nobody should dare claim to be wise, although everyone should dare to try to be so.
 
-**The way of the Stoic: ‘Living in agreement with Nature'**
+### The way of the Stoic: ‘Living in agreement with Nature'
 
 It follows from the premise that our essential nature is rational that the greatest virtue is wisdom and the greatest vice folly or ignorance.
 
@@ -25,7 +25,7 @@ As humans are naturally rational and social creatures, our two most important vi
 
 According to Seneca, Chrysippus' quipped that the wise man needs nothing and yet he can make good use of anything, whereas the fool ‘needs' countless things but can make good use of none of them. The Stoics make a subtle but crucial distinction between two different types of value: One sort is the value of truly ‘good' things that directly contribute to living the good life: only the virtues have this absolute value. However, ‘another sort is a certain intermediate potential or usefulness', the value that health, wealth, and reputation have as potentially useful to the wise man, when used wisely.
 
-**The promise of philosophy (‘therapy of the passions')**
+### The promise of philosophy (‘therapy of the passions')
 
 The virtue of the Sage consists in his ability to endure painful feelings and rise above them, while continuing to maintain his relationships and interaction with the world, to care sufficiently about ourselves and others but not enough to anxiously worry.
 
@@ -37,7 +37,7 @@ The Stoics acknowledged that passions begin with an initial ‘involuntary movem
 
 Stoics have to be willing to act with courage and integrity despite their feelings rather than because of them, and even when fears and desires are calling them in the opposite direction. To put it crudely, feelings like joy and tranquillity are only truly good and healthy insofar as they are the consequences of practical wisdom and virtue and not if they result from other causes.
 
-**The discipline of desire (Stoic acceptance)**
+### The discipline of desire (Stoic acceptance)
 
 1.  Focusing attention on the ‘here and now' as the locus of our control and therefore of the chief good.
 
@@ -51,7 +51,7 @@ Stoics have to be willing to act with courage and integrity despite their feelin
 
 6.  Perhaps also contemplation of the ‘eternal recurrence' of all things, as found in Nietzsche.
 
-**EXERCISE: Dwelling in the ‘here and now'**
+### EXERCISE: Dwelling in the ‘here and now'
 
 Begin experimenting with greater attention to the present moment in the following ways:
 
@@ -65,7 +65,7 @@ Begin experimenting with greater attention to the present moment in the followin
 
 Start by making the effort to spend more of your day being aware of the ‘here and now', particularly your own thoughts and actions. Evaluate this process, though. What are the ‘pros and cons' of doing this? How could you make more of the advantages and deal with or prevent any perceived disadvantages?
 
-**EXERCISE: Stoic acceptance exercises**
+### EXERCISE: Stoic acceptance exercises
 
 Try the following thought-experiments:
 
@@ -77,11 +77,11 @@ Try the following thought-experiments:
 
 - Tell yourself that nothing in life matters, ultimately, except your current voluntary response to events, which by definition you can choose at any time; accept everything else, everything bodily or external, as being ‘indifferent', absolutely trivial, compared to your ability to rise above them ‘magnanimously', which begins with this very attitude of acceptance itself.
 
-**Love, friendship, and the ideal Sage**
+### Love, friendship, and the ideal Sage
 
 In a sense, Stoics view foolish and vicious people as if they were small children throwing a tantrum. They don't really understand what they're doing and it makes no sense for us to be angry with them. Stoics also recognized that when dealing with the majority of people, we must sometimes act or talk ‘as if' we agreed with conventional values, treating ‘indifferent' things as intrinsically good or bad. When we see someone weeping with sorrow, according to Epictetus, we should outwardly show sympathy, while guarding against inwardly agreeing with their faulty value judgements.
 
-**EXERCISE: Socrates' love charm (empathize like a Stoic)**
+### EXERCISE: Socrates' love charm (empathize like a Stoic)
 
 Stoics carefully trained themselves to deal with difficult people, and particularly to avoid responding with anger. Following Socrates, they advise us to put ourselves in other people's shoes, and understand they have a reason for what they do, at some level (mistakenly) assuming their actions are appropriate and in their own interests. For example, try the following advice: Whenever you meet someone, say to yourself from the outset, ‘What are his assumptions concerning what is fundamentally good and bad in life?' When someone acts like your enemy, insults or opposes you, remember that he was only doing what seemed to him the right thing, he didn't know any better, and tell yourself: ‘It seemed so to him'. (Enchiridion, 42) Do not be surprised when people act as they do. If they assume pleasure is the most important thing in life, or that wealth or status are intrinsically good, they are bound to act accordingly. Try to view them as foolish or misguided, like children, rather than malicious. Remember that they act like enemies because they fail to recognise it's in their own interest to be wise and just, and remain enslaved by attachment to the illusion of external ‘goods'.
 
@@ -97,7 +97,7 @@ The aspiring Stoic tries to make progress towards perfect wisdom by regularly co
 
 After having contemplated his qualities, Stoics would simply ask themselves ‘What would the Sage do?' when confronted with difficult situations.
 
-**The discipline of action (Stoic philanthropy)**
+### The discipline of action (Stoic philanthropy)
 
 We should guard our ‘impulses' to action attentively, being mindful that all our intentions are as follows:
 
@@ -109,7 +109,7 @@ We should guard our ‘impulses' to action attentively, being mindful that all o
 
 Epictetus says that we should approach life somewhat as if it were a game. We are like men playing dice for enjoyment, whose goal is to play well, fairly and in good spirits, in accord with the rules. It makes no difference, ultimately, whether we win or lose. However, we must accept whatever roll of the dice falls to us by chance and make the best of it. We try to win the game, in order to be good players, but winning is not ultimately important and, to use the cliché, it's the ‘taking part' that counts. The spirit in which we ‘take part' in life, and fulfil our role, is likewise more important than the fate we meet, in terms of external success or failure.
 
-**Premeditation of adversity**
+### Premeditation of adversity
 
 Through premeditation of adversity, philosophers wanted not merely to soften the ‘shock of reality', and achieve greater tranquillity, but also to steep their minds in the principles of Stoicism and assimilate them more deeply. We can think of the Stoic virtues and precepts as ‘weapons', and premeditation as training in preparation for battle. What we need are persuasive formulae or arguments (_epilogismoi_), which we can repeat to ourselves in difficult circumstances, so as to check movements of fear, anger, or sadness.
 
@@ -119,7 +119,7 @@ Through premeditation of adversity, philosophers wanted not merely to soften the
 
 3.  The primary rationale is for her to rehearse freedom from irrational distress (apatheia), by calmly persuading herself that these external ‘misfortunes' are really indifferent, and to be accepted as merely situations calling on us to exhibit virtue and strength of character. The Stoics list typical targets for premeditation such as exile, poverty, frailty in old age, illness, bereavement, etc. However, as Foucault writes, ‘The meditation on death is the culmination of all these exercises.'
 
-**EXERCISE: Premeditation of external events (decatastrophizing)**
+### EXERCISE: Premeditation of external events (decatastrophizing)
 
 Make a list of the four or five worst catastrophes that could realistically befall you in life. Whether you're rehearsing classic examples or situations closer to home, place them roughly in rank order of difficulty, and start with the least difficult, moving on to the harder examples as soon as you feel ready. The Stoics assume your own death is typically one of the hardest and most important future events to contemplate with a calmly ‘philosophical' attitude.
 
@@ -133,11 +133,11 @@ Make a list of the four or five worst catastrophes that could realistically befa
 
 Repeat this daily. This takes patience and you may grow bored but that's often a sign of progress in overcoming the distress caused by hypothetical catastrophes. More distressing events might need to be reviewed for 15–30 minutes every day for a week or more. However, five minutes per day is often sufficient to contemplate typical ‘misfortunes' without undue anxiety. What do you learn by carrying out these exercises? How can you ensure that you retain what you've learned and apply it to real situations when they arise in life?
 
-**The discipline of judgement (Stoic mindfulness)**
+### The discipline of judgement (Stoic mindfulness)
 
 Judgement is the core of our being as rational creatures, and the locus of our freedom. To be aware of our judgements moment-by-moment, is to be profoundly self-aware and this appears to be one way in which the Stoics interpreted the Delphic maxim: ‘Know thyself'. Hadot therefore talks about the discipline of assent as constituting the ‘Inner Citadel' of the Stoic.
 
-**EXERCISE: The exercise of ‘physical definition'**
+### EXERCISE: The exercise of ‘physical definition'
 
 - Think of an event that you find mildly upsetting, not something overwhelming.
 
@@ -151,7 +151,7 @@ Judgement is the core of our being as rational creatures, and the locus of our f
 
 Take your time doing this and be patient; you'll probably find that your feelings reduce gradually. Focus on trying to penetrate beyond your value judgements, your fears and desires, to grasp the objective nature of the situation as it is in itself.
 
-**EXERCISE: Gaining cognitive distance in Stoicism**
+### EXERCISE: Gaining cognitive distance in Stoicism
 
 When you spot an irrational fear or excessive desire arising, or any kind of unhealthy passion, pause and do not allow yourself to be swept along by the impressions it contains, particularly the value judgements about what is good or bad, helpful or harmful. Practise withholding your assent, viewing the impression in a detached way, and saying in response to it such things as:
 
@@ -165,7 +165,7 @@ When you spot an irrational fear or excessive desire arising, or any kind of unh
 
 Particularly focus on viewing the impression as a mental representation, containing the judgement that something is ‘good' or ‘bad'. Remember that it is just an impression or appearance, something distinct from the thing itself that it claims to represent.
 
-**Self-awareness and the ‘Stoic fork'**
+### Self-awareness and the ‘Stoic fork'
 
 Attention (_prosochê_) is the fundamental Stoic spiritual attitude. It is a continuous vigilance and presence of mind, self-consciousness which never sleeps, and a constant tension of the spirit. Thanks to this attitude, the philosopher is fully aware of what he does at each instant, and he wills his actions fully.
 
@@ -173,7 +173,7 @@ We effectively give up being philosophers, and Stoics, when we act on autopilot.
 
 The focus of Stoic mindfulness is the basic distinction between what is ‘up to us', or within our control, and what is not. For the Stoics, the only things entirely ‘up to us', or under our control are our own voluntary judgements and intentions to act. Our fears and desires, false pleasures and emotional suffering, are ultimately based on these and so we have to assume responsibility for the ‘passions' also. Epictetus' three disciplines of desire, action, and judgement, therefore correspond with the three faculties that are potentially ‘up to us'. By contrast, bodily and external things – health, wealth, and reputation – are not completely ‘up to us', nor are the outcomes of our actions in general, as these things are always ultimately in the hands of fortune. Stoic Ethics and the therapy of the passions require us to continually recall this distinction, applying it to each specific situation, and meditating deeply on its implications. It can also be understood as a way of drawing a clear and distinct boundary around the ‘inner citadel' of the true self.
 
-**Four strategies for dealing with passions**
+### Four strategies for dealing with passions
 
 Epictetus gives his students several options for dealing with irrational fears and unhealthy desires, etc. These presuppose you've managed to catch them early and gain ‘cognitive distance' from your impressions, rather than allowing troubling desires or emotions to spiral out of control.
 
@@ -185,7 +185,7 @@ Epictetus gives his students several options for dealing with irrational fears a
 
 - Philosophical disputation. Try to apply Stoic philosophical doctrines to your initial impressions, particularly by asking yourself whether things you're judging to be important (‘good' or ‘bad', ‘helpful' or ‘harmful') are actually under your direct control or not. If not, then tell yourself: ‘This is nothing to me' or ‘What is not ‘up to me' is ultimately indifferent to me.'
 
-**EXERCISE: Stoic self-monitoring and postponement**
+### EXERCISE: Stoic self-monitoring and postponement
 
 Throughout the day, try to be continually mindful of your thoughts and feelings, particularly how you respond to them. The ancient Stoics employed basic self-monitoring techniques, to help them do this. Modern students of Stoicism might find it helpful to use a modified CBT self-monitoring form, like the one below to record information such as:
 
@@ -199,7 +199,7 @@ Throughout the day, try to be continually mindful of your thoughts and feelings,
 
 Try to record these things as soon as you notice the feelings. To begin with, simply practise self-monitoring and using the discipline of writing things down patiently and concisely to help you learn greater ‘cognitive distance' from your initial upsetting impressions. When you spot the early-warning signs of an unhealthy ‘passion' arising, rather than allowing yourself to be swept along by it, remind yourself that it is just the ‘impression' that upsets you and not the thing itself. Do nothing else, if possible, and postpone responding until your feelings have subsided – especially when confronted by a seemingly overwhelming desire or emotion. This may take an hour or longer, perhaps even until the following day. Say to yourself ‘I'll come back to this later, when I'm in the right frame of mind', rather than allowing your automatic impressions to dictate where and when you think about them. When you're ready to do so more calmly, examine and evaluate your impressions, employing your philosophical principles. It helps to set aside a specific time and place to do so, perhaps during your morning or evening meditation. Apply the ‘Stoic fork' first, by asking whether you're making value judgements, or experiencing ‘passions', regarding things under your control or not. Remind yourself of the arguments meant to persuade Stoics that bodily and external things are neither good nor bad, but ‘indifferent' regarding eudaimonia. Also consider what the ideal Sage would do and try to emulate his example. Perhaps ask yourself what inner resources Nature has given you to cope with the challenge you face? With practice, you'll find that you're able to respond calmly to upsetting thoughts and feelings without the need to postpone things. Memorizing short ‘laconic' statements helps. For example, Epictetus taught his students to respond to ‘indifferent' things by telling themselves: ‘This is nothing to me', or ‘non-volitional = not evil'. You should formulate your own maxims and coping statements, using them frequently, until they become habitual and familiar responses.
 
-**EXERCISE: The morning meditation (prospective contemplation)**
+### EXERCISE: The morning meditation (prospective contemplation)
 
 Spend 5–10 minutes patiently rehearsing the day ahead. How can you progress a few steps closer towards the ideal of the Stoic Sage? How can you take appropriate action in the world, while accepting things beyond your control?
 
@@ -207,7 +207,7 @@ Pick a specific philosophical precept that you want to rehearse and repeat it to
 
 Alternatively, you might pick a specific virtue that you want to cultivate and mentally rehearse your day ahead, in broad outline, while trying to imagine how you would act if showing more wisdom, justice, courage, or self-discipline, etc. Once you've got into the habit of doing this, try imagining greater challenges, difficult people, etc., as discussed in the chapter on premeditation of future adversity. As we've seen, some Stoics also recall their own mortality while planning the day ahead. For instance, Seneca actually recommends that when we awaken each morning we should tell ourselves: ‘You may not ever sleep again'.
 
-**EXERCISE: The evening meditation (retrospective contemplation)**
+### EXERCISE: The evening meditation (retrospective contemplation)
 
 Take 5–10 minutes to calmly review the events of your day, picturing them in your mind if possible. Try to remember the order in which you encountered different people throughout the day, the tasks you engaged in, what you said and did, etc. Although this may exercise and improve your memory, for Stoics the most important aspect is that you question whether you could have lived more consistently in the service of wisdom and eudaimonia.
 
@@ -223,13 +223,13 @@ Take 5–10 minutes to calmly review the events of your day, picturing them in y
 
 You are rehearsing the role of a friend and wise counsellor towards yourself, and that relationship should be kept in mind. In addition, Seneca says that we should tell ourselves each evening ‘You may not wake up', before going to sleep. Remember that all of these events are in the past that therefore strictly-speaking ‘indifferent' to you, and accept them as determined to happen as they did by fate. You may find it helpful to rehearse exercises in a journal at this time also, paraphrasing Stoic precepts, like Marcus Aurelius does in his Meditations.
 
-**The view from above and Stoic cosmology**
+### The view from above and Stoic cosmology
 
-**EXERCISE: Contemplating the ‘festival' of life'**
+### EXERCISE: Contemplating the ‘festival' of life'
 
 Imagine that you're attending a big music ‘festival' like Glastonbury, a sporting event like the modern Olympic Games, or a busy exhibition in a museum or art gallery. Think of this as a metaphor for your life, as you go about your daily business. You're only a visitor, soon it will all be over, and eventually the whole site will be cleared. Think of your ticket as a gift and that you're privileged to be here, even if it only lasts a matter of days. None of this really belongs to you, the whole experience is temporary and on loan. Your job is to ‘take it all in' properly, and really appreciate the opportunity. Study the whole spectacle unfolding around you, in a detached and philosophical manner, as if seeing it all for the first time. The majority of people may be absorbed in pursuing wealth, seeking reputation, or indulging in empty pleasures. If occasionally they're rowdy or bump into you, that's inevitable – it's just part of the natural hustle and bustle. There's no point complaining, now you're here, if you don't like the programme of events – don't be a resentful or ‘fault-finding' spectator. Just be where you are and take each moment as it comes. Right now, this is all there is. In a nutshell, step back from the ‘rat-race' and begin to really notice life, being grateful for the ‘here and now'.
 
-**EXERCISE: Contemplating the ‘view from above' and ‘cosmic perspective'**
+### EXERCISE: Contemplating the ‘view from above' and ‘cosmic perspective'
 
 Take a moment to close your eyes and relax first, as this contemplation may take some patience and effort, but should be practised regularly:
 
@@ -251,7 +251,7 @@ Take a moment to close your eyes and relax first, as this contemplation may take
 
 Over time, try to expand your perspective to contemplate the whole of time and space, from a more ‘cosmological perspective'. If you like, try contemplating these things as if the universe were contained within a glass orb, as Plotinus describes, or experiment with other variations. What seems trivial? What seems important? How does this contemplation relate to the Stoic philosophy you've been reading about? Try to memorize what this contemplation tells you about life, perhaps by writing down some brief notes afterwards.
 
-**EXERCISE: Contemplating the vastness of time and eternal recurrence**
+### EXERCISE: Contemplating the vastness of time and eternal recurrence
 
 Again, take time to settle, close your eyes, and become physically comfortable and mentally prepared before you begin.
 

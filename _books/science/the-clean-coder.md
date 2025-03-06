@@ -5,7 +5,7 @@ slug: the-clean-coder
 title: 'The Clean Coder: A Code of Conduct for Professional Programmers - by Robert C. Martin'
 ---
 
-**1. Professionalism**
+### 1. Professionalism
 
 Professionalism is all about taking responsibility.
 
@@ -17,7 +17,7 @@ In short: You must be able to make changes without exorbitant costs. I call it �
 
 Your career is your responsibility. It is not your employer’s responsibility to make sure you are marketable. It is not your employer’s responsibility to train you, or to send you to conferences, or to buy you books. These things are your responsibility. Woe to the software developer who entrusts his career to his employer.
 
-**Know Your Field**
+### Know Your Field
 
 A wealth of ideas, disciplines, techniques, tools, and terminologies decorate the last fifty years of our field. How much of this do you know? If you want to be a professional, you should know a sizable chunk of it and constantly be increasing the size of that chunk. Here is a minimal list of the things that every software professional should be conversant with:
 
@@ -33,7 +33,7 @@ I’ll do a kata or two every day, often as part of settling in to work. Think o
 
 **Know Your Domain:** When starting a project in a new domain, read a book or two on the topic. Interview your customer and users about the foundation and basics of the domain. Spend some time with the experts, and try to understand their principles and values.
 
-**2. Saying No**
+### 2. Saying No
 
 Professionals speak truth to power. Professionals have the courage to say no to their managers.
 
@@ -43,7 +43,7 @@ Providing too much detail can be an invitation for micro-management.
 
 If you are not holding back some energy in reserve, if you don’t have a new plan, if you aren’t going to change your behavior, and if you are reasonably confident in your original estimate, then promising to try is fundamentally dishonest. You are lying. And you are probably doing it to save face and to avoid a confrontation.
 
-**3. Saying Yes**
+### 3. Saying Yes
 
 There are three parts to making a commitment. You say you’ll do it. You mean it. You actually do it.
 
@@ -57,7 +57,7 @@ Here are some examples of words and phrases to look for that are telltale signs 
 
 The secret ingredient to recognizing real commitment is to look for sentences that sound like this: I will... by... (example: I will finish this by Tuesday.) What’s important about this sentence? You’re stating a fact about something YOU will do with a clear end time. You’re not talking about anyone else but yourself. You’re talking about an action that you will take. You won’t “possibly” take it, or “might get to it”; you will achieve it. There is (technically) no way out of this verbal commitment. You said you’ll do it and now only a binary result is possible—you either get it done, or you don’t. If you don’t get it done, people can hold you up to your promises. You will feel bad about not doing it. You will feel awkward telling someone about not having done it (if that someone heard you promise you will). Scary, isn’t it?
 
-**4. Coding**
+### 4. Coding
 
 Don’t write code when you are tired. Dedication and professionalism are more about discipline than hours. Make sure that your sleep, health, and lifestyle are tuned so that you can put in eight good hours per day.
 
@@ -71,15 +71,15 @@ When I am worried about an argument with my wife, or a customer crisis, or a sic
 
 Learn how to ask for help. When you are stuck, or befuddled, or just can’t wrap your mind around a problem, ask someone for help. This is a matter of professional ethics. It is unprofessional to remain stuck when help is easily accessible.
 
-**5. Test Driven Development**
+### 5. Test Driven Development
 
-**The Three Laws of TDD**
+### The Three Laws of TDD
 
 - You are not allowed to write any production code until you have first written a failing unit test.
 - You are not allowed to write more of a unit test than is sufficient to fail—and not compiling is failing.
 - You are not allowed to write more production code that is sufficient to pass the currently failing unit test.
 
-**The Litany of Benefits**
+### The Litany of Benefits
 
 **Courage:** This is one of the most powerful benefits of TDD. When you have a suite of tests that you trust, then you lose all fear of making changes. When you see bad code, you simply clean it on the spot. The code becomes clay that you can safely sculpt into simple and pleasing structures.
 
@@ -87,11 +87,11 @@ Learn how to ask for help. When you are stuck, or befuddled, or just can’t wra
 
 **Design:** When you follow the three laws and write your tests first, you are faced with a dilemma. Often you know exactly what code you want to write, but the three laws tell you to write a unit test that fails because that code doesn’t exist! This means you have to test the code that you are about to write. The problem with testing code is that you have to isolate that code. It is often difficult to test a function if that function calls other functions. To write that test you’ve got to figure out some way to decouple the function from all the others. In other words, the need to test first forces you to think about good design.
 
-**6. Practicing**
+### 6. Practicing
 
 A programming kata is a precise set of choreographed keystrokes and mouse movements that simulates the solving of some programming problem. You aren’t actually solving the problem because you already know the solution. Rather, you are practicing the movements and decisions involved in solving the problem. The asymptote of perfection is once again the goal. You repeat the exercise over and over again to train your brain and fingers how to move and react. As you practice you may discover subtle improvements and efficiencies either in your motions or in the solution itself. Practicing a suite of katas is a good way to learn hot keys and navigation idioms. It is also a good way to learn disciplines such as TDD and CI. But most importantly, it is a good way to drive common problem/solution pairs into your subconscious, so that you simply know how to solve them when facing them in real programming.
 
-**7. Acceptance Testing**
+### 7. Acceptance Testing
 
 We will define acceptance tests as tests written by a collaboration of the stakeholders and the programmers in order to define when a requirement is done.
 
@@ -101,17 +101,17 @@ Acceptance tests should always be automated. There is a place for manual testing
 
 Acceptance tests are not unit tests. Unit tests are written by programmers for programmers. They are formal design documents that describe the lowest level structure and behavior of the code. The audience is programmers, not business. Acceptance tests are written by the business for the business (even when you, the developer, end up writing them). They are formal requirements documents that specify how the system should behave from the business’ point of view. The audience is the business and the programmers.
 
-**9. Time Management**
+### 9. Time Management
 
 Programming is an intellectual exercise that requires extended periods of concentration and focus. Focus is a scarce resource, rather like manna.1 After you have expended your focus-manna, you have to recharge by doing unfocused activities for an hour or more. I don’t know what this focus-manna is, but I have a feeling that it is a physical substance (or possibly its lack) that affects alterness and attention. Whatever it may be, you can feel when it’s there, and you can feel when it’s gone. Professional developers learn to manage their time to take advantage of their focus-manna. We write code when our focus-manna is high; and we do other, less productive things when it’s not. Focus-manna is also a decaying resource. If you don’t use it when it’s there, you are likely to lose it. That’s one of the reasons that meetings can be so devastating. If you spend all your focus-manna in a meeting, you won’t have any left for coding. Worry and distractions also consume focus-manna. The fight you had with your spouse last night, the dent you put in your fender this morning, or the bill you forgot to pay last week will all suck the focus-manna out of you quickly.
 
-**10. Estimation**
+### 10. Estimation
 
 The problem is that we view estimates in different ways. Business likes to view estimates as commitments. Developers like to view estimates as guesses. The difference is profound.
 
 Commitment is about certainty. Other people are going to accept your commitments and make plans based upon them. The cost of missing those commitments, to them, and to your reputation, is enormous. Missing a commitment is an act of dishonesty only slightly less onerous than an overt lie.
 
-**11. Pressure**
+### 11. Pressure
 
 You know what you believe by observing yourself in a crisis. If in a crisis you follow your disciplines, then you truly believe in those disciplines. On the other hand, if you change your behavior in a crisis, then you don’t truly believe in your normal behavior.
 

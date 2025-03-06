@@ -6,27 +6,27 @@ title: 'Peace Is Every Step: The Path of Mindfulness in Everyday Life - by Thich
   Hanh'
 ---
 
-**Smile**
+### Smile
 
-How can you remember to smile when you wake up? You might hang a reminder--such as a branch, a leaf, a painting, or some inspiring words--in your window or from the ceiling above your bed, so that you notice it when you wake up. Once you develop the practice of smiling, you may not need a reminder. You will smile as soon as you hear a bird singing or see the sunlight streaming through the window.
+How can you remember to smile when you wake up? You might hang a reminder—such as a branch, a leaf, a painting, or some inspiring words—in your window or from the ceiling above your bed, so that you notice it when you wake up. Once you develop the practice of smiling, you may not need a reminder. You will smile as soon as you hear a bird singing or see the sunlight streaming through the window.
 
 A tiny bud of a smile on our lips nourishes awareness and calms us miraculously. It returns to us the peace we thought we had lost.
 
 Wearing a smile on your face is a sign that you are master of yourself.
 
-**Bells of Mindfulness**
+### Bells of Mindfulness
 
-I always make use of the church bells to practice mindfulness. When the bell rings, I stop talking, and all of us listen to the full sound of the bell. We enjoy it so much. (I think it is better than the lecture!) When we hear the bell, we can pause and enjoy our breathing and get in touch with the wonders of life that are around us--the flowers, the children, the beautiful sounds. Every time we get back in touch with ourselves, the conditions become favorable for us to encounter life in the present moment.
+I always make use of the church bells to practice mindfulness. When the bell rings, I stop talking, and all of us listen to the full sound of the bell. We enjoy it so much. (I think it is better than the lecture!) When we hear the bell, we can pause and enjoy our breathing and get in touch with the wonders of life that are around us—the flowers, the children, the beautiful sounds. Every time we get back in touch with ourselves, the conditions become favorable for us to encounter life in the present moment.
 
 You can use any sound to remind you to pause, breathe in and out, and enjoy the present moment. The buzzer that goes off when you forget to fasten the seat belt in your car is a bell of mindfulness. Even non-sounds, such as the rays of sunlight coming through the window, are bells of mindfulness that can remind us to return to ourselves, breathe, smile, and live fully in the present moment.
 
 In our daily lives, we may see the people around us, but if we lack mindfulness, they are just phantoms, not real people, and we ourselves are also ghosts. Practicing mindfulness enables us to become a real person. When we are a real person, we see real people around us, and life is present in all its richness.
 
-**Aimlessness**
+### Aimlessness
 
 We sit just to enjoy our sitting; we do not sit in order to attain any goal. This is quite important. Each moment of sitting meditation brings us back to life, and we should sit in a way that we enjoy our sitting for the entire time we do it. Whether we are eating a tangerine, drinking a cup of tea, or walking in meditation, we should do it in a way that is "aimless."
 
-**The Fourteen Precepts of the Order of Interbeing**
+### The Fourteen Precepts of the Order of Interbeing
 
 1.  Do not be idolatrous about or bound to any doctrine, theory, or ideology. All systems of thought are guiding means; they are not absolute truth.
 

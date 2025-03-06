@@ -2,17 +2,14 @@
 date: 2017-01-21 14:33:39+00:00
 link: https://fluidself.org/books/self-help/mindfulness
 slug: mindfulness
-title: 'Mindfulness: A practical guide to finding peace in a frantic world - by Mark
-  Williams'
+title: 'Mindfulness: A practical guide to finding peace in a frantic world - by Mark Williams'
 ---
-
-[The Three-minute Breathing Space meditation is to be done twice a day and also whenever you need it at any other time. The Breathing Space is not a break or diversion from reality,but a way of re-engaging with it. After you've completed the Breathing Space, there may be the tendency to immediately (and mindlessly) carry on where you left off. When this happens, it's worth pausing for a few moments to decide how you wish to proceed. Mindfulness gives you the option of acting more skilfully, so it's best to use the quiet moments after meditation to decide – consciously – what you want to do.]
 
 Tension, unhappiness or exhaustion aren't ‘problems' that can be solved. They are emotions. They reflect states of mind and body. As such, they cannot be solved – only felt. Once you've felt them – that is, acknowledged their existence – and let go of the tendency to explain or get rid of them, they are much more likely to vanish naturally, like the mist on a spring morning.
 
 If Doing mode is a trap, then Being mode is freedom. Mindfulness meditation is the door through which you can enter this Being mode and, with a little practice, you can learn to open this door whenever you need to. Mindful awareness – or mindfulness – spontaneously arises out of this Being mode when we learn to pay attention, on purpose, in the present moment, without judgment, to things as they actually are. In mindfulness, we start to see the world as it is, not as we expect it to be, how we want it to be, or what we fear it might become.
 
-**THE SEVEN CHARACTERISTICS OF ‘DOING' AND ‘BEING' MODES OF MINDS**
+### THE SEVEN CHARACTERISTICS OF ‘DOING' AND ‘BEING' MODES OF MINDS
 
 1.  Automatic pilot versus conscious choice
 
@@ -28,7 +25,7 @@ If Doing mode is a trap, then Being mode is freedom. Mindfulness meditation is t
 
 7.  Depleting versus nourishing activities
 
-**Mindfulness Week One: Waking Up to the Autopilot**
+### Mindfulness Week One: Waking Up to the Autopilot
 
 Choose one of the following (or another of your own choosing), and each day for the next week, see if you can remember to pay attention while you are doing it. You do not have to slow it down, or even enjoy it. Simply do what you normally do, but see if you can be fully alive to it as you do so. • Brushing your teeth • Walking from one room to another at home or work • Drinking tea, coffee, juice • Taking out the rubbish • Loading the washing machine or tumble dryer.
 
@@ -36,7 +33,7 @@ Choose one of the following (or another of your own choosing), and each day for 
 
 This week, see if you can notice which chairs you normally sit on at home, in a café or bar or at work (during meetings, for example). Make a deliberate choice to try another chair, or alter the position of the chair you use. It is extraordinary how much we are creatures of habit, and how we take comfort from such sameness. There is nothing wrong with this at all, but it can feed a sense of ‘taking things for granted' that allows the automatic pilot to thrive. You can easily stop noticing the sights, sounds, smells of everything around you and even the feel of a chair supporting you can become over-familiar. Notice how your perspective can change just by changing chairs.
 
-**Mindfulness Week Two: Keeping the Body in Mind**
+### Mindfulness Week Two: Keeping the Body in Mind
 
 The Body Scan reveals the Doing Mode.
 
@@ -44,11 +41,11 @@ Appreciation here and now. Which activities, things or people in your life make 
 
 **HABIT RELEASER: GOING FOR A WALK**
 
-**Mindfulness Week Three: The Mouse in the Maze**
+### Mindfulness Week Three: The Mouse in the Maze
 
 The spirit in which you do something is often as important as the act itself. If you do something in a negative or critical way, if you over-think or worry or carry out a task through gritted teeth, then you will activate your mind's aversion system. This will narrow the focus of your life. You will become like a mouse with an owl complex: more anxious, less flexible, less creative. If, however, you do exactly the same thing in an open-hearted, welcoming manner, you thereby activate the mind's ‘approach' system: your life has a chance to become richer, warmer, more flexible, and more creative.
 
-**Mindfulness Week Four: Moving Beyond the Rumour Mill**
+### Mindfulness Week Four: Moving Beyond the Rumour Mill
 
 Our thoughts are like rumours in the mind. They might be true, but then again, they might not be. Your thoughts can be likened to a radio that's been left on in the background. You can listen – or rather observe – but you need not elaborate on what you receive or act on what you feel.
 
@@ -60,17 +57,19 @@ The Intensely Frustrating Queue meditation: Stand tall. Breathe. Allow. Be here.
 
 Ask a friend or family member to go with you to the movies – but this time, with a difference. Go at a set time (say 7 p.m.) and choose whatever film takes your fancy only when you get there. Often, what makes us happiest in life is the unexpected – the chance encounter or the unpredicted event. Movies are great for all these. Most of us only go to see a film when there's something specific we want to watch. If you turn up at a set time and then choose what to see, you may discover that the experience will be totally different. You might end up watching (and loving) a film you'd never normally have considered. This act alone opens your eyes and enhances awareness and choice. Before you go, notice any thoughts that may arise such as, ‘I haven't got time for pleasure', or, ‘What if there is nothing on that I'll enjoy?' You could call these Practice Interfering Thoughts (PITs) – they undermine your enthusiasm for taking action. They are the real ‘PIT-falls' of daily life, discouraging your intention to do something that might nourish your life in important ways. Once you're inside the cinema, just forget about all this and be consumed by the film.
 
-**Mindfulness Week Five: Turning Towards Difficulties**
+### Mindfulness Week Five: Turning Towards Difficulties
 
 Mindfulness is not about detachment. In short, mindful acceptance gives us choices.
 
 **HABIT RELEASER: SOW SOME SEEDS (OR LOOK AFTER A PLANT)**
 
-**Mindfulness Week Six: Trapped in the Past or Living in the Present?**
+### Mindfulness Week Six: Trapped in the Past or Living in the Present?
 
 The _Befriending meditation_ may become part of daily life as much as any other practice you've learned so far. See if you can, as much as you are able to, infuse your life with empathy for others. This may not be easy. Many people can genuinely appear selfish, unkind and ice cold, but this may often be a reflection of their own busyness and lack of awareness of the effect they have on others. If you bring kindness to bear towards such people, you'll soon realise that they are, to a greater or lesser extent, just like us all: stumbling through life trying to find happiness and meaning. See if it is possible to feel their predicament.
 
-**EXTENDING THE BREATHING SPACE TO NEGATIVE THOUGHTS**
+### EXTENDING THE BREATHING SPACE TO NEGATIVE THOUGHTS
+
+The Three-minute Breathing Space meditation is to be done twice a day and also whenever you need it at any other time. The Breathing Space is not a break or diversion from reality,but a way of re-engaging with it. After you've completed the Breathing Space, there may be the tendency to immediately (and mindlessly) carry on where you left off. When this happens, it's worth pausing for a few moments to decide how you wish to proceed. Mindfulness gives you the option of acting more skilfully, so it's best to use the quiet moments after meditation to decide – consciously – what you want to do.
 
 When you have finished taking a Breathing Space, spend a few moments noting your thoughts and feelings. See if you can relate differently to your thoughts. You might: • write down your thoughts • watch the thoughts come and go • view your thoughts as thoughts, not as objective reality • name your thought patterns, such as ‘morbid thoughts', ‘worrying thoughts' or ‘anxious thoughts', or simply just, ‘thinking, thinking' • ask yourself whether you're overtired, jumping to conclusions, over-generalising, exaggerating the significance of the situation or unreasonably expecting perfection.
 
@@ -80,7 +79,7 @@ When you have finished taking a Breathing Space, spend a few moments noting your
 
 2.  **Do a good-natured deed for someone else:** Why not carry out a random act of kindness? It needn't be something big. You could help a workmate tidy their desk, assist a neighbour in carrying their shopping or do something for your partner that you know they hate doing themselves. You don't always have to tell them you're the one who did it – just do it for the sake of it, with warmth and understanding.
 
-**Mindfulness Week Seven:When Did You Stop Dancing?**
+### Mindfulness Week Seven:When Did You Stop Dancing?
 
 When mood is low, motivation follows action, rather than the other way around. When you put the action first, motivation follows. So, after you have used the Breathing Space at times of stress this week, pause momentarily and ask yourself: • What do I need for myself right now? • How can I best take care of myself right now? You have three options for skilful action: • You can do something pleasurable. • You can do something that will give you a sense of satisfaction or mastery over your life. • Or you can continue acting mindfully.
 
@@ -104,7 +103,7 @@ Pick a few ordinary activities from your daily life that you can turn into ‘mi
 
 - **Listening.** When you are listening, notice when you are not listening – when you start to think of something else, what you are going to say in response, etc. Come back to actually listening.
 
-**Mindfulness Week Eight: Your Wild and Precious Life**
+### Mindfulness Week Eight: Your Wild and Precious Life
 
 Week Eight is the rest of your life. The task now is to weave the practices into a routine that is sustainable in the long term.
 

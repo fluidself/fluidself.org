@@ -5,37 +5,37 @@ slug: strangers-to-ourselves
 title: Strangers to Ourselves - by Timothy D. Wilson
 ---
 
-> Self-reverence, self-knowledge, self-control,-- These three alone lead life to sovereign power.
+> Self-reverence, self-knowledge, self-control,— These three alone lead life to sovereign power.
 >
 > &mdash; Alfred Lord Tennyson, "Oenone" (1833)
 
-**The Adaptive Unconscious versus the Freudian Unconscious**
+### The Adaptive Unconscious versus the Freudian Unconscious
 
 The mind operates most efficiently by relegating a good deal of high-level, sophisticated thinking to the unconscious, just as a modern jumbo jetliner is able to fly on automatic pilot with little or no input from the human, "conscious" pilot. The adaptive unconscious does an excellent job of sizing up the world, warning people of danger, setting goals, and initiating action in a sophisticated and efficient manner. It is a necessary and extensive part of a highly efficient mind and not just the demanding child of the mental family and the defenses that have developed to keep this child in check. Nor is the unconscious a single entity with a mind and will of its own. Rather, humans possess a collection of modules that have evolved over time and operate outside of consciousness.
 
-People cannot directly examine how many parts of their minds work, such as basic processes of perception, memory, and language comprehension, not because it would be anxiety provoking to do so, but because these parts of the mind are inaccessible to conscious awareness--quite possibly because they evolved before consciousness did.
+People cannot directly examine how many parts of their minds work, such as basic processes of perception, memory, and language comprehension, not because it would be anxiety provoking to do so, but because these parts of the mind are inaccessible to conscious awareness—quite possibly because they evolved before consciousness did.
 
-**Implications for Self-Insight**
+### Implications for Self-Insight
 
 Psychoanalysis shares with many other approaches the assumption that the path to self-knowledge leads inward. Through careful introspection, the argument goes, we can penetrate the haze that obscures our true feelings and motives. But here's the problem: research on the adaptive unconscious suggests that much of what we want to see is unseeable. It is difficult to know ourselves because there is no direct access to the adaptive unconscious, no matter how hard we try. Because our minds have evolved to operate largely outside of consciousness, and nonconscious processing is part of the architecture of the brain, it may be not be possible to gain direct access to nonconscious processes. "Making the unconscious conscious" may be no easier than viewing and understanding the assembly language controlling our word-processing computer program. It can thus be fruitless to try to examine the adaptive unconscious by looking inward. It is often better to deduce the nature of our hidden minds by looking outward at our behavior and how others react to us, and coming up with a good narrative. In essence, we must be like biographers of our own lives, distilling our behavior and feelings into a meaningful and effective narrative.
 
-**The Adaptive Unconscious**
+### The Adaptive Unconscious
 
-- LEARNING: THE ADAPTIVE UNCONSCIOUS AS PATTERN DETECTOR
+- Learning: the adaptive unconscious as pattern detector
 
-- ATTENTION AND SELECTION: THE NONCONSCIOUS FILTER
+- Attention and selection: the nonconscious filter
 
-- INTERPRETATION: THE NONCONSCIOUS TRANSLATOR
+- Interpretation: the nonconscious translator
 
-- FEELING AND EMOTION: THE ADAPTIVE UNCONSCIOUS AS EVALUATOR
+- Feeling and emotion: the adaptive unconscious as evaluator
 
-- NONCONSCIOUS GOAL-SETTING
+- Nonconscious goal-setting
 
-**What's the Agenda?**
+### What's the Agenda?
 
-Self-relevance isn't quite the right way to describe how the adaptive unconscious decides what is important and what is not. Rather, the decision rule is how accessible a particular idea or category is. "Accessibility" is a somewhat technical psychological term that refers to the activation potential of information in memory. When information is high in activation potential it is "energized" and ready to be used; when it is low in activation potential it is unlikely to be used to select and interpret information in one's environment. Accessibility is determined not only by the self-relevance of a category but also by how recently it has been encountered. Another determinant of accessibility is how often a concept has been used in the past. People are creatures of habit, and the more they have used a particular way of judging the world in the past, the more energized that concept will be. The adaptive unconscious is not governed by accuracy and accessibility alone. People's judgments and interpretations are often guided by a quite different concern, namely the desire to view the world in the way that gives them the most pleasure--what can be called the "feel-good" criterion. We are masterly spin doctors, rationalizers, and justifiers of threatening information. Daniel Gilbert and I have called this ability the "psychological immune system." The conflict between the need to be accurate and the desire to feel good about ourselves is one of the major battlegrounds of the self, and how this battle is waged and how it is won are central determinants of who we are and how we feel about ourselves. The best way to "win" this battle, in terms of being a healthy, well-adjusted person, is not always obvious. We must, of course, keep in touch with reality and know our own abilities well enough to engage in self-improvement. But it turns out that a dose of self-deception can be helpful as well, enabling us to maintain a positive view of ourselves and an optimistic view of the future.
+Self-relevance isn't quite the right way to describe how the adaptive unconscious decides what is important and what is not. Rather, the decision rule is how accessible a particular idea or category is. "Accessibility" is a somewhat technical psychological term that refers to the activation potential of information in memory. When information is high in activation potential it is "energized" and ready to be used; when it is low in activation potential it is unlikely to be used to select and interpret information in one's environment. Accessibility is determined not only by the self-relevance of a category but also by how recently it has been encountered. Another determinant of accessibility is how often a concept has been used in the past. People are creatures of habit, and the more they have used a particular way of judging the world in the past, the more energized that concept will be. The adaptive unconscious is not governed by accuracy and accessibility alone. People's judgments and interpretations are often guided by a quite different concern, namely the desire to view the world in the way that gives them the most pleasure—what can be called the "feel-good" criterion. We are masterly spin doctors, rationalizers, and justifiers of threatening information. Daniel Gilbert and I have called this ability the "psychological immune system." The conflict between the need to be accurate and the desire to feel good about ourselves is one of the major battlegrounds of the self, and how this battle is waged and how it is won are central determinants of who we are and how we feel about ourselves. The best way to "win" this battle, in terms of being a healthy, well-adjusted person, is not always obvious. We must, of course, keep in touch with reality and know our own abilities well enough to engage in self-improvement. But it turns out that a dose of self-deception can be helpful as well, enabling us to maintain a positive view of ourselves and an optimistic view of the future.
 
-**Who's in Charge?**
+### Who's in Charge?
 
 | Adaptive unconscious                                        | Consciousness                                           |
 | ----------------------------------------------------------- | ------------------------------------------------------- |
@@ -49,7 +49,7 @@ Self-relevance isn't quite the right way to describe how the adaptive unconsciou
 
 Perhaps the best use of consciousness is to put ourselves in situations in which our adaptive unconscious can work smoothly. This is best achieved by recognizing what our nonconscious needs and traits are and planning accordingly.
 
-**Knowing Who We Are**
+### Knowing Who We Are
 
 Many of people's chronic dispositions, traits, and temperaments are part of the adaptive unconscious, to which they have no direct access. Consequently, people are forced to construct theories about their own personalities from other sources, such as what they learn from their parents, their culture, and yes, ideas about who they prefer to be. These constructions may be driven less by repression and the desire to avoid anxiety than by the simple need to construct a coherent narrative about ourselves, in the absence of any direct access to our nonconscious personalities.
 
@@ -57,31 +57,31 @@ Postmodernists argue that there is no single, coherent personality or self. In t
 
 There is increasing evidence that people's constructed self bears little correspondence to their nonconscious self. One consequence of this fact is that the two personalities predict different kinds of behavior. The adaptive unconscious is more likely to influence people's uncontrolled, implicit responses, whereas the constructed self is more likely to influence people's deliberative, explicit responses. When people describe their own personalities, they are often reporting their conscious theories and constructions that may or may not correspond to the dispositions and motives of their adaptive unconscious. It appears to be to people's advantage to develop conscious theories that correspond at least somewhat with the personality of their adaptive unconscious.
 
-**The Personality of the Adaptive Unconscious**
+### The Personality of the Adaptive Unconscious
 
-- NONCONSCIOUS "IF-THEN" JUDGMENTS
+- Nonconscious "if-then" jugdments
 
-- SCANNING PATTERNS: CHRONIC ACCESSIBILITY
+- Scanning patterns: chronic accessibility
 
-- TRANSFERENCE: SEEING THE OLD IN THE NEW
+- Transference: seeing the old in the new
 
-- DUAL MOTIVES AND GOALS
+- Dual motives and goals
 
-**The Conscious Causality Question**
+### The Conscious Causality Question
 
 A sense of conscious will cannot be taken as evidence that conscious thoughts really did cause our behavior. The causal role of conscious thought has been vastly overrated; instead, it is often a post-hoc explanation of responses that emanated from the adaptive unconscious.
 
-**Knowing How We Feel**
+### Knowing How We Feel
 
-We have portrayed the adaptive unconscious as a system of mental processes that are inaccessible, no matter how much people try to observe them. Whereas feelings and attitudes can reside out of sight, they appear to have a greater potential to reach awareness--if people can succeed in finding them through the smoke screen of their conscious theories about how they feel. This is often a matter of being a good observer of how one acts (e.g., how one responds in the presence of African Americans), rather than a matter of looking inward and introspecting about one's feelings.
+We have portrayed the adaptive unconscious as a system of mental processes that are inaccessible, no matter how much people try to observe them. Whereas feelings and attitudes can reside out of sight, they appear to have a greater potential to reach awareness—if people can succeed in finding them through the smoke screen of their conscious theories about how they feel. This is often a matter of being a good observer of how one acts (e.g., how one responds in the presence of African Americans), rather than a matter of looking inward and introspecting about one's feelings.
 
-**Knowing How We Will Feel**
+### Knowing How We Will Feel
 
 - THE FLEETINGNESS OF EMOTIONAL REACTIONS
 
 - IT'S THE CHASE THAT MATTERS. Daily absorption is more important than the paycheck at the end of the month, as long as that paycheck covers our basic needs.
 
-**Introspection and Self-Narratives**
+### Introspection and Self-Narratives
 
 Although it may feel as though we are discovering important truths about ourselves when we introspect, we are not gaining direct access to the adaptive unconscious. Introspection is more like literary criticism in which we are the text to be understood. Just as there is no single truth that lies within a literary text, but many truths, so are there many truths about a person that can be constructed. The analogy I favor is introspection as a personal narrative, whereby people construct stories about their lives, much as a biographer would. We weave what we can observe (our conscious thoughts, feelings, and memories, our own behavior, the reactions of other people to us) into a story that, with luck, captures at least a part what we cannot observe (our nonconscious personality traits, goals, and feelings).
 
@@ -89,13 +89,13 @@ It is important to distinguish between informed and uninformed **gut feelings**.
 
 **Writing** about emotional experiences is distressing in the short run but has quite positive long-term effects. Writing seems to work by helping people make sense of a negative event by constructing a meaningful narrative that explains it.
 
-**Looking Outward to Know Ourselves**
+### Looking Outward to Know Ourselves
 
 It is not always in our best interests to use others to revise our self-theories, because discovering our friends' true opinions about us might puncture some adaptive illusions. What's the harm in believing that people like us a little more than they actually do? Revising our self-theories in a downward direction ("Okay, so I'm not the most popular person at the dance") might not be particularly useful in leading to self-improvement or changes in behavior that make us happier. In fact people are often better off having an inflated view of how others feel about them.
 
 By being careful observers of our own actions, we can learn a lot about ourselves. In addition, if we want to change some aspect of our adaptive unconscious, a good place to start is deliberately to begin acting like the person we want to be.
 
-The difference between self-revelation and self-fabrication is crucial from the point of view of gaining self-knowledge. Inferring our internal states from our behavior is a good strategy if it reveals feelings of which we were previously unaware. It is not such a good strategy if it results in the fabrication of new feelings. It is quite common for people to overlook situational influences on their actions and infer that they acted on the basis of their internal states--so common that this phenomenon is called the fundamental attribution error.
+The difference between self-revelation and self-fabrication is crucial from the point of view of gaining self-knowledge. Inferring our internal states from our behavior is a good strategy if it reveals feelings of which we were previously unaware. It is not such a good strategy if it results in the fabrication of new feelings. It is quite common for people to overlook situational influences on their actions and infer that they acted on the basis of their internal states—so common that this phenomenon is called the fundamental attribution error.
 
 An example of self-fabrication is the case in which people's behavior might plausibly result from more than one internal state. Consider the case in which people find that their bodies are revved up; their heart is beating rapidly and they are short of breath. The way in which they interpret this arousal will determine the emotion they experience. If someone has just pointed a gun at them and said, "Give me your wallet," they will correctly interpret their arousal as a sign of fear. Often, however, there is more than one explanation for our arousal. Perhaps we are on a first date with a very attractive man or woman, and just narrowly avoided an automobile accident. How much of our arousal is due to fear over almost losing our lives versus attraction to our date?
 

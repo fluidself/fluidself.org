@@ -7,7 +7,7 @@ title: Reflections; or Sentences and Moral Maxims - by François de La Rochefouc
 
 The book is a mirror in which we all see ourselves. This has made it so unpopular. It is too true. We dislike to be told of our faults, while we only like to be told of our neighbour's. Notwithstanding Rousseau's assertion, it is young men, who, before they know their own faults and only know their neighbours', that read and thoroughly appreciate Rochefoucauld.
 
-**Maxims**
+### Maxims
 
 Our virtues are most frequently but vices disguised.
 
@@ -29,7 +29,7 @@ Those who apply themselves too closely to little things often become incapable o
 
 The contempt of riches in philosophers was only a hidden desire to avenge their merit upon the injustice of fortune, by despising the very goods of which fortune had deprived them; it was a secret to guard themselves against the degradation of poverty, it was a back way by which to arrive at that distinction which they could not gain by riches.
 
-["It is always easy as well as agreeable for the inferior ranks of mankind to claim merit from the contempt of that pomp and pleasure which fortune has placed beyond their reach. The virtue of the primitive Christians, like that of the first Romans, was very frequently guarded by poverty and ignorance."--Gibbon, Decline And Fall, Chap. 15.]
+["It is always easy as well as agreeable for the inferior ranks of mankind to claim merit from the contempt of that pomp and pleasure which fortune has placed beyond their reach. The virtue of the primitive Christians, like that of the first Romans, was very frequently guarded by poverty and ignorance."—Gibbon, Decline And Fall, Chap. 15.]
 
 Although men flatter themselves with their great actions, they are not so often the result of a great design as of chance.
 
@@ -41,7 +41,7 @@ What grace is to the body good sense is to the mind.
 
 Silence is the best resolve for him who distrusts himself.
 
-What men term friendship is merely a partnership with a collection of reciprocal interests, and an exchange of favours--in fact it is but a trade in which self love always expects to gain.
+What men term friendship is merely a partnership with a collection of reciprocal interests, and an exchange of favours—in fact it is but a trade in which self love always expects to gain.
 
 It is more disgraceful to distrust than to be deceived by our friends.
 
@@ -77,13 +77,13 @@ Perfect valour is to do without witnesses what one would do before all the world
 
 Too great a hurry to discharge of an obligation is a kind of ingratitude.
 
-There is great ability in knowing how to conceal one's ability. ["You have accomplished a great stroke in diplomacy when you have made others think that you have only very average abilities."--La Bruyère.]
+There is great ability in knowing how to conceal one's ability. ["You have accomplished a great stroke in diplomacy when you have made others think that you have only very average abilities."—La Bruyère.]
 
 It is as common to change one's tastes, as it is uncommon to change one's inclinations.
 
 In all professions we affect a part and an appearance to seem what we wish to be. Thus the world is merely composed of actors.
 
-["All the world's a stage, and all the men and women merely players."--Shakespeare, As You Like It{, Act II, Scene VII, Jaques}.
+["All the world's a stage, and all the men and women merely players."—Shakespeare, As You Like It{, Act II, Scene VII, Jaques}.
 
 We are nearer loving those who hate us, than those who love us more than we desire.
 

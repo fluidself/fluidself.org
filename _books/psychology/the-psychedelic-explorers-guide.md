@@ -2,8 +2,7 @@
 date: 2017-04-19 07:41:02+00:00
 link: https://fluidself.org/books/psychology/the-psychedelic-explorers-guide
 slug: the-psychedelic-explorers-guide
-title: 'The Psychedelic Explorer''s Guide: Safe, Therapeutic, and Sacred Journeys
-  - by James Fadiman Ph.D.'
+title: "The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys - by James Fadiman Ph.D."
 ---
 
 To establish the best possible environment for spiritual psychedelic sessions, it is critical to keep in mind six primary factors that most affect the nature and value of these experiences:
@@ -54,39 +53,39 @@ Classical music tends to feel appropriate to most people, even if they have not 
 
 From 150 to 400 micrograms of LSD is a normal range.
 
-**THE SESSION**
+## THE SESSION
 
-**Stage One: Ingesting the Psychedelic**
+### Stage One: Ingesting the Psychedelic
 
 When you feel that the actual experience is beginning, you will probably want to lie down. If you feel comfortable doing so, put on an eyeshade or eye pillow. Once settled, allow yourself to relax, listen to music, observe your breathing and pay attention to any sensations you have in your body. Notice how the music is affecting you
 
 Observe what is going on inside your mind and body, but do not try to control the flow of images and sensations. Allow your mind to take its natural course; relax and observe as your thoughts unfold without any effort. Affirm that all experiences are welcome.
 
-**Stage Two: Initial Onset (twenty to fifty minutes)**
+### Stage Two: Initial Onset (twenty to fifty minutes)
 
 If, after the initial onset, a person continues to sit up and talk or move around, he or she may need a booster dose. This can be given an hour or more into the session without any problems. A second dose should be about one half of the initial dose. If a deep spiritual journey is going to unfold, it will almost always begin before the second hour is over.
 
 Dosage: A dose that is too low may diminish the intensity or depth of the experience; too large a dose can prevent what happens from being recalled or even understood. If in doubt, begin with a lower dose with the possibility of a booster.
 
-**Stage Three: Opening and Letting Go (three to four hours)**
+### Stage Three: Opening and Letting Go (three to four hours)
 
 At this point, you will be able to: Let go of expectations about the session; let go of personal concerns; let go of concerns about personal issues such as problems in your relationships and habit patterns; let go of each experience, feeling, or visual event as it occurs; let go of your concerns about your personal identity; experience and deepen your awareness of other dimensions of reality. For some people, this is an effortless, ecstatic period; for others it can be disorienting. At some moments, you may be frightened or confused by the content or intensity of your visions. You may experience unusual feelings associated with letting go. These might be physical ("My arm is melting") or emotional ("Am I going crazy?").
 
-**Stage Four: Plateau (one to two hours)**
+### Stage Four: Plateau (one to two hours)
 
-**Stage Five: The Gentle Glide (next three hours or until the guide and the voyager agree it is time to move on)**
+### Stage Five: The Gentle Glide (next three hours or until the guide and the voyager agree it is time to move on)
 
 Simple finger food (e.g., fresh or dried fruits, nuts, crackers, juice) should be offered. Water should be available all day. The voyager may or may not choose to eat something.
 
-After the peak of your experience, as you are reentering your world, is often an excellent time to do personal work. You will be aware of your usual identity, but not be as attached to your usual habits, templates, or distortions. If you wish--and your guide agrees--this is also a good time to go outside.
+After the peak of your experience, as you are reentering your world, is often an excellent time to do personal work. You will be aware of your usual identity, but not be as attached to your usual habits, templates, or distortions. If you wish—and your guide agrees—this is also a good time to go outside.
 
-**Stage Six: The End of the Formal Session**
+### Stage Six: The End of the Formal Session
 
 The guided portion of the day of the session should come to an end six to eight hours after taking a shorter-acting substance such as psilocybin or eight to ten hours after taking a longer-acting substance such as LSD or mescaline. You may dip in and out of the experience for the rest of the evening. Don't feel any obligation to be sociable.
 
 You will probably want to spend time starting to integrate what you've experienced. You may still see the world as flowing or sparkling. Enjoy these visual gifts from your own mind. Eat lightly, and be sure you drink enough liquids to replenish yourself.
 
-**POST-EXPERIENCE INTEGRATION**
+### POST-EXPERIENCE INTEGRATION
 
 In the first few weeks after your journey, take time to distill out what matters the most to you from your experience. Don't rush. It is likely that you will find your life flows more easily than before.
 
@@ -94,11 +93,11 @@ You may become more aware than ever before that some people in your life are nou
 
 Do not make major life changes for the first few weeks.
 
-**FREQUENCY: HOW SOON AGAIN? HOW OFTEN?**
+### FREQUENCY: HOW SOON AGAIN? HOW OFTEN?
 
 Psychedelic voyages are not like other most other experiences. If you take them again too soon, you cannot expect that they will have the same effect. The rule of thumb is the more profound the experience, the longer you should wait before doing it again. The Guild of Guides suggests a minimum of six months between entheogenic journeys because it takes at least that long for the learning and insights to be absorbed and integrated into your life.
 
-**CHARACTERISTICS**
+### CHARACTERISTICS
 
 - The first characteristic is a slowing down of time, a concentration in the present. One's normally compulsive concern for the future decreases, and one becomes aware of the enormous importance and interest of what is happening at the moment. Only those who have cultivated the art of living completely in the present have any use for making plans for the future, for when the plans mature they will be able to enjoy the results.
 
@@ -110,7 +109,7 @@ Psychedelic voyages are not like other most other experiences. If you take them 
 
 The increased awareness offered by psychedelics comes in different forms. In higher doses taken in safe and sacred settings, they facilitate recognition of one's intimate relationship with all living things. In moderate doses, they facilitate awareness of the intricate psychodynamic structures of one's individual consciousness. In low doses, they facilitate awareness of solutions to technical and artistic problems.
 
-**MICRO-DOSING**
+### MICRO-DOSING
 
 Be conservative in following the protocol, including the amount and the days between doses. Stick with your normal patterns, especially eating, working, and sleeping. Be very discreet as to whom you let know.
 
@@ -118,7 +117,7 @@ Effects: _Making Infinity More Transparent_. I've regularly felt four kinds of e
 
 "Sub-doses of 10 to 20 micrograms allow me to increase my focus, open my heart, and achieve breakthrough results while remaining integrated within my routine. While a full dose requires that I carefully plan my surroundings, on a sub-dose I am fully able to navigate all manner of logistics and social interactions."
 
-**ASSIMILATION**
+### ASSIMILATION
 
 What I learned from my own research is that psychedelics take your life experience and compost it, so that something new can grow. If you don't have much to compost, you may not get much out of it. I always looked at psychedelics as learning tools. Even in the middle of a psychedelic experience, I would begin to think, "I wonder what I'm going to do with this?" In a sense, I wanted it to be over so I could start to get to the digestion and assimilation phase, because the psychedelic experience itself wasn't my major interest.
 

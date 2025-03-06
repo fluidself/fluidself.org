@@ -5,27 +5,27 @@ slug: the-path
 title: 'The Path: What Chinese Philosophers Can Teach Us About the Good Life - by Michael Puett'
 ---
 
-**Myth: We Live in an Age of Freedom Unlike Any Other**
+### Myth: We Live in an Age of Freedom Unlike Any Other
 
-**Myth: We Know How to Determine the Direction Our Lives Will Take**
+### Myth: We Know How to Determine the Direction Our Lives Will Take
 
 The way we think we’re living our lives isn’t the way we live them. The way we think we make decisions isn’t how we make them. Even if you did find yourself in that trolley yard someday, about to see someone killed by an oncoming trolley, your response would have nothing to do with rational calculation. Our emotions and instincts take over in these situations, and they guide our less spontaneous decisions as well, even when we think we’re being very deliberate and rational: What should I have for dinner? Where should I live? Whom should I marry?
 
 Seeing the limitations of this approach, these Chinese philosophers went in search of alternatives. The answer, for them, lay in honing our instincts, training our emotions, and engaging in a constant process of self-cultivation so that eventually—at moments both crucial and mundane—we would react in the right, ethical way to each particular situation. Through those responses, we elicit positive responses in those around us. These thinkers taught that in this way, every encounter and experience offers a chance to actively create a new and better world.
 
-**Myth: The Truth of Who We Are Lies Within Us**
+### Myth: The Truth of Who We Are Lies Within Us
 
 Many of the Chinese thinkers would argue that you are not and should not think of yourself as a single, unified being. Let’s say that you think of yourself as someone with a temper; someone who gets angry easily. The thinkers we are about to encounter would argue that you should not say, “Well, that’s just the way I am,” and embrace yourself for who you are. As we will see, perhaps you aren’t inherently an angry person. Perhaps you simply slipped into ruts—patterns of behavior—that you allowed to define who you thought you were. The truth is that you have just as much potential to be, say, gentle or forgiving as you do to be angry. These philosophers would urge us to recognize that we are all complex and changing constantly. Every person has many different and often contradictory emotional dispositions, desires, and ways of responding to the world. Our emotional dispositions develop by looking outward, not inward. They are not cultivated when you retreat from the world to meditate or go on a vacation. They are formed, in practice, through the things you do in your everyday life: the ways you interact with others and the activities you pursue. In other words, we aren’t just who we are: we can actively make ourselves into better people all the time.
 
 The title of this book comes from a concept the Chinese philosophers referred to often as the Dao, or the Way. The Way is not a harmonious “ideal” we must struggle to follow. Rather, the Way is the path that we forge continually through our choices, actions, and relationships. We create the Way anew every moment of our lives.
 
-**On Relationships: Confucius and As-If Rituals**
+### On Relationships: Confucius and As-If Rituals
 
 Rather than start with the great big philosophical questions, he asked this fundamental and deceptively profound question: How are you living your life on a daily basis? This is what life is about: moment after moment in which people encounter one another, react in an infinite number of ways, and are pulled to and fro emotionally.
 
 Developing propriety does not mean overcoming or controlling the emotions. Feeling emotion is what makes us human. It simply means cultivating our emotions so that we internalize better ways of responding to others. These better ways become a part of us. When we have learned to refine our responses, we can start to respond to people in ways that we have cultivated, instead of through immediate emotional reaction. We do this refining through ritual.
 
-**Customs and Rituals**
+### Customs and Rituals
 
 When we go through life performing most social conventions by rote, they lose their power to become rituals that can profoundly change us. They don’t do much to help us become better people. In order to help ourselves change, we must become aware that breaking from our normal ways of being is what makes it possible to develop different sides of ourselves. Rituals—in the Confucian sense—are transformative because they allow us to become a different person for a moment. They create a short-lived alternate reality that returns us to our regular life slightly altered. For a brief moment, we are living in an “as-if” world.
 
@@ -41,7 +41,7 @@ What would happen if we took steps to move out of the rote stage in which so man
 
 This may seem like a surprising way to think about ritual or change in general. After all, our model for ritual is based so often upon things like a baptism, a wedding, a graduation: ceremonies in which we move from being one thing (sinful creature, single person, student) to another (believer, spouse, graduate). There is a before and an after, and through the rite, we are transformed. Confucius offers a very different vision of transformation, which focuses not on the grand, dramatic event but on the small repeated moments. Like saying “I love you,” these as-if moments create moments of connection throughout the day that build up slowly, but no less dramatically, over time.
 
-**The Malleable Self**
+### The Malleable Self
 
 Before we can be transformed through as-if rituals, we have to let go of the mentality of the “true self.” What we in the West define as the true self is actually patterns of continuous responses to people and the world; patterns that have built up over time. For example, you might think, I’m just the kind of person who gets annoyed easily. On the contrary, it’s more likely that you have become the kind of person who does get irritated over minor things because of how you’ve interacted with people for years. But that’s not because you are, in fact, such a person. By being loyal to a “true self,” you ended up concretizing destructive emotional habits.
 
@@ -51,7 +51,7 @@ Breaking patterns helps us recognize that other people are malleable too. Perhap
 
 Our patterned behaviors and rote habits—not rituals—are what really dictate our lives and get in the way of our caring for other people. But through a life spent doing as-if rituals that break these patterns, we gain the ability to sense how to be good to those around us. This is what matters. This is ren, or a sensibility of goodness.
 
-**The Importance of Goodness**
+### The Importance of Goodness
 
 Everything we do either expresses goodness or detracts from it.
 
@@ -59,11 +59,11 @@ To understand how much we affect others, try tweaking some of your typical behav
 
 Trying to formulate abstract, universal laws to guide us is not only irrelevant but also dangerous. It prevents us from learning how to wrestle with the complexities of situations. It obstructs our understanding how to express goodness.
 
-**Cultivating Ourselves to Cultivate a Better World**
+### Cultivating Ourselves to Cultivate a Better World
 
 We tend to believe that to change the world, we have to think big. Confucius wouldn’t dispute this, but he would likely also say, Don’t ignore the small. Don’t forget the “pleases” and “thank yous.” Change doesn’t happen until people alter their behavior, and they don’t alter their behavior unless they start with the small. Confucius taught that we can cultivate goodness only through rituals. Yet it is only once we conduct our lives with goodness that we gain a sense of when to employ rituals and how to alter them. This may sound circular, and it is. This very circularity is part of the profundity of his thought. There is no ethical or moral framework that transcends context and the complexity of human life. All we have is the messy world within which to work and better ourselves. These ordinary as-if rituals are the means by which we imagine new realities and over time construct new worlds. Our lives begin in the everyday and stay in the everyday. Only in the everyday can we begin to create truly great worlds.
 
-**On Decisions: Mencius and the Capricious World**
+### On Decisions: Mencius and the Capricious World
 
 This philosophical difference between Mozi and Mencius represents the difference between those who see the world as coherent and those who see it as capricious. On the one hand, you have a world in which your actions are shaped by a belief in universally applicable rules; on the other is a world that you can never count on, one that you build anew constantly by cultivating yourself and your relationships through small actions.
 
@@ -79,7 +79,7 @@ Mencius wanted people to understand viscerally the sensation of goodness in orde
 
 If we pay attention whenever we perform an act of kindness, no matter how small—speaking to someone warmly, holding open a door for strangers, helping neighbors shovel out their cars after a snowstorm—we might experience a physical sensation such as warmth or a tiny glow. That concrete sensation is Mencius’s sprout of goodness growing within, nurtured by our act of generosity and connection to another. As you pay attention to that physical feeling, nurture the better sides of yourself, and notice the impact on yourself and on others, you become motivated to continue. In this way, you are not growing your goodness in the abstract: you are learning through every step of this process how to sow the conditions in which it can thrive.
 
-**The Heart-Mind as One**
+### The Heart-Mind as One
 
 Although some thinkers like Mozi believed in making a clear distinction between the rational and emotional faculties and separating the mind and the heart as much as possible, in Chinese, the word for mind and heart is actually one and the same: xin. The heart-mind is the seat of our emotions as well as the center of our rationality. It can deliberate, ponder, contemplate, and feel love, joy, and hatred. What separates those who become great human beings from those who do not, Mencius taught, is the capacity to follow their heart-mind rather than to go along blindly with either the senses or the intellect. Cultivating the heart-mind is what fosters our ability to decide well.
 
@@ -89,7 +89,7 @@ As you become aware of all the triggers and old patterns that shape your emotion
 
 This is what it means to cultivate the heart-mind. It allows you to become more responsive to the world, your better sides to remain intact, and your vision to remain unimpaired. What Mencius referred to as “flexible judgment” is the ability to make good moral decisions instinctively while carefully weighing each situation in all its complexity. Training our heart-mind means honing our judgment: seeing the bigger picture, understanding what really lies behind a person’s behavior, and remembering that different emotions such as anxiety, fear, and joy will draw out different sides of people we tend to think of as rigid. A sense for the right thing to do becomes a more complex, developed form of the instinct that would compel you to save a child in a well.
 
-**Laying the Ground So Things Can Grow**
+### Laying the Ground So Things Can Grow
 
 When we rationally make big life decisions based on the idea that the world is coherent, we assume a clear-cut situation, clear-cut possibilities, a stable self, unchanging emotions, and an unchanging world. But these things aren’t givens at all. By making concrete, defined plans, you are actually being abstract, because you are making these plans for a self that is abstract: a future self that you imagine based on who you think you are now, even though you, the world, and your circumstances will change. You cut yourself off from the real, messy complexities that are the basis from which you can develop as a human being. You eliminate your ability to grow as a person because you are limiting that growth to what is in the best interests of the person you happen to be right now, and not the person you will become.
 
@@ -101,7 +101,7 @@ Laying the ground means something as simple as scheduling time to take part in a
 
 Rather than going into all of this thinking, I can be anything I want to be, the approach you’re taking is I don’t know yet what I can become. You don’t know where any of this might take you; it’s not possible to know that now. But what you learn about yourself and what excites you won’t be abstract; it will be very concrete knowledge born of practical experience. Over time, you open up paths that you could not have imagined, out of which emerge options that you never would have seen before. Over time, you actually become a different person. You can’t plan out how everything in your life will play out. But you can think in terms of creating the conditions in which things will likely move in certain directions: the conditions that allow for the possibility of rich growth. By doing all this, you are not just being a farmer. You are also the results of the farmer’s work. You become the fruit of your labor.
 
-**Ming and the Unpredictability of Life**
+### Ming and the Unpredictability of Life
 
 In Mencius’s world, _ming_ prevails. Ming has been translated variously as Heaven’s commands, fate, or destiny. But for Mencius, it was a term for the contingency of life: the events, good and bad, that happen outside our control. Ming explains that windfalls (such as a job opening) and tragedies (such as a death) happen no matter what we have planned or intended.
 
@@ -119,7 +119,7 @@ It’s a very different vision from asking grand questions such as “Who am I?�
 
 In the face of fate, we should neither feel destroyed nor simply look on the bright side. The cult of positive thinking assures us that whatever difficult circumstances we find ourselves in, it will all work out. But the danger with that position is that it makes us passive. Things will happen that we can’t control, but we have a choice to act: to get out of the way of the falling wall, to respond to our ming and shape our future accordingly.
 
-**On Influence: Laozi and Generating Worlds**
+### On Influence: Laozi and Generating Worlds
 
 We often assume—because this is what we’ve been taught—that to be influential we have to be strong and powerful like the tall oak in the forest. We have to assert ourselves convincingly and even bend other people to our will. But there is another recipe for influence to be found in Chinese philosophical texts such as the Laozi, also known as the Dao de jing. It derives from appreciating the power of seeming weakness, understanding the pitfalls of differentiation, and seeing the world as interrelated. Rather than think that power comes from strength prevailing over strength, we can understand that true power comes from understanding the connections between disparate things, situations, and people. All of this comes from an understanding of what the Laozi calls the Dao, or “the Way.”
 
@@ -129,7 +129,7 @@ The more we see the world as differentiated, the more removed we become from the
 
 At the most mundane level of our everyday lives, new situations emerge constantly, and each is like a miniature world emerging out of the Way. If we understand the process of things emerging from the Way, then instead of simply living within all these situations and worlds, we can gain the power to alter them. In our social worlds, we can successfully generate new interactions, circumstances, and understandings.
 
-**False Distinctions**
+### False Distinctions
 
 To re-create the Way in all the situations in our lives, we must recognize the degree to which the distinctions that pervade our experience are actually false. By dividing up life and by believing that these aspects of our lives are unrelated to one another, we restrict what we are capable of doing and becoming. The Laozi would say that not only are mystical enlightenment and our everyday lives related, but that by separating them, we have fundamentally misunderstood both. Although we think that taking a rejuvenating weekend walk in the woods is how we reconnect with the world and with ourselves, this attitude leads us to greater disconnection from both. We need to think of our weekday life differently. The Way isn’t something we reach while walking in the woods on the weekend. It’s something we bring about actively through our daily interactions.
 
@@ -137,7 +137,7 @@ When your aim is to reconnect disparate things, emotions, and people instead of 
 
 Certain factors govern how people act in a given situation. Understanding them gives you a certain degree of influence by helping you to grasp the whole situation, but even more power comes from being the one who starts generating new situations altogether. Other people then act within the scenario you have created, not realizing that you generated it.
 
-**Strength Lies in Weakness: The Laozian as Leader**
+### Strength Lies in Weakness: The Laozian as Leader
 
 Think of who is most effective in the workplace: the office bully who is always throwing around his weight, trying to dominate everyone else, or the one who is attuned to people’s emotions, to how they receive things, who uses humor and laughter to connect, and who stays ever aware of the atmosphere of the place.
 
@@ -151,7 +151,7 @@ When his achievements are completed and tasks finished, The people say that “W
 
 The argument of the Laozi is that you can always defeat strength through weakness. If you’re in a position of strength, play weakness, and if you’re in a position of weakness, play weakness. Play weakness regardless of your starting position, and that is how you will shift situations in better directions.
 
-**On Vitality: The Inward Training and Being like a Spirit**
+### On Vitality: The Inward Training and Being like a Spirit
 
 The Inward Training also called for humans to become more divine. It argued that humans could, and should, alter the world by cultivating themselves to take on divine qualities. But its authors wanted to avoid the emphasis on the will, and so they did not define spirits as figures exercising control over the world or asserting themselves over other people. Instead, they portrayed them as highly refined, charismatic, and attuned beings that transform the world through their sheer connectedness with everything. This is a different model for human action that can lead us to a different way of thinking about how we should live. When we reconceptualize action and agency as arising from connecting rather than from dominating, we become more divine in an essential way: we become more fully alive.
 
@@ -159,17 +159,17 @@ Whether you’re doing something physical, mental, or social, that glowing excit
 
 Today many people would be skeptical that feelings of vitality come from divine energies. But qi is a useful metaphor for what it would take to make us feel more alive, and we can learn from it even without believing it to be true. All we need to do is to think of these energies in an as-if way: What does it mean to act and to live as if we were cultivating qi? And if we do so, how do we live differently? What would our lives be like if we lived as though this framework really exists?
 
-**Lessening Our Dependence on External Things**
+### Lessening Our Dependence on External Things
 
 Every time we find ourselves dominated by negative or extreme emotions, we are allowing external things to sap our energies, allowing these events to wield too much power over us. Every time we go through the daily grind, trudging through our everyday activities, we de-energize ourselves. Our spirit is being drained away, and we are filling ourselves with bad qi instead. This causes us to live so poorly and so out of balance that we get exhausted. We slowly lose our vitality and our sheer embrace of life. If we continue living like this, our spirit will ebb away long before our physical life has ended.
 
 Of course, we all know that sad events trigger negative emotions and drain us. But even exciting and exhilarating events aren’t good for us if that’s what we depend on to feel a rush of energy. Triggering events of any sort—whether they make us giddy or jealous or furious—are external. Our emotions are being pulled to and fro by things that happen around us, and any feelings of aliveness we may experience are not steady ones. But these externalities don’t have to make us bounce from happiness to sadness and back again. What is within our control is the cultivation of balance and alignment, or an inner stability: to be grounded so that we aren’t vulnerable to the inevitable happenings of the day.
 
-**Cultivating Balance and Alignment**
+### Cultivating Balance and Alignment
 
 According to the Wuxing, each of us has five potential virtues that need to be cultivated: goodness, propriety, knowledge, ritual, and sagacity. Each one helps us to refine our better sides. But they become problematic if we try to develop one virtue at the expense of the others. There is such a thing as having too much goodness, craving too much propriety, being fixated on ritual, and depending too much on knowledge. If we always relate to other people by exuding goodness, we can easily seem inappropriately gushy in some situations. If we’re overly concerned with propriety, we can seem overly formal and distant. If we focus too much on gaining knowledge, we can be too clinical. And concentrating too much on ritual can make us too rule oriented and prevent us from seeing the greater picture.
 
-**Refining Our Response to the World**
+### Refining Our Response to the World
 
 Anything that inspires awe refines qi by training the senses to respond more profoundly to the world around us. When we are more aware of the world in all its dimensions, we are more open to all that we can potentially feel about it and are better able to react well to it.
 
@@ -179,7 +179,7 @@ There is a different way of being alive and of impacting the world: through your
 
 This is a different notion of agency and of vitality. Divinities are active by resonating with the world, not by imposing their will on it. They don’t affect the world by doing the things that we tend to think of as active and powerful, but by seeing things with full clarity, behaving flawlessly without falling into patterned responses, and, through small shifts, resonating with everything around them. What these notions of energies give us is a way to think about moving from a world of endless conflicts among discrete things to a world in which things are ever more harmonious.
 
-**On Spontaneity: Zhuangzi and a World of Transformation**
+### On Spontaneity: Zhuangzi and a World of Transformation
 
 We all wear blinders that prevent us from fully experiencing and engaging with the world, and Zhuangzi argues that the greatest of these is our limited human perspective. What if you were not merely a human being but were actually a butterfly dreaming you are a human being? If we could transcend our humanity and know what it means to see the world from all perspectives, we could experience life more fully and spontaneously.
 
@@ -191,7 +191,7 @@ True spontaneity requires us to alter how we think and act in the world, to open
 
 We know that learning any complex skill—be it a foreign language, a musical instrument, riding a bicycle, learning how to swim—requires an initial period of conscious, deliberate training. The effortless competence we develop in all spheres of our lives, from the mundane to the rarified, are examples of trained spontaneity. The important point is that if we take Zhuangzi’s teachings to heart, we are not just becoming skilled tennis players, or employees, or cooks. We are changing our whole approach to life. Our pianist has not trained herself merely to play the piano; she has trained her entire way of being in the world.
 
-**Imagination and Creativity**
+### Imagination and Creativity
 
 We usually think about training toward mastery as limited to the specific skills we are looking to hone. How could putting in all those hours to master the piano or become proficient at tennis help you to train your entire way of being in the world? It comes from recognizing the training as not just specific to the skill at hand but as training us to break the limited perspectives that we don’t even realize dominate our lives. When we do so, we gain something else too: entry into a state that fosters true imagination and creativity. Although we might not think of being in the zone as related to these things, for Zhuangzi, imagination and creativity stem directly from a state of continuous spontaneous flow.
 
@@ -205,13 +205,13 @@ We focus on things based on habitual patterns of attention. On our morning commu
 
 That lens is one we can acquire and cultivate. Once we understand how we see the world more expansively when we are with someone who amplifies our own experience, we can develop a nuanced appreciation for the world even when we are alone. We can constantly ask ourselves how someone else would view this world and remain ever aware that our perspective on it is not the only one that exists. As Zhuangzi shows us, it’s the principle of seeing things differently, or shifting our perspective, that allows us to experience life with newness and intensity.
 
-**Shifting Our Perspective**
+### Shifting Our Perspective
 
 Our conscious minds tend to focus on what “should be”—on what appears to be right. We think we know what is beautiful, what is large, what is virtuous, what is useful. Yet do we really understand how arbitrary the words and values we depend on actually are? The problem comes when we assume that our perspectives are universal, and we close off our minds. We create rigid distinctions and overly stable categories and values.
 
 Imagine what it would be like for little things and big things alike to cease to disturb us, instead becoming part of the excitement of life; things we find exciting and embrace. Imagine seeing things from all perspectives, and thus being able to understand that everything that happens is part of the process of flux and transformation.
 
-**On Humanity: Xunzi and Putting Pattern on the World**
+### On Humanity: Xunzi and Putting Pattern on the World
 
 We often hear that self-acceptance is the key to personal growth: Love who you are. Be at peace with the person you are in this moment. This leads us to accept not just ourselves but also our lives; in doing so, we gain some measure of serenity. But one of our philosophers would have been concerned about this level of self-acceptance. Xunzi, a Confucian scholar born in 310 BC, didn’t believe we should accept ourselves as we are. Rather, he argued that we should never complacently accept what we think is natural to us.
 
@@ -219,13 +219,13 @@ Our very worst cravings and desires are also a part of what’s natural about us
 
 Xunzi believed that Confucius alone had understood the most important, most fundamental practice: that of ritual training to become a better person. But Xunzi would do something very different with ritual. For Confucius, ritual was a means to construct miniature as-if moments endlessly to create pockets of order in human relationships. Xunzi expanded this notion so that instead of constructing pockets of as-if moments, we could create vast as-if worlds. He believed that ritual works to transform our natures when, and only when, we recognize it as the artifice it is. It is that very consciousness of artifice that Xunzi exhorts us to apply to the world at large. This is how ritual not only helps us to become better people, but to construct a better world.
 
-**The Importance of Artifice**
+### The Importance of Artifice
 
 In his writings, Xunzi famously likened human nature to a crooked piece of wood, one that had to be straightened forcibly from the outside. But unlike other commentators on human nature (such as Kant, who centuries later would declare, “Out of the crooked timber of humanity, no straight thing was ever made”), Xunzi believed that the crooked wood of human nature could be straightened. It just required wei, or “artifice,” from which ritual emerged. But that artifice had to be used well. We tend to distrust those who seem artificial or phony. However, as Xunzi would likely remind us, each of our personas is constructed. Even when we think we’re being natural and “real,” being like that is a choice, and thus it is a kind of artifice too. For Xunzi, being artificial is a good thing—as long as we’re aware we are doing it so that we can do it well. Artifice helps us corral our spontaneous natures and unruly emotions.
 
 Xunzi argued that we should consciously work on our natures to help us refine and order our emotions and impulses. Through artificial constructs such as rituals, we can impose patterns on our natures much as agriculture gave pattern to the world around us.
 
-**The Danger of Thinking the World Should Be Natural**
+### The Danger of Thinking the World Should Be Natural
 
 If you use a chariot and horses, your feet have not improved one bit, but you can travel a thousand li. If you use a boat and paddle, you haven’t learned to swim, but you can still cross the rivers and seas. One who is cultivated is no different from others at birth; he is simply good at making use of things.
 

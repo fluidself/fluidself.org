@@ -11,7 +11,7 @@ Because the results are unpredictable, no effort of mine is doomed to failure. A
 
 I say to people, "I always do so-and-so," or "I never do so-and-so," as if being my self depended on such banal consistencies.
 
-"Next time I will …" "From now on I will …" --What makes me think I am wiser today than I will be tomorrow?
+"Next time I will …" "From now on I will …" —What makes me think I am wiser today than I will be tomorrow?
 
 Perfectionism is slow death. Idols and ideals are based on the past. If everything were to turn out just as I would want it to, just as I would plan, I would never experience anything new. My life would be an endless repetition of stale successes. When I make a mistake I experience something unexpected.
 
@@ -49,7 +49,7 @@ The criticism that hurts the most is the one that echoes my own self-condemnatio
 
 I have two principal ways of discovering the areas where I fail to see myself. The first is acknowledging the qualities in others that irritate me. The second is acknowledging the comments that have made me defensive. To discover what irritates me, I merely review my latest encounters, but I have more difficulty recognizing when I am defensive. I can sometimes identify it by the following syndrome: I answer quickly. I feel an urge to say more than I need to. I explain, try to persuade, and feel impatient when interrupted. I feel frustrated even if I appear to succeed, as if the damage has already been done. I am incapable of taking the other people's comments any way but seriously; their words never seem light or funny (yet when my reaction becomes apparent, they often take the situation lightly).
 
-If it's afterwards that my defensiveness surfaces (usually because I have been chewing on what was said) my mental state has these characteristics: I think hurriedly. I think in circles, replaying the scene and endlessly revising my part. I look for ways to justify attacking back--never fully admitting my true motive. And I feel a strong resistance to stopping and implementing a procedure (any procedure) that would change my mental tone.
+If it's afterwards that my defensiveness surfaces (usually because I have been chewing on what was said) my mental state has these characteristics: I think hurriedly. I think in circles, replaying the scene and endlessly revising my part. I look for ways to justify attacking back—never fully admitting my true motive. And I feel a strong resistance to stopping and implementing a procedure (any procedure) that would change my mental tone.
 
 Why this need to divide up, classify, and neatly package every new acquaintance? For me to try to classify something so complex as an individual human merely demonstrates my own shallowness. A judgment of another person is an abstraction that adds qualities which are not there and leaves out what is unique. When I classify individuals I turn them into objects. The only way for me to contact other people is to experience them, not think about them.
 
@@ -79,7 +79,7 @@ Feelings may demand action but they do not require it. I am free to choose what 
 
 I don't feel "I want." I feel "I lack." I decide "I want."
 
-"I don't care what people think"--that is perhaps the most dishonest sentence I say to myself. Do I say it because I want to believe I don't care, or merely to give that appearance? And why is the appearance of not caring any better than vanity?
+"I don't care what people think"—that is perhaps the most dishonest sentence I say to myself. Do I say it because I want to believe I don't care, or merely to give that appearance? And why is the appearance of not caring any better than vanity?
 
 A stimulus can be used any way I decide. The sight of another person can be my cue to relax. The sight of a crowd can be my cue to peace.
 
@@ -89,7 +89,7 @@ Do I avoid looking a stranger in the eyes because I don't want to make him uncom
 
 One thing has become quite clear. All acquaintances are passing. Therefore I want to make the most of every contact. I want to quickly get close to the people I meet because my experience has shown we won't be together long.
 
-Ideas are clean. They soar in the serene supernal. I can take them out and look at them, they fit in books, they lead me down that narrow way. And in the morning they are there. Ideas are straight--
+Ideas are clean. They soar in the serene supernal. I can take them out and look at them, they fit in books, they lead me down that narrow way. And in the morning they are there. Ideas are straight—
 But the world is round, and a messy mortal is my friend.
 Come walk with me in the mud...
 

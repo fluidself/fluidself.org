@@ -5,9 +5,9 @@ slug: learned-optimism
 title: 'Learned Optimism: How to Change Your Mind and Your Life - by Martin E. Seligman'
 ---
 
-**Part One: The Quest**
+## Part One: The Quest
 
-**Two Ways of Looking at Life**
+### Two Ways of Looking at Life
 
 The defining characteristic of pessimists is that they tend to believe bad events will last a long time, will undermine everything they do, and are their own fault. The optimists, who are confronted with the same hard knocks of this world, think about misfortune in the opposite way. They tend to believe defeat is just a temporary setback, that its causes are confined to this one case. The optimists believe defeat is not their fault: Circumstances, bad luck, or other people brought it about. Such people are unfazed by defeat. Confronted by a bad situation, they perceive it as a challenge and try harder. These two habits of thinking about causes have consequences. Literally hundreds of studies show that pessimists give up more easily and get depressed more often. These experiments also show that optimists do much better in school and college, at work and on the playing field. They regularly exceed the predictions of aptitude tests. When optimists run for office, they are more apt to be elected than pessimists are. Their health is unusually good. They age well, much freer than most of us from the usual physical ills of middle age. Evidence suggests they may even live longer.
 
@@ -21,7 +21,7 @@ What if the great majority of depressions are much simpler than the biological p
 
 What if the traditional view of the components of success is wrong? What if there is a third factor—optimism or pessimism—that matters as much as talent or desire? What if you can have all the talent and desire necessary—yet, if you are a pessimist, still fail? What if optimists do better at school, at work, and on the playing field? What if optimism is a learned skill, one that can be permanently acquired? What if we can instill this skill in our children?
 
-**Explaining Misfortune**
+### Explaining Misfortune
 
 How do you think about the causes of the misfortunes, small and large, that befall you? Some people, the ones who give up easily, habitually say of their misfortunes: “It’s me, it’s going to last forever, it’s going to undermine everything I do.” Others, those who resist giving in to misfortune, say: “It was just circumstances, it’s going away quickly anyway, and, besides, there’s much more in life.” Your habitual way of explaining bad events, your explanatory style, is more than just the words you mouth when you fail. It is a habit of thought, learned in childhood and adolescence. Your explanatory style stems directly from your view of your place in the world—whether you think you are valuable and deserving, or worthless and hopeless. It is the hallmark of whether you are an optimist or a pessimist.
 
@@ -33,7 +33,7 @@ How do you think about the causes of the misfortunes, small and large, that befa
 
 **Personalization: Internal vs. External.** When bad things happen, we can blame ourselves (internalize) or we can blame other people or circumstances (externalize). People who blame themselves when they fail have low self-esteem as a consequence. They think they are worthless, talentless, and unlovable. People who blame external events do not lose self-esteem when bad events strike. On the whole, they like themselves better than people who blame themselves do. Low self-esteem usually comes from an internal style for bad events. Personalization is also the easiest dimension to overrate. It controls only how you feel about yourself, but pervasiveness and permanence—the more important dimensions—control what you do: how long you are helpless and across how many situations.
 
-**Ultimate Pessimism**
+### Ultimate Pessimism
 
 When in a pessimistic, melancholy state, we are going through a mild version of a major mental disorder: depression. Depression is pessimism writ large, and to understand pessimism, a subtle phenomenon, it helps to look at the expanded, exaggerated form.
 
@@ -47,7 +47,7 @@ The question arises whether unipolar depression, also a certified disorder, and 
 
 A pessimistic explanatory style is at the core of depressed thinking. A negative concept of the future, the self, and the world stems from seeing the causes of bad events as permanent, pervasive, and personal, and seeing the causes of good events in the opposite way.
 
-**How You Think, How You Feel**
+### How You Think, How You Feel
 
 Our reasoning was straightforward. Depression results from lifelong habits of conscious thought. If we change these habits of thought, we will cure depression. Let’s make a direct assault on conscious thought, we said, using everything we know to change the way our patients think about bad events. Out of this came the new approach, which Beck called cognitive therapy. It tries to change the way the depressed patient thinks about failure, defeat, loss, and helplessness. The National Institute of Mental Health has spent millions of dollars testing whether the therapy works on depression. It does.
 
@@ -73,9 +73,9 @@ Cognitive therapy uses five tactics.
 
 On a mechanical level, cognitive therapy works because it changes explanatory style from pessimistic to optimistic, and the change is permanent. It gives you a set of cognitive skills for talking to yourself when you fail. You can use these skills to stop depression from taking hold when failure strikes. At a philosophical level, cognitive therapy works because it takes advantage of newly legitimized powers of the self. In an era when we believe the self can change itself, we are willing to try to change habits of thought which used to seem as inevitable as sunrise. Cognitive therapy works in our era because it gives the self a set of techniques for changing itself. The self chooses to do this work out of self-interest, to make itself feel better.
 
-**Part Two: The Realms of Life**
+## Part Two: The Realms of Life
 
-**Success at Work**
+### Success at Work
 
 The explanatory-style theory of success says that in order to choose people for success in a challenging job, you need to select for three characteristics:
 
@@ -99,7 +99,7 @@ Perhaps a successful life, like a successful company, needs both optimism and at
 
 Like the successful company, we each have in us an executive who balances the counsels of daring against the counsels of doom. When optimism prompts us to chance it and pessimism bids us to cower, a part of us heeds both. This executive is sapience. It is this entity to whom is addressed the most basic point of this book: By understanding the single virtue of pessimism along with its pervasive, crippling consequences, we can learn to resist pessimism’s constant callings, as deep-seated in brain or in habit as they may be. We can learn to choose optimism for the most part, but also to heed pessimism when it is warranted.
 
-**Children and Parents: The Origins of Optimism**
+### Children and Parents: The Origins of Optimism
 
 Explanatory style develops in childhood. The optimism or pessimism developed then is fundamental. New setbacks and victories are filtered through it, and it becomes an entrenched habit of thinking.
 
@@ -107,15 +107,15 @@ Children’s antennae are constantly tuned to the way their parents, particularl
 
 We have evidence for three kinds of influences on your child’s explanatory style. First, the form of the everyday causal analyses he hears from you—especially if you are his mother: If yours are optimistic, his will be too. Second, the form of the criticisms he hears when he fails: If they are permanent and pervasive, his view of himself will turn toward pessimism. Third, the reality of his early losses and traumas: If they remit, he will develop the theory that bad events can be changed and conquered. But if they are, in fact, permanent and pervasive, the seeds of hopelessness have been deeply planted.
 
-**School**
+### School
 
 For almost a hundred years aptitude and talent have been the code words for academic success. These idols occupy the place of honor on the altars of all admissions and personnel officials. In America you can’t even get placed on the track unless your IQ or your SAT score or your MCAT score is high enough, and the situation is even worse in Europe. I think “talent” is vastly overrated. Not only is talent imperfectly measured, not only is it an imperfect predictor of success, but also the traditional wisdom is wrong. It leaves out a factor that can compensate for low scores or greatly diminish the accomplishments of highly talented people: explanatory style. Which comes first—optimism or achievement in the classroom? Common sense tells us that people become optimistic as a consequence of being talented or because they do well. But the design of our classroom studies clearly establishes that the causal arrow also points in the opposite direction. In our studies, we hold talent—SAT scores, IQ, life-insurance qualification test scores—constant to begin with and then look at what happens to the optimists and pessimists among the highly talented. Over and above their talent-test scores, we repeatedly find that pessimists drop below their “potential” and optimists exceed it. I have come to think that the notion of potential, without the notion of optimism, has very little meaning.
 
-**Sports**
+### Sports
 
 What does my view of optimism say about the playing field? Quite simply, there are three basic predictions for sports. First, everything else being equal, the individual with the more optimistic explanatory style will go on to win. He will win because he will try harder, particularly after defeat or under stiff challenge. Second, the same thing should hold for teams. If a team can be characterized by its level of optimism, the more optimistic team should win—if talent is equal—and this phenomenon should be most apparent under pressure. Third, and most exciting, when athletes’ explanatory style is changed from pessimistic to optimistic, they should win more, particularly under pressure.
 
-**Health**
+### Health
 
 Almost all modern scientists and physicians are materialists. They resist to the death the notion that thought and emotion can affect the body. For them that is spiritualism. All claims that emotional and cognitive states influence illness run afoul of materialism.
 
@@ -127,9 +127,9 @@ The final reason that optimists should have better health concerns social suppor
 
 Materialists view the immune system as isolated from the psychology of the person in whom it resides. They believe that psychological variables like optimism and hope are as vaporous as spirit, so they are doubting Thomases about claims that optimism, depression, and bereavement all affect the immune system. They forget that the immune system is connected to the brain, and that states of mind, such as hope, have corresponding brain states that reflect the psychology of the person. These brain states then affect the rest of the body. So there is no mystery and no spiritualism involved in the process by which emotion and thought can affect illness.
 
-**Part Three: Changing From Pessimism to Optimism**
+## Part Three: Changing From Pessimism to Optimism
 
-**The Optimistic Life**
+### The Optimistic Life
 
 In what situations should you deploy the explanatory style–changing skills these chapters provide? First, ask yourself what you are trying to accomplish.
 
@@ -159,13 +159,13 @@ When you have recorded your five ABC episodes, read them over carefully. Look fo
 
 There are two general ways for you to deal with your pessimistic beliefs once you are aware of them. The first is simply to distract yourself when they occur—try to think of something else. The second is to dispute them. Disputing is more effective in the long run, because successfully disputed beliefs are less likely to recur when the same situation presents itself again.
 
-**Distraction**
+### Distraction
 
 Some people ring a loud bell, others carry a three-by-five card with the word STOP in enormous red letters. Many people find it works well to wear a rubber band around their wrists and snap it hard to stop their ruminating. If you combine one of these physical techniques with a technique called attention shifting, you will get longer-lasting results. To keep your thoughts from returning to a negative belief after interruption (by snapping a rubber band or whatever), now direct your attention elsewhere. Actors do this when they must suddenly switch from one emotion to another. Try this: Pick up a small object and study it intently for a few seconds. Handle it, put it in your mouth and taste it, smell it, tap it to see how it sounds. You’ll find that concentrating on the object this way will have strengthened your shift in attention.
 
 Finally, you can undercut ruminations by taking advantage of their very nature. Their nature is to circle around in your mind, so that you will not forget them, so that you will act on them. When adversity strikes, schedule some time—later—for thinking things over … say, this evening at six P.M. Now, when something disturbing happens and you find the thoughts hard to stop, you can say to yourself, “Stop. I’ll think this over later … at [such and such a time].” Also, write the troublesome thoughts down the moment they occur. The combination of jotting them down—which acts to ventilate them and dispose of them—and setting a later time to think about them works well; it takes advantage of the reason ruminations exist—to remind you of themselves—and so undercuts them. If you write them down and set a time to think about them, they no longer have any purpose, and purposelessness lessens their strength.
 
-**Disputation**
+### Disputation
 
 Ducking our disturbing beliefs can be good first aid, but a deeper, more lasting remedy is to dispute them: Give them an argument. Go on the attack. By effectively disputing the beliefs that follow adversity, you can change your customary reaction from dejection and giving up to activity and good cheer.
 
@@ -193,7 +193,7 @@ Now I want you to practice the ABCDE model. You already know what ABC stands for
 
 Practice disputing your automatic interpretations all the time from now on. Anytime you find yourself down or anxious or angry, ask what you are saying to yourself. Sometimes the beliefs will turn out to be accurate; when this is so, concentrate on the ways you can alter the situation and prevent adversity from becoming disaster. But usually your negative beliefs are distortions. Challenge them. Don’t let them run your emotional life. Unlike dieting, learned optimism is easy to maintain once you start. Once you get into the habit of disputing negative beliefs, your daily life will run much better, and you will feel much happier.
 
-**Flexible Optimism**
+### Flexible Optimism
 
 The self has a history. In one form or another, it has been around for a long time, its properties varying with the time and with the culture. From the Middle Ages until the late Renaissance the self was minimal; in a painting by Giotto, everyone but Jesus looks like everyone else. Toward the end of the Renaissance the self expanded, and in Rembrandts and El Grecos the bystanders no longer all look like members of a chorus. The expansion of the self has continued into our times. Our wealth and our technology have culminated in a self that chooses, that feels pleasure and pain, that dictates action, that optimizes or satisfices, and that even has rarefied attributes—like esteem and efficacy and confidence and control. I call this new self, with its absorbing concern for its gratifications and losses, the maximal self to distinguish it from what it has replaced, the minimal, or Yankee, self, the self our grandparents had. The Yankee self, like the medieval self, did little more than just behave; it was certainly less preoccupied with how it felt. It was less concerned with feelings and more concerned with duty. For better or for worse, we are now a culture of maximal selves. We freely choose among an abundance of customized goods and services and reach beyond them to grasp more exquisite freedoms. Along with the freedoms the expanded self brings some dangers. Chief among them is massive depression. I believe that our epidemic of depression is a creature of the maximal self. If it had happened in isolation, exalting the self might have had a positive effect, leading to more fully lived lives. But it was not to work out that way. The waxing of the self in our time coincided with a diminished sense of community and loss of higher purpose. These together proved rich soil for depression to grow in.
 

@@ -11,7 +11,7 @@ Our version of freedom sprang from the European Enlightenment, a philosophical m
 
 In the realm of tradition, truth is something that precedes individual human beings, something we inherit and must hand down, in turn. We can discover truth and reason about it, to be sure, but we can’t change it. In the realm of progress, however, truth is what individuals or groups can articulate or build on their own, through scientific inquiry and their acts in history. Truth thus becomes an ongoing project, a malleable thing. In our realm of progress, tradition is viewed as not only antiquated and inefficient, but as an impediment to achievement. But what if that confidence of the modern world is an illusion, the product of a determined resolution not to confront the fundamental dilemmas of what it means to be fully human? Or what if beneath the moderns’ complacency lurks a deep soul-soreness?
 
-**QUESTION ONE: HOW DO YOU JUSTIFY YOUR LIFE?**
+### QUESTION ONE: HOW DO YOU JUSTIFY YOUR LIFE?
 
 The scientific outlook can’t, and won’t, bother with questions having to do with ultimate meaning, the stock-in-trade of faith and philosophy. And it insists that such questions don’t belong to an inquiry into truth in the first place, since the answers don’t take scientific form. Meaning and purpose, however, force us to consider nothing less than the value of being. Given the monopoly on knowledge they claim, proponents of the scientific outlook should be able to furnish an answer to our central question. Can they?
 
@@ -19,7 +19,7 @@ We, too, must be prepared to surrender our share of a “chronological snobbery�
 
 Plenty of scientists are humble enough to accept science’s limitations, of course. But the ideologues of scientism are a different matter. At best, they smuggle in their own ideals in response to such problems, even as they claim to have debunked all idealism. At worst, they invite us to despair (and immorality) by suggesting that the timeless problems of being human don’t have right or wrong, true or false, answers—since neither the questions nor the potential answers can be kept contained in the world of sensible, measurable facts.
 
-**QUESTION TWO: IS GOD REASONABLE?**
+### QUESTION TWO: IS GOD REASONABLE?
 
 What matters for our purposes is to appreciate just how high the stakes in Aquinas’s project were. For starters, the Five Ways, and the Thomistic edifice as a whole, attest to philosophy’s enduring power to answer the deepest yearning of the heart: to know that we are part of an orderly whole, the creation of a being whose existence explains why everything happens in the world. As coldly rationalistic as the Five Ways might appear at first glance, their ultimate import couldn’t be more warmly hopeful: We are wanted. We belong. We are here for a reason. We are loved. Second, and relatedly, inherent in Aquinas’s proofs is the assurance that this being, this God, is good, as all major religions insist he is. In the Thomistic scheme, goodness and being are really the same thing: The most perfect thing is that which is perfectly actual, as opposed to having its being depend upon some other cause. The God whose existence the Five Ways prove is the supreme being from which everything else derives being. Therefore, he is also goodness itself. Thomistic thought, moreover, is an unabashed celebration of reason and a vigorous defense of its prerogatives. If our minds can learn of God’s existence by hewing to the well-tested syllogisms of Aristotle, it follows that right reason has a share of the sacredness of the Almighty. This is good news for philosophy, because it suggests that reason can penetrate into the most fundamental structures of reality. And it is good news for religion, since it implies that acting reasonably is a divine imperative. The God who allows us to know him by reason is a reasonable God; those who believe in him must, therefore, aspire to the same thing in the way they deal with other human beings.
 
@@ -27,13 +27,13 @@ Two centuries later came Martin Luther (1483–1546) and the Reformation. Luther
 
 If men and women couldn’t reason with confidence about being itself—if they couldn’t see how the good, intelligible, causally ordered world around them gave proof of the God who is being, goodness, and reason itself—then reason and revelation would have to go their separate ways. We are the children of this cruel divorce, caught between the horns of scientistic Westons and cranky Louisiana pastors. We have been sold a bad bill of goods. Modern philosophy, with its tendency to judge everything by the standard of its own ideas and claims to greatness, has conditioned us to see the rejection of everything medieval as a victory of reason over obscurantism. But that narrative is mostly self-serving mythology, as we have seen. It wasn’t the case that with the rise of the Enlightenment, philosophical reason eclipsed irrational faith. Rather, an illiberal conception of reason’s powers came to eclipse reason as Aquinas understood it: a reason that could get at the very mind of God. But this needn’t be a permanent eclipse. We can go back behind intellectual mistakes, even epochal ones. We can retrace our steps and recover reason in its full, rich, medieval sense. For in the beginning was reason, and reason was with God, and reason was God.
 
-**QUESTION THREE: WHY WOULD GOD WANT YOU TO TAKE A DAY OFF?**
+### QUESTION THREE: WHY WOULD GOD WANT YOU TO TAKE A DAY OFF?
 
 In biblical logic, holiness always requires abandonment. Something must be handed over to God, surrendered, even given up for destruction. This logic of sacrifice is at work in an especially tangible way in the Sabbath.
 
 Such submission feels inconvenient; it seems like an imposition. It interferes with industry and online shopping and tax revenues. All true—but divinely ordained rest is also a durable source of human freedom and dignity.
 
-**QUESTION FOUR: CAN YOU BE SPIRITUAL WITHOUT BEING RELIGIOUS?**
+### QUESTION FOUR: CAN YOU BE SPIRITUAL WITHOUT BEING RELIGIOUS?
 
 The trouble with “spiritual but not religious” practice isn’t a lack of ritual—but that it fails as spirituality. Dead Sea salt baths, homemade liturgies, severe diets, meditation and mindfulness (in their faddish, corporate-friendly forms), and other activities of the kind are ritualistic, in a sense: They entail repetitive action, some of the same “play” involved in liturgy, not to mention devotion and even austere self-denial. But the rites of the “spiritual but not religious” are essentially privatized. Though they act ritually, adherents don’t bind themselves to a shared account of ultimate meaning or a network of symbols handed down over generations. Those today who claim to believe but reject ritual, or who create their own privatized rites shorn of belief and ultimate meaning, are missing crucial elements of what makes ritual spirituality possible and worthwhile.
 
@@ -41,7 +41,7 @@ By their very nature, privatized rituals can neither endure, nor take us out of 
 
 I’m not suggesting that if we only had more religious ritual, we could heal various antagonisms or fix all of our social problems. Many are the product of unjust political arrangements; they call for political action, not ancient rites. Then again, there might be a reason why our society is seemingly designed to prevent people from living liturgical lives—why so many of us are too harried, distracted, and isolated to play the cosmic game of ritual. Ritual, after all, can inspire countercultural action. When we glimpse the communitas lying beyond everyday structures, we are possessed by a blessed vision of what structural society could or should look like:
 
-**QUESTION FIVE: DOES GOD RESPECT YOU?**
+### QUESTION FIVE: DOES GOD RESPECT YOU?
 
 Thurman had profound insights into Christianity’s meaning for the people “with their backs against the wall.” Those insights remain powerfully relevant today, when many dismiss religion’s centrality to the quest for justice—and many “orthodox” Christians reinforce the impression by holding fast to an essentially depoliticized spirituality. The man on the Cross, Thurman insisted, couldn’t possibly be indifferent to political indignity.
 
@@ -51,7 +51,7 @@ Fear, hypocrisy, and hate are powerless before the Christ event—before the inf
 
 “There can never be a substitute for taking personal responsibility for social change,” Thurman wrote. In this case, “personal” meant individuals, but it also meant the church as a corporate person, a “beachhead in our society” that helped the “solitary” individual overcome the fear that could otherwise stifle action against racism. This model of nonviolent, God-imbued activism, so central to the civil-rights movement, was arguably Thurman’s most tangible contribution to the cause. He lived long enough to see his spiritual program bear fruit in the activism of the likes of Martin Luther King Jr. and Rosa Parks and in the collapse of de jure racial apartheid in the United States in the 1960s.
 
-**QUESTION SIX: DOES GOD NEED POLITICS?**
+### QUESTION SIX: DOES GOD NEED POLITICS?
 
 “For Aristotle as for much of classical philosophy, the end of life was a public matter,” and “religion had to be fully integrated into politics.” Roman thought more or less adopted Greek ideas when it came to faith in public life. As Waldstein reminds us, the Latin word _religio_ “meant reverence not only toward the gods, but also toward human superiors.” Religio was necessary for the maintenance and expansion of the _res publica_, which Romans believed they had been charged by destiny to spread to the ends of the earth, to every rational being.
 
@@ -63,7 +63,7 @@ The “primacy of the spiritual” meant that the spiritual authority (the Churc
 
 The notion that we can’t know, much less legislate, humanity’s highest end is itself a metaphysical, even spiritual claim, and it stands at the heart of the modern project. Its god is the unbound self. And the worship of such a god will inevitably have political consequences: vast accumulations of capital, much of it concentrated in very few hands; a ceaselessly disruptive culture offering kaleidoscopic lifestyles; a heavily armed commercial empire. These are the conditions fueling popular discontent across the developed world in our century.
 
-**QUESTION SEVEN: HOW MUST YOU SERVE YOUR PARENTS?**
+### QUESTION SEVEN: HOW MUST YOU SERVE YOUR PARENTS?
 
 Attend to the roots, protect the filial branches, and “a moral way will grow.” Confucius felt that in his time, men and women had abandoned the moral way; his calling was to help restore it. He didn’t set out to teach anything new, he insisted, much less formulate any sort of theory. As he told his disciples, “I transmit but do not create. I am fond of antiquity, because I have faith in it.” His life’s work was an expression of filial piety toward the past.
 
@@ -75,7 +75,7 @@ Caring for our parents’ physical needs is necessary but not sufficient to prov
 
 We are creatures naturally inclined to love and longing to be loved. Our parents answered this longing precisely when we were most vulnerable, when we couldn’t have even survived on our own. The point of filial devotion is to honor—and return—the love we were once given.
 
-**QUESTION EIGHT: SHOULD YOU THINK FOR YOURSELF?**
+### QUESTION EIGHT: SHOULD YOU THINK FOR YOURSELF?
 
 To the liberal, the act of thinking for yourself is an inherent good, even the highest good. It is the guarantor of the flow of information, the currency of the marketplace of ideas. More than that, free thought guards the integrity of the conscience against oppressive external forces, against dogmatic principles and unproved presuppositions. To deny an absolute right to question everything is thus the most heinous intellectual crime under liberalism, the first stop on the road to tyranny. This isn’t a matter of left or right. After two centuries of liberal hegemony, absolute freedom of thought is a bipartisan pledge.
 
@@ -89,7 +89,7 @@ To protect the free conscience, we must ring it with true and tested guardians o
 
 The cultural rupture between conscience and authority heralded by the likes of Gladstone is now complete. People are still mercifully born with consciences, of course, and that won’t ever change. But the imperative to always think for yourself leaves many consciences malformed, if not altogether unformed. It is impossible to be one’s own pope. For some, the moral life becomes an endless, solipsistic quest to figure out “what my true self stands for.” Many feel they have to reinvent the moral wheel daily, which is the height of arrogance, not to mention utterly exhausting. Still others externalize all of the conscience’s furies, directing them against the faults of others or those of social and political systems. Worse, too many simply learn to tune out the conscience’s voice, now lowered to a murmur for lack of authoritative supports. The think-for-yourself culture celebrates all of these groups for their “free minds.” Yet we know that most people sway, feather-like, to the prevailing winds of news and social media, fashion and faddism, public and “expert” opinion, P.R. and propaganda. Large corporations, especially, want nothing more than for our minds to be independent—that is, unmoored from absolute, unbendable moral authorities that might challenge corporate agendas. And how much the better for the powers-that-be if pliant consumers and docile workers fancy themselves rebels and radicals.
 
-**QUESTION NINE: WHAT IS FREEDOM _FOR_?**
+### QUESTION NINE: WHAT IS FREEDOM _FOR_?
 
 Admirers of Russian literature might recognize in Ivan Denisovich Shukhov a certain Russian type: Other iterations include Sonya, the soulful prostitute in Fyodor Dostoevsky’s _Crime and Punishment_, and Platon Karataev, the humane and cheerful peasant who flits in and out of the final chapters of Leo Tolstoy’s _War and Peace_. Sonya and Karataev both stand for the rootedness and resilience of Russia’s poor, reminding cerebral, restless intellectuals that amid adversity, it suffices to savor one’s daily bread, give glory to God, and love one’s neighbor as oneself.
 
@@ -99,7 +99,7 @@ Human beings took themselves as their own moral scale and—surprise!—conclude
 
 All the profound questions of life are unsettled; young and old alike lack a stable basis for answering them. In economic life, entrepreneurial autonomy has generated vast wealth for the innovative. But the downsides are increasingly evident. Even the well-educated stagger under the weight of hypercompetition. Great acts of true freedom—that is, freedom for the good—require knowing that one stands on solid ground, a confidence that we too often lack.
 
-**QUESTION TEN: IS SEX A PRIVATE MATTER?**
+### QUESTION TEN: IS SEX A PRIVATE MATTER?
 
 The problem is lust. For Augustine as for Dworkin, lust generally, and the lust for domination especially, renders moral sex unattainable, or nearly so. Catholic saint and radical feminist alike were also troubled by how this lust undoes even our best aspirations—for example, the aspiration to a society that honors the equal dignity of men and women.
 
@@ -109,7 +109,7 @@ Thus, sexual intercourse almost requires a bracketing off or putting on pause of
 
 Her theory is muddled. It is a sign, I suspect, that as with the threat of “liberated” men, she refused to take things to their logical conclusion: Traditional sexual regulations did far more to domesticate male lust than any modern alternative on offer. Even if marred by hypocrisy in its application, traditional teaching was at least alert to the dangers of sexuality and erected some protective barriers. Conversely, we might ask: Has the downfall of those barriers ushered in a new era of sexual dignity and equality? Or did it create conditions favorable to the Harvey Weinsteins and Jeffrey Epsteins of the world, to Pornhub and the mass pornographization Dworkin rightly decried? If Dworkin’s diagnosis was mostly correct—and the daily #MeToo headlines suggest it was—then the best we can do might be to begin rebuilding some of the barriers foolishly torn down by our parents and grandparents. “Conservative,” religious Americans should set aside their reflexive hostility to all things feminist and resist the tendency to treat a sexist, boorish, and essentially libertine ethic of relatively recent vintage as somehow ordained by Scripture, antiquity, or “nature.” By the same token, feminists and men and women of the “left” would be wise to take a second look at tradition, rightly and broadly understood, as a source of sexual restraint and regulation, ordered especially to the protection of women and children.
 
-**QUESTION ELEVEN: WHAT DO YOU OWE YOUR BODY?**
+### QUESTION ELEVEN: WHAT DO YOU OWE YOUR BODY?
 
 Gnosis was knowledge that saved: Once the gnostic believer awakened to the true nature of reality, he was freed from bonds of responsibility—and guilt. He “knew” that the rules proclaimed by the prophets and seemingly wired into human nature were pointless, indeed, evil: Nature itself was evil or mad, after all, and the prophets served the evil or mad creator of nature. Hence why gnostic moral doctrines typically paid so little attention to natural virtues or perfections (arete). Arete took for granted an account of the human person, a composite of soul and body, as being sensible, purposive, end-directed. That was the account Greco-Roman philosophy promoted, which the Church incorporated into her moral teachings. But “it is obvious,” Jonas found, “that Gnosticism had no room for this conception of human virtue. ‘Looking toward God’ has for it an entirely different meaning,” namely, “jumping across all intervening realities”: mundane social bonds, loyalty to the people and communities that depend on us, the human body—all were “nothing but fetters or obstacles, or distractions or temptations, or at best irrelevant.” Starting from these premises, some gnostic cults enjoined a rigorous asceticism. Other cults promoted a total and shameless libertinism: The moral law was nothing “but the means of regularizing and thus stabilizing” our worldly affairs, after all, when the real point was to transcend the world. So believers could do as they pleased: Their deeds in this cosmic realm had nothing to do with their salvation.
 
@@ -125,7 +125,7 @@ Today’s varieties do share with the old Gnosticism something of that acosmic a
 
 The human body is an image of moral responsibility. To accept the body—with all its beauty and brokenness, its miraculous capacities and its shortcomings, its natural functioning and purposes—is to accept the self as we receive it: bounded, limited, enmeshed in intervening natural realities that include our ancestors, from whom we receive the particular shapes of our bodies, and our progeny, who receive the shapes of their bodies from ours. The urge to reject the bodily—to seek to transcend it, whether through transhumanist projects, or obsessive surgical modification, or what have you—is thus always an invitation to irresponsibility, and a very old temptation, indeed.
 
-**QUESTION TWELVE: WHAT’S _GOOD_ ABOUT DEATH?**
+### QUESTION TWELVE: WHAT’S _GOOD_ ABOUT DEATH?
 
 To study Seneca’s meditations on death is to delve into the real-world events that often inspired them and thus to stand at the intersection of philosophy and history. Four lessons on death especially stand out. The first: Those who prepare for death can overcome the indignity of being forcibly expelled from the land of the living. Whereas those who cling to life in a base, desperate manner compound their indignity—and end up getting expelled anyway.
 
@@ -139,7 +139,7 @@ The fourth and final lesson is this: Death gives sense to life. It is a destinat
 
 Perpetual biological life doesn’t, in fact, fulfill the longing for eternity answered by the classical and Judeo-Christian promise of a reunion with the whole. Living very, very long or forever in the here and now entails no rest, no final fulfillment or completion. It offers neither the abstract communion with the Logos envisioned by a Seneca, nor the more personal settling of accounts between God and the just and unjust that Judaism and Christianity (and Islam) say awaits us all. Biological life extended by gene therapies and drug infusions isn’t eternal life. Rather, as the Jewish American bioethicist Leon Kass has argued, it is an “endless present” fulfilling the “childish desire to eat one’s life and keep it.” And an endless present means the perpetuation of all our present cares—forever: the grubby striving, the political combat, interpersonal conflict, and even pleasure made all the more tiresome by long familiarity, with nothing really new to look forward to. True, this cheap, plastic substitute for eternal life would wipe away, or long defer, the grief associated with death—but it would by the same token rob us of all the joys that find their meaning in relation to death, not least the hope in life eternal.
 
-**CONCLUSION: A LETTER TO MAXIMILIAN**
+### CONCLUSION: A LETTER TO MAXIMILIAN
 
 I should want you to at least avoid some of your father’s (and grandfather’s) mistakes.
 To read old books before new ones.  

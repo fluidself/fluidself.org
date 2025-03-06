@@ -17,7 +17,7 @@ In short, my philosophical starting points are:
 
 3. Human life is complex and offers many different goods, not just one value that trumps all others.
 
-**Wealth makes the world go round**
+### Wealth makes the world go round
 
 When it comes to making tough decisions, we should try to identify which elements in the choice set resemble a Crusonia plant. If we can identify certain choices or policies that give rise to the equivalent of the Crusonia plant’s unceasing yield, namely ongoing and self-sustaining surges in value, the case for those choices would be compelling. Furthermore, if it turned out that Crusonia plants were more common than we first thought, aggregation problems would be eased more generally. So, in a social setting, what might count as analogous to a Crusonia plant? Look for social processes which are ongoing, self-sustaining, and which create rising value over time. The natural candidate for such a process is economic growth, or some modified version of that concept.
 
@@ -39,7 +39,7 @@ The history of economic growth indicates that, with some qualifications, growth 
 
 The bottom line is this: the more rapidly growing economy will, at some point, bring about much higher levels of human well-being—and other plural values—on a consistent basis. If some set of choices or policies gives us a higher rate of economic growth, those same choices or policies are akin to a Crusonia plant.
 
-**Overcoming disagreement**
+### Overcoming disagreement
 
 If the gains to the future are significant and ongoing, those gains should eventually outweigh one-time costs by a significant degree, and they will likely carry along other plural values as well. Think about South Korea today vs. sub-Saharan Africa. As argued above, a sustainable increase in economic growth, properly understood, will boost many plural values in the medium and long runs. To be sure, some people will be worse off, and some values, in the short to medium run, will not be favored. In these respects, aggregation problems do not disappear. Nonetheless, the competing options do not generally offer a deadlock of roughly equivalent values and interests on each side of the scale, with one side looking better by some moderate amount. South Korea is much better off than, say, the Democratic Republic of Congo by a considerable margin. The higher growth alternative will eventually offer a clear and ongoing preponderance of plural values in its favor, whether it be living standards, women’s rights, freedom of choice, the fight against poverty, or other important values. So why not choose that option and recognize that we have rational grounds for preferring it? This approach to the aggregation problem coincides with common sense morality. Not everyone can be happy about everything all of the time, but we should nonetheless choose the option that makes a strong preponderance of people much better off. Most important plural values will come along for the ride.
 
@@ -51,7 +51,7 @@ To sum this all up, if we make a broad enough and long enough comparison, we wil
 
 At the end of these arguments, we are led to a surprising conclusion. If the time horizon is sufficiently long, the only non-growth–related values that will bind practical decisions are the absolute side constraints, or the inviolable human rights. In other words, the dual ideals of prosperity and liberty will be central to ethics. I’ll be returning to some arguments for inviolable human rights later, but in the meantime we have a relatively straightforward, exclusive (“worship no other gods”), and practicable formula of “Growth and Human Rights.”
 
-**Is time a moral illusion?**
+### Is time a moral illusion?
 
 Individual time preference usually focuses on the immediate vs. the only somewhat distant. If we can get over our initial impatience for receiving a reward now, our intellect is very often capable of seeing that we should care about the more distant future as much as we should care about the less distant future. For the most part, we’re actually fairly rational about time, except for this fixation on the “now” moment and the “very soon/right away” horizon. We are programmed for the now moment for reasons which are inapplicable to most of our public policy choices and obsolete as a fundamental tool of moral reasoning. Human beings evolved under brutal hunter-gatherer conditions; they had good reason to pay special attention to the now moment. If you didn’t get the “now” right, there might not be a tomorrow. If you let a piece of meat sit, it would spoil or be seized by your neighbor or consumed by marauding animals overnight. It wasn’t like sitting on T-Bills in your Fidelity account. So we may have an innate biological preference for the “now,” but we will do better if we can get past it, if we can tap into the part of ourselves that recognizes that a benefit in twenty years’ time is about as valuable as that same benefit in thirty years’ time.
 
@@ -65,7 +65,7 @@ For whatever reason, good institutions and a history of prosperity tend to have 
 
 Rather than opting for a strictly zero discount rate, I suggest a more modest postulate, one to which I already have referred but will now label formally: **Deep Concern for the Distant Future.** In this view, we should not count catastrophic losses for much less simply because those losses are temporally distant. In the absence of qualifying factors, no amount of temporal distance per se should cause major widespread tragedies to dwindle into insignificance in the present. We should believe that the end of the world is a truly terrible event, even if that collapse comes in the distant future. Similarly, the continued persistence of civilization three hundred years from now is much better than having no further civilization at that point in time. A much wealthier future civilization is much better than a less wealthy future civilization. Those are the implications of a deep concern for the distant future.
 
-**What about redistribution?**
+### What about redistribution?
 
 Under any moral theory which counts the interests of people in a more or less cosmopolitan manner, our personal obligations toward the poor appear strong. For instance, several billion people in the world currently live on less than two dollars a day. Last year millions of children died of preventable diseases such as diarrhea or experienced stunted growth and development. Presented with these examples, it’s easy to feel like we should all be attending to such problems with more resources and more energy than we do now, and indeed we should. The more difficult question, however, is how far such obligations extend and whether such obligations should prevent us from pursuing our own more personal or more individualistic goals. In contrast to utilitarianism, common sense morality typically suggests that we do have the right to pursue our own lives and life plans.
 
@@ -83,7 +83,7 @@ In expected value terms, most of our social choices have an impact upon future r
 
 New ideas are the product of human reason; it was Aristotle who defined man as the rational animal. A preoccupation with pursuing growth—or some modified version of the growth ideal—therefore means a preoccupation with ideas, a preoccupation with cultivating human reason, and a preoccupation with the notion that man should realize, perfect, and extend his nature as a generator of powerful ideas that can change the world. Cringe all you wish, but on this point I’ll send another credit along to Ayn Rand, who stresses this point even more than most philosophic rationalists. If we are pursuing self-sustaining and self-generating bundles of plural values, we are in one way or another paying homage to the power of human reason.
 
-**Must uncertainty paralyze us?**
+### Must uncertainty paralyze us?
 
 You might assume that aggregate global outcomes are mostly stable with respect to small perturbations in the basic events of daily life. You might think, for example, that the logic of positive-sum trade and the power of human reason to advance technological progress will win out in the long run, with or without Hitler on Earth. Other offshoots of these butterfly effects may cancel out or offset each other in the longer run; Tolstoy, in his novel War and Peace, argued that the “great men” of history had little impact, as their acts would be reversed by their successors (Napoleon being one case in point). While part of me wishes that this logic were true, the brute reality is that contingency is real and disturbances to the flow of temporal events need not dwindle into insignificance, given that even a small act can reshape the entire future genetic history of humanity. Napoleon’s actions changed the course of life in Germany, which underwent a liberal intellectual revolution as a result of the French invasion and subsequently modernized, as well as Egypt, which received the printing press and a large dose of liberal ideology before starting to resent European interference in local affairs, a feeling that persists to this day. The histories of these regions were changed irrevocably, as were the histories of the Jews who were liberated under Napoleon’s rule. The key point is this: even if you’re not convinced that Napoleon really mattered, you don’t and indeed can’t really know this. There is a real chance that Napoleon being born, rather than a different child from a different act of conception, fundamentally changed world history. So in terms of expected value, it remains the case that small acts can have a big impact on the future, even if they do not always do so. It only has to be the case that some small acts steer the future along a very different path. Following the philosophers, I refer to this as the epistemic problem.
 
@@ -107,7 +107,7 @@ Rights rarely conflict with consequences in the simple ways set out by philosoph
 
 This leaves us with a rights theory in which rights are indeed absolute, at least provided the examples we consider match some very basic facts about the real world, for instance the existence of Crusonia plants and the froth of consequentialist uncertainty.
 
-**Conclusion—where have we landed?**
+### Conclusion—where have we landed?
 
 Here is my short, three-point summary of where these arguments have brought us:
 

@@ -5,17 +5,17 @@ slug: the-software-craftsman
 title: 'The Software Craftsman: Professionalism, Pragmatism, Pride - by Sandro Mancuso'
 ---
 
-**Part I. Ideology and Attitude**
+## Part I. Ideology and Attitude
 
 Agile methodologies are all about quick and short feedback loops. The quicker and shorter our feedback loop is, the more agile we can become. Every time we receive some feedback, we have an opportunity to react to it, and the act of reacting (or not) to new information is what makes us more (or less) agile. Narrowing the feedback loop helps us to make problems visible sooner, allowing us to inspect and adapt quickly. Agile does not solve any problems; it exposes them.
 
-**Software Craftsmanship**
+### Software Craftsmanship
 
 In a very simplistic way, we can say that Software Craftsmanship is a better metaphor for software development than software engineering. Software Craftsmanship sees software as a craft and compares software developers to medieval blacksmiths.
 
 Software craftsmanship is a long journey to mastery. It’s a mindset where software developers choose to be responsible for their own careers, constantly learning new tools and techniques and constantly bettering themselves. Software Craftsmanship is all about putting responsibility, professionalism, pragmatism, and pride back into software development.
 
-**The Manifesto**
+### The Manifesto
 
 As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value the following:
 
@@ -26,25 +26,25 @@ As aspiring Software Craftsmen we are raising the bar of professional software d
 
 That is, in pursuit of the items on the left we have found the items on the right to be indispensable.
 
-**Not Only Working Software, but Also Well-Crafted Software**
+### Not Only Working Software, but Also Well-Crafted Software
 
 Well-crafted software means that, regardless of how old the application is, developers can understand it easily. The side effects are well known and controlled. It has high and reliable test coverage, clear and simple design, and business language well expressed in the code. Adding or changing features does not take longer than it used to take at the beginning of the project, when the code base was small. The code must be maintainable and predictable. Developers must know what is going to happen when changing the code and must not be afraid to change it. Changes should be localized and not affect other parts of the application—no ripple effects. In a few minutes, if not seconds, after pressing a button, tests will check the entire application and inform you if there is something broken.
 
-**Not Only Responding to Change, but Also Steadily Adding Value**
+### Not Only Responding to Change, but Also Steadily Adding Value
 
 When we talk about steadily adding value, we are not just talking about adding new features and fixing bugs. This is also about constantly improving the structure of the code, keeping it clean, extendable, testable, and easy to maintain. A paraphrase of a Boy Scout rule (first applied to software by Uncle Bob) states that we should always leave the code cleaner than we found it.
 
-**Not Only Individuals and Interactions, but Also a Community of Professionals**
+### Not Only Individuals and Interactions, but Also a Community of Professionals
 
 The best way to move our industry forward is by sharing what we learned through mentoring and inspiring lessexperienced developers. This is also related to the idea of apprentices, journeymen, and masters, where Software Craftsmanship masters will mentor apprentices and help them in their journey. Knowledge, ideas, successes, and failures must be shared and discussed within the community in order to move our industry forward.
 
 Learning from each other is by far the best way for us to become better. Writing blogs, contributing to open source projects, making our code publicly available, becoming part of our local communities, and pairing with other developers are some of the ways we can contribute to the greater good of our industry.
 
-**Not Only Customer Collaboration, but Also Productive Partnerships**
+### Not Only Customer Collaboration, but Also Productive Partnerships
 
 Software craftsmen are not factory workers. We want to actively contribute to the success of the project, questioning requirements, understanding the business, proposing improvements, and productively partnering with our customers or employers. This is a different approach to the traditional employer/employee model and the advantages for the employers are enormous. A highly motivated team has a much bigger chance to make any project succeed. Passionate and talented people want to succeed and will always find ways to overcome problems and bureaucracy.
 
-**The Software Craftsmanship Attitude**
+### The Software Craftsmanship Attitude
 
 We all want to be treated and respected as software professionals but before we achieve that we need to start behaving like professionals. That means that we should use our own time and money to get better at what we do. We should own our own careers and be in control of what we learn and when we learn. We should be in a position that we can help our clients and employers to achieve their goals. Developers who rely only on their companies to provide them knowledge are not professional software developers. They are just factory workers in disguise.
 
@@ -60,13 +60,13 @@ In order to use our time outside working hours wisely, it is extremely important
 
 During a Pomodoro (25 minutes), we focus on the task and nothing else. We should do whatever we can to finish the Pomodoro with no interruptions but in case it needs to be interrupted (there is an important call we need to take or we really need to speak to someone), then the Pomodoro must be terminated and not paused.
 
-**Working Software**
+### Working Software
 
 Code is organic, not mechanical. Like a garden, code needs constant maintenance. For a garden to look beautiful all year round, we need to look after its soil, constantly remove weeds, regularly water it, remove some dead plants, plant new ones, and trim or rearrange existing ones so they can stay healthy, looking nice and whole. With basic and regular maintenance, the garden will always look great but if we neglect it, even for a short period of time, it will require much more effort to make it look good again. The longer we neglect it, the harder we will need to work to bring it to a state we can enjoy again. Code is no different. If we don’t look after it constantly, the code starts to deteriorate as changes and new features are added. Bad design choices, lack of tests, and poor use of languages and tools will make the code rot faster. Gradually, other parts of the code will also be contaminated up to the point that the whole code base is extremely ill, making it painful and costly to maintain it.
 
 When looking at legacy code, instead of moaning and getting frustrated, we should try to understand it and make it better, constantly applying the Boy Scout rule of making it better than how we found it. Improving and understanding legacy code can be massively rewarding. The process of trying to make sense of a big ball of mud seems daunting, but if we just focus on small parts of it, one at a time, and start improving them (writing tests, extracting methods and classes, renaming variables, etc.), gradually things become much easier and enjoyable. Working with legacy code is almost like solving a big jigsaw puzzle. We don’t put all the small pieces together at the same time. We start by separating the pieces into groups, often starting with the corners and edges and then separating the other small pieces by color, pattern, and so forth. Once this is done, we have a few smaller groups and we start forming a high-level model in our head. What before was a bunch of random pieces (or a big ball of mud) is now a bunch of smaller groups of not-so-random pieces. It is still not very helpful or encouraging, but nonetheless some progress is made. Bit by bit, we start working on one of these groups (parts of the code) and we start putting some pieces together (writing tests for the existing code, which will help with our understanding of the code, and refactoring it). Once we start putting some pieces together, we start seeing a small part of our picture. We get excited because now it’s getting real. It’s starting to make sense and we are happy we are making progress. The more pieces we put together, the more excited we get about finishing the jigsaw puzzle. The more pieces we put together, the easier it gets to put the remaining pieces together. And that’s exactly the feeling we have when working with legacy code. For every piece of code we make better, the more we want to make the whole code better. The feeling of achievement is really rewarding.
 
-**Technical Practices**
+### Technical Practices
 
 - **Automated Testing:** Automated testing enables us, with a click of the button, to have our entire system tested within a few minutes. It gives us confidence to deploy our application into production minutes after the last change was made. The amount of time the business can save avoiding long quality assurance (QA) phases can be measured in days, if not weeks. The feedback loop on the correctness of our code is reduced from weeks to minutes, enabling us to correct any mistakes almost immediately. This reduction in the feedback loop also prevents us from writing more code on top of erroneous code—reducing significantly the overall bug-fixing cost.
 
@@ -76,21 +76,21 @@ When looking at legacy code, instead of moaning and getting frustrated, we shoul
 
 - **Refactoring:** The Boy Scout rule says: “Always leave the campground cleaner than you found it.” This is a value that every software craftsman must have when it comes to code. Refactoring without pragmatism can be a dangerous practice. Being professional means to understand trade-offs. Although we want to make the whole system better, we may not need to. There is no point in refactoring a piece of code that hasn’t been changed in years. If we don’t need to change it, chances are we should not be refactoring either. Start refactoring what changes more often. The Boy Scout rule should just be applied when we need to make a change or understand one area of the code, not everywhere
 
-**The Long Road**
+### The Long Road
 
 When we are not so sure where we want to go with our careers, we need to start opening doors. We need to create situations where opportunities can be presented to us. No one will knock on our doors and offer us a great opportunity if we keep ourselves isolated from the rest of the world, locked inside our houses and offices. No one will offer us a good opportunity if they don’t know who we are, what we do, and, most important, how good we are. We need to go out there and speak to people. We need to show other people what we can do. We need to be available. We need to make people feel comfortable to come and speak to us. If we don’t know what we want to do next, create an environment where other people and companies can present you with some options. Once you have a few doors open, and a few options available to you, you will be in a better place to decide what to do next.
 
 When it comes to our career, there is no right or wrong. But there is something worth keeping in mind: knowledge is forever; money, stability, and security are not. If, for whatever reason, our job is terminated, knowledge and experience are the only things we will take with us. If we always focus on learning and becoming better software craftsmen, finding jobs that can provide us with a good income, stability, and security will always be a much simpler task than if we had spent our careers just focusing on getting more money.
 
-**Part II. A Full Transformation**
+## Part II. A Full Transformation
 
-**Interviewing Software Craftsmen**
+### Interviewing Software Craftsmen
 
 A good interview is like a good and informal chat between passionate developers. It’s an exchange of information: a good debate about techniques, tools, challenges, and approaches to software development.
 
 Recruiting the first developers for a new project is slightly different from recruiting for an existing project. When recruiting for an existing team, I look for passion, positive attitude toward the way we work and a good foundation in software development such as TDD, refactoring, clean code, and design. Everything else —specific languages, frameworks, and tools—is secondary. I know that if the candidate has a good foundation, she will learn whatever technologies we use in no time. When recruiting the first developers for a new project, besides the passion and a good software development foundation, we should aim to have at least two (maybe one if a small project) experienced developers with a good track record of delivering projects. Dealing with the client’s bureaucracy, business pressure, production issues, and stakeholders’ management are things that cannot be learned while coding a pet project or in our spare time. These are things that we just learn when we are actively involved in delivering software for real customers
 
-**Interview Anti-Patterns**
+### Interview Anti-Patterns
 
 - **Don’t Be a Smart-Ass Interviewer:** Don’t try to make yourself look smarter and better than the candidate. Don’t intimidate the candidate by putting her in a tough situation just for your pleasure. Don’t try to impress the candidate with your job title, responsibilities, and skills. Don’t talk to the candidate as if you were the most powerful person in the world. Simply put, don’t be an ass. Don’t try to look smart by asking tricky and irrelevant questions. Experienced and talented developers will notice it straightaway and won’t be very inclined to work with you. Just be honest and humble. Treat candidates like fellow professional developers, and conduct the interview as if you were having a great technical conversation with someone you respect. Most important, listen to the candidates and keep your mind open. You may actually learn a few things.
 
@@ -104,7 +104,7 @@ Recruiting the first developers for a new project is slightly different from rec
 
 - **Don’t Use Algorithms:** If the main problems we have in our system are not about algorithms, we should not use them in our coding interviews. We should focus on giving candidates exercises where they need to design a solution and express the business domain. If we need developers with good skills in Test-Driven Development and design, we should use exercises that reflect that.
 
-**Culture of Learning**
+### Culture of Learning
 
 - **Start a Book Club:** Pick a book and tell your colleagues you will start reading it. Tell them what the book is about and check if anyone is interested in having a discussion about it once a week at lunchtime—or any other suitable time slot. If at least one other developer is interested, you are ready to start. If no one is interested, start reading the book you want, but take the time to share what you are learning during informal conversations. Maybe some of the developers who initially were not interested will change their minds and join you.
 
@@ -114,7 +114,7 @@ Recruiting the first developers for a new project is slightly different from rec
 
 - **Focus on Those Who Care:** Not everyone will be moved by your enthusiasm and willingness to change. Focus on the ones who are willing to change. Pair with them. Write tests and review each other’s code. Engage in good conversations; share ideas and information. Have fun with them. Once a few people are having fun, working well together, and using different techniques and approaches, more people will want to join.
 
-**Driving Technical Changes**
+### Driving Technical Changes
 
 **Encourage simplicity:** Your idea or proposal must be simple and clear. Organize your thoughts before proposing anything. Make it very easy for people to understand; use examples whenever possible. The ability to communicate well is key if you want to have your ideas accepted. Speak the same language. Depending on which changes you are proposing, you may need to speak to developers, managers, architects, sponsors, product owners, business analysts, or any other person who can be affected by them. Learn how to speak their language. Don’t try to talk about details of your code or frameworks with managers or product owners. Instead, tell them about the benefits that your proposal has for the project: reducing maintenance costs, more reliable and frequent releases, and so on. Do your homework. Make sure you understand what you are talking about. Research, try, and practice. Think about what questions the skeptics would ask, and make sure you have an acceptable answer before you speak to them. If your proposal has any drawbacks, mention them before anyone else does. If you feel that there are areas where you don’t know enough, be clear about that. Being clear about the drawbacks shows that you thought hard about the problem and increases your credibility. Be respectful. Don’t treat people as if they were stupid. Disrespect and aggression will immediately put people in a defensive mode, making the task of convincing them almost impossible. Learn how to listen. You may have a very good idea of how things should be done, but make no mistake, you are not the only one with an idea. Everyone has an opinion and sees the same problems from different angles. Probably, there are many things you are not even aware of. Listen and digest what everyone has to say before you make any judgment.
 
@@ -126,13 +126,13 @@ We are expected to deliver quality software. We are expected to deliver good sol
 
 Real software professionals understand that responsibility should always come with accountability. If you want to be responsible, be prepared to be accountable. If you are accountable, make sure you are also responsible for the decisions
 
-**Pragmatic Craftsmanship**
+### Pragmatic Craftsmanship
 
 When working with legacy code, we should always leave at least the area of code we changed cleaner than we found it. Whenever I need to add a new feature to the code, I usually study the code a little bit and refactor it (if needed) so it can accept the new feature more easily and gracefully. Refactoring the code before adding a new feature is a good idea when the impact on the code is significant. Before adding any feature I ask myself: is the code ready to receive this new feature? How many places do I need to change in order to add this new feature? If the answers to these two questions are “no” and “many,” I will first refactor the code to prepare it for the new feature. I change the code in a way that would make it easy to simply slide the new feature in, without opening (or changing) existing behavior, minimizing the impact the new feature will have on the code.
 
 Any stupid developer can make things work. What distinguishes great and mediocre developers is how they make things work. Great developers write simple code that satisfies the business requirements, and less-experienced developers have no problem understanding it. Solving the problem with a simple and elegant solution is far harder than solving it with a complex and overengineered one. I believe that all the horrible legacy code out there is more than enough proof of that. Great developers even go beyond simple and short solutions; they strive to solve problems without writing any code at all. The best line of code is the one you don’t write. Well-crafted code is simple, small, testable, easy to understand, and most important, does the job. Code is the main source of bugs and pain. The less we write it, the better
 
-**Four Rules of Simple Design**
+### Four Rules of Simple Design
 
 Before thinking about architecture, design patterns, generic solutions, or anything else, as a rule, a software craftsman will always try to write code that satisfies the “Four Rules of Simple Design,” as defined by Kent Beck:
 
@@ -148,7 +148,7 @@ Over the years, many people reworded these four rules (or elements). I personall
 3. Maximizes clarity
 4. Has fewer elements
 
-**A Career As a Software Craftsman**
+### A Career As a Software Craftsman
 
 Being a craftsman is more than being a good developer who writes code well and delivers business value. It's a lifestyle. It's a life where we choose to do things well, to be the best we can be. It's a life where we are prepared to make some sacrifices to learn and help others to learn the craft. It's a life of continuous dedication to the art of writing code. It's a constant search for better and more efficient ways to deliver value through software.
 

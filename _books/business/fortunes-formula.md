@@ -12,7 +12,7 @@ The more improbable the message, the less "compressible" it is, and the more ban
 
 Kelly concluded that a gambler should be interested in "compound return," much as an investor in stocks or bonds is. The gambler should measure success not in dollars but in percentage gain per race. The best strategy is one that offers the highest compound return consistent with no risk of going broke.
 
-In the long run, "bet your beliefs" will earn you the maximum possible compound return--provided that your assessment of the odds is more accurate than the public's.
+In the long run, "bet your beliefs" will earn you the maximum possible compound return—provided that your assessment of the odds is more accurate than the public's.
 
 The Kelly formula says that you should wager this fraction of your bankroll on a favorable bet: edge/odds The edge is how much you expect to win, on the average, assuming you could make this wager over and over with the same probabilities. It is a fraction because the profit is always in proportion to how much you wager. Odds means the public or tote-board odds. It measures the profit if you win. The odds will be something like 8 to 1, meaning that a winning wager receives 8 times the amount wagered plus return of the wager itself. In the Kelly formula, odds is not necessarily a good measure of probability. Odds are set by market forces, by everyone else's beliefs about the chance of winning. These beliefs may be wrong. In fact, they have to be wrong for the Kelly gambler to have an edge. The odds do not factor in the Kelly gambler's inside tips.
 

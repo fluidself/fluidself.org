@@ -5,7 +5,7 @@ slug: coders-at-work
 title: Coders at Work - by Peter Seibel
 ---
 
-**Jamie Zawinski**
+### Jamie Zawinski
 
 I find that getting something on the screen as soon as possible really helps focus the problem for me. It helps me decide what to work on next. Because if you're just looking at that big to-do list it's like, eh, I don't know which one I should do—does it matter which one I do? But if there's something you can actually look at, even if it's just the debug output of your mailbox parser, it's like, OK, there! That's something; what's the next direction this needs to go in? OK, instead of just displaying a tree structure, now maybe I should be emitting HTML or something along those lines. Or parsing the headers in a more detailed way. You just look for the next thing to build on from there.
 
@@ -19,7 +19,7 @@ I think one thing that's really important is to not be afraid of your ignorance.
 
 ---
 
-**Brad Fitzpatrick**
+### Brad Fitzpatrick
 
 **Seibel:** Do you have any advice for self-taught programmers?
 
@@ -41,7 +41,7 @@ I start too many projects. I finish them because I have guilt if I don't finish 
 
 ---
 
-**Douglas Crockford**
+### Douglas Crockford
 
 **Crockford:** One of the things I've been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other's code. There's a tendency in project management just to let the programmers go off independently and then we have the big merge and if it builds then we ship it and we're done and we forget about it. One of the consequences of that is that if you have weak or confused programmers you're not aware of their actual situation until much too late. And so the risks to the project, that you're going to have to build with stuff that's bad and the delays that that causes, that's unacceptable. The other thing is that you may have brilliant programmers on the project who are not adequately mentoring the other people on the team. Code reading solves both of those problems.
 
@@ -67,13 +67,13 @@ I want people who can write, because we spend a lot of time writing to each othe
 
 ---
 
-**Brendan Eich**
+### Brendan Eich
 
 When I was an undergrad I was really affected by Pirsig's _Zen and the Art of Motorcycle Maintenance_. And I had been going through Plato and the early philosophers. I was, at that point, inclined more towards idealism in some philosophical sense. I thought little-endian byte order was superior to big-endian, because after all, the least significant digits are in the lowest address—there was some kind of harmony or geometry in that. But try reading a hex dump. Practical things matter; particulars matter. The famous School of Athens painting with Aristotle pointing down and Plato pointing up—I'm more on the pointing-down side now. As I get older I get more and more skeptical and more and more interested in what works. When I'm interviewing people, when I'm looking for talent, it's very hard for me to not stick with particulars and practicalities.
 
 ---
 
-**Joshua Bloch**
+### Joshua Bloch
 
 **Seibel:** Are there any books that every programmer should read?
 
@@ -107,7 +107,7 @@ As I write the program, I say to myself, what it is that must be true here? And 
 
 ---
 
-**Joe Armstrong**
+### Joe Armstrong
 
 **Seibel:** Comparing how you think about programming now with how you thought when you were starting out, what's the biggest change in your thinking?
 
@@ -147,7 +147,7 @@ As I write the program, I say to myself, what it is that must be true here? And 
 
 ---
 
-**Simon Peyton Jones**
+### Simon Peyton Jones
 
 **Seibel:** What is programming to you? Do you think of yourself as a scientist or an engineer or a craftsman? Or something else entirely?
 
@@ -157,7 +157,7 @@ The most depressing thing about life as a programmer, I think, is if you're face
 
 ---
 
-**Peter Norvig**
+### Peter Norvig
 
 **Seibel:** So is there any essential skill needed to be a good programmer? Different domains obviously have different requirements but ultimately is there some commonality to writing code regardless of the domain?
 
@@ -185,13 +185,13 @@ The most depressing thing about life as a programmer, I think, is if you're face
 
 ---
 
-**Ken Thompson**
+### Ken Thompson
 
 Some people write fragile code and some people write very structurally sound code, and this is a condition of people. I think in almost any language you can write fragile code. My definition of fragile code is, suppose you want to add a feature—good code, there's one place where you add that feature and it fits; fragile code, you've got to touch ten places.
 
 ---
 
-**Bernie Cosell**
+### Bernie Cosell
 
 **Seibel:** Do you have any advice for the many programmers who are self-taught?
 
@@ -211,7 +211,7 @@ The other rule is to realize that programs are meant to be read. Even though I'm
 
 ---
 
-**Donald Knuth**
+### Donald Knuth
 
 The first rule of writing is to understand your audience—the better you know your reader the better you can write, of course. The second rule, for technical writing, is say everything twice in complementary ways so that the person who's reading it has a chance to put the ideas into his or her brain in ways that reinforce each other. So in technical writing usually there's redundancy. Things are said both formally and informally. Or you give a definition and then you say, “Therefore, such and such is true,” which you can only understand if you've understood the definition.
 

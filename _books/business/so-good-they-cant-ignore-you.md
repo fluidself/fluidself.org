@@ -6,11 +6,11 @@ title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for
   Work You Love - by Cal Newport"
 ---
 
-**RULE #1: Don't Follow Your Passion**
+### RULE #1: Don't Follow Your Passion
 
 **The Passion Hypothesis:** The key to occupational happiness is to first figure out what you're passionate about and then find a job that matches this passion.
 
-**The Science of Passion**
+### The Science of Passion
 
 - Conclusion #1: Career Passions Are Rare
 
@@ -20,13 +20,13 @@ title: "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for
 
 The passion hypothesis is not just wrong, it's also dangerous. Telling someone to "follow their passion" is not just an act of innocent optimism, but potentially the foundation for a career riddled with confusion and angst.
 
-**RULE #2: Be So Good They Can't Ignore You (Or, the Importance of Skill)**
+### RULE #2: Be So Good They Can't Ignore You (Or, the Importance of Skill)
 
 Whereas the craftsman mindset focuses on what you can offer the world, the passion mindset focuses instead on what the world can offer you.
 
 There's something liberating about the craftsman mindset: It asks you to leave behind self-centered concerns about whether your job is "just right," and instead put your head down and plug away at getting really damn good. Regardless of how you feel about your job right now, adopting the craftsman mindset will be the foundation on which you'll build a compelling career.
 
-**Traits That Define Great Work**
+### Traits That Define Great Work
 
 - Creativity
 
@@ -36,7 +36,7 @@ There's something liberating about the craftsman mindset: It asks you to leave b
 
 **The Career Capital Theory of Great Work:** The traits that define great work are rare and valuable. Supply and demand says that if you want these traits you need rare and valuable skills to offer in return. Think of these rare and valuable skills you can offer as your career capital. The craftsman mindset, with its relentless focus on becoming "so good they can't ignore you," is a strategy well suited for acquiring career capital. This is why it trumps the passion mindset if your goal is to create work you love.
 
-**Three Disqualifiers for Applying the Craftsman Mindset**
+### Three Disqualifiers for Applying the Craftsman Mindset
 
 - The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable.
 
@@ -44,7 +44,7 @@ There's something liberating about the craftsman mindset: It asks you to leave b
 
 - The job forces you to work with people you really dislike.
 
-**The Five Habits of a Craftsman**
+### The Five Habits of a Craftsman
 
 - **Step 1:** Decide What Capital Market You're In. In a winner-take-all market, there is only one type of career capital available and lots of different people competing for it. An auction market, by contrast, is less structured: There are many different types of career capital, and each person might generate their own unique collection of this capital. Different markets require different career capital acquisition strategies. In a winner-take-all market, for example, you need to first "crack the code" on how people master the one skill that matters. In an auction market, by contrast, you might simply emphasize rareness in the skill combinations that you create.
 
@@ -52,11 +52,11 @@ There's something liberating about the craftsman mindset: It asks you to leave b
 
 - **Step 3:** Define "Good". You need clear goals.
 
-- **Step 4:** Stretch and Destroy. Doing things we know how to do well is enjoyable, and that's exactly the opposite of what deliberate practice demands…. Deliberate practice is above all an effort of focus and concentration. That is what makes it "deliberate," as distinct from the mindless playing of scales or hitting of tennis balls that most people engage in. This is what you should experience in your own pursuit of "good." If you're not uncomfortable, then you're probably stuck at an "acceptable level." Pushing past what's comfortable, however, is only one part of the deliberate-practice story; the other part is embracing honest feedback--even if it destroys what you thought was good.
+- **Step 4:** Stretch and Destroy. Doing things we know how to do well is enjoyable, and that's exactly the opposite of what deliberate practice demands…. Deliberate practice is above all an effort of focus and concentration. That is what makes it "deliberate," as distinct from the mindless playing of scales or hitting of tennis balls that most people engage in. This is what you should experience in your own pursuit of "good." If you're not uncomfortable, then you're probably stuck at an "acceptable level." Pushing past what's comfortable, however, is only one part of the deliberate-practice story; the other part is embracing honest feedback—even if it destroys what you thought was good.
 
 - **Step 5:** Be Patient.
 
-**RULE #3: Turn Down a Promotion (Or, the Importance of Control)**
+### RULE #3: Turn Down a Promotion (Or, the Importance of Control)
 
 Giving people more control over what they do and how they do it increases their happiness, engagement, and sense of fulfillment.
 
@@ -66,19 +66,19 @@ Giving people more control over what they do and how they do it increases their 
 
 **The Law of Financial Viability:** When deciding whether to follow an appealing pursuit that will introduce more control into your work life, seek evidence of whether people are willing to pay for it. If you find this evidence, continue. If not, move on.
 
-**RULE #4: Think Small, Act Big (Or, the Importance of Mission)**
+### RULE #4: Think Small, Act Big (Or, the Importance of Mission)
 
-A good career mission is similar to a scientific breakthrough--it's an innovation waiting to be discovered in the adjacent possible of your field. If you want to identify a mission for your working life, therefore, you must first get to the cutting edge--the only place where these missions become visible. Advancing to the cutting edge in a field is an act of "small" thinking, requiring you to focus on a narrow collection of subjects for a potentially long time. Once you get to the cutting edge, however, and discover a mission in the adjacent possible, you must go after it with zeal: a "big" action.
+A good career mission is similar to a scientific breakthrough—it's an innovation waiting to be discovered in the adjacent possible of your field. If you want to identify a mission for your working life, therefore, you must first get to the cutting edge—the only place where these missions become visible. Advancing to the cutting edge in a field is an act of "small" thinking, requiring you to focus on a narrow collection of subjects for a potentially long time. Once you get to the cutting edge, however, and discover a mission in the adjacent possible, you must go after it with zeal: a "big" action.
 
 **Missions Require Little Bets:** The important thing about little bets is that they're bite-sized. You try one. It takes a few months at most. It either succeeds or fails, but either way you get important feedback to guide your next steps. This approach stands in contrast to the idea of choosing a bold plan and making one big bet on its success. To maximize your chances of success, you should deploy small, concrete experiments that return concrete feedback.
 
 **Missions Require Marketing:** For a mission-driven project to succeed, it should be remarkable in two different ways. First, it must compel people who encounter it to remark about it to others. Second, it must be launched in a venue that supports such remarking.
 
-**APPLYING THE RULES**
+### APPLYING THE RULES
 
 Working right trumps finding the right work.
 
-Skill development through deliberate practice is hard. To combat the resistance, I deployed two types of structure. The first type was time structure: "I am going to work on this for one hour," I would tell myself. It took, on average, ten minutes for the waves of resistance to die down. Those ten minutes were always difficult, but knowing that my efforts had a time limit helped ensure that the difficulty was manageable. The second type of structure I deployed was information structure--a way of capturing the results of my hard focus in a useful form.
+Skill development through deliberate practice is hard. To combat the resistance, I deployed two types of structure. The first type was time structure: "I am going to work on this for one hour," I would tell myself. It took, on average, ten minutes for the waves of resistance to die down. Those ten minutes were always difficult, but knowing that my efforts had a time limit helped ensure that the difficulty was manageable. The second type of structure I deployed was information structure—a way of capturing the results of my hard focus in a useful form.
 
 The insights of Rule #2 fundamentally changed the way I approach my work. If I had to describe my previous way of thinking, I would probably use the phrase "productivity-centric." Getting things done was my priority. When you adopt a productivity mindset, however, deliberate practice-inducing tasks are often sidestepped, as the ambiguous path toward their completion, when combined with the discomfort of the mental strain they require, makes them an unpopular choice in scheduling decisions. This made me much more "craft-centric." Getting better and better at what I did became what mattered most, and getting better required the strain of deliberate practice. This is a different way of thinking about work, but once you embrace it, the changes to your career trajectory can be profound.
 

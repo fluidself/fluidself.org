@@ -2,11 +2,10 @@
 date: 2017-01-14 13:57:04+00:00
 link: https://fluidself.org/books/business/maximize-your-potential
 slug: maximize-your-potential
-title: 'Maximize Your Potential: Grow Your Expertise, Take Bold Risks & Build an Incredible
-  Career - by Jocelyn K. Glei'
+title: 'Maximize Your Potential: Grow Your Expertise, Take Bold Risks & Build an Incredible Career - by Jocelyn K. Glei'
 ---
 
-**CREATING OPPORTUNITIES - KEY TAKEAWAYS**
+### CREATING OPPORTUNITIES - KEY TAKEAWAYS
 
 CRAFT COMES BEFORE PASSION
 Passion isn't a profession, it's a way of working. To achieve a lifestyle (and workstyle) that you love, start by cultivating rare and valuable skills that will set you apart.
@@ -18,7 +17,7 @@ DON'T SETTLE FOR THE STATUS QUO
 Try to regularly "disrupt" your own status quo. If you're getting too comfortable in your current position, it's probably time to challenge yourself in new ways.
 
 GET MISSION CRITICAL
-Think about your work--and where you are going--in terms of a larger mission. A job title is a closed objective, but a mission can grow with you.
+Think about your work—and where you are going—in terms of a larger mission. A job title is a closed objective, but a mission can grow with you.
 
 LUCK IS A STATE OF MIND
 Expose yourself to new situations, keep an open mind, and be proactive about pursuing chance opportunities. Luck comes to those who seek it.
@@ -26,7 +25,7 @@ Expose yourself to new situations, keep an open mind, and be proactive about pur
 WORK WITH INTENTION
 Calibrate your career for maximum impact by working at the intersection of your genuine skills, interests, and opportunities.
 
-**BUILDING EXPERTISE – KEY TAKEAWAYS**
+### BUILDING EXPERTISE – KEY TAKEAWAYS
 
 STOP TRYING TO "BE GOOD"
 Give yourself permission to screw up. Once you stop trying to be good (and look smart), you can focus on tackling the exciting challenges that will help you get better.
@@ -38,7 +37,7 @@ AVOID THE "OK PLATEAU"
 Focus on practicing the hard stuff when you're developing new skills. As with weight lifting, you know you're making headway when you feel the burn.
 
 HUNGER FOR FEEDBACK
-Develop a method for gathering feedback--whether it's tracking the numbers yourself or hiring a coach. No factor is more essential to growth and learning.
+Develop a method for gathering feedback—whether it's tracking the numbers yourself or hiring a coach. No factor is more essential to growth and learning.
 
 MAKE BUILDING HABITS A HABIT
 Try to change one key habit a month. If you can make the behaviors that help you excel automatic, executing at the top of your game becomes significantly easier.
@@ -46,10 +45,10 @@ Try to change one key habit a month. If you can make the behaviors that help you
 DAILY OBSERVATION DRIVES PROGRESS
 Track your progress by journaling for a few minutes every day. The practice will help you identify stumbling blocks, observe patterns, and document successes.
 
-**CULTIVATING RELATIONSHIPS - KEY TAKEAWAYS**
+### CULTIVATING RELATIONSHIPS - KEY TAKEAWAYS
 
 DON'T GO IT ALONE
-Seek out fellow travelers--trusted colleagues and collaborators whom you can ask for help, who will tell you the truth, and who will hold you accountable.
+Seek out fellow travelers—trusted colleagues and collaborators whom you can ask for help, who will tell you the truth, and who will hold you accountable.
 
 CREATE SOCIAL CONTRACTS
 Address what could go wrong in a creative relationship up front. Then, when a conflict does arise, you've created a comfortable space for talking about it.
@@ -64,9 +63,9 @@ CROSS-POLLINATION BEGETS CREATIVITY
 Try to assemble creative teams that include both veteran collaborators and newbies. Diversity (in the right dosage) accelerates your creative potential.
 
 ACT LIKE A MASTER BUILDER, NOT A MASTER MIND
-Build on--and improvise with--others' ideas and skill sets. If you let everyone shine in his or her area of expertise, your projects will thrive.
+Build on—and improvise with—others' ideas and skill sets. If you let everyone shine in his or her area of expertise, your projects will thrive.
 
-**TAKING RISKS - KEY TAKEAWAYS**
+### TAKING RISKS - KEY TAKEAWAYS
 
 APPRECIATE YOUR ADAPTABILITY
 Be aware that when you fail, you will adapt to the new situation much more quickly than you expect. Setbacks often have a silver lining.
@@ -86,6 +85,6 @@ Don't be afraid to live in the shade of big questions. Uncertainty and ambiguity
 ACCEPT YOUR AGENCY
 Embrace your power to make the outcome of any risk a success. Almost any situation can be turned around with persistence and ingenuity.
 
-**THE BETTER YOU**
+### THE BETTER YOU
 
 The Better You is your believable possible. Your believable possible is your potential in any given moment, the person you know at your very core that you are capable of being at this instant. Your believable possible exists at the edge of your perceived ability. Your believable possible is frightening and uncomfortable, but not to the point of paralysis. Your believable possible is just uncomfortable enough.

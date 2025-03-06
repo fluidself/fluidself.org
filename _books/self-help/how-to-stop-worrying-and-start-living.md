@@ -5,9 +5,9 @@ slug: how-to-stop-worrying-and-start-living
 title: How to Stop Worrying and Start Living - by Dale Carnegie
 ---
 
-**Live in "Day-tight Compartments"**
+### Live in "Day-tight Compartments"
 
-**A Magic Formula For Solving Worry Situations**
+### A Magic Formula For Solving Worry Situations
 
 1.  Ask yourself,' 'What is the worst that can possibly happen?"
 
@@ -15,7 +15,7 @@ title: How to Stop Worrying and Start Living - by Dale Carnegie
 
 3.  Then calmly proceed to improve on the worst.
 
-**How To Break The Worry Habit Before It Breaks You**
+### How To Break The Worry Habit Before It Breaks You
 
 - RULE 1: Crowd worry out of your mind by keeping busy. Plenty of action is one of the best therapies ever devised for curing "wibber gibbers".
 
@@ -29,7 +29,7 @@ title: How to Stop Worrying and Start Living - by Dale Carnegie
 
 - RULE 6: Let the past bury its dead. Don't saw sawdust.
 
-**Seven Ways To Cultivate A Mental Attitude That Will Bring You Peace And Happiness**
+### Seven Ways To Cultivate A Mental Attitude That Will Bring You Peace And Happiness
 
 - RULE 1: Let's fill our minds with thoughts of peace, courage, health, and hope, for "our life is what our thoughts make it".
 
@@ -45,7 +45,7 @@ title: How to Stop Worrying and Start Living - by Dale Carnegie
 
 - RULE 7: Let's forget our own unhappiness-by trying to create a little happiness for others. "When you are good to others, you are best to yourself."
 
-**How To Keep From Worrying About Criticism**
+### How To Keep From Worrying About Criticism
 
 - RULE 1: Unjust criticism is often a disguised compliment. It often means that you have aroused jealousy and envy. Remember that no one ever kicks a dead dog.
 
@@ -53,7 +53,7 @@ title: How to Stop Worrying and Start Living - by Dale Carnegie
 
 - RULE 3: Let's keep a record of the fool things we have done and criticise ourselves. Since we can't hope to be perfect, let's do what E. H. Little did: let's ask for unbiased, helpful, constructive criticism.
 
-**Four Good Working Habits That Will Help Prevent Fatigue And Worry Good Working**
+### Four Good Working Habits That Will Help Prevent Fatigue And Worry Good Working
 
 1.  Clear Your Desk of All Papers Except Those Relating to the Immediate Problem at Hand.
 

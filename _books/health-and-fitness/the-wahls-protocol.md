@@ -10,9 +10,9 @@ Disease begins at the cellular level, when cells are starved of the building blo
 
 Treatment of an autoimmune disease with functional medicine involves optimizing the body's environment to minimize immune hyperreactivity rather than restricting normal immune activity through pharmaceutical intervention, as a conventional approach recommends.
 
-We all have the same chronic disease--broken biochemistry and confused signaling between our cells. This leads to having too much inflammation and strained mitochondria, largely as a result of our lifestyle choices.
+We all have the same chronic disease—broken biochemistry and confused signaling between our cells. This leads to having too much inflammation and strained mitochondria, largely as a result of our lifestyle choices.
 
-**JOURNALING**
+### JOURNALING
 
 Throughout this program, you'll keep track of a lot of things, including what you eat, your stress levels, your supplements, your pain and energy levels, and how you are handling each day and the challenges of your life. This is too much to just keep track of mentally. Instead, I want you to keep a written record.
 
@@ -32,7 +32,7 @@ Throughout this program, you'll keep track of a lot of things, including what yo
 
 - List one good thing that happened today.
 
-**THE WAHLS DIET 101**
+### THE WAHLS DIET 101
 
 1.  Nine cups of fruits and vegetables every day, broken down as follows: Three cups tightly packed raw or cooked leafy greens, like kale, collards, chard, Asian greens, and lettuces (the darker, the better) Three cups deeply colored vegetables and fruits, such as berries, tomatoes, beets, carrots, and winter squash Three cups sulfur-rich vegetables, including broccoli, cabbage, asparagus, Brussels sprouts, turnips, radishes, onions, and garlic.
 
@@ -40,7 +40,7 @@ Throughout this program, you'll keep track of a lot of things, including what yo
 
 3.  Organic, Grass-Fed, Wild-Caught
 
-**WAHLS PALEO**
+### WAHLS PALEO
 
 1.  Reduce all non-gluten grains (presumably you are completely gluten-free by now), legumes, and potatoes to just two servings per week.
 
@@ -48,7 +48,7 @@ Throughout this program, you'll keep track of a lot of things, including what yo
 
 3.  Add fermented foods, soaked seeds and nuts, and more raw foods.
 
-**WAHLS PALEO PLUS (KETO)**
+### WAHLS PALEO PLUS (KETO)
 
 1.  Eliminate all grains, legumes, and potatoes.
 
@@ -60,7 +60,7 @@ Follow the urine ketones to get feedback on whether you are likely in nutritiona
 
 Coconut oil can be added to smoothies and used in salad dressing and for cooking meats and vegetables. Coconut milk can be added to smoothies, soups, and other recipes, used in coffee and tea, or consumed plain.
 
-**DIET TIPS & TRICKS**
+### DIET TIPS & TRICKS
 
 Aim for eating at least three different colors daily.
 
@@ -72,7 +72,7 @@ When vegetables begin to look a bit stale, chop them and put them in a Crock-Pot
 
 Buy your food as close to locally and as fresh as possible.
 
-**Produce prep: **When you bring home your vegetables, consider preparing them immediately. Fill the sink with water and wash everything. Dry with paper towels and put vegetables and fruits into ziplock bags or clear plastic containers so everything stays clean and is easy to see. For an even easier time later, prepare your produce: Scrub and trim off ends of root vegetables, snap the ends of beans, and tear up lettuce so it is salad-ready. Break apart broccoli and cauliflower into florets. Don't forget to reserve the outer leaves: Throw them in the Crock-Pot (or freezer) for vegetable soup stock. For your berries, it is better to wash and prep them just prior to eating. Also, berries have a shorter shelf life and are best consumed within one or two days of purchase.
+**Produce prep:** When you bring home your vegetables, consider preparing them immediately. Fill the sink with water and wash everything. Dry with paper towels and put vegetables and fruits into ziplock bags or clear plastic containers so everything stays clean and is easy to see. For an even easier time later, prepare your produce: Scrub and trim off ends of root vegetables, snap the ends of beans, and tear up lettuce so it is salad-ready. Break apart broccoli and cauliflower into florets. Don't forget to reserve the outer leaves: Throw them in the Crock-Pot (or freezer) for vegetable soup stock. For your berries, it is better to wash and prep them just prior to eating. Also, berries have a shorter shelf life and are best consumed within one or two days of purchase.
 
 Milk, cheese, yogurt, ice cream, whey (as in whey protein powder), and all other dairy products (except for clarified butter, also called ghee, which has the milk proteins removed) are not part of the Wahls Diet, Wahls Paleo, or Wahls Paleo Plus.
 
@@ -94,9 +94,9 @@ Include plenty of raw fruits and vegetables in your diet and to use low-temperat
 
 Raw nuts are important to include in your diet because they provide some key nutrients. I advocate eating raw soaked or sprouted nuts in particular, especially almonds, walnuts, sunflower seeds, and hazelnuts.
 
-**GOING BEYOND FOOD**
+## GOING BEYOND FOOD
 
-**Reduce Toxic Load.**
+### Reduce Toxic Load.
 
 - Promote natural toxin elimination through sauna use.
 
@@ -114,15 +114,15 @@ Raw nuts are important to include in your diet because they provide some key nut
 
 - Filter your water. There are many levels of filtering available; even a pitcher with a filter can reduce toxins in your tap water. A reverse-osmosis system is superior because it is the only way to remove the various drugs that have likely entered your water supply; it is what I have installed in our home.
 
-**Supplementation**
+### Supplementation
 
-Because there is a lower intake of **calcium** in Wahls Paleo (approximately 950 mg) and Wahls Paleo Plus (750 mg) than in the Wahls Diet (1,450 mg), I suggest that you consider taking 250 mg calcium citrate once or twice a day depending on your gender, age, and which diet you are following. It is important to intentionally and consistently eat calcium-rich foods--like eating the bones in canned salmon, as well as almonds, bok choy, and collard greens--but supplementation is an insurance policy.
+Because there is a lower intake of **calcium** in Wahls Paleo (approximately 950 mg) and Wahls Paleo Plus (750 mg) than in the Wahls Diet (1,450 mg), I suggest that you consider taking 250 mg calcium citrate once or twice a day depending on your gender, age, and which diet you are following. It is important to intentionally and consistently eat calcium-rich foods—like eating the bones in canned salmon, as well as almonds, bok choy, and collard greens—but supplementation is an insurance policy.
 
 If you take molecularly distilled fish oil (as opposed to fermented cod-liver oil), you should also take **vitamin E** in the form of mixed tocopherols or tocotrienols at 200 to 400 mg per day. (Note that 1 mg equals approximately 1.5 IU per day; some supplements are labeled with IUs instead of milligrams.)
 
 If you develop problems with constipation, I suggest you take in more **fiber**. The intent is to take in enough fiber to poop two to three times a day without having an accident in your pants! Look for soluble fiber products made from psyllium husks.
 
-**Stress Management**
+### Stress Management
 
 I recommend doing something stress-relieving several times each day, such as one thing in the morning and one thing in the afternoon or evening.
 
@@ -146,13 +146,13 @@ I recommend doing something stress-relieving several times each day, such as one
 
 - Massage.
 
-**RECIPES (SEE APPENDIX FOR MORE)**
+## RECIPES (SEE APPENDIX FOR MORE)
 
-**Smoothies**
+### Smoothies
 
 I recommend that you start the day with a smoothie that provides some of the 9 cups of vegetables and fruit and high-quality protein. The ratio I recommend starting with is: 1 part greens; 2 parts fruit or juice, coconut milk, or other nut milk, preferably unsweetened. Add water and ice and combine in a high-speed blender until desired consistency. As you get more used to the taste of green smoothies, you can gradually shift your ratio until you get greens and fruits in an approximately 1:1 ratio or switch to greens only and an approved nondairy milk. I personally always use full-fat coconut milk in a can to make smoothies and soups and to add to my teas. Spices such as cinnamon, cardamom, ginger, or nutmeg can also cut the bitterness and add more nutritional benefits. I like to add 1 to 2 tablespoons of nutritional yeast, because it is a powerhouse of B vitamins, minerals, and RNA.
 
-**Skillet Meals**
+### Skillet Meals
 
 The basic principle of this versatile recipe is to cook meat in a skillet with coconut oil, vinegar, and spices, then to add greens in the last 2 minutes of cooking. Experiment with the types of animal protein, cuts of meat, and seasonings you use, and remember to rotate through different greens to maximize the health benefits. Here are the basic proportions:
 
@@ -164,19 +164,19 @@ The basic principle of this versatile recipe is to cook meat in a skillet with c
 - 1–2 pounds meat or fish: nitrate-free bacon (cooked before the main protein source, with excess fat drained from pan), ham, steak, chicken, turkey, pork, salmon, lamb, heart, liver
 - 6–7½ cups greens and other vegetables: broccoli, collard greens, kale, mustard greens, spinach, turnip greens, plus cabbage, carrots, eggplant, mushrooms, onions
 
-**Liver, Onions, and Mushrooms**
+### Liver, Onions, and Mushrooms
 
-- \_½ pound bacon (nitrate-free)
+- ½ pound bacon (nitrate-free)
 - ½ pound mushrooms, sliced
 - 1 teaspoon organic kelp powder, such as Starwest Botanical organic kelp (optional)
 - 1 pound onions, chopped
 - 1⅔ pounds chicken livers
 - 1 tablespoon balsamic vinegar
-- ½ teaspoon iodized sea salt\_
+- ½ teaspoon iodized sea salt
 
 In large skillet, fry bacon. Pour off all the fat. Add mushrooms, kelp, and onions, and cook for 3 to 5 minutes over medium-low heat. Add livers, vinegar, and salt. Cook over medium heat for 2 to 3 minutes. Make sure to leave the livers medium-rare because overcooking will make them tough.
 
-**Bone Broth**
+### Bone Broth
 
 - Water (filtered or reverse-osmosis water), enough to fill the pot or Crock-Pot
 - 1 onion, chopped
@@ -187,11 +187,11 @@ In large skillet, fry bacon. Pour off all the fat. Add mushrooms, kelp, and onio
 - ½ teaspoon iodized sea salt
 - Bones (knucklebones are particularly good)
 - 4 chicken feet (optional but recommended)
-- Any vegetables in your fridge that are getting a little bit limp\_
+- Any vegetables in your fridge that are getting a little bit limp
 
 Heat the water to steaming or a light simmer and add the rest of the ingredients. Simmer anywhere from 4 hours to 2 days. If any foamy materials come to the top of the pot, skim them off and discard. After you turn off the heat, allow to cool. Strain out the vegetables and bones.
 
-**Red Chili with Beans**
+### Red Chili with Beans
 
 - 8 cups bone broth
 - 1 pound ground bison meat
@@ -202,11 +202,11 @@ Heat the water to steaming or a light simmer and add the rest of the ingredients
 - 1 jalapeño pepper, minced
 - 1 teaspoon chili powder
 - 1 teaspoon organic kelp powder, such as Starwest Botanicals organic kelp (optional)
-- ½ teaspoon iodized sea salt\_
+- ½ teaspoon iodized sea salt
 
 Put all ingredients in kettle. Simmer 30 minutes.
 
-**Seafood Stew**
+### Seafood Stew
 
 - 1 13.5-ounce can full-fat coconut milk
 - 2 cups chicken broth (or bone broth, or store-bought broth)
@@ -217,19 +217,19 @@ Put all ingredients in kettle. Simmer 30 minutes.
 - ½ teaspoon iodized sea salt
 - 1 pound oysters or scallops (use 2 pounds for Wahls Paleo)
 - 2 cups chopped cauliflower
-- 1 cup minced fresh cilantro\_
+- 1 cup minced fresh cilantro
 
 Place coconut milk, broth, mushrooms, onion, squash, kelp powder, and salt in a pot. Heat to simmering until squash is nearly tender, 5 to 10 minutes. Add oysters or scallops and cauliflower, bring back to a gentle simmer, and turn the heat off. Let stew sit for 10 minutes. Stir in the cilantro and serve. Add coarse ground pepper to each bowl as you like.
 
-**Salads**
+### Salads
 
 I recommend piling your plate with fresh raw leafy greens of all types, chopping other vegetables you have, and adding them (cucumber, carrots, radishes, bell peppers, mushrooms, green onions, or whatever you like, but try to include sulfur-rich vegetables to balance the greens), drizzling with a cold-pressed olive oil and a splash of fresh lemon juice or vinegar, and adding some animal protein like steak, chicken, or fish.
 
-**Sautéed Red Cabbage**
+### Sautéed Red Cabbage
 
 - 2 tablespoons coconut oil
 - 4 cups chopped red cabbage
 - 1½ tablespoons sliced fresh ginger
-- 1 tablespoon balsamic vinegar\_
+- 1 tablespoon balsamic vinegar
 
 Heat coconut oil in a skillet over medium heat. Add cabbage, ginger, and vinegar. Sauté for 2 to 4 minutes.

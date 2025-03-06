@@ -27,7 +27,7 @@ What is intellectually interesting about visions are their assumptions and their
 
 Characteristic patterns have developed among the anointed for dealing with the repeated failures of policies based on their vision. Other patterns have developed for seizing upon statistics in such a way as to buttress the assumptions of the vision, even when the same set of statistics contains numbers that contradict the vision. Finally, there is the phenomenon of honored prophets among the anointed, who continue to be honored as their predictions fail by vast margins, time and again.
 
-**PATTERNS OF FAILURE**
+### PATTERNS OF FAILURE
 
 A very distinct pattern has emerged repeatedly when policies favored by the anointed turn out to fail. This pattern typically has four stages:
 
@@ -55,7 +55,7 @@ Those with the vision of the anointed almost invariably choose one of the first 
 
 Factual evidence and logical arguments are often not merely lacking but ignored in many discussions by those with the vision of the anointed. Much that is said by the anointed in the outward form of an argument turns out not to be arguments at all. Often the logical structure of an argument is replaced by preemptive rhetoric or, where an argument is made, its validity remains unchecked against any evidence, even when such evidence is abundant.
 
-**ARGUMENTS WITHOUT ARGUMENTS**
+### ARGUMENTS WITHOUT ARGUMENTS
 
 There are too many discussion tactics that substitute for substantive arguments to permit a comprehensive survey. Half a dozen common substitutes may be illustrative, however. They are (1) the “complex” and “simplistic” dichotomy; (2) all-or-nothing rhetoric: (3) burying controversial specifics in innocuous generalities; (4) shifting to the presumed viewpoint of someone else, in lieu of supporting one’s own assertions with evidence or logic: (5) declaring “rights”: and (6) making opaque proclamations with an air of certainty and sophistication.
 
@@ -85,7 +85,7 @@ Perhaps a few suggestions might be in order for seeing through much of the rheto
 
 12. Many of the “abuses” of today were the “reforms” of yesterday.
 
-**THE ANOINTED VERSUS THE BENIGHTED**
+### THE ANOINTED VERSUS THE BENIGHTED
 
 The vision of the anointed may stand out in sharper relief when it is contrasted with the opposing vision, a vision whose reasoning begins with the tragedy of the human condition. By tragedy here is not meant simply unhappiness, but tragedy in the ancient Greek sense, inescapable fate inherent in the nature of things, rather than unhappiness due simply to villainy or callousness. The two visions differ in their respective conceptions of the nature of man, the nature of the world, and the nature of causation, knowledge, power, and justice.
 
@@ -111,7 +111,7 @@ No one denies the existence of constraints, though the vision of the anointed do
 
 The language of politics, and especially of ideological politics, is often categorical language about “rights,” about eliminating certain evils, guaranteeing certain benefits, or protecting certain habitats and species. In short, it is the language of solutions and of the unconstrained vision behind solutions, the vision of the anointed. Indirectly but inexorably, this language says that the preferences of the anointed are to supersede the preferences of everyone else—that the particular dangers they fear are to be avoided at all costs and the particular benefits they seek are to be obtained at all costs. Their attempts to remove these decisions from both the democratic process and the market process, and to vest them in obscure commissions, unelected judges, and insulated bureaucracies, are in keeping with the logic of what they are attempting. They are not seeking trade-offs based on the varying preferences of millions of other people, but solutions based on their own presumably superior knowledge and virtue.
 
-**CRUSADES OF THE ANOINTED**
+### CRUSADES OF THE ANOINTED
 
 It is not only the consummated policies of the anointed which reflect their vision. So do their crusades still in progress. The pattern of thinking involved in this vision shows up as strongly in trivial crusades against particular kinds of maps as in crusades over something as deadly serious as AIDS. The function of the vision in enhancing the self-esteem of the anointed is also revealed in the particular groups chosen as targets and in the particular beneficiary groups chosen to symbolize their moral stances. The symbolic function of these latter groups is much like that of team mascots. A mascot’s own well-being is not so crucial as its role in enabling others to “make a statement.” Many social groups are treated as the human mascots of the anointed, whether or not that ultimately works out to the benefit of those groups themselves.
 
@@ -119,13 +119,13 @@ Few issues are so perfectly adapted to the vision of the anointed—and to polit
 
 Just as the logic of their vision guides the anointed in their choices of mascots, so it guides their selection of targets. The prime requisite for both mascots and targets is that they must distinguish the anointed from the benighted. Just as groups disdained by others become eligible to be mascots of the anointed, so groups respected by others are eligible to become targets. These include business people, physicians. and other professionals, members of religious communities, policemen, and others whose social roles or financial success engender respect or influence in the society at large. Just as the law is stretched and strained for the benefit of mascots, so it is stretched and strained to the detriment of targets.
 
-**THE VOCABULARY OF THE ANOINTED**
+### THE VOCABULARY OF THE ANOINTED
 
 In light of the underlying assumptions of the prevailing vision, it may be easier to see why the particular vocabulary used by the anointed is what it is. The swirl of their buzzwords—“access,” “stigma,” “progressive.” “diversity,” “crisis,” etc.—shows a discernible pattern. What these innumerable buzzwords have in common is that they either (1) preempt issues rather than debate them, (2) set the anointed and the benighted on different moral and intellectual planes, or (3) evade the issue of personal responsibility.
 
 The word “crisis,” for example, is a preemptive word used for its prospective political effect, rather than for its contemporary or retrospective accuracy. All sorts of situations have been called a “crisis,” even when they have in fact been getting better for years. When the anointed say that there is a crisis this means that something must be done—and it must be done simply because the anointed want it done. This word becomes one of many substitutes for evidence or logic.
 
-**COURTING DISASTER**
+### COURTING DISASTER
 
 There is a fundamental difference between a society where a ruler can seize the wealth or the wife of any subject and one in which the poorest citizen can refuse to allow the highest official of the land inside his home. There is a fundamental difference between a time when the great English jurist Coke cringed as King James threatened to beat him physically with his own hands—resistance being treason, punishable by death—and a world in which the Supreme Court of the United States could order President Nixon to turn over evidence to a special prosecutor. No clever trivializing can erase these differences. Centuries of struggle, sacrifice. and bloodshed went into creating the ideal of a government of laws superior to any ruler or political organ.
 
@@ -133,7 +133,7 @@ The rule of law and the vision of the anointed are inherently at loggerheads. Th
 
 Judicial activism in effect allows the vision of the anointed to veto the legally imposed decisions of the community, even when those decisions do not conflict with the written Constitution. Moreover, this veto is exercised in the name of the Constitution and even in the name of the community, meaning by the latter those who presume to consider themselves the “conscience” of the community.
 
-**OPTIONAL REALITY**
+### OPTIONAL REALITY
 
 The central tenets of the prevailing vision can be summarized in five propositions:
 

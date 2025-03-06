@@ -13,7 +13,7 @@ One of the key factors in world history: diseases transmitted to peoples lacking
 
 I do not mean to imply, however, that the role of disease in history was confined to paving the way for European expansion. Malaria, yellow fever, and other diseases of tropical Africa, India, Southeast Asia, and New Guinea furnished the most important obstacle to European colonization of those tropical areas.
 
-**THE RISE AND SPREAD OF FOOD PRODUCTION**
+### THE RISE AND SPREAD OF FOOD PRODUCTION
 
 Food production was indirectly a prerequisite for the development of guns, germs, and steel. Hence geographic variation in whether, or when, the peoples of different continents became farmers and herders explains to a large extent their subsequent contrasting fates.
 
@@ -55,7 +55,7 @@ Intensified food production and societal complexity stimulate each other, by aut
 
 A large society that continues to leave conflict resolution to all of its members is guaranteed to blow up. That factor alone would explain why societies of thousands can exist only if they develop centralized authority to monopolize force and resolve conflicts. A second reason is the growing impossibility of communal decision making with increasing population size. Hence a large society must be structured and centralized if it is to reach decisions effectively. A third reason involves economic considerations. Any society requires means to transfer goods between its members. Large societies can function economically only if they have a redistributive economy in addition to a reciprocal economy. Goods in excess of an individual's needs must be transferred from the individual to a centralized authority, which then redistributes the goods to individuals with deficits.
 
-**EPILOGUE: THE FUTURE OF HUMAN HISTORY AS A SCIENCE**
+### EPILOGUE: THE FUTURE OF HUMAN HISTORY AS A SCIENCE
 
 Of course, the continents differ in innumerable environmental features affecting trajectories of human societies. The first set consists of continental differences in the wild plant and animal species available as starting materials for domestication. That's because food production was critical for the accumulation of food surpluses that could feed non-food-producing specialists, and for the buildup of large populations enjoying a military advantage through mere numbers even before they had developed any technological or political advantage. For both of those reasons, all developments of economically complex, socially stratified, politically centralized societies beyond the level of small nascent chiefdoms were based on food production. But most wild animal and plant species have proved unsuitable for domestication: food production has been based on relatively few species of livestock and crops. It turns out that the number of wild candidate species for domestication varied greatly among the continents, because of differences in continental areas and also (in the case of big mammals) in Late Pleistocene extinctions. These extinctions were much more severe in Australia and the Americas than in Eurasia or Africa.
 

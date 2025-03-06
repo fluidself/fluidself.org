@@ -5,7 +5,7 @@ slug: letters-from-a-self-made-merchant-to-his-son
 title: Letters from a Self-Made Merchant to His Son - by John Graham
 ---
 
-The first thing that any education ought to give a man is character, and the second thing is education. That is where I'm a little skittish about this college business. There are two parts of a college education--the part that you get in the schoolroom from the professors, and the part that you get outside of it from the boys. That's the really important part. For the first can only make you a scholar, while the second can make you a man.
+The first thing that any education ought to give a man is character, and the second thing is education. That is where I'm a little skittish about this college business. There are two parts of a college education—the part that you get in the schoolroom from the professors, and the part that you get outside of it from the boys. That's the really important part. For the first can only make you a scholar, while the second can make you a man.
 
 It isn't so much knowing a whole lot, as knowing a little and how to use it that counts.
 
@@ -33,11 +33,11 @@ The easiest way in the world to make enemies is to hire friends.
 
 When a fellow knows his business, he doesn't have to explain to people that he does. It isn't what a man knows, but what he thinks he knows that he brags about. Big talk means little knowledge.
 
-When you make a mistake, don't make the second one--keeping it to yourself. Own up. The time to sort out rotten eggs is at the nest. The deeper you hide them in the case the longer they stay in circulation, and the worse impression they make when they finally come to the breakfast-table.
+When you make a mistake, don't make the second one—keeping it to yourself. Own up. The time to sort out rotten eggs is at the nest. The deeper you hide them in the case the longer they stay in circulation, and the worse impression they make when they finally come to the breakfast-table.
 
 It isn't enough to be all right in this world; you've got to look all right as well, because two-thirds of success is making people think you are all right. So you have to be governed by general rules, even though you may be an exception. When a fellow gets to the point where he is something in particular, he doesn't have to care because he doesn't look like anything special; but while a young fellow isn't anything in particular, it is a mighty valuable asset if he looks like something special.
 
-There are two unpardonable sins in this world--success and failure. Those who succeed can't forgive a fellow for being a failure, and those who fail can't forgive him for being a success. If you do succeed, though, you will be too busy to bother very much about what the failures think.
+There are two unpardonable sins in this world—success and failure. Those who succeed can't forgive a fellow for being a failure, and those who fail can't forgive him for being a success. If you do succeed, though, you will be too busy to bother very much about what the failures think.
 
 A man who does big things is too busy to talk about them. When the jaws really need exercise, chew gum.
 
@@ -49,4 +49,4 @@ Never threaten, because a threat is a promise to pay that it isn't always conven
 
 When you're through sizing up the other fellow, it's a good thing to step back from yourself and see how you look. Then add fifty per cent. to your estimate of your neighbor for virtues that you can't see, and deduct fifty per cent. from yourself for faults that you've missed in your inventory, and you'll have a pretty accurate result.
 
-There are two things you never want to pay any attention to--abuse and flattery. The first can't harm you and the second can't help you.
+There are two things you never want to pay any attention to—abuse and flattery. The first can't harm you and the second can't help you.

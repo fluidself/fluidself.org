@@ -7,7 +7,7 @@ title: 'Look Homeward, Angel: A Story of the Buried Life - by Thomas Wolfe'
 
 He was the breaker of visions; the proposer of iniquities.
 
-Eugene's face was of no use to him as a mask: it was a dark pool in which every pebble of thought and feeling left its circle--his shame, his distaste for his employment was obvious, although he tried to conceal it: he was accused of false pride, told that he was "afraid of a little honest work," and reminded of the rich benefits he had received from his big-hearted parents.
+Eugene's face was of no use to him as a mask: it was a dark pool in which every pebble of thought and feeling left its circle—his shame, his distaste for his employment was obvious, although he tried to conceal it: he was accused of false pride, told that he was "afraid of a little honest work," and reminded of the rich benefits he had received from his big-hearted parents.
 
 This starched and well brushed world of Sunday morning Presbyterianism, with its sober decency, its sense of restraint, its suggestion of quiet wealth, solid position, ordered ritual, seclusive establishment, moved him deeply with its tranquillity.
 

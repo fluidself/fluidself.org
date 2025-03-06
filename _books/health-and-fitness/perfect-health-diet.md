@@ -6,7 +6,7 @@ title: 'Perfect Health Diet: Regain Health and Lose Weight by Eating the Way You
   Meant to Eat - by Paul Jaminet'
 ---
 
-**The Perfect Health Diet prescription is:**
+### The Perfect Health Diet prescription is:
 
 - About 600 carbohydrate calories per day from about 1 pound of "safe starches" such as sweet potatoes, yams, taro, white rice, sago, tapioca, and potatoes and 1 pound of fruits, berries, and sugary vegetables such as beets and carrots.
 
@@ -18,19 +18,19 @@ title: 'Perfect Health Diet: Regain Health and Lose Weight by Eating the Way You
 
 - Long-chain omega-3 fats from cold-water fish such as salmon, sardines, and anchovies should be eaten to balance tissue omega-6s. Up to a pound of oily fish per week is likely to be healthful.
 
-- Saturated and monounsaturated fats are the safest calorie source--indeed the only calorie source that is nontoxic in very high doses--and should provide the bulk of calories. Fish, shellfish, beef, lamb, and dairy fats such as butter and cream are the best animal sources; coconut milk and coconut oil are great plant sources.
+- Saturated and monounsaturated fats are the safest calorie source—indeed the only calorie source that is nontoxic in very high doses—and should provide the bulk of calories. Fish, shellfish, beef, lamb, and dairy fats such as butter and cream are the best animal sources; coconut milk and coconut oil are great plant sources.
 
 - Two tablespoons of coconut oil (6 tablespoons of coconut milk) per day will provide short-chain fats to protect the health of the gut, liver, nerves, brain, and cardiovascular system.
 
 - More short-chain fats are generated in the gut by eating fiber. Fiber should be obtained from "Paleo" foods: the safe starches, fruits and berries, and vegetables to taste. These are the fiber sources that generate the healthiest portfolio of gut bacteria and the most abundant colonic production of beneficial short-chain fats.
 
-Unlike other mammals, humans lack the ability to transform foods with the wrong nutrient mix into the right one. In particular, we lack the ability to ferment large amounts of vegetable matter into fat. More than other animals, we humans need to eat our natural diet--one that is majority fat, minority carbs and protein.
+Unlike other mammals, humans lack the ability to transform foods with the wrong nutrient mix into the right one. In particular, we lack the ability to ferment large amounts of vegetable matter into fat. More than other animals, we humans need to eat our natural diet—one that is majority fat, minority carbs and protein.
 
 The food reward system sometimes overshoots the mark. Evolution wanted Paleolithic man to eat more than 15 percent carbs, so it made carbs tasty, sweet, and rewarding. In the modern world, where carbs are easy to obtain, the food reward system overrewards carbohydrate consumption and leads most people to eat more carbs than is optimal. The good news: if we eat natural foods, our reward system will be a reliable guide to what is good for us, just as it was in the Paleolithic.
 
 Most likely, purified-nutrient diets are unhealthy because they are malnourishing. Research versions of purified-nutrient diets are clearly nutrient-deficient, since extra choline, extra zinc and copper, or extra zinc, chromium, and selenium relieve the health problems they induce. More fundamentally, food is full of nutrients that we don't know we need. We share a common biology with plants and animals, and their tissues contain premade biological compounds that are valuable to us and that we may not be able to construct in adequate quantities from purified nutrients.
 
-**Protein**
+### Protein
 
 - Optimal protein intake is achieved by eating 8 to 16 ounces per day of meat, fish, and eggs.
 
@@ -46,7 +46,7 @@ Most likely, purified-nutrient diets are unhealthy because they are malnourishin
 
 To maintain a lean body composition while overfeeding for muscle growth, the trick is to have rest days with reduced calorie consumption. A good rule of thumb is to overeat by 20 to 25 percent of calories in the immediate aftermath of training and to undereat by 20 to 25 percent on rest days.
 
-**Carbohydrates**
+### Carbohydrates
 
 - Carbohydrates should comprise 20 to 35 percent of calories, except for those on therapeutic ketogenic diets (a bit less) or athletes in training (a bit more).
 
@@ -70,7 +70,7 @@ Here are some ways to reduce the GI of starchy foods:
 
 - Eat starches with acids, especially vinegar.
 
-**The Dangerous Fats: PUFA**
+### The Dangerous Fats: PUFA
 
 - Americans eat five times more omega-6 fat and less omega-3 fat than is optimal.
 
@@ -78,13 +78,13 @@ Here are some ways to reduce the GI of starchy foods:
 
 - Eat tropical plants but not their seeds.
 
-- Ruthlessly purge high-omega-6 foods--especially seed, bean, and grain oils such as soybean oil, corn oil, canola oil, and safflower oil--from your diet.
+- Ruthlessly purge high-omega-6 foods—especially seed, bean, and grain oils such as soybean oil, corn oil, canola oil, and safflower oil—from your diet.
 
 We recommend making fish, shellfish, and ruminant meats your principal meats, eaten five days of the week. Eat chicken and pork only occasionally for variety.
 
 Do not take fish oil capsules. Get your omega-3 fats from fish.
 
-**The Safe Fats: SaFA and MUFA**
+### The Safe Fats: SaFA and MUFA
 
 - Saturated and monounsaturated fats are safe to consume, even in large quantities.
 
@@ -94,7 +94,7 @@ Do not take fish oil capsules. Get your omega-3 fats from fish.
 
 The optimal macronutrient proportions for building muscle are 30 percent carbs, 18 percent protein, 52 percent fat. But the fat needs to be low in PUFA and thus high in SaFA and MUFA.
 
-**Medium-Chain Fats and Therapeutic Ketogenic Diets**
+### Medium-Chain Fats and Therapeutic Ketogenic Diets
 
 - One or 2 tablespoons of coconut oil per day may be beneficial for everyone.
 
@@ -114,13 +114,13 @@ How to Implement a Ketogenic Diet:
 
 - Finally: apart from the MCT oil and branched-chain amino acids, eat food. Do not drink purified-nutrient shakes!
 
-**Alcohol**
+### Alcohol
 
 - Include salmon or sardines in your diet for omega-3 fats, but avoid consuming alcohol on days when you consume salmon or sardines. The combination can damage your gut. The best foods to combine with alcohol? Beef, lamb, or nonoily fish.
 
 - Be well nourished. Eat liver and egg yolks for choline, and get extra antioxidants, especially vitamin C, to support glutathione regeneration and protect against lipid oxidation.
 
-**The Four Most Dangerous Foods**
+### The Four Most Dangerous Foods
 
 1.  Cereal grains
 
@@ -130,7 +130,7 @@ How to Implement a Ketogenic Diet:
 
 4.  Sugar
 
-**Micronutrient Recommendations**
+### Micronutrient Recommendations
 
 Multivitamins may do as much harm as good.
 
@@ -164,7 +164,7 @@ A few minerals are hard to get in optimal amounts from food, such as magnesium, 
 
 - Iodine: 225 micrograms (unnecessary on days when seafood is eaten)
 
-- (Lithium: 2.5 milligrams--a 5-milligram tablet cut into halves)
+- (Lithium: 2.5 milligrams—a 5-milligram tablet cut into halves)
 
 - (Silicon: 5 to 25 milligrams)
 
@@ -182,15 +182,15 @@ And the following supplements once a week only:
 
 - (Taurine: 500 milligrams)
 
-**A Recipe for Healthful Living**
+### A Recipe for Healthful Living
 
 - We all have chronic infections that become more severe as we age. If allowed to multiply, parasitic microbes will cause severe disease.
 
 - It's desirable to improve your "terrain" by helping your immune system control chronic infections.
 
-Cardiovascular disease, dementia and memory loss, neuropathy and lost balance and falls, "grouchy old man" syndrome, cold intolerance, inflamed and arthritic joints--these may all be symptoms, not of aging, but of chronic infections.
+Cardiovascular disease, dementia and memory loss, neuropathy and lost balance and falls, "grouchy old man" syndrome, cold intolerance, inflamed and arthritic joints—these may all be symptoms, not of aging, but of chronic infections.
 
-**Circadian Rhythm Enhancement**
+### Circadian Rhythm Enhancement
 
 For optimal health, strengthen and synchronize circadian rhythms by:
 

@@ -5,7 +5,7 @@ slug: how-to-live
 title: How to Live - by Derek Sivers
 ---
 
-**Here’s how to live: Be independent.**
+### Here’s how to live: Be independent.
 
 Crowds are hysterical, and inbreed opinions. Don’t be a part of any group. Don’t take sides on any fight. Instead of standing out from the crowd, just avoid and ignore the crowd. Avoid social media and the zeitgeist. Its stupidity will infect you. Don’t align with any religion, philosophy, or political stance. Stay unlabeled and unbound.
 
@@ -21,7 +21,7 @@ Own your own business with many small customers to avoid depending on any big cl
 
 Eventually, you will have done it. You’ll be absolutely free and independent. It’s the ultimate liberation. Then you can appreciate everything from a healthy distance. You can appreciate your country from abroad, once it’s not your only option. You can appreciate family, once they’re not forced upon you. You can laugh at the hysteria of the crowd, and learn from it too. You can take sides in a fight, with a smirk. You can even take responsibility for someone else.
 
-**Here’s how to live: Commit.**
+### Here’s how to live: Commit.
 
 You’ve been looking for the best person, place, or career. But seeking the best is the problem. No choice is inherently the best. What makes something the best choice? You. You make it the best through your commitment to it. Your dedication and actions make any choice great. This is a life-changing epiphany. You can stop seeking the best option. Pick one and irreversibly commit. Then it becomes the best choice for you. Voilà.
 
@@ -31,17 +31,17 @@ Ignore other aspects of your life. Let go of every unnecessary obligation. Each 
 
 Once you decide what’s important to you, you know how your ideal self will act and what your ideal day will be. So why not act that way and live that day every day? Commit to your habits to make them rituals. If it’s not important, never do it. If it’s important, do it every day.
 
-**Here’s how to live: Fill your senses.**
+### Here’s how to live: Fill your senses.
 
 Never have the same thought twice. Keep nothing on your mind. Just take in what’s around you now. Have no expectation of how something should be, or you won’t see how it really is.
 
-**Here’s how to live: Do nothing.**
+### Here’s how to live: Do nothing.
 
 Change your need to change things. In your most peaceful moments, your mind is quiet. You’re not thinking you should be doing anything else. When everything feels perfect, you say, “I wouldn’t change a thing.” So, live your whole life in this mindset.
 
 Most actions are a pursuit of emotions. You think you want to take action or own a thing. But what you really want is the emotion you think it’ll bring. Skip the actions. Go straight for the emotion. Practice feeling emotions intentionally, instead of using actions to create them. You don’t need marriage to feel security. Marriage doesn’t make you secure. You don’t need recognition to feel pride. Recognition doesn’t give you pride. You don’t need a beach to feel tranquility. Places don’t make emotions. You do.
 
-**Here’s how to live: Think super-long-term.**
+### Here’s how to live: Think super-long-term.
 
 Serve the future. Do small things now with huge benefits for your older self, your descendants, and future generations. Actions amplify through time to have a massive impact on the future. Let this fact guide your life. Use a time machine in your mind, constantly picturing your future self and your great-grandchildren’s world. Act now to influence that time.
 
@@ -53,7 +53,7 @@ You owe your quality of life to people in past generations. We say someone is lu
 
 Plan your death. Write your will now. Make sure your heirs know where everything is, and who to contact.
 
-**Here’s how to live: Intertwine with the world.**
+### Here’s how to live: Intertwine with the world.
 
 You have kindreds scattered around the world. People who are weird like you are spread out everywhere. One of the best feelings in life is to meet someone who grew up in an opposite culture but has your same humor, thoughts, or taste.
 
@@ -63,7 +63,7 @@ Ask questions until you understand why things are the way they are. Culture is o
 
 If you eventually need a permanent home, choose the place you’d want to be if everything goes wrong. Choose a culture that values what you value.
 
-**Here’s how to live: Make memories.**
+### Here’s how to live: Make memories.
 
 You recently had a day, or even a month, that you can’t remember. If I asked what you did then, you couldn’t say. There was nothing unusual about it. What if you have many more of those? What if, when you’re older, you can’t recall entire years? If you can’t remember something, it’s like it never happened. You could have a long healthy life, but if you can’t remember it, it’s like you had a short life. What a horrible way to live.
 
@@ -75,7 +75,7 @@ Turn your experiences into stories. A story is the remains of an experience. Mak
 
 Your memories are a mix of fact and fiction. Your story about an experience overwrites your memory of the actual experience. So use this in your favor. Re-write your past. Embellish adventures. Disempower trauma. Re-write your stories into whatever works for you. Remember only what you want to remember. You have the right to reframe.
 
-**Here’s how to live: Master something.**
+### Here’s how to live: Master something.
 
 Mastery is the best goal because the rich can’t buy it, the impatient can’t rush it, the privileged can’t inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status.
 
@@ -95,13 +95,13 @@ Pursuing mastery is ambitious, which helps your chance of success. Most people f
 
 Don’t live somewhere pleasant surrounded by normal people. Live among your fellow freaks, where obsession is normal and ambition is rewarded.
 
-**Here’s how to live: Let randomness rule.**
+### Here’s how to live: Let randomness rule.
 
 Randomize your life. Use a random generator — an app, a roll of the dice, or a shuffled deck of cards — to make all of your life’s decisions. Choose a life where you choose nothing. Let the random generator decide what you do, where you go, and who you meet. It’ll scramble your habits. It’ll break the myth of causality. It’ll guide you to see places you’d never ordinarily see, and do what you never would have done. Randomness keeps your mind open and observant. You can’t predict, so you see clearly. You can’t use old solutions and rules-of-thumb. You can’t blame karma, astrology, demons, saints, anyone or anything else. You can’t think there’s a master plan. Instead, you’ll calculate probability. You’ll be hyper-aware that statistics apply to all of us, and we’re more average than we think. Life is determined not by causes, but by randomness and odds. By taking a minute to do the math, you’ll have a clearer understanding of why things are the way they are.
 
 Randomness helps you learn acceptance. You can’t take the blame for failures. You can’t take credit for successes. You can’t regret what you didn’t cause. How liberating to not decide and not predict anything. Stoics and Buddhists work hard to feel indifferent to outcomes. But you’ll feel detachment as a natural side effect of every day being random. Since nothing has consequences, you’ll greet everything with healthy indifference. Neither upset nor joy — just seeing it as it is. Thanks to randomness, you’ll know that none of it has meaning. You’ll be living a lesson that everyone should learn. Random stuff happens. All you can control is your response. Every day, you’ll practice how to react to chaos: with dignity, poise, and grace.
 
-**Here’s how to live: Pursue pain.**
+### Here’s how to live: Pursue pain.
 
 Everything good comes from some kind of pain. Muscle fatigue makes you healthy and strong. The pain of practice leads to mastery. Difficult conversations save your relationships. But if you avoid pain, you avoid improvement. Avoid embarrassment, and you avoid success. Avoid risk, and you avoid reward.
 
@@ -115,25 +115,25 @@ Since you can’t avoid problems, just find good problems. Happiness isn’t eve
 
 The easy road leads to a hard future. The hard road leads to an easy future. Steering towards the pain is how to live.
 
-**Here’s how to live: Do whatever you want now.**
+### Here’s how to live: Do whatever you want now.
 
 People think they’ll do something later. They think they’ll have more time in the future than they do today, as if later is a magical time when everything will happen. Forget the whole notion of the future. There is only today. If you want to do something, do it now. If you don’t want to do it now, then you don’t want to do it at all, so let it go.
 
 Happiness is something to do, someone to love, and something to desire. Heaven is not what’s at the end of the path. Heaven is the path itself. Doing whatever you want, at every moment, is how to live.
 
-**Here’s how to live: Be a famous pioneer.**
+### Here’s how to live: Be a famous pioneer.
 
 This is the power of the pioneer: To enable the impossible. To open a new world of possibility. To show others that they can do it too, and take it even further. Explorers used to find unknown lands and bring back stories of unfamiliar cultures, which encouraged others to go exploring. The old finish line becomes the new starting line.
 
 So if you want to help humanity while having the most exciting life, then the way to live is to be a famous pioneer. Go to new extremes. Try new ideas. Visit undiscovered cultures. Show what can be done. Your job is not just to act, but to tell a fascinating story of how you did so, and inspire others to do it. Make great adventures, but tell greater stories. Pursue massive media attention, not for vanity or ego, but so your stories can open minds, spark imaginations, and lead to further explorations.
 
-**Here’s how to live: Chase the future.**
+### Here’s how to live: Chase the future.
 
 Live in the world of tomorrow. Surround yourself only with what’s brand new and upcoming. That’s where life is made. It’s the most optimistic environment, full of hope and promises. It’s the smartest way to live. You’re moving forward in time, so you should watch where you’re headed. Go where things are going. It’s the most exciting way to live. Every day will be like a child’s birthday, with surprising new breakthroughs. It keeps your brain healthy, young, and active. Since everything will always be new, you won’t rely on assumptions or habits. You’ll pay full attention and keep learning every day.
 
 Oppose convention because that’s how things were. Slavery was a convention. Human sacrifice was a convention. Denying human rights to women was a convention. Some day our current conventions will seem as wrong as these. Since you live in the future, start condemning them now.
 
-**Here’s how to live: Value only what has endured.**
+### Here’s how to live: Value only what has endured.
 
 Only the strong survive, so what’s still here after decades is proven to be well-made and well-loved. The longer something lasts, the more people know and depend on it, solidifying its place in our world. Only these proven things are worth your time and attention.
 
@@ -149,7 +149,7 @@ Learn time-tested skills that were just as useful in your grandparents’ time a
 
 Master the fundamentals, not new tricks. Learn the timeless aspects of your craft. This knowledge will never lose its value. In any given field, learn the oldest thing still around, since it’s the one most likely to last.
 
-**Here’s how to live: Learn.**
+### Here’s how to live: Learn.
 
 You get healthy by learning healthy habits. You get wealthy by learning valuable skills. You build a great interpersonal life by learning people skills. Most misery comes from not learning these things.
 
@@ -165,7 +165,7 @@ Communicate knowledge to others to make sure you understand. Don’t quote. Put 
 
 To communicate clearly, you have to think clearly. Writing is refined thinking. Public speaking tests your writing on a real audience. Great public speaking comes from great private thinking.
 
-**Here’s how to live: Follow the great book.**
+### Here’s how to live: Follow the great book.
 
 You know what your great book is. Whether the Bible, Tanakh, Upanishads, Quran, Think and Grow Rich, Seven Habits of Highly Effective People, or another, follow it diligently. Your book is wiser than you. It’s describing natural law — the way our world works. It’s not just someone’s opinion. It has the definitive answers to the choices you’re confronted with each day. Don’t think you know better.
 
@@ -177,7 +177,7 @@ Following rules is smart. It’s efficient. You don’t need to stop and re-thin
 
 Rules must be absolutely unbreakable. If you try to decide, each time, whether it’s OK to break the rule or not, then you’ve missed the whole point of rules. Rules are to save you from deciding. That’s why hard rules are easier to keep.
 
-**Here’s how to live: Laugh at life.**
+### Here’s how to live: Laugh at life.
 
 Humor is the spirit of life — a sign of a healthy, vibrant mind and soul. Humor means using your mind beyond necessity, beyond reality, for both noticing and imagining. That’s why we admire a quick wit. It shows you quickly looked at something from many angles, found the one that amused you the most, and considerately expressed it to someone else. Observation, creativity, and empathy, all in an instant. What could be a better sign of a healthy mind?
 
@@ -189,7 +189,7 @@ A bad situation can feel all-consuming. A laugh shows you’ve escaped. Humor pu
 
 Besides, it makes you very appealing. Everyone wants to be with someone who’s having more fun.
 
-**Here’s how to live: Prepare for the worst.**
+### Here’s how to live: Prepare for the worst.
 
 Things are going to get harder. The future will test your strength. So far, you’ve lived in a time of prosperity. You haven’t experienced massive devastation, but you probably will. It’ll be harder to make money. It’ll be harder to be happy. Much of what you love now will be gone. You’ll look back at this year as one of the easiest you ever had. You’ll get injured or sick, losing some of your ability to see, hear, move, or think. You’ll wish for the health you have now. How can you thrive in an unknowable future? Prepare for the worst. Train your mind to be ready for whatever may come. This is how to live.
 
@@ -209,7 +209,7 @@ Did someone make you angry? Did a situation make you sad? No. It’s all you. No
 
 When something happens, don’t interpret. No story, no “should have”, no judgment, not even an opinion. This is seeing clearly. Your goal is grateful indifference. Win the lottery? Go to jail? Get famous? Go blind in an accident? It doesn’t matter because you’re fine either way. Detach from the outcome and be OK no matter what happens.
 
-**Here’s how to live: for others.**
+### Here’s how to live: for others.
 
 Even if you prefer solitude, you have to admit that being a valuable member of a group is smarter. The best way to be safe is to help others be safe. The best way to be connected is to help others be connected. People look out for each other. But nobody helps the unhelpful. You can’t actually pull yourself up by your bootstraps. Ultimately you are lifted by those around you.
 
@@ -221,7 +221,7 @@ Be warm, open, and fully present with everyone you encounter. Confidence attract
 
 Whenever you’re thinking something nice about someone, tell them. A sincere compliment can put a lot of fuel in someone’s tank. People don’t hear enough compliments.
 
-**Here’s how to live: Get rich.**
+### Here’s how to live: Get rich.
 
 Money is nothing more than a neutral exchange of value. Making money is proof you’re adding value to people’s lives. Aiming to get rich is aiming to be useful to the world. It’s striving to do more for others. Serving more. Sharing more. Contributing more. The world rewards you for creating value. Pursue wealth because it’s moral, good, and unlimited.
 
@@ -239,7 +239,7 @@ Follow the rising tides of where profits are going. Get in early on an industry 
 
 Money is your servant, not your master. Don’t act rich. Don’t lose touch with regular people. Stay frugal. Reducing your expenses is so much easier than increasing your income. You don’t need to tell anyone you have money. You don’t even need to spend it. Don’t buy too many things, too big of a house, or hire too many people. Rich people who do this feel trapped and miserable. The less you buy, the more you’re in control. Forget lifestyle. Forget yourself. Stay 100% focused on creating value. Everything else is a corrupting distraction.
 
-**Here’s how to live: Reinvent yourself regularly.**
+### Here’s how to live: Reinvent yourself regularly.
 
 “I’m an introvert, so that’s why I can’t.” No. Definitions are not reasons. Definitions are just your old responses to past situations. What you call your personality is just a past tendency. New situations need a new response. Are you more emotional or intellectual? Early bird or night owl? Liberal or conservative? No. Disagree with the question. You aren’t supposed to be easy to explain.
 
@@ -247,7 +247,7 @@ The way to live is to regularly reinvent yourself. Every year or two, change you
 
 At every little decision, ten times a day, choose the thing you haven’t tried. Act out of character. It’s liberating. Get your security not from being an anchor, but from being able to ride the waves of change.
 
-**Here’s how to live: Love.**
+### Here’s how to live: Love.
 
 Not love, the feeling, but love the active verb. It’s not something that happens to you. It’s something you do. You choose to love something or someone. You can love anything or anyone you decide to love.
 
@@ -259,7 +259,7 @@ Break down the walls that separate you from others and prevent real connections.
 
 Between any two people is a third thing: the relationship itself. Actively nurture it. If you improve it, it will improve you. Once you’re in a relationship, avoid harming it. It’s easy to love someone’s best qualities, but it’s work to love their flaws. Don’t try to change someone, or teach them a lesson, unless they ask you to. When one of you is being childish, the other needs to be the adult. Like a dance, you can’t both dip at the same time. One of you has to stay upright to keep the other from collapsing.
 
-**Here’s how to live: Create.**
+### Here’s how to live: Create.
 
 The way to live is to create. Die empty. Get every idea out of your head and into reality. Calling yourself creative doesn’t make it true. All that matters is what you’ve launched. Make finishing your top priority. When most people see modern art, they think, “I could do that!” But they didn’t. That is the difference between consumer and creator. Which would you rather be? Someone who hasn’t created anything in years because you’re so busy consuming? Or someone who hasn’t consumed anything in years because you’re so busy creating?
 
@@ -267,11 +267,11 @@ Don’t wait for inspiration. Inspiration will never make the first move. She co
 
 Stay in situations where you’re forced to show your work to others.
 
-**Here’s how to live: Don’t die.**
+### Here’s how to live: Don’t die.
 
 There’s only one law of nature: if you survive, you win. Be paranoid. Avoid failure to survive. For something to succeed, everything needs to go right. For something to fail, only one thing needs to go wrong. Don’t try to be more right. Just be less wrong. Avoiding failure leads to success. The winner is usually the one who makes the least mistakes. This is true in investing, extreme skiing, business, flying, and many other fields. Win by not losing.
 
-**Here’s how to live: Make a million mistakes.**
+### Here’s how to live: Make a million mistakes.
 
 You learn best from your mistakes. This is true. So you should deliberately make as many mistakes as possible. Try absolutely everything, all the time, expecting everything to fail. Just make sure that you capture the lessons from each experience. And never make the same mistake twice.
 
@@ -285,7 +285,7 @@ This gives you emotional stability. No mistake will upset you. You’ll never th
 
 Your growth zone is your failure zone. Both are at the edge of your limits. That’s where you find a suitable challenge. Aim for what will probably fail. If you aim for what you know you can do, you’re aiming too low.
 
-**Here’s how to live: Make change.**
+### Here’s how to live: Make change.
 
 People dream or complain about how the world should be, but nothing improves without action. You have to go change things yourself. People say the world is the way it is, and that’s just how it’s going to be. They’re hopeless, complacent, or entrenched. They expect life to stay within its current boundaries and rules. But all progress comes from those who ignore the boundaries, break the rules, or make a whole new game.
 
@@ -295,7 +295,7 @@ Go where there’s a revolution. That’s where people are questioning old norms
 
 Changing culture makes revolution. But it’s not a revolution if nobody loses. Someone will have to lose. People will be furious. When the bad people are mad, you’re doing it right. In
 
-**Here’s how to live: Balance everything.**
+### Here’s how to live: Balance everything.
 
 Virtue is in the balance between extremes. Between the insecure and the egomaniac: confidence. Between the uptight and the clown: grace. Between the coward and the daredevil: courage. Between selfishness and sacrifice: generosity. So, the way to live is to balance everything. Imagine the different aspects of your life as the spokes in a wheel: health, wealth, intellectual, emotional, spiritual, or however you divide it. If any of these are lacking, it makes a lopsided, wobbly wheel, causing you to crash. But if you keep the parts of your life balanced, your wheel is round, and you can roll easily.
 

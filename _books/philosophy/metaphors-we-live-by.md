@@ -9,7 +9,7 @@ Metaphor is for most people a device of the poetic imagination and the rhetorica
 
 The essence of metaphor is understanding and experiencing one kind of thing in terms of another.
 
-**Orientational Metaphors**
+### Orientational Metaphors
 
 These spatial orientations arise from the fact that we have bodies of the sort we have and that they function as they do in our physical environment. Orientational metaphors give a concept a spatial orientation; for example, HAPPY IS UP. The fact that the concept happy is oriented up leads to English expressions like "I'm feeling up today." Such metaphorical orientations are not arbitrary. They have a basis in our physical and cultural experience. Though the polar oppositions up-down, in-out, etc., are physical in nature, the orientational metaphors based on them can vary from culture to culture. For example, in some cultures the future is in front of us, whereas in others it is in back.
 
@@ -17,7 +17,7 @@ The most fundamental values in a culture will be coherent with the metaphorical 
 
 So it seems that our values are not independent but must form a coherent system with the metaphorical concepts we live by. We are not claiming that all cultural values coherent with a metaphorical system actually exist, only that those that do exist and are deeply entrenched are consistent with the metaphorical system.
 
-**Ontological Metaphors**
+### Ontological Metaphors
 
 Understanding our experiences in terms of objects and substances allows us to pick out parts of our experience and treat them as discrete entities or substances of a uniform kind. Once we can identify our experiences as entities or substances, we can refer to them, categorize them, group them, and quantify them—and, by this means, reason about them.
 
@@ -39,7 +39,7 @@ As in the case of orientational metaphors, most of these expressions are not not
 
 **Personification:** Perhaps the most obvious ontological metaphors are those where the physical object is further specified as being a person. This allows us to comprehend a wide variety of experiences with nonhuman entities in terms of human motivations, characteristics, and activities. Here are some examples: His theory explained to me the behavior of chickens raised in factories. This fact argues against the standard theories.
 
-**Metonymy**
+### Metonymy
 
 - He likes to read the Marquis de Sade. (= the writings of the marquis) He's in dance. (= the dancing profession) Acrylic has taken over the art world. (= the use of acrylic paint)
 
@@ -47,7 +47,7 @@ As in the case of orientational metaphors, most of these expressions are not not
 
 - Wall Street is in a panic.
 
-**How Is Our Conceptual System Grounded?**
+### How Is Our Conceptual System Grounded?
 
 We claim that most of our normal conceptual system is metaphorically structured; that is, most concepts are partially understood in terms of other concepts. This raises an important question about the grounding of our conceptual system. Are there any concepts at all that are understood directly, without metaphor? If not, how can we understand anything at all?
 
@@ -57,21 +57,21 @@ However, even if we grant that every experience involves cultural presupposition
 
 Perhaps the most important thing to stress about grounding is the distinction between an experience and the way we conceptualize it. We are not claiming that physical experience is in any way more basic than other kinds of experience, whether emotional, mental, cultural, or whatever. All of these experiences may be just as basic as physical experiences. Rather, what we are claiming about grounding is that we typically conceptualize the nonphysical in terms of the physical—that is, we conceptualize the less clearly delineated in terms of the more clearly delineated.
 
-**How Metaphor Can Give Meaning to Form**
+### How Metaphor Can Give Meaning to Form
 
 The ME-FIRST ORIENTATION observe that our culture's view of what a prototypical member of our culture is like determines an orientation of concepts within our conceptual system. The canonical person forms a conceptual reference point, and an enormous number of concepts in our conceptual system are oriented with respect to whether or not they are similar to the properties of the prototypical person. Since people typically function in an upright position, see and move frontward, spend most of their time performing actions, and view themselves as being basically good, we have a basis in our experience for viewing ourselves as more UP than DOWN, more FRONT than BACK, more ACTIVE than PASSIVE, more GOOD than BAD. Since we are where we are and exist in the present, we conceive of ourselves as being HERE rather than THERE, and NOW rather than THEN. This determines what Cooper and Ross call the ME-FIRST orientation: UP, FRONT, ACTIVE, GOOD, HERE, and now are all oriented toward the canonical person; DOWN, BACKWARD, PASSIVE, BAD, THERE, and THEN are all oriented away from the canonical person.
 
-**New Meaning**
+### New Meaning
 
 The idea that metaphors can create realities goes against most traditional views of metaphor. The reason is that metaphor has traditionally been viewed as a matter of mere language rather than primarily as a means of structuring our conceptual system and the kinds of everyday activities we perform. It is reasonable enough to assume that words alone don't change reality. But changes in our conceptual system do change what is real for us and affect how we perceive the world and act upon those perceptions. The idea that metaphor is just a matter of language and can at best only describe reality stems from the view that what is real is wholly external to, and independent of, how human beings conceptualize the world—as if the study of reality were just the study of the physical world. Such a view of reality—so-called objective reality—leaves out human aspects of reality, in particular the real perceptions, conceptualizations, motivations, and actions that constitute most of what we experience. But the human aspects of reality are most of what matters to us, and these vary from culture to culture, since different cultures have different conceptual systems. Cultures also exist within physical environments, some of them radically different—jungles, deserts, islands, tundra, mountains, cities, etc. In each case there is a physical environment that we interact with, more or less successfully. The conceptual systems of various cultures partly depend on the physical environments they have developed in. Each culture must provide a more or less successful way of dealing with its environment, both adapting to it and changing it. Moreover, each culture must define a social reality within which people have roles that make sense to them and in terms of which they can function socially. Not surprisingly, the social reality defined by a culture affects its conception of physical reality. What is real for an individual as a member of a culture is a product both of his social reality and of the way in which that shapes his experience of the physical world. Since much of our social reality is understood in metaphorical terms, and since our conception of the physical world is partly metaphorical, metaphor plays a very significant role in determining what is real for us.
 
-**Metaphor, Truth, and Action**
+### Metaphor, Truth, and Action
 
 New metaphors, like conventional metaphors, can have the power to define reality. They do this through a coherent network of entailments that highlight some features of reality and hide others. The acceptance of the metaphor, which forces us to focus only on those aspects of our experience that it highlights, leads us to view the entailments of the metaphor as being true. Such "truths" may be true, of course, only relative to the reality defined by the metaphor.
 
 Though questions of truth do arise for new metaphors, the more important questions are those of appropriate action. In most cases, what is at issue is not the truth or falsity of a metaphor but the perceptions and inferences that follow from it and the actions that are sanctioned by it. In all aspects of life, not just in politics or in love, we define our reality in terms of metaphors and then proceed to act on the basis of the metaphors. We draw inferences, set goals, make commitments, and execute plans, all on the basis of how we in part structure our experience, consciously and unconsciously, by means of metaphor.
 
-**Truth**
+### Truth
 
 We do not believe that there is such a thing as objective (absolute and unconditional) truth, though it has been a long-standing theme in Western culture that there is. We do believe that there are truths but think that the idea of truth need not be tied to the objectivist view. We believe that the idea that there is absolute objective truth is not only mistaken but socially and politically dangerous. As we have seen, truth is always relative to a conceptual system that is defined in large part by metaphor. Most of our metaphors have evolved in our culture over a long period, but many are imposed upon us by people in power—political leaders, religious leaders, business leaders, advertisers, the media, etc. In a culture where the myth of objectivism is very much alive and truth is always absolute truth, the people who get to impose their metaphors on the culture get to define what we consider to be true—absolutely and objectively true.
 
@@ -79,7 +79,7 @@ We understand a statement as being true in a given situation when our understand
 
 Metaphors are basically devices for understanding and have little to do with objective reality, if there is such a thing. The fact that our conceptual system is inherently metaphorical, the fact that we understand the world, think, and function in metaphorical terms, and the fact that metaphors can not merely be understood but can be meaningful and true as well—these facts all suggest that an adequate account of meaning and truth can only be based on understanding.
 
-**The Myths of Objectivism and Subjectivism**
+### The Myths of Objectivism and Subjectivism
 
 We see ourselves as offering a third choice to the myths of objectivism and subjectivism. Incidentally, we are not using the term "myth" in any derogatory way. Myths provide ways of comprehending experience; they give order to our lives. Like metaphors, myths are necessary for making sense of what goes on around us. All cultures have myths, and people cannot function without myth any more than they can function without metaphor. And just as we often take the metaphors of our own culture as truths, so we often take the myths of our own culture as truths.
 
@@ -87,7 +87,7 @@ Objectivism and subjectivism need each other in order to exist. Each defines its
 
 What we are offering in the experientialist account of understanding and truth is an alternative which denies that subjectivity and objectivity are our only choices. We reject the objectivist view that there is absolute and unconditional truth without adopting the subjectivist alternative of truth as obtainable only through the imagination, unconstrained by external circumstances. The reason we have focused so much on metaphor is that it unites reason and imagination. Reason, at the very least, involves categorization, entailment, and inference. Imagination, in one of its many aspects, involves seeing one kind of thing in terms of another kind of thing—what we have called metaphorical thought. Metaphor is thus imaginative rationality. Since the categories of our everyday thought are largely metaphorical and our everyday reasoning involves metaphorical entailments and inferences, ordinary rationality is therefore imaginative by its very nature. Given our understanding of poetic metaphor in terms of metaphorical entailments and inferences, we can see that the products of the poetic imagination are, for the same reason, partially rational in nature.
 
-**The Experientialist Alternative: Giving New Meaning to the Old Myths**
+### The Experientialist Alternative: Giving New Meaning to the Old Myths
 
 The fact that the myths of subjectivism and objectivism have stood for so long in Western culture indicates that each serves some important function. Each myth is motivated by real and reasonable concerns, and each has some grounding in our cultural experience.
 
@@ -95,7 +95,7 @@ The fundamental concern of the myth of objectivism is the world external to the 
 
 What legitimately motivates subjectivism is the awareness that meaning is always meaning to a person. What's meaningful to me is a matter of what has significance for me. And what is significant for me will not depend on my rational knowledge alone but on my past experiences, values, feelings, and intuitive insights. Meaning is not cut and dried; it is a matter of imagination and a matter of constructing coherence. The objectivist emphasis on achieving a universally valid point of view misses what is important, insightful, and coherent for the individual. The experientialist myth agrees that understanding does involve all of these elements. Its emphasis on interaction and interactional properties shows how meaning always is meaning to a person. And its emphasis on the construction of coherence via experiential gestalts provides an account of what it means for something to be significant to an individual. Moreover, it gives an account of how understanding uses the primary resources of the imagination via metaphor and how it is possible to give experience new meaning and to create new realities. Where experientialism diverges from subjectivism is in its rejection of the Romantic idea that imaginative understanding is completely unconstrained.
 
-**Afterword**
+### Afterword
 
 The single biggest obstacle to understanding our findings has been the refusal to recognize the conceptual nature of metaphor. The idea that metaphors are nothing but linguistic expressions—a mere matter of words—is such a common fallacy that it has kept many readers from even entertaining the idea that we think metaphorically. The fallacy is that metaphor is only about the ways we talk and not about conceptualization and reasoning.
 

@@ -30,13 +30,9 @@ Here's the final takeaway: these economic systems are failing because they're th
 
 How does this help everyone seeking a livelihood? It boils down to this: Don't set your sights on entering the buggy-whip industry. And if you do, understand at the start that the competition for the dwindling number of jobs will be fierce and the security of the industry is diminishing every day because it's no longer a solution. The systems that survive and prosper are those that are exposed to dynamics that force constant evolution, adaptation and innovation, i.e. coming up with new solutions rather than just grabbing an old one and hoping it solves the new problem. Those people who are also evolving, adapting and experimenting with new solutions to new problems will always be in demand. So the takeaway from our brief examination of economic flavors and systems is simple: seek sectors and organizations that are adapting and seeking real solutions, and try to become a person who does the same, regardless of what field you're working in.
 
-digital-software-fabrication-robotics-automation (DSFRA)
-
-It is critically important to understand the more hidebound and old-fashioned the industry, the greater the gains to be reaped by introducing DSFRA technologies
-
 The great irony of free-market capitalism is that the only way to establish an enduring security is to embrace innovation and adaptation, the very processes that generate short-term insecurity. Attempting to guarantee security leads to risk being distributed to others, or concentrated within the system itself. When the accumulated risk manifests, the system collapses.
 
-**Section Two: The Changing Nature of Work**
+### Section Two: The Changing Nature of Work
 
 Individuals with unique sets of difficult-to-define skills are not open to commoditization because they are not interchangeable and cannot be produced or trained in great numbers.
 
@@ -54,20 +50,20 @@ People who are willing to learn can keep ahead of the commoditization of labor b
 
 All it takes to increase human capital is time, effort and experience. Given the abundance of lessons and resources on the Internet, it requires little to no money to learn new skills other than the cost of the Internet connection.
 
-Human capital becomes economically valuable when it creates value and solves problems. This requires mastery of a field, a topic we will explore later in this section. Mastery is cumulative; the more we know, the easier it is to learn more. Insights arise when expertise is applied to a new field--a process of cross-fertilization that many call multi-disciplinary.
+Human capital becomes economically valuable when it creates value and solves problems. This requires mastery of a field, a topic we will explore later in this section. Mastery is cumulative; the more we know, the easier it is to learn more. Insights arise when expertise is applied to a new field—a process of cross-fertilization that many call multi-disciplinary.
 
 Mastery as the Means of Production
-In other words, mastery--deep expertise based on experience and ownership of the work--is the key element to value creation. Mastery is what creates a premium for human capital. Mastery is not just a mix of knowledge, expertise and experience: it also requires ownership of the work, meaning that the master performs all work as if he owns every aspect of it: the process, the final product and the reputation that arises from the work.
+In other words, mastery—deep expertise based on experience and ownership of the work—is the key element to value creation. Mastery is what creates a premium for human capital. Mastery is not just a mix of knowledge, expertise and experience: it also requires ownership of the work, meaning that the master performs all work as if he owns every aspect of it: the process, the final product and the reputation that arises from the work.
 
 To establish and maintain a livelihood in the emerging economy, students must be able to build economically valuable mastery in their chosen field. Simply acquiring generalized knowledge will not be enough to create value.
 
-The unifying characteristics of work that is difficult to automate are mastery of skills that cannot be specified into repeatable processes, flexibility and high touch. These skills--along with the eight essential skills--are key characteristics of human and social capital.
+The unifying characteristics of work that is difficult to automate are mastery of skills that cannot be specified into repeatable processes, flexibility and high touch. These skills—along with the eight essential skills—are key characteristics of human and social capital.
 
 What creates a premium in the emerging economy is professionalism, adaptability, skills that can be applied to new fields (i.e. cross-pollination) and the ability to learn new skills.
 
 If we trust networks rather than states or corporations for our security, we automatically gain agency (control of our work and lives) and an authentic sense of self gained from owning our work and the results of our work.
 
-**Section Three: The Core Skills and Values That Create Economic Value**
+### Section Three: The Core Skills and Values That Create Economic Value
 
 The Eight Essential Skills of Professionalism
 The skills needed to establish and maintain a livelihood in the emerging economy are the abilities to:
@@ -90,7 +86,7 @@ The skills needed to establish and maintain a livelihood in the emerging economy
 
 For those with no financial reporting experience, one place to start is your own household's income and expenses. Online courses and tutorials are resources available to anyone with an Internet connection. The goal is to become familiar with income and expense sheets, also called profit and loss statements (P&L) and balance sheets which track assets and liabilities. These are the standard formats for reporting the finances of any organization.
 
-**Section Five: Accrediting Yourself**
+### Section Five: Accrediting Yourself
 
 The core of accredit yourself is summarized by Emerson's dictum: Do the thing and you shall have the power. In practical terms, accrediting yourself requires first acquiring the eight essential skills of professionalism and whatever hard skills are needed to be effective in your chosen field, and then verifying your mastery of the skills by completing projects that demonstrate your working knowledge, creativity, experience and ability to learn, solve problems and work with others. The next step is to assemble accounts from trustworthy colleagues, employers, advisors and peers with direct knowledge of your contributions that demonstrate your experience, abilities, skills and core values. The last step is to share these credentials with networks of people, agencies and enterprises that are active in your chosen field.
 
@@ -106,11 +102,11 @@ We can summarize the process of accrediting yourself in five steps:
 
 5.  Distribute your completed projects and third-party verifications to networks of people, agencies and enterprises that are active in your chosen field.
 
-**The Processes of Professionalism**
+### The Processes of Professionalism
 
 How does one develop self-management? Do the thing and you shall have the power. Organize one's time and day as if you were self-employed, even if you're currently jobless; put yourself in the other person's shoes during every encounter, set professional standards for your conduct, habits, processes and responses, and set equally high goals for learning, productivity and effectiveness.
 
-**Self-Learning to Mastery**
+### Self-Learning to Mastery
 
 There are two basic methods that help the self-learning student over these rough spots:
 
@@ -120,7 +116,7 @@ There are two basic methods that help the self-learning student over these rough
 
 The African proverb aptly describes the dual nature of self-learning to mastery: "If you want to walk fast, walk alone. If you want to walk far, walk together." Individual study and practice is the core of self-learning to mastery. Intense, focused study and concentrated work on problem-solving projects build knowledge and skills quickly: this is the equivalent of walking alone and walking fast. But when the self-learner hits a wall, or needs encouragement, then developing mentors and peer collaborators enables learning over the long haul, i.e. walking together.
 
-**Maintaining Motivation**
+### Maintaining Motivation
 
 One basic way to maintain motivation is to design a series of accretive tasks or projects that are small enough to be manageable and that build on previous lessons and projects. Trying to tackle an enormous field of knowledge all at once is overwhelming, so breaking mastery into small steps is essential to maintaining motivation. Completing each small step is rewarding, even if progress on the entire project appears modest. Maintaining motivation requires these four components:
 
@@ -132,17 +128,17 @@ One basic way to maintain motivation is to design a series of accretive tasks or
 
 - Collaborate with others, i.e. establish an ecology/network of collaboration that supports our goals and efforts.
 
-**Joining Ecologies of Collaboration**
+### Joining Ecologies of Collaboration
 
 If I were 19 years old and on my own again, I would seek out a big group house of the incubator variety, where virtually every resident was an entrepreneur or working for a start-up company, and I would offer myself as the go-to guy for the house in exchange for a place to sleep. Need a meal cooked? I'm on it. Yard tended? Lockset replaced? I'm on it. I would not know how to do many of the tasks, but each task would be small enough to figure out with help from a friend of a resident or a friend of a friend or online tutorials. If I messed the job up because it was my first time, I would have the freedom to re-do it, as nobody would be supervising me except me. (If I chose to pursue a college education, I would do so in between work, not the other way around, just as I did in my youth.) Being the go-to gal/guy in such a setting would be an incredibly fast track to building human and social capital very quickly. What better network to plug into than one formed of entrepreneurs who are busy failing fast and failing often?
 
-**Actively Seek Problems to Solve**
+### Actively Seek Problems to Solve
 
 Graduates face a chicken-egg problem: employers want work experience, but how do you get experience if no one will hire you due to lack of experience? The answer is to go out in the real world and seek problems to solve within organizations and enterprises.
 
-A great many community groups and organizations lack proper accounting and public relations programs, due to limited staffing, funding and expertise. Finding a problem to solve that fits your interests and field of endeavor may be as easy as walking into local churches, environmental organizations, neighborhood groups, volunteer-based sports programs or any one of hundreds of other community-economy organizations and asking what projects need doing or problems that need solving. Completing these projects (or organizing a system that will outlast your own participation) creates value for the organization. This is what employers hire people to do: solve problems and create value. This is the goal of offering one's services--not just to donate time but to identify serious problems that you can solve and document to accredit your abilities and experience.
+A great many community groups and organizations lack proper accounting and public relations programs, due to limited staffing, funding and expertise. Finding a problem to solve that fits your interests and field of endeavor may be as easy as walking into local churches, environmental organizations, neighborhood groups, volunteer-based sports programs or any one of hundreds of other community-economy organizations and asking what projects need doing or problems that need solving. Completing these projects (or organizing a system that will outlast your own participation) creates value for the organization. This is what employers hire people to do: solve problems and create value. This is the goal of offering one's services—not just to donate time but to identify serious problems that you can solve and document to accredit your abilities and experience.
 
-**Documenting and Sharing Your Completed Projects**
+### Documenting and Sharing Your Completed Projects
 
 - Document the project you contributed to or completed as if you were a reporter, with a synopsis or summary, quotes from participants, photos and a brief description
 

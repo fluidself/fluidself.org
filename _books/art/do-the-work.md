@@ -11,7 +11,7 @@ title: 'Do the Work: Overcome Resistance and Get Out of Your Own Way - by Steven
 
 - Keep working
 
-Any act that rejects immediate gratification in favor of long-term growth, health, or integrity --OR-- any act that derives from our higher nature instead of our lower. Any of these acts will elicit Resistance.
+Any act that rejects immediate gratification in favor of long-term growth, health, or integrity—OR—any act that derives from our higher nature instead of our lower. Any of these acts will elicit Resistance.
 
 Resistance will unfailingly point to true North - meaning that calling or action it most wants to stop us from doing. We can use this. We can use it as a compass. We can navigate by Resistance, letting it guide us to that calling or purpose that we must follow before all others. Rule of thumb: The more important a call or action is to our soul's evolution, the more Resistance we will feel toward pursuing it.
 

@@ -5,7 +5,7 @@ slug: the-managerial-revolution
 title: 'The Managerial Revolution: What is Happening in the World - by James Burnham'
 ---
 
-**THE PROBLEM**
+### THE PROBLEM
 
 It is by no means obvious what we mean when we speak of a “social revolution,” especially when we try to distinguish a social revolution from a merely “military” or “political” revolution. Several conflicting definitions have been attempted, as a rule accompanying special and conflicting theories of history, of which the definitions are a part. It seems, however, possible to describe the chief constituents of what can intelligibly be meant by a “social revolution” without committing ourselves in advance to any special theory. These chief constituents seem to be three:
 
@@ -19,7 +19,7 @@ In this conception there is a certain arbitrariness. The fact is that social and
 
 The problem of this book is as follows: I am going to assume the general conception of a social revolution which I have just briefly stated. I am going to assume further (though not without evidence to back up this assumption) that the present is in fact a period of social revolution, of transition from one type of society to another. With the help of these assumptions, I shall present a theory—which I call “the theory of the managerial revolution”—which is able to explain this transition and to predict the type of society in which the transition will eventuate.
 
-**THE WORLD WE LIVED IN**
+### THE WORLD WE LIVED IN
 
 We cannot really understand where we are going unless we have at least some notion of where we start from. What were the chief characteristics of the “modern world,” the type of society usually referred to as “capitalist” or “bourgeois,” which was dominant from the end of the Middle Ages until, let us say in order to fix a date, 1914, the beginning of the first world war?
 
@@ -63,7 +63,7 @@ It is even harder than in the case of political institutions to generalize about
 
 4. Finally, in capitalist society, the theological and supernatural interpretation of the meaning of world history was replaced by the idea of progress, first appearing in the writers of the Renaissance and being given definite formulation during the eighteenth century. There were two factors in the idea of progress: first, that mankind was advancing steadily and inevitably to better and better things; and, second, the definition of the goal toward which the advance is taking place in naturalistic terms, in terms we might say of an earthly instead of a heavenly paradise.
 
-**THE THEORY OF THE PERMANENCE OF CAPITALISM**
+### THE THEORY OF THE PERMANENCE OF CAPITALISM
 
 During the past century, dozens, perhaps even hundreds, of “theories of history” have been elaborated. These differ endlessly among themselves in the words they use, the causal explanations they offer for the historical process, the alleged “laws” of history which they seem to discover. But most of these differences are irrelevant to the central problem with which this book is concerned. That problem is to discover, if possible, what type (if indeed it is to be a different type) of social organization is on the immediate historical horizon. With reference to this specific problem, all of the theories, with the exception of those few which approximate to the theory of the managerial revolution, boil down to two and only two. The first of these predicts that capitalism will continue for an indefinite, but long, time, if not forever: that is, that the major institutions of capitalist society, or at least most of them, will not be radically changed. The second predicts that capitalist society will be replaced by socialist society. The theory of the managerial revolution predicts that capitalist society will be replaced by “managerial society” (the nature of which will be later explained), that, in fact, the transition from capitalist society to managerial society is already well under way. It is clear that, although all three of these theories might be false, only one of them can be true; the answer that each of them gives to the question of what will actually happen in the future plainly denies the answers given by the other two. I propose, therefore, in this and the following chapter to review briefly the evidence for rejecting the theory of the permanence of capitalism and the theory of the socialist revolution.
 
@@ -89,7 +89,7 @@ The second assumption is that capitalism has some necessary kind of correlation 
 
 9. As symptomatic and decisive as these economic and technical developments is the fact that the ideologies of capitalism, the bourgeois ideologies, have become impotent.
 
-**THE THEORY OF THE PROLETARIAN SOCIALIST REVOLUTION**
+### THE THEORY OF THE PROLETARIAN SOCIALIST REVOLUTION
 
 First, we must be clear about what is meant by “socialist society.” It is worth emphasizing that with respect to the central and only problem of this book—the problem of what type of society is to prevail in the immediate future and for the next period of human history—the theories of anarchists, socialists, communists, and their subvarieties are the same. They all agree, in general, as to what they mean by “socialist society” (even though they may call it something else—“communism” or “anarchist society”), and they all agree that it is going to come. Their differences are on how it is going to come and on what ought to be done to help it along, not on the prediction that it will come. The determining characteristics of what they mean by socialist society are that it is classless, fully democratic, and international.
 
@@ -107,7 +107,7 @@ The assumption that the abolition of capitalist private property guarantees soci
 
 6. The practical collapse of the Marxist parties has paralleled the collapse of the Marxist ideology.
 
-**THE STRUGGLE FOR POWER**
+### THE STRUGGLE FOR POWER
 
 The general field of the science of politics is the struggle for social power among organized groups of men.
 
@@ -123,7 +123,7 @@ From the time of the Renaissance a number of more or less related new ideologies
 
 Two facts are of special significance for us. First, that the net result of the widespread acceptance of some of these new ideologies was to promote patterns of attitude and feeling in society which benefited, above all, the social position of the bourgeoisie and the institutions favorable to the bourgeoisie. Second, belief in, and advocacy of, these ideologies were not at all confined to the bourgeoisie but spread to all sections of the population. Presumably, the non-bourgeois sections of the population believed because they thought that these ideologies expressed their interests and hopes and ideals. Judged in terms of economic and social results, this was either not the case at all or true for the non-bourgeois groups only to a very minor degree as compared with the capitalists.
 
-**THE THEORY OF THE MANAGERIAL REVOLUTION**
+### THE THEORY OF THE MANAGERIAL REVOLUTION
 
 What is occurring in this transition is a drive for social dominance, for power and privilege, for the position of ruling class, by the social group or class of the managers (as I shall call them, reserving for the moment an explanation of whom this class includes). This drive will be successful. At the conclusion of the transition period the managers will, in fact, have achieved social dominance, will be the ruling class in society. This drive, moreover, is world-wide in extent, already well advanced in all nations, though at different levels of development in different nations. The economic framework in which this social dominance of the managers will be assured is based upon the state ownership of the major instruments of production. Within this framework there will be no direct property rights in the major instruments of production vested in individuals as individuals.
 
@@ -133,7 +133,7 @@ The ideologies expressing the social role and interests and aspirations of the m
 
 Ee must remember that the language of the struggle for power in metaphorical. No more than in the case of the capitalists, have the “managers” or their representatives ever got together to decide, deliberately and explicitly, that they were going to make a bid for world power. Nor will the bulk of those who have done, and will do, the fighting in the struggle be recruited from the ranks of the managers themselves; most of the fighters will be workers and youths who will doubtless, many of them, believe that they are fighting for ends of their own. Nor have the managers themselves been constructing and propagating their own ideologies; this has been, and is being, done for the most part by intellectuals, writers, philosophers. Most of these intellectuals are not in the least aware that the net social effect of the ideologies which they elaborate contributes to the power and privilege of the managers and to the building of a new structure of class rule in society. As in the past, the intellectuals believe that they are speaking in the name of truth and for the interests of all humanity.
 
-**WHO ARE THE MANAGERS?**
+### WHO ARE THE MANAGERS?
 
 During the past several decades the de facto management of the instruments of production has to a constantly increasing extent got out of the hands of the capitalists that so plainly proves society to be shifting away from capitalism and the capitalists losing their status as the ruling class. In ever-widening sectors of world economy, the actual managers are not the capitalists, the bourgeoisie; or, at the very least, the managerial prerogatives of the capitalists are being progressively whittled down. The completion of this process means the elimination of the capitalists from control over the economy; that is, their disappearance as a ruling class.
 
@@ -141,7 +141,7 @@ I mean by managers, in short, those who already for the most part in contemporar
 
 In the earlier days of capitalism, the typical capitalist, the ideal of the ideologists before and after Adam Smith, was himself his own manager so far as there were managerial functions other than those assigned to some reliable skilled worker in the shop. He was the individual entrepreneur, who owned the whole or the greater share of a factory or mine or shop or steamship company or whatever it might be, and actively managed his own enterprise; perhaps to retire in old age in favor of management by his heirs. But, as is well known, the growth of large-scale public corporations along with the technological development of modern industry have virtually wiped such types of enterprise out of the important sections of the economy; with a few exceptions, they remain only among the “small businesses” which are trivial in their historical influence. These changes have meant that to an ever-growing extent the managers are no longer, either as individuals or legally or historically, the same as the capitalists. There is a combined shift: through changes in the technique of production, the functions of management become more distinctive, more complex, more specialized, and more crucial to the whole process of production, thus serving to set off those who perform these functions as a separate group or class in society; and at the same time those who formerly carried out what functions there were of management, the bourgeoisie, themselves withdraw from management, so that the difference in function becomes also a difference in the individuals who carry out the function.
 
-**THE MANAGERS MOVE TOWARD SOCIAL DOMINANCE**
+### THE MANAGERS MOVE TOWARD SOCIAL DOMINANCE
 
 We have seen that of the two decisive elements in actual ownership, control over preferential treatment in distribution is subordinate to control over access. With respect to the latter, though it is by no means yet out of the hands of the big bourgeoisie, though it can still be exercised by them on crucial occasions, it has on the whole been diminishing during the past generation.
 
@@ -149,7 +149,7 @@ The traditional and necessary capitalist role of government is, as everyone know
 
 The actual, day-by-day direction of the processes owned and operated by the government or controlled, without full ownership, by the government is in the hands of individuals strictly comparable to those whom we have called “managers” in the case of private industry: the men of the innumerable bureaus and commissions and agencies, not often the publicly known figures, who may be decorative politicians, but the ones who actually do the directing work.
 
-**THE ECONOMY OF MANAGERIAL SOCIETY**
+### THE ECONOMY OF MANAGERIAL SOCIETY
 
 The capitalists, as a class, base their power and privilege, their social dominion, on their control (ownership) of “private enterprise,” which alone is capitalist enterprise proper, since in it alone do we find the characteristic capitalist social and economic relations. So long as government enters, either not at all or comparatively little, into the economy, and at the same time is either tolerant toward or the active defender of capitalist relations, the social rule of the capitalists and the continuance of capitalist society is assured and often immensely aided by government. Even when government takes over substantial but still minor percentages of the economy (either through outright ownership or growing but not complete control), the social rule of the capitalists can be continued, and government can still act primarily to their benefit. The capitalists will not benefit directly from governmental enterprise. But, having private enterprise as a base for leverage, governmental enterprise can be indirectly manipulated to benefit private enterprise and thus the capitalists. This is simple enough when the relative percentage of governmental enterprise is low and that of private enterprise correspondingly high: private enterprise then easily outweighs governmental. But, especially since the first world war, the universal tendency, in the world economy as a whole and in that of each separate nation, is toward the relative extension of governmental enterprise at the expense, necessarily, of private. (Once again I must stress that such an extension is marked as much or even more by an increase in governmental control as by formal government “ownership”: since control is the decisive factor in ownership.)
 
@@ -167,7 +167,7 @@ In managerial economy, the regulation of production will not be left to the “a
 
 Put in the crudest way, there will continue to be, as there has always been in human history, fighting over the spoils. The fight may translate, and thereby partly hide, itself into political and juridical, as well as physical, forms that we do not as yet suspect, but it will go on. And this is sufficient reason, if there were no others, why we should have as little faith in the promises of the ideologies of the managers—fascist or Leninist or Stalinist or New Dealer or technocratic—as we ought to have learned to have in those of the capitalists, when they tell us that following their pipe will guarantee a world of plenty and peace and freedom.
 
-**THE MANAGERS SHIFT THE LOCUS OF SOVEREIGNTY**
+### THE MANAGERS SHIFT THE LOCUS OF SOVEREIGNTY
 
 Any organised society patterns its life according to certain rules—customs, laws, decrees. These rules may not be written down, may not be explicitly formulated even in verbal terms, but they must exist or there would be no sense in calling the society organized. The origin of many of the rules, at any given moment, is lost in a remote past; but there must be within the society some mechanism for enforcing those taken over from the past, and, since the rules are always changing and being added to or dropped, for stating and enforcing new or changed rules. A social group which makes and enforces its own rules for itself, and does not recognize rules made for it by an agency outside the group, is called “autonomous” or “sovereign”—such as the capitalist nations all claimed to be and the chief of them in fact were. The “sovereignty” of the group, by virtue of which rules are made, cannot, however, simply float in the group air. It must be localized, concretized, in some human institution which is accepted as the institution from which rules (in complex society called “laws”) come.
 
@@ -179,7 +179,7 @@ In the new form of society, sovereignty is localized in administrative bureaus. 
 
 The old-line parliamentarians do not do well in the bureaus. One or two of them may be present, as figureheads, for decorative purposes. But the actual directing and administrative work of the bureaus is carried on by new men, a new type of men. It is, specifically, the managerial type, the type we noticed also when considering the structural developments in “private enterprise.” The active heads of the bureaus are the managers-in-government, the same, or nearly the same, in training, functions, skills, habits of thought as the managers-in-industry.
 
-**TOTALITARIANISM AND MANAGERIAL SOCIETY**
+### TOTALITARIANISM AND MANAGERIAL SOCIETY
 
 Those nations—Russia, Germany, and Italy—which have advanced furthest toward the managerial social structure are all of them, at present, totalitarian dictatorships.
 
@@ -189,7 +189,7 @@ Dictatorships have occurred under many historical circumstances. But there seems
 
 Historical analogy, then, suggests that with the consolidation of the structure of managerial society, its dictatorial phase (totalitarianism) will change into a democratic phase. This conclusion is reinforced by two additional considerations. In the first place, it would seem that the managers, the ruling class of the new society, will for their own purposes require at least a limited democracy. The managerial economy cannot operate without a considerable degree of centralized planning. But in planning and co-ordinating the economic process, one of the factors that must be taken into account is the state of mind of the people, including something of their wants and of their reactions to the work they are doing. Unless these are known, at least roughly, even reasonable efficiency in production is difficult. But totalitarian dictatorship makes it very hard—as Russia especially already proves—to get any information on the actual state of mind of the people: no one is free to give unbiased information, and the ruling group becomes more and more liable to miscalculate, with the risk of having the social machine break down. A certain measure of democracy makes it easier for the ruling class to get more, and more accurate, information. Secondly, experience shows that a certain measure of democracy is an excellent way to enable opponents and the masses to let off steam without endangering the foundations of the social fabric. Discontent and opposition, under an absolute dictatorship, having no mechanism for orderly expression, tend to take terroristic and, in times of crisis, revolutionary forms. The example of capitalist parliaments shows how well democratic possibilities are able to make discontent and opposition harmless by providing them with an outlet. Faced with the threat of trouble from the submerged and underprivileged groups, and with the need for mediating conflicts within its own ranks, the new ruling class will doubtless prefer a controlled democracy rather than the risk of social downfall.
 
-**THE WORLD POLICY OF THE MANAGERS**
+### THE WORLD POLICY OF THE MANAGERS
 
 Experience has shown that the existence of a large number of sovereign nations, especially in Europe (and with somewhat less acuteness in Latin America), is incompatible with contemporary economic and social needs. The system simply does not work. In spite of the fact that the post-Versailles European arrangements were set up and guaranteed by the most powerful coalition in history, which had achieved victory in the greatest war of history, they could not last. The complex division of labor, the flow of trade and raw materials made possible and demanded by modern technology, were strangled in the network of diverse tariffs, laws, currencies, passports, boundary restrictions, bureaucracies, and independent armies.
 
@@ -199,7 +199,7 @@ Nevertheless, it is extremely doubtful that the world political system of manage
 
 At the same time the capitalist system of a comparatively large number of sovereign states cannot continue, and is, in fact, collapsing right now. What is going to take its place? The answer, in general terms, is not obscure; and, as with so many other questions, does not have to be given by idle speculation about the dim future. The working out of the answer started some time ago and is now going on quickly before our eyes. The comparatively large number of sovereign nations under capitalism is being replaced by a comparatively small number of great nations, or “super-states,” which will divide the world among them. Some of the many nations which are eliminated in fact may be preserved in form; they may be kept as administrative subdivisions, but they will be stripped of sovereignty. Sovereignty will be restricted to the few super-states.
 
-**THE MANAGERIAL IDEOLOGIES**
+### THE MANAGERIAL IDEOLOGIES
 
 Though ideologies are not controlled by facts, they are nevertheless subject to controls. In particular, the major ideologies of a class society must be able to perform two tasks: (1) They must actually express, at least roughly, the social interests of the ruling class in question, and must aid in creating a pattern of thought and feeling favorable to the maintenance of the key institutions and relations of the given social structure. (2) They must at the same time be so expressed as to be capable of appealing to the sentiments of the masses. An ideology embodying the interests of a given ruling class would not be of the slightest use as social cement if it openly expressed its function of keeping the ruling class in power over the rest of society. The ideology must ostensibly speak in the name of “humanity,” “the people,” “the race,” “the future,” “God,” “destiny,” and so on. Furthermore, in spite of the opinion of many present-day cynics, not just any ideology is capable of appealing to the sentiments of the masses. It is more than a problem of skillful propaganda technique. A successful ideology has got to seem to the masses, in however confused a way, actually to express some of their own interests.
 
@@ -221,7 +221,7 @@ Technocracy is another example of an American variant of the managerial ideologi
 
 But what about the bitter disputes among the various types of what I have stated are all managerial ideologies? How can these be explained if the ideologies are all “the same”? Are the disputes, thought so notorious, “unreal”? I wish to guard against possible misunderstanding. These disputes are not “unreal” and the ideologies are not “the same.” Such a contention would be ridiculous and easily disproved. What I am maintaining is simply this: Communism (Leninism-Stalinism), fascism-Nazism, and to a more-partial and less-developed extent, New Dealism and Technocracy, are all managerial ideologies. That is, in short: as ideologies they contribute through their propagation to the development of attitudes and patterns of response which are adverse to the continuance of capitalism and favorable to the development of managerial society, which are adverse to the continued social acceptance of the rule of the capitalists, and favorable to the social acceptance of the rule of the managers. The fact is, moreover, that they and ideologies similar to them are securing wide public acceptance throughout the world while capitalist ideologies are losing support; and that this support is much more intense than that given to the capitalist ideologies, making believers willing to sacrifice and die for managerial slogans while fewer and fewer are willing to sacrifice and die for capitalist slogans. This shift in public attitude is itself a very important symptom of the general breakup of capitalist society and the advance of managerial society.
 
-**THE RUSSIAN WAY**
+### THE RUSSIAN WAY
 
 The consequences of a mass revolution seldom coincide with the slogans and ideas under which it takes place. Capitalism was introduced or strengthened in many places in the world to the accompaniment of mass revolutions. I have never read or heard of such a revolution’s proclaiming in its slogans that its object was to introduce capitalism. There was, it is true, a certain relation between the slogans and what happened; they were, as we saw in the last chapter, slogans which tended to develop attitudes favorable to capitalist institutions and capitalist rule; but the relation is indirect. Similarly, an ostensibly socialist mass revolution does not at all have to lead to socialism.
 
@@ -229,11 +229,11 @@ The Russian way, the Russian pattern, may thus be summed up as follows: (1) Spee
 
 It is the business of a correct theory to clear up mysteries. If once we get away from ungrounded assumptions, unjustified predictions, if we stop mistaking ideologies for scientific hypotheses and recognize them for the expressions of social interest that they are, then we can get rid of bewilderment over Russia. Russia is not a mystery from the point of view of the theory of the managerial revolution. The Russian development, in broad outline, is exactly what may be expected from that theory and is a powerful confirmation of the theory. The Russian Revolution was not a socialist revolution—which, from all the evidence, cannot take place in our time—but a managerial revolution.
 
-**THE GERMAN WAY**
+### THE GERMAN WAY
 
 We find in Germany to an ever-increasing degree those structural changes which we have discovered to be characteristic of the shift from capitalism to managerial society. In the economic sphere, there is a steady reduction, in all senses, of the area of private enterprise, and a correlative increase of state intervention. This reduction toward impotence of the capitalists is accompanied by the rise of precisely the class which we found to be at the top in Russia: the managers, together with their bureaucratic and military colleagues. This is the class (in which some individual capitalists have found a place) that even today in Germany holds the largest share of control over the instruments of production, wields the effective power, and already is receiving the lion’s share of the privileges. In short, Germany is today a managerial state in an early stage. Structurally, it is less advanced along managerial lines than Russia; it retains as yet more capitalist elements.
 
-**THE FUTURE OF THE UNITED STATES**
+### THE FUTURE OF THE UNITED STATES
 
 The New Deal sprang from the inner structural drives of modern society, the forces that are operating to end capitalism and begin a new type of social organization, the same forces which at later stages and under different local circumstances produced the revolutions in Russia and Germany. The firmest representatives of the New Deal are not Roosevelt or the other conspicuous “New Deal politicians,” but the younger group of administrators, experts, technicians, bureaucrats who have been finding places throughout the state apparatus: not merely those who specialize in political technique, in writing up laws with concealed “jokers,” in handing Roosevelt a dramatic new idea, but also those who are doing the actual running of the extending government enterprises: in short, managers.
 
@@ -241,6 +241,6 @@ With the advent of the New Deal, the rate of those changes, to which we have so 
 
 The New Deal is a phase of the transition process from capitalism to managerial society. The further development of the war preparations, the economic world conflicts, and the wars, will prove in practice that success in none of them can be won along capitalist lines. When that proof is plain enough, the country will go over to definitive managerial structure.
 
-**OBJECTIONS**
+### OBJECTIONS
 
 It is perhaps worth remarking that there is an interesting piece of psychological evidence for the assured social position of the managers. The managers—these administrators, experts, directing engineers, production executives, propaganda specialists, technocrats—are the only social group among almost all of whose members we find an attitude of self-confidence. Bankers, capitalist owners, liberal politicians, workers, farmers, shopkeepers—all these display, in public and private, doubts and fears and worries and gloom. But no one who comes into contact with managers will fail to have noticed a very considerable assurance in their whole bearing. They know they are indispensable in modern society. Whether or not they have thought it out, they grasp the fact that they have nothing to fear from the immense social changes speeding forward over the whole world. When they begin to think, they get ready to welcome those changes, and often to help them along.

@@ -2,13 +2,12 @@
 date: 2017-04-22 19:03:32+00:00
 link: https://fluidself.org/books/psychology/your-brain-at-work
 slug: your-brain-at-work
-title: 'Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus,
-  and Working Smarter All Day Long - by David Rock'
+title: 'Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long - by David Rock'
 ---
 
-**PROBLEMS AND DECISIONS**
+## PROBLEMS AND DECISIONS
 
-**Surprises About the Brain**
+### Surprises About the Brain
 
 Conscious thinking involves deeply complex biological interactions in the brain among billions of neurons. Every time the brain works on an idea consciously, it uses up a measurable and limited resource. Some mental processes take up a lot more energy than others. The most important mental processes, such as prioritizing, often take the most effort.
 
@@ -22,7 +21,7 @@ Peak mental performance requires just the right level of stress, not minimal str
 
 It's astonishingly easy to get stuck on the same small set of solutions to a problem, called the impasse phenomenon. Resolving an impasse requires letting the brain idle, reducing activation of the wrong answers. Having insights involves hearing subtle signals and allowing loose connections to be made. This requires a quiet mind, with minimal electrical activity. Insights occur more frequently the more relaxed and happy you are. The right hemisphere, which involves the connections between information more than specific data, contributes strongly to insight.
 
-**Some Things to Try**
+### Some Things to Try
 
 - Think of conscious thinking as a precious resource to conserve. Prioritize prioritizing, as it's an energy-intensive activity. Save mental energy for prioritizing by avoiding other high-energy-consuming conscious activities such as dealing with emails. Schedule the most attention-rich tasks when you have a fresh and alert mind. Use the brain to interact with information rather than trying to store information, by creating visuals for complex ideas and by listing projects. Schedule blocks of time for different modes of thinking.
 
@@ -36,7 +35,7 @@ It's astonishingly easy to get stuck on the same small set of solutions to a pro
 
 - When you hit a mental wall, take the pressure off yourself, get an extension on your deadline, do something fun, reduce your anxiety any way you can. Take a break and do something light and interesting, to see if an answer emerges. Try quieting your mind and see what is there in the more subtle connections. Focus on the connections between information rather than drilling down into a problem; look at patterns and links from a high level rather than getting detailed. Simplify problems to their salient features; allow yourself to reflect from a high level, watch for the tickle of subtle connections preceding insight, and stop and focus on insights when they occur.
 
-**THE DIRECTOR**
+## THE DIRECTOR
 
 You can experience the world through your narrative circuitry, which will be useful for planning, goal-setting, and strategizing. You can also experience the world more directly, which enables more sensory information to be perceived. Experiencing the world through the direct-experience network allows you to get closer to the reality of any event. You perceive more information about events occurring around you, as well as more accurate information about these events. Noticing more real-time information makes you more flexible in how you respond to the world. You also become less imprisoned by the past, your habits, expectations or assumptions, and more able to respond to events as they unfold. Activating your director helps you perceive more sensory information. And here's where it gets more interesting. This sensory information includes information about your "self": information about your thoughts and feelings, emotions and internal states. When you activate the director, you also notice more about what is going on inside you. And one of the most useful things to notice is what is happening within your own brain as you try to get work done: your stage being too tired to function, your stage getting too full, your stage needing to wake up, or your stage needing to switch off to allow an insight to get through. These types of observations become easier to perceive when you can activate your director at will.
 
@@ -44,9 +43,9 @@ You can practice activating your director while you are eating, walking, talking
 
 Having a director close to the stage helps keep your actors in line. As your director notices your brain's quirks in real time, you get better at putting words to experiences, which makes you faster at identifying subtle patterns as they occur. This skill increases your ability to make subtle changes. As your mind makes changes in brain functioning in real time, you become more adaptive, responding in the most helpful way to every challenge that comes along.
 
-**STAY COOL UNDER PRESSURE**
+## STAY COOL UNDER PRESSURE
 
-**Surprises About the Brain**
+### Surprises About the Brain
 
 The brain has an overarching organizing principle to minimize danger (an away response) and maximize reward (a toward response). The limbic system can be aroused easily. The away response is stronger, faster, and longer lasting than the toward response. The away response can reduce cognitive resources, make it harder to think about your thinking, make you more defensive, and mistakenly class certain situations as threats. Once an emotion kicks in, trying to suppress it either doesn't work or makes it worse. Suppressing an emotion reduces your memory of events significantly. Suppressing an emotion makes other people feel uncomfortable. People incorrectly predict that labeling an emotion will make them feel worse. Labeling an emotion can reduce limbic system arousal. Labeling needs to be symbolic, not a long dialogue about an emotion, for it to reduce arousal.
 
@@ -54,7 +53,7 @@ Certainty is a primary reward or threat for the brain. Autonomy, the feeling of 
 
 Expectations are the experience of the brain paying attention to a possible reward (or threat). Expectations alter the data your brain perceives. It's common to fit incoming data into expectations and to ignore data that don't fit. Expectations can change brain functioning; the right dose of expectations can be similar to a clinical dose of morphine. Expectations activate the dopamine circuitry, central for thinking and learning. Met expectations generate a slight increase in dopamine, and a slight reward response. Exceeded expectations generate a strong increase in dopamine, and a strong reward response. Unmet expectations generate a large drop in dopamine level, and a strong threat response. The dynamic between expectations altering experience and impacting dopamine levels, helps generate an upward or downward spiral in the brain. A general feeling of expecting good things generates a healthy level of dopamine, and may be the neurochemical marker of feeling happy.
 
-**Some Things to Try**
+### Some Things to Try
 
 - Use your director to observe your emotional state. Be conscious of things that may increase limbic system arousal and work out ways to reduce these, before the arousal kicks in. Practice noticing emotions as they arise, to get better at sensing their presence earlier. When you sense a strong emotion coming on, refocus your attention quickly on another stimulus, before the emotion takes over. Practice assigning words to emotional states to reduce arousal once it kicks in.
 
@@ -62,9 +61,9 @@ Expectations are the experience of the brain paying attention to a possible rewa
 
 - Practice noticing what your expectations are in any given situation. Practice setting expectations a little lower. To stay in a positive state of mind, find ways to keep coming out ahead of your expectations over and again, even in small ways. When a positive expectation is not being met, practice reappraising the situation by remembering it's your brain doing something odd with dopamine.
 
-**COLLABORATE WITH OTHERS**
+## COLLABORATE WITH OTHERS
 
-**Surprises About the Brain**
+### Surprises About the Brain
 
 Social connections are a primary need, as important as food and water at times. We know one another directly through experiencing other people's states ourselves. Safe connections with others are vital for health, and for healthy collaboration. People are classed as friend or foe quickly, with foe as the default in the absence of positive cues. You need to work hard at creating connections to create good collaboration.
 
@@ -72,7 +71,7 @@ A sense of fairness can be a primary reward. A sense of unfairness can be a prim
 
 Status is a significant driver of behavior at work and across life experiences. A sense of status going up, even in a small way, activates your reward circuits. A sense of status going down activates your threat circuitry. Just speaking to your boss or a person of higher status generally activates a status threat. People pay a lot of attention to protecting and building their status, probably more to this than any other element of the SCARF model, at least in organizations. There is no one fixed status scale; there are virtually infinite ways of feeling better than others. When everyone is trying to be higher status than others there is a decrease in relatedness. Because we perceive ourselves using the same circuits we use when perceiving others, you can trick your brain into a status reward by playing against yourself. Playing against yourself increases your status without threatening others. Status is one of five major social domains that are all either primary rewards or threats, which form the SCARF model for Status, Certainty, Autonomy, Relatedness and Fairness.
 
-**Some Things to Try**
+### Some Things to Try
 
 - Anytime you meet someone new, make an effort to connect on a human level as early as possible to reduce the threat response. Become friends with people you work with by sharing personal experiences. Actively encourage people around you to connect on a human level to create better collaboration.
 
@@ -80,15 +79,15 @@ Status is a significant driver of behavior at work and across life experiences. 
 
 - Watch out for people's status being threatened. Reduce status threats in others by lowering your status through sharing your own humanity or mistakes. Reduce status threats in others by giving people positive feedback. Find ways to play against yourself, and pay a lot of attention to any incremental improvements. The slightest feeling of improvement can generate a pleasant and helpful reward. Playing against yourself to improve your understanding of your own brain can be a powerful way of increasing your performance.
 
-**FACILITATE CHANGE**
+## FACILITATE CHANGE
 
-**Surprises About the Brain**
+### Surprises About the Brain
 
 Giving feedback often creates an intense threat response that doesn't help people improve performance. The problem-solving approach may not be the most effective pathway to solutions. Providing suggestions often results in a lot of wasted time. Bringing people to their own insights is a fast way of getting people back on track.
 
 While human change appears hard, change in the brain is constant. Focused attention changes the brain. Attention goes all too easily to the threat. Once you focus attention away from threat, you can create new connections with the right questions. Creating long-term change requires paying regular attention to deepen new circuits, especially when they are new.
 
-**Some Things to Try**
+### Some Things to Try
 
 - Catch yourself when you go to give feedback, problem solve, or provide solutions. Help people think about their own thinking by focusing them on their own subtle internal thoughts, without getting into too much detail. Find ways to make it valuable for people to give themselves feedback; reward them for activating their director.
 

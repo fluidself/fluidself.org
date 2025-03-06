@@ -5,9 +5,9 @@ slug: personal-development-for-smart-people
 title: Personal Development for Smart People - by Steve Pavlina
 ---
 
-**FUNDAMENTAL PRINCIPLES**
+## FUNDAMENTAL PRINCIPLES
 
-**TRUTH**
+### TRUTH
 
 Your first commitment must be to discover and accept new truths, no matter how difficult or unpleasant the consequences may be.
 
@@ -21,13 +21,13 @@ A simple rule of thumb is this: whatever you fear, you must eventually face.
 
 When you make decisions from a certain state of mind and act upon them, you reinforce that same state, thereby increasing the likelihood you'll respond similarly in the future. For example, if you act out of anger, you'll strengthen your mind's anger response. If you act out of kindness, you'll reinforce a kind response. The best point to make new choices is when you feel alert, clearheaded, and intelligent. That's the time to consider making big transformations in your life such as a career change, a relationship change, or moving to a new city. Learn to trust those higher states of consciousness. Put the decisions in writing and fully commit yourself to them. When you inevitably sink back down to lower states and lose sight of that higher perspective, continue to act on those decisions even though you may no longer feel as committed to them. Over time, your external circumstances will change in ways that reinforce those higher states. Living consciously gets easier with practice.
 
-**How to Become More Truthful**
+### How to Become More Truthful
 
 - **Journaling.** The real power of journaling lies in its ability to help you move beyond sequential thinking and examine your thoughts from a holistic, bird's-eye view. Use this tool to solve tricky problems, brainstorm new ideas, bring clarity to fuzzy situations, and evaluate progress toward your goals. Instead of a mere record-keeping tool, your journal can vastly accelerate your personal development if you devote it to that purpose.
 
 - **Media Fasting.** For 30 days straight, keep the television turned off and avoid all newspapers, magazines, and online media sources.
 
-**LOVE**
+### LOVE
 
 One of the fundamental choices you face in every encounter is the choice to approach or avoid. You can try to connect with people, or you can pull away from them. You can immerse yourself in your day's work, or you can procrastinate. You can approach any person, place, or thing with the intention to connect, or you can remain aloof and keep your distance. The decision to connect is the essence of love.
 
@@ -35,7 +35,7 @@ A belief in separation becomes a self-fulfilling prophecy. There's no rule cast 
 
 You're a worthy human being. When you hold back from connecting due to fear of rejection, you rob other people of the chance to get to know you.
 
-**How to Connect More Deeply**
+### How to Connect More Deeply
 
 - **Sharing.** Share a conversation. Share experiences. Share stories. Share laughs. Share a meal. Share a game. Share yourself. Life is filled with opportunities to share interesting moments with people. Don't be afraid to take the initiative.
 
@@ -43,7 +43,7 @@ You're a worthy human being. When you hold back from connecting due to fear of r
 
 - **Gratitude.** Sometimes it's easiest to tap into these feelings by imagining what your life would be like without him or her. What would you miss if this person was gone from your life forever? Pay attention to whatever thoughts arise as you consider this question.
 
-**POWER**
+### POWER
 
 If you want different results, you must go out and create them yourself. Accepting full responsibility for your life means being willing to do what's necessary to create the outcome you want. You must be willing to pay the price to meet your needs and fulfill your desires. You must actively make your life happen instead of passively letting it play out.
 
@@ -53,7 +53,7 @@ The point of **goal setting** is to improve the quality of your present-moment r
 
 Motivation is highest when you're already in motion. When you stop moving, your motivation naturally declines. If you can summon just enough discipline to get going again, you'll often find that your momentum reboots your natural motivation to continue. It requires a lot of power to go from a state of rest to a state of action, but once you're moving, it's easier to keep going.
 
-**How to Build Your Power**
+### How to Build Your Power
 
 - **Progressive Training.** You must tackle challenges that are within your current ability to handle but which are close to your limit.
 
@@ -67,19 +67,19 @@ Motivation is highest when you're already in motion. When you stop moving, your 
 
 - **Rest.** Use cycles of exertion and relaxation to lift yourself up to higher levels of performance. Once you've successfully completed a challenge, rest for a while before tackling the next one. Stretch. Go for a walk. Take a short nap. Give yourself a chance to relax and recuperate. If you've been feeling burned out and unmotivated for several days in a row, you're pushing yourself too hard. Get away from your work for at least a couple days. Take a vacation.
 
-**ONENESS**
+### ONENESS
 
 Love is choosing to connect. Oneness is knowing you're already connected. Oneness has no specific target; it's an omnidirectional feeling of connection to everyone and everything at the same time. Oneness is pure unconditional love.
 
-**How to Experience Oneness**
+### How to Experience Oneness
 
 - **Spend Time in Nature.** Quiet your thoughts and pay as much attention to your senses as possible.
 
 - **Physical Contact.**
 
-**AUTHORITY**
+### AUTHORITY
 
-**How to Increase Your Authority**
+### How to Increase Your Authority
 
 - **Orchestrate Small Rebellions.** A small rebellion is an act of free will with minimal negative consequences. You're simply asserting your independence, allowing others to react however they wish. Your assignment is simply to break the unwritten rules of social conformity, rules you aren't required to obey but which you've been blindly following.
 
@@ -87,7 +87,7 @@ Love is choosing to connect. Oneness is knowing you're already connected. Onenes
 
 - **Teach.** Teach someone else how to perform a task you're very good at.
 
-**COURAGE**
+### COURAGE
 
 Courage is the application of power to break through short-term challenges in order to achieve long-term goals.
 
@@ -97,7 +97,7 @@ If you want something, ask for it. Accept the risk of rejection, and summon the 
 
 When you feel lazy and unmotivated, the simple reason is that you're feeling disconnected. You've fallen out of alignment with truth, love, and power. When you recognize that you're in this state, stop and reconnect with the real you. Remember who you are. Reconnect with what excites you. Turn your gaze within and ask yourself: Where is the path with a heart, and what can I do to honor that path right now? Whatever answer you come up with, summon the courage to take immediate action.
 
-**How to Build Courage**
+### How to Build Courage
 
 - **Progressive Training.** Instead of tackling your biggest fear right away, confront your smallest fears first, and progressively work up to more significant acts of courage. First, select a fear you'd like to overcome. It's okay if it's too big for you to tackle right away. Now see if you can identify one small step you could take to confront that fear, something that would be a fairly mild challenge for you but that would still trigger some trepidation.
 
@@ -105,13 +105,13 @@ When you feel lazy and unmotivated, the simple reason is that you're feeling dis
 
 - **Do one thing today that scares you.**
 
-**GROWTH BLITZING**
+### GROWTH BLITZING
 
 For each of the seven principles, set a specific growth target. Decide to make a small improvement in each area. Write a fresh list of goals for every area of your life. Use the chapter titles from Part II of this book as your guide. Set aside at least one hour to work on your single most important project. Refuse to do anything else until the time has elapsed. For a more challenging version, make it three or four hours.
 
-**PRACTICAL APPLICATION**
+## PRACTICAL APPLICATION
 
-**HABITS**
+### HABITS
 
 Make a habit of intentionally reaching out and connecting with others. Break the limiting pattern of trying to do everything solo. Join a club or attend social events just for the experience of connecting with new people and expanding your social network.
 
@@ -141,7 +141,7 @@ Instead of living in an isolated cocoon, make a habit of contributing to others.
 
 - **Valor.** Identify the item on your task list that scares you the most. Muster all the courage you can and tackle it immediately.
 
-**CAREER & MONEY**
+### CAREER & MONEY
 
 Ask yourself: Would anyone be deeply saddened if I stopped contributing? Would anyone cry if I went out of business? If the answer is no, it's a safe bet you're on the wrong path.
 
@@ -149,11 +149,11 @@ Often the simplest way to create value for others is by sharing what you love to
 
 It's intelligent to give more than you receive, since this is precisely what generates growth. Push harder on the service side, and you'll soon find people lining up to pay you.
 
-**HEALTH**
+### HEALTH
 
 I've had great success using 30-day trials for physical experimentation. Keep a log to record your results, at least weekly if not daily. Your logs may prove extremely useful to you down the road, perhaps even years later, so be as honest as you can in your reporting. Consider sharing your records publicly, such as via a blog. This allows others to learn from your experiences as well.
 
-**RELATIONSHIPS**
+### RELATIONSHIPS
 
 What mix of truth, love, and power do you use to connect with others? Realize that your weakest channel will be the source of many of your communication problems. You can actually achieve significant growth in your relationships by learning to use your weakest channel when communicating in addition to your strengths.
 
@@ -167,7 +167,7 @@ If you want to bring new relationships into your life, don't wait for others to 
 
 One of the best things you can do to attract new people into your life is to focus on your own creative self-expression. By expressing yourself authentically, you draw others to you, making it easier to form compatible new relationships.
 
-**SPIRITUALITY**
+### SPIRITUALITY
 
 By learning to consider reality from multiple perspectives, you'll overcome many of the limitations of individual belief systems. You'll gradually shed false beliefs that distort your perceptions, you'll fill in gaps in your understanding, and you'll come into greater alignment with truth. I see my beliefs as a toolbox of lenses to choose from; they're an extension of my senses. When working on my computer, I'll pay attention to what my eyes are seeing. When talking on the phone, I'll shift my attention to listening with my ears. When I'm doing my taxes, I might adopt a very earthy, atheistic perspective. When I'm discussing the life of Jesus with someone, I'll consider reality through a Christian lens. When I meditate, I might adopt a Buddhist or New Age philosophy. I select each lens based on how empowering it is for me in the moment.
 

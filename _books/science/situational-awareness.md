@@ -5,7 +5,7 @@ slug: situational-awareness
 title: 'Situational Awareness - by Leopold Aschenbrenner'
 ---
 
-**From GPT-4 to AGI: Counting the OOMs**
+### From GPT-4 to AGI: Counting the OOMs
 
 **AGI by 2027 is strikingly plausible. GPT-2 to GPT-4 took us from ~preschooler to ~smart high-schooler abilities in 4 years. Tracing trendlines in compute (~0.5 orders of magnitude or OOMs/year), algorithmic efficiencies (~0.5 OOMs/year), and “unhobbling” gains (from chatbot to agent), we should expect another preschooler-to-high-schooler-sized qualitative jump by 2027.**
 
@@ -33,7 +33,7 @@ By the end of this, I expect us to get something that looks a lot like a drop-in
 
 We are on course for AGI by 2027. These AI systems will basically be able to automate basically all cognitive jobs (think: all jobs that could be done remotely). To be clear—the error bars are large. Progress could stall as we run out of data, if the algorithmic breakthroughs necessary to crash through the data wall prove harder than expected. Maybe unhobbling doesn’t go as far, and we are stuck with merely expert chatbots, rather than expert coworkers. Perhaps the decade-long trendlines break, or scaling deep learning hits a wall for real this time. (Or an algorithmic breakthrough, even simple unhobbling that unleashes the test-time compute overhang, could be a paradigm-shift, accelerating things further and leading to AGI even earlier.) In any case, we are racing through the OOMs, and it requires no esoteric beliefs, merely trend extrapolation of straight lines, to take the possibility of AGI—true AGI—by 2027 extremely seriously.
 
-**From AGI to Superintelligence: the Intelligence Explosion**
+### From AGI to Superintelligence: the Intelligence Explosion
 
 **AI progress won’t stop at human-level. Hundreds of millions of AGIs could automate AI research, compressing a decade of algorithmic progress (5+ OOMs) into 1 year. We would rapidly go from human-level to vastly superhuman AI systems. The power—and the peril—of superintelligence would be dramatic.**
 
@@ -49,9 +49,9 @@ How all of this plays out over the 2030s is hard to predict (and a story for ano
 
 The intelligence explosion and the immediate post-superintelligence period will be one of the most volatile, tense, dangerous, and wildest periods ever in human history. And by the end of the decade, we’ll likely be in the midst of it.
 
-**The Challenges**
+## The Challenges
 
-**Racing to the Trillion-Dollar Cluster**
+### Racing to the Trillion-Dollar Cluster
 
 **The most extraordinary techno-capital acceleration has been set in motion. As AI revenue grows rapidly, many trillions of dollars will go into GPU, datacenter, and power buildout before the end of the decade. The industrial mobilization, including growing US electricity production by 10s of percent, will be intense.**
 
@@ -59,7 +59,7 @@ The scale of investment postulated here may seem fantastical. But both the deman
 
 Before the decade is out, many trillions of dollars of compute clusters will have been built. The only question is whether they will be built in America. Some are rumored to be betting on building them elsewhere, especially in the Middle East. Do we really want the infrastructure for the Manhattan Project to be controlled by some capricious Middle Eastern dictatorship? The clusters that are being planned today may well be the clusters AGI and superintelligence are trained and run on, not just the “cool-big-tech-product clusters.” The national interest demands that these are built in America (or close democratic allies). Anything else creates an irreversible security risk: it risks the AGI weights getting stolen (and perhaps be shipped to China); it risks these dictatorships physically seizing the datacenters (to build and run AGI themselves) when the AGI race gets hot; or even if these threats are only wielded implicity, it puts AGI and superintelligence at unsavory dictator’s whims. America sorely regretted her energy dependence on the Middle East in the 70s, and we worked so hard to get out from under their thumbs. We cannot make the same mistake again.
 
-**Lock Down the Labs: Security for AGI**
+### Lock Down the Labs: Security for AGI
 
 **The nation’s leading AI labs treat security as an afterthought. Currently, they’re basically handing the key secrets for AGI to the CCP on a silver platter. Securing the AGI secrets and weights against the state-actor threat will be an immense effort, and we’re not on track.**
 
@@ -73,7 +73,7 @@ Once China begins to truly understand the import of AGI, we should expect the fu
 
 We’re developing the most powerful weapon mankind has ever created. The algorithmic secrets we are developing, right now, are literally the nation’s most important national defense secrets—the secrets that will be at the foundation of the US and her allies’ economic and military predominance by the end of the decade, the secrets that will determine whether we have the requisite lead to get AI safety right, the secrets that will determine the outcome of WWIII, the secrets that will determine the future of the free world. And yet AI lab security is probably worse than a random defense contractor making bolts. It’s madness. Basically nothing else we do—on national competition, and on AI safety—will matter if we don’t fix this, soon.
 
-**Superalignment**
+### Superalignment
 
 **Reliably controlling AI systems much smarter than we are is an unsolved technical problem. And while it is a solvable problem, things could very easily go off the rails during a rapid intelligence explosion. Managing this will be extremely tense; failure could easily be catastrophic.**
 
@@ -91,19 +91,19 @@ I think we can harvest wins across a number of empirical bets, which I’ll desc
 
 Here are some of the main research bets I see for crossing the gap between human-level and somewhat-superhuman systems.
 
-**Evaluation is easier than generation.** We get some of the way “for free,” because it’s easier for us to evaluate outputs (especially for egregious misbehaviors) than it is to generate them ourselves.
+- **Evaluation is easier than generation.** We get some of the way “for free,” because it’s easier for us to evaluate outputs (especially for egregious misbehaviors) than it is to generate them ourselves.
 
-**Scalable oversight.** We can use AI assistants to help humans supervise other AI systems—the human-AI team being able to extend supervision farther than the human could alone.
+- **Scalable oversight.** We can use AI assistants to help humans supervise other AI systems—the human-AI team being able to extend supervision farther than the human could alone.
 
-**Generalization.** Even with scalable oversight, we won’t be able to supervise AI systems on really hard problems, problems beyond human comprehension. However, we can study: how will the AI systems generalize from human supervision on easy problems (that we do understand and can supervise) to behave on the hard problems (that we can’t understand and can no longer supervise)?
+- **Generalization.** Even with scalable oversight, we won’t be able to supervise AI systems on really hard problems, problems beyond human comprehension. However, we can study: how will the AI systems generalize from human supervision on easy problems (that we do understand and can supervise) to behave on the hard problems (that we can’t understand and can no longer supervise)?
 
-**Interpretability.** One intuitively-attractive way we’d hope to verify and trust that our AI systems are aligned is if we could understand what they’re thinking! For example, if we’re worried that AI systems are deceiving us or conspiring against us, access to their internal reasoning should help us detect that.
+- **Interpretability.** One intuitively-attractive way we’d hope to verify and trust that our AI systems are aligned is if we could understand what they’re thinking! For example, if we’re worried that AI systems are deceiving us or conspiring against us, access to their internal reasoning should help us detect that.
 
-**Adversarial testing and measurements.** Along the way, it’s going to be critical to stress test the alignment of our systems at every step—our goal should be to encounter every failure mode in the lab before we encounter it in the wild. This will require substantially advancing techniques for automated red-teaming.
+- **Adversarial testing and measurements.** Along the way, it’s going to be critical to stress test the alignment of our systems at every step—our goal should be to encounter every failure mode in the lab before we encounter it in the wild. This will require substantially advancing techniques for automated red-teaming.
 
 The intelligence explosion will be more like running a war than launching a product. We’re not on track for superdefense, for an airgapped cluster or any of that; I’m not sure we would even realize if a model self-exfiltrated. We’re not on track for a sane chain of command to make any of these insanely high-stakes decisions, to insist on the very-high-confidence appropriate for superintelligence, to make the hard decisions to take extra time before launching the next training run to get safety right or dedicate a large majority of compute to alignment research, to recognize danger ahead and avert it rather than crashing right into it. Right now, no lab has demonstrated much of a willingness to make any costly tradeoffs to get safety right (we get lots of safety committees, yes, but those are pretty meaningless). By default, we’ll probably stumble into the intelligence explosion and have gone through a few OOMs before people even realize what we’ve gotten into. We’re counting way too much on luck here.
 
-**The Free World Must Prevail**
+### The Free World Must Prevail
 
 **Superintelligence will give a decisive economic and military advantage. China isn’t at all out of the game yet. In the race to AGI, the free world’s very survival will be at stake. Can we maintain our preeminence over the authoritarian powers? And will we manage to avoid self-destruction along the way?**
 
@@ -119,7 +119,7 @@ We are already on course for the most combustive international situation in deca
 
 There’s already an eerie convergence of AGI timelines (~2027?) and Taiwan watchers’ Taiwan invasion timelines (China ready to invade Taiwan by 2027?)—a convergence that will surely only heighten as the world wakes up to AGI. (Imagine if in 1960, the vast majority of the world’s uranium deposits were somehow concentrated in Berlin!) It seems to me that there is a real chance that the AGI endgame plays out with the backdrop of world war. Then all bets are off.
 
-**The Project**
+### The Project
 
 **As the race to AGI intensifies, the national security state will get involved. The USG will wake from its slumber, and by 27/28 we’ll get some form of government AGI project. No startup can handle superintelligence. Somewhere in a SCIF, the endgame will be on.**
 
@@ -139,7 +139,7 @@ Ultimately, my main claim here is descriptive: whether we like it or not, superi
 
 And so by 27/28, the endgame will be on. By 28/29 the intelligence explosion will be underway; by 2030, we will have summoned superintelligence, in all its power and might. Whoever they put in charge of The Project is going to have a hell of a task: to build AGI, and to build it fast; to put the American economy on wartime footing to make hundreds of millions of GPUs; to lock it all down, weed out the spies, and fend off all-out attacks by the CCP; to somehow manage a hundred million AGIs furiously automating AI research, making a decade’s leaps in a year, and soon producing AI systems vastly smarter than the smartest humans; to somehow keep things together enough that this doesn’t go off the rails and produce rogue superintelligence that tries to seize control from its human overseers; to use those superintelligences to develop whatever new technologies will be necessary to stabilize the situation and stay ahead of adversaries, rapidly remaking US forces to integrate those; all while navigating what will likely be the tensest international situation ever seen. They better be good, I’ll say that.
 
-**Parting Thoughts**
+### Parting Thoughts
 
 As I see it, the smartest people in the space have converged on a different perspective, a third way, one I will dub **AGI Realism**. The core tenets are simple:
 

@@ -5,7 +5,7 @@ slug: a-river-runs-through-it
 title: A River Runs Through It and Other Stories - by Norman Maclean
 ---
 
-My father was very sure about certain matters pertaining to the universe. To him, all good things--trout as well as eternal salvation--come by grace and grace comes by art and art does not come easy.
+My father was very sure about certain matters pertaining to the universe. To him, all good things—trout as well as eternal salvation—come by grace and grace comes by art and art does not come easy.
 
 Sunrise is the time to feel that you will be able to find out how to help somebody close to you who you think needs help even if he doesn't think so. At sunrise everything is luminous but not clear.
 
@@ -25,6 +25,6 @@ To one familiar with a subject, there is no trouble to find reasons for the oppo
 
 I suppose that an early stage in coming to hate someone is just running out of things to talk about.
 
-By the middle of that summer when I was seventeen I had yet to see myself become part of a story. I had as yet no notion that life every now and then becomes literature--not for long, of course, but long enough to be what we best remember, and often enough so that what we eventually come to mean by life are those moments when life, instead of going sideways, backwards, forward, or nowhere at all, lines out straight, tense and inevitable, with a complication, climax, and, given some luck, a purgation, as if life had been made and not happened.
+By the middle of that summer when I was seventeen I had yet to see myself become part of a story. I had as yet no notion that life every now and then becomes literature—not for long, of course, but long enough to be what we best remember, and often enough so that what we eventually come to mean by life are those moments when life, instead of going sideways, backwards, forward, or nowhere at all, lines out straight, tense and inevitable, with a complication, climax, and, given some luck, a purgation, as if life had been made and not happened.
 
-You just weren't a crew if you didn't "clean out the town" as your final act of the season. I don't know why, but it always happens if you're any good--and even if you're not much good--that when you work outside a town for a couple of months you get feeling a lot better than the town and very hostile toward it. The town doesn't even know about you, but you think and talk a lot about it.
+You just weren't a crew if you didn't "clean out the town" as your final act of the season. I don't know why, but it always happens if you're any good—and even if you're not much good—that when you work outside a town for a couple of months you get feeling a lot better than the town and very hostile toward it. The town doesn't even know about you, but you think and talk a lot about it.

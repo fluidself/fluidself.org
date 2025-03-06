@@ -5,7 +5,7 @@ slug: sources-of-power
 title: 'Sources of Power: How People Make Decisions - by Gary Klein'
 ---
 
-We have found that people draw on a large set of abilities that are sources of power. The conventional sources of power include deductive logical thinking, analysis of probabilities, and statistical methods. Yet the sources of power that are needed in natural settings are usually not analytical at all--the power of intuition, mental simulation, metaphor, and storytelling.
+We have found that people draw on a large set of abilities that are sources of power. The conventional sources of power include deductive logical thinking, analysis of probabilities, and statistical methods. Yet the sources of power that are needed in natural settings are usually not analytical at all—the power of intuition, mental simulation, metaphor, and storytelling.
 
 Features that help define a naturalistic decision-making setting are time pressure, high stakes, experienced decision makers, inadequate information (information that is missing, ambiguous, or erroneous), ill-defined goals, poorly defined procedures, cue learning, context (e.g., higher-level goals, stress), dynamic conditions, and team coordination.
 
@@ -17,11 +17,11 @@ _Satisficing_: selecting the first option that works. Satisficing is different f
 
 Before we did this study, we believed that novices impulsively jumped at the first option they could think of, whereas experts carefully deliberated about the merits of different courses of action. Now it seemed that it was the experts who could generate a single course of action, while novices needed to compare different approaches. There are times for deliberating about options. Usually these are times when experience is inadequate and logical thinking is a substitute for recognizing a situation as typical.
 
-**DEFINING THE RECOGNITION-PRIMED DECISION MODEL**
+### DEFINING THE RECOGNITION-PRIMED DECISION MODEL
 
 The recognition-primed decision (RPD) model fuses two processes: the way decision makers size up the situation to recognize which course of action makes sense, and the way they evaluate that course of action by imagining it.
 
-**Applications**
+### Applications
 
 - One application is to be skeptical of courses in formal methods of decision making. They are teaching methods people seldom use.
 
@@ -29,7 +29,7 @@ The recognition-primed decision (RPD) model fuses two processes: the way decisio
 
 - One final application involves training. The ideas set forth in this chapter imply that we do not make someone an expert through training in formal methods of analysis. Quite the contrary is true, in fact: we run the risk of slowing the development of skills. If the purpose is to train people in time-pressured decision making, we might require that the trainee make rapid responses rather than ponder all the implications. If we can present many situations an hour, several hours a day, for days or weeks, we should be able to improve the trainee's ability to detect familiar patterns. The design of the scenarios is critical, since the goal is to show many common cases to facilitate a recognition of typicality along with different types of rare cases so trainees will be prepared for these as well.
 
-**Key Points**
+### Key Points
 
 We can summarize the key features of the RPD model in comparison to the standard advice given to decision makers. The RPD model claims that with experienced decision makers:
 
@@ -47,19 +47,19 @@ We can summarize the key features of the RPD model in comparison to the standard
 
 - The emphasis is on being poised to act rather than being paralyzed until all the evaluations have been completed.
 
-**INTUITION**
+### INTUITION
 
 Intuition depends on the use of experience to recognize key patterns that indicate the dynamics of the situation. This is one basis for what we call intuition: recognizing things without knowing how we do the recognizing.
 
-**Applications**
+### Applications
 
 The part of intuition that involves pattern matching and recognition of familiar and typical cases can be trained. If you want people to size up situations quickly and accurately, you need to expand their experience base. One way is to arrange for a person to receive more difficult cases. Another approach is to develop a training program, perhaps with exercises and realistic scenarios, so the person has a chance to size up numerous situations very quickly. A good simulation can sometimes provide more training value than direct experience. A good simulation lets you stop the action, back up to see what went on, and cram many trials together so a person can develop a sense of typicality. Another training strategy is to compile stories of difficult cases and make these the training materials.
 
-**MENTAL SIMULATION**
+### MENTAL SIMULATION
 
 This is the premortem exercise: the use of mental simulation to find the flaws in a plan. Our exercise is to ask planners to imagine that it is months into the future and that their plan has been carried out. And it has failed. That is all they know; they have to explain why they think it failed. They have to look for the causes that would make them say, "Of course, it wasn't going to work, because ..." The idea is that they are breaking the emotional attachment to the plan's success by taking on the challenge of showing their creativity and competence by identifying likely sources of breakdown.
 
-**Key Points**
+### Key Points
 
 - Mental simulation lets us explain how events have moved from the past into the present.
 
@@ -77,13 +77,13 @@ This is the premortem exercise: the use of mental simulation to find the flaws i
 
 - There are methods for improving mental simulations, such as using crystal ball and premortem strategies and decision scenarios.
 
-**DECISION MAKING**
+### DECISION MAKING
 
-Even when decision makers are comparing options and trying to find the best one, they may not be using rational choice strategies such as assessing each option on a common set of criteria. The process may be more like running a mental simulation of each course of action and comparing the emotional reactions--the discomfort or worry or enthusiasm-that each option produces when it is imagined. De Groot's (1946) study of chess players shows this. The chess grand masters were trying to find the best move in a position, yet they were not comparing the options on a common set of criteria (e.g., center control, defensive security). They were using progressive deepening to imagine how the option would be developed, and forming a judgment and emotional reaction to these potential outcomes.
+Even when decision makers are comparing options and trying to find the best one, they may not be using rational choice strategies such as assessing each option on a common set of criteria. The process may be more like running a mental simulation of each course of action and comparing the emotional reactions—the discomfort or worry or enthusiasm-that each option produces when it is imagined. De Groot's (1946) study of chess players shows this. The chess grand masters were trying to find the best move in a position, yet they were not comparing the options on a common set of criteria (e.g., center control, defensive security). They were using progressive deepening to imagine how the option would be developed, and forming a judgment and emotional reaction to these potential outcomes.
 
 The standard advice for making better decisions is to identify all the relevant options, define all the important evaluation criteria, weight the importance of each evaluation criterion, evaluate each option on each criterion, tabulate the results, and select the winner. In one form or another, this paradigm finds its way into training programs the world over. Again and again, the message is repeated: careful analysis is good, incomplete analysis is bad. And again and again, the message is ignored; trainees listen dutifully, then go out of the classes and act on the first option they think of. The reasons are clear. First, the rigorous, analytical approach cannot be used in most natural settings. Second, the recognitional strategies that take advantage of experience are generally successful, not as a substitute for the analytical methods, but as an improvement on them. The analytical methods are not the ideal; they are the fallback for those without enough experience to know what to do.
 
-**Applications**
+### Applications
 
 - Consider which decisions are worth making. When options are very close together in value, we can call this a zone of indifference: the closer together the advantages and disadvantages of competing options, the harder it will be to make a decision but the less it will matter. For these situations, it is probably a waste of time to try to make the best decision. If we can sense that we are within this zone of indifference, we should make the choice any way we can and move on to other matters.
 
@@ -99,7 +99,7 @@ The standard advice for making better decisions is to identify all the relevant 
 
   - They enrich their experiences by reviewing prior experiences to derive new insights and lessons from mistakes.
 
-**EXPERTISE**
+### EXPERTISE
 
 There are many things experts can see that are invisible to everyone else:
 
@@ -121,7 +121,7 @@ There are many things experts can see that are invisible to everyone else:
 
 Experts perceive a situation as the patterns and relationships that grew out of the past and will grow into the future, not just the cues that exist at the moment. All these are perceived at the same time; all are part of their situation awareness.
 
-**Key Points**
+### Key Points
 
 - Experts can perceive things that are invisible to novices: fine discriminations, patterns, alternate perspectives, missing events, the past and the future, and the process of managing decision-making activities.
 
@@ -129,11 +129,11 @@ Experts perceive a situation as the patterns and relationships that grew out of 
 
 - Training to high-skill levels should emphasize perceptual skills, along with mastery of procedures.
 
-**Applications**
+### Applications
 
 The method we have found most powerful for eliciting knowledge is to use stories. If you ask experts what makes them so good, they are likely to give general answers that do not reveal much. But if you can get them to tell you about tough cases, nonroutine events where their skills made the difference, then you have a pathway into their perspective, into the way they are seeing the world. We call this the critical decision method, because it focuses attention on the key judgments and decisions that were made during the incident being described.
 
-**WORKING WITH OTHERS**
+### WORKING WITH OTHERS
 
 When you communicate intent, you are letting the other team members operate more independently and improvise as necessary. You are giving them a basis for reading your mind more accurately.
 
@@ -161,7 +161,7 @@ The next time you are in a group or take part in a team discussion, consider the
 
 Kenneth Tynan, the British essayist, producer, and playwright, described some advice he had been given. "Never take the anti-intellectual side in an argument. You'll find that most of the people who applaud you will be people you hate".
 
-**RATIONAL THINKING AND ANALYSIS**
+### RATIONAL THINKING AND ANALYSIS
 
 Rational comes from the Latin root ratio, which means "to reckon." To think by reckoning, or calculating, we need to do the following things:
 
@@ -173,7 +173,7 @@ Rational comes from the Latin root ratio, which means "to reckon." To think by r
 
 - Describe. All the analyses and representations should be open to public scrutiny.
 
-**Key Points**
+### Key Points
 
 - Rational analysis is a source of power with strengths and weaknesses.
 
@@ -195,7 +195,7 @@ Rational comes from the Latin root ratio, which means "to reckon." To think by r
 
 - Consistency is rarely ensured in natural settings.
 
-**DEALING WITH UNCERTAINTY**
+### DEALING WITH UNCERTAINTY
 
 Highly successful military commanders seem to appreciate the vagaries of chance and do not waste time worrying about details that will not matter. The inference we draw is that although uncertainty is and will be inevitable, it is possible to maintain effective decision making in the face of it.
 
@@ -215,13 +215,13 @@ Jim Shanteau (1992) has suggested that we will not build up real expertise when:
 
 Under these conditions, we should be cautious about assuming that experience translates into expertise. In these sorts of domains, experience would give us smooth routines, showing that we had been doing the job for a while. Yet our expertise might not go much beyond these surface routines; we would not have a chance to develop reliable expertise.
 
-**Applications**
+### Applications
 
 - One way to improve performance is to be more careful in considering alternate explanations and diagnoses for a situation. The _de minimus_ error may arise from using mental simulation to explain away cues that are early warnings of a problem. One exercise to correct this tendency is to use the crystal ball technique discussed earlier. The idea is that you can look at the situation, pretend that a crystal ball has shown that your explanation is wrong, and try to come up with a different explanation. Each time you stretch for a new explanation, you are likely to consider more factors, more nuances. This should reduce fixation on a single explanation. The crystal ball method is not well suited for time-pressured conditions. By practicing with it when we have the time, we may learn what it feels like to fixate on a hypothesis. This judgment may help us in situations of time pressure.The _de minimus_ explanation is not the same as confirmation bias. With the _de minimus_ explanation, the person is aware of disconfirming evidence and may even seek out such evidence but then explains it away. With the confirmation bias, the person chooses to seek confirming evidence that has little diagnostic value (it does not help distinguish between hypotheses) and does not try to obtain diagnostic evidence that might disconfirm the favored hypothesis.
 
 - A second application is to accept all errors as inevitable. In complex situations, no amount of effort is going to be able to prevent any errors.
 
-**Key Points**
+### Key Points
 
 - Decision biases do not seem to explain poor decisions.
 
@@ -231,7 +231,7 @@ Under these conditions, we should be cautious about assuming that experience tra
 
 - Experience does not translate directly into expertise if the domain is dynamic, feedback is inadequate, and the number and variety of experiences is too small.
 
-**CONCLUSIONS**
+### CONCLUSIONS
 
 - _Experience counts_.
 

@@ -5,7 +5,7 @@ slug: how-to-create-a-mind
 title: 'How to Create a Mind: The Secret of Human Thought Revealed - by Ray Kurzweil'
 ---
 
-**THOUGHT EXPERIMENTS ON THINKING**
+### THOUGHT EXPERIMENTS ON THINKING
 
 Our memories are sequential and in order. They can be accessed in the order that they are remembered. We are unable to directly reverse the sequence of a memory.
 
@@ -17,7 +17,7 @@ Our conscious experience of our perceptions is actually changed by our interpret
 
 Each of our routine procedures is remembered as an elaborate hierarchy of nested activities. The same type of hierarchy is involved in our ability to recognize objects and situations.
 
-**A MODEL OF THE NEOCORTEX: THE PATTERN RECOGNITION THEORY OF MIND**
+### A MODEL OF THE NEOCORTEX: THE PATTERN RECOGNITION THEORY OF MIND
 
 The neocortex is responsible for sensory perception, recognition of everything from visual objects to abstract concepts, controlling movement, reasoning from spatial orientation to rational thought, and language—basically, what we regard as “thinking.”
 
@@ -45,7 +45,7 @@ Learning and recognition take place simultaneously. We start learning immediatel
 
 One important point that applies to both our biological neocortex and attempts to emulate it is that it is difficult to learn too many conceptual levels simultaneously. We can essentially learn one or at most two conceptual levels at a time. Once that learning is relatively stable, we can go on to learn the next level. We may continue to fine-tune the learning in the lower levels, but our learning focus is on the next level of abstraction. This is true at both the beginning of life, as newborns struggle with basic shapes, and later in life, as we struggle to learn new subject matter, one level of complexity at a time. We find the same phenomenon in machine emulations of the neocortex. However, if they are presented increasingly abstract material one level at a time, machines are capable of learning just as humans do (although not yet with as many conceptual levels).
 
-**THE BIOLOGICAL NEOCORTEX**
+### THE BIOLOGICAL NEOCORTEX
 
 Once biological evolution stumbled on a neural mechanism capable of hierarchical learning, it found it to be immensely useful for evolution’s one objective, which is survival. The benefit of having a neocortex became acute when quickly changing circumstances favored rapid learning. Species of all kinds—plants and animals—can learn to adapt to changing circumstances over time, but without a neocortex they must use the process of genetic evolution. It can take a great many generations—thousands of years—for a species without a neocortex to learn significant new behaviors (or in the case of plants, other adaptation strategies). The salient survival advantage of the neocortex was that it could learn in a matter of days. If a species encounters dramatically changed circumstances and one member of that species invents or discovers or just stumbles upon (these three methods all being variations of innovation) a way to adapt to that change, other individuals will notice, learn, and copy that method, and it will quickly spread virally to the entire population.
 
@@ -55,7 +55,7 @@ Signals go up and down the conceptual hierarchy. A signal going up means, “I�
 
 There is one more piece of corroborating evidence. The techniques that we have evolved over the past several decades in the field of artificial intelligence to recognize and intelligently process real-world phenomena (such as human speech and written language) and to understand natural-language documents turn out to be mathematically similar to the model I have presented above. They are also examples of the PRTM. The AI field was not explicitly trying to copy the brain, but it nonetheless arrived at essentially equivalent techniques.
 
-**THE OLD BRAIN**
+### THE OLD BRAIN
 
 Our old brain—the one we had before we were mammals—has not disappeared. Indeed it still provides much of our motivation in seeking gratification and avoiding danger. These goals are modulated, however, by our neocortex, which dominates the human brain in both mass and activity.
 
@@ -63,7 +63,7 @@ If the neocortex is good at solving problems, then what is the main problem we a
 
 It is fair to say that our emotional experiences take place in both the old and the new brains. Thinking takes place in the new brain (the neocortex), but feeling takes place in both. Any emulation of human behavior will therefore need to model both. However, if it is just human cognitive intelligence that we are after, the neocortex is sufficient. We can replace the old brain with the more direct motivation of a nonbiological neocortex to achieve the goals that we assign to it.
 
-**TRANSCENDENT ABILITIES**
+### TRANSCENDENT ABILITIES
 
 Our emotional thoughts also take place in the neocortex but are influenced by portions of the brain ranging from ancient brain regions such as the amygdala to some evolutionarily recent brain structures such as the spindle neurons, which appear to play a key role in higher-level emotions. Unlike the regular and logical recursive structures found in the cerebral cortex, the spindle neurons have highly irregular shapes and connections. They are the largest neurons in the human brain, spanning its entire breadth. They are deeply interconnected, with hundreds of thousands of connections tying together diverse portions of the neocortex.
 
@@ -75,7 +75,7 @@ Whether we access such expanded intelligence through direct neural connection or
 
 From an evolutionary perspective, love itself exists to meet the needs of the neocortex. If we didn’t have a neocortex, then lust would be quite sufficient to guarantee reproduction. The ecstatic instigation of love leads to attachment and mature love, and results in a lasting bond. This in turn is designed to provide at least the possibility of a stable environment for children while their own neocortices undergo the critical learning needed to become responsible and capable adults. Learning in a rich environment is inherently part of the method of the neocortex.
 
-**THE BIOLOGICALLY INSPIRED DIGITAL NEOCORTEX**
+### THE BIOLOGICALLY INSPIRED DIGITAL NEOCORTEX
 
 To appreciate the significance of the evolution of the neocortex, consider that it greatly sped up the process of learning (hierarchical knowledge) from thousands of years to months (or less). Even if millions of animals in a particular mammalian species failed to solve a problem (requiring a hierarchy of steps), it required only one to accidentally stumble upon a solution. That new method would then be copied and spread exponentially through the population. We are now in a position to speed up the learning process by a factor of thousands or millions once again by migrating from biological to nonbiological intelligence. Once a digital neocortex learns a skill, it can transfer that know-how in minutes or even seconds.
 
@@ -87,7 +87,7 @@ It is amusing and ironic when observers criticize Watson for just doing statisti
 
 It is my view that self-organizing methods such as I articulated in the pattern recognition theory of mind are needed to understand the elaborate and often ambiguous hierarchies we encounter in real-world phenomena, including human language. An ideal combination for a robustly intelligent system would be to combine hierarchical intelligence based on the PRTM (which I contend is how the human brain works) with precise codification of scientific knowledge and data. That essentially describes a human with a computer. We will enhance both poles of intelligence in the years ahead. With regard to our biological intelligence, although our neocortex has significant plasticity, its basic architecture is limited by its physical constraints. Putting additional neocortex into our foreheads was an important evolutionary innovation, but we cannot now easily expand the size of our frontal lobes by a factor of a thousand, or even by 10 percent. That is, we cannot do so biologically, but that is exactly what we will do technologically.
 
-**THE MIND AS COMPUTER**
+### THE MIND AS COMPUTER
 
 The issue of whether or not the computer and the human brain are at some level equivalent remains controversial today. In the introduction I mentioned that there were millions of links for quotations on the complexity of the human brain. Similarly, a Google inquiry for “Quotations: the brain is not a computer” also returns millions of links. In my view, statements along these lines are akin to saying, “Applesauce is not an apple.” Technically that statement is true, but you can make applesauce from an apple. Perhaps more to the point, it is like saying, “Computers are not word processors.” It is true that a computer and a word processor exist at different conceptual levels, but a computer can become a word processor if it is running word processing software and not otherwise. Similarly, a computer can become a brain if it is running brain software.
 
@@ -103,7 +103,7 @@ The speed of neural processing is extremely slow, on the order of a hundred calc
 
 Von Neumann’s fundamental insight was that there is an essential equivalence between a computer and the brain. Note that the emotional intelligence of a biological human is part of its intelligence. If von Neumann’s insight is correct, and if one accepts my own leap of faith that a nonbiological entity that convincingly re-creates the intelligence (emotional and otherwise) of a biological human is conscious, then one would have to conclude that there is an essential equivalence between a computer—with the right software—and a (conscious) mind.
 
-**THOUGHT EXPERIMENTS ON THE MIND**
+### THOUGHT EXPERIMENTS ON THE MIND
 
 Where consciousness is concerned, the guiding principle is “you gotta have faith”—that is, we each need a leap of faith as to what and who is conscious, and who and what we are as conscious beings. Otherwise we could not get up in the morning. But we should be honest about the fundamental need for a leap of faith in this matter and self-reflective as to what our own particular leap involves. People have very different leaps, despite impressions to the contrary. Individual philosophical assumptions about the nature and source of consciousness underlie disagreements on issues ranging from animal rights to abortion, and will result in even more contentious future conflicts over machine rights. My objective prediction is that machines in the future will appear to be conscious and that they will be convincing to biological people when they speak of their qualia. They will exhibit the full range of subtle, familiar emotional cues; they will make us laugh and cry; and they will get mad at us if we say that we don’t believe that they are conscious. (They will be very smart, so we won’t want that to happen.) We will come to accept that they are conscious persons. My own leap of faith is this: Once machines do succeed in being convincing when they speak of their qualia and conscious experiences, they will indeed constitute conscious persons. I have come to my position via this thought experiment: Imagine that you meet an entity in the future (a robot or an avatar) that is completely convincing in her emotional reactions. She laughs convincingly at your jokes, and in turn makes you laugh and cry (but not just by pinching you). She convinces you of her sincerity when she speaks of her fears and longings. In every way, she seems conscious. She seems, in fact, like a person. Would you accept her as a conscious person? If your initial reaction is that you would likely detect some way in which she betrays her nonbiological nature, then you are not keeping to the assumptions in this hypothetical situation, which established that she is fully convincing. Given that assumption, if she were threatened with destruction and responded, as a human would, with terror, would you react in the same empathetic way that you would if you witnessed such a scene involving a human? For myself, the answer is yes, and I believe the answer would be the same for most if not virtually all other people regardless of what they might assert now in a philosophical debate. Again, the emphasis here is on the word “convincing.”
 
@@ -139,7 +139,7 @@ Are you the same person you were a few months ago? Certainly there are some diff
 
 What I believe will actually happen is that we will continue on the path of the gradual replacement and augmentation scenario until ultimately most of our thinking will be in the cloud. My leap of faith on identity is that identity is preserved through continuity of the pattern of information that makes us us. Continuity does allow for continual change, so whereas I am somewhat different than I was yesterday, I nonetheless have the same identity. However, the continuity of the pattern that constitutes my identity is not substrate-dependent. Biological substrates are wonderful—they have gotten us very far—but we are creating a more capable and durable substrate for very good reasons.
 
-**OBJECTIONS**
+### OBJECTIONS
 
 My core thesis, which I call the law of accelerating returns (LOAR), is that fundamental measures of information technology follow predictable and exponential trajectories, belying the conventional wisdom that “you can’t predict the future.” There are still many things—which project, company, or technical standard will prevail in the marketplace, when peace will come to the Middle East—that remain unknowable, but the underlying price/performance and capacity of information has nonetheless proven to be remarkably predictable. Surprisingly, these trends are unperturbed by conditions such as war or peace and prosperity or recession.
 
@@ -149,7 +149,7 @@ The way that the massively redundant structures in the brain differentiate is th
 
 It appears to me that many critics will not be satisfied until computers routinely pass the Turing test, but even that threshold will not be clear-cut. Undoubtedly, there will be controversy as to whether claimed Turing tests that have been administered are valid. Indeed, I will probably be among those critics disparaging early claims along these lines. By the time the arguments about the validity of a computer passing the Turing test do settle down, computers will have long since surpassed unenhanced human intelligence. My emphasis here is on the word “unenhanced,” because enhancement is precisely the reason that we are creating these “mind children,” as Hans Moravec calls them. Combining human-level pattern recognition with the inherent speed and accuracy of computers will result in very powerful abilities. But this is not an alien invasion of intelligent machines from Mars—we are creating these tools to make ourselves smarter. I believe that most observers will agree with me that this is what is unique about the human species: We build these tools to extend our own reach.
 
-**EPILOGUE**
+### EPILOGUE
 
 British mathematician Irvin J. Good, a colleague of Alan Turing’s, wrote in 1965 that “the first ultraintelligent machine is the last invention that man need ever make.” He defined such a machine as one that could surpass the “intellectual activities of any man however clever” and concluded that “since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an ‘intelligence explosion.’” The last invention that biological evolution needed to make—the neocortex—is inevitably leading to the last invention that humanity needs to make—truly intelligent machines—and the design of one is inspiring the other. Biological evolution is continuing but technological evolution is moving a million times faster than the former. According to the law of accelerating returns, by the end of this century we will be able to create computation at the limits of what is possible, based on the laws of physics as applied to computation. We call matter and energy organized in this way “computronium,” which is vastly more powerful pound per pound than the human brain. It will not just be raw computation but will be infused with intelligent algorithms constituting all of human-machine knowledge. Over time we will convert much of the mass and energy in our tiny corner of the galaxy that is suitable for this purpose to computronium. Then, to keep the law of accelerating returns going, we will need to spread out to the rest of the galaxy and universe.
 

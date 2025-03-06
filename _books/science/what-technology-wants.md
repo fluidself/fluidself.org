@@ -17,7 +17,7 @@ The technium wants what we design it to want and what we try to direct it to do.
 
 The technium is now as great a force in our world as nature, and our response to the technium should be similar to our response to nature. We can’t demand that technology obey us any more than we can demand that life obey us. Sometimes we should surrender to its lead and bask in its abundance, and sometimes we should try to bend its natural course to meet our own. We don’t have to do everything that the technium demands, but we can learn to work with this force rather than against it.
 
-**PART ONE ORIGINS**
+## PART ONE: ORIGINS
 
 The ability of Sapiens to rapidly improve their tools allowed them to adapt to new ecological niches at a much faster rate than genetic evolution could ever allow.
 
@@ -41,7 +41,7 @@ Incremental transformation is the rule in biology. There are very few revolution
 
 By far the greatest difference between the evolution of the born and the evolution of the made is that species of technology, unlike species in biology, almost never go extinct. A close examination of a supposedly extinct bygone technology almost always shows that somewhere on the planet someone is still producing it.
 
-**The Rise of Exotropy**
+### The Rise of Exotropy
 
 Entropy is the crisp scientific name for waste, chaos, and disorder. As far as we know, the sole law of physics with no known exceptions anywhere in the universe is this: All creation is headed to the basement. Everything in the universe is steadily sliding down the slope toward the supreme equality of wasted heat and maximum entropy. We see the slope all around us in many ways. Because of entropy, fast-moving things slow down, order fizzles into chaos, and it costs something for any type of difference or individuality to remain unique. Each difference—whether of speed, structure, or behavior—becomes less different very quickly because every action leaks energy down the tilt. Difference within the universe is not free. It has to be maintained against the grain. The effort to maintain difference against the pull of entropy creates the spectacle of nature.
 
@@ -51,9 +51,9 @@ Exotropy, in this tale, is far more uplifting than simply the subtraction of cha
 
 There is yet one more version of the technium’s cosmic story. We can view the long-term trajectory of exotropy as an escape from the material and a transcendence into the immaterial. In the early universe, only the laws of physics reigned. The rules of chemistry, momentum, torque, electrostatic charges, and other such reversible forces of physics were all that mattered. There was no other game. The ironclad constraints of the material world birthed only extremely simple mechanical forms—rocks, ice, gas clouds. But the expansion of space, with its corresponding increase in potential energy, introduced new immaterial vectors into the world: information, exotropy, and self-organization. These new organizational possibilities (like a living cell) did not contradict the rules of chemistry and physics but flowed from them. It is not as if life and mind were simply embedded in the nature of matter and energy; but rather, life and mind emerged out of the constraints to transcend them.
 
-**PART TWO IMPERATIVES**
+## PART TWO: IMPERATIVES
 
-**Deep Progress**
+### Deep Progress
 
 The world does not need to be perfectly utopian to see progress. Some portion of our actions, such as war, are destructive. A bunch of what we produce is crap. Maybe nearly half of what we do. But if we create only 1 percent or 2 percent (or even one-tenth of 1 percent) more positive stuff than we destroy, then we have progress. This differential could be so small as to be almost imperceptible, and this may be why progress is not universally acknowledged. When measured against the large-scale imperfections of our society, 1 percent better seems trivial. Yet this tiny, slim, shy discrepancy generates progress when compounded by the ratchet of culture. Over time a few percent “not much better” accumulates into civilization. But is there really even 1 percent annual betterment over the long term? I think there are five pools of evidence for this trend. One is the long-term rise in longevity, education, health, and wealth of an average person. This we can measure. In general, the more recently in history people lived, the longer they lived, the greater access they had to accumulated knowledge, and the more tools and choices they owned. That’s on average. Since war and strife can depress well-being locally and temporarily, indexes of health and wealth fluctuate within decades and by regions of the world. However, the long-term trajectory (and by “long-term” I mean over hundreds or even thousands of years) is a steady, measurable rise. The second indicator of long-term progress is the obvious wave of positive technological development we have witnessed in our own lifetimes. Perhaps more than any other signal, this constant surge daily persuades us that things improve. Devices not only get better, they also get cheaper while they get better.
 
@@ -69,7 +69,7 @@ Progress follows the rise of minds, which then causes an echoing rise in energy.
 
 We don’t go on as we are. We address the problems of tomorrow not with today’s tools but with the tools of tomorrow. This is what we call progress. And there will be problems tomorrow because progress is not utopia. It is easy to mistake progressivism as utopianism because where else does increasing and everlasting improvement point to except utopia? Sadly, that confuses a direction with a destination. The future as un-soiled technological perfection is unattainable; the future as a territory of continuously expanding possibilities is not only attainable but also exactly the road we are on now.
 
-**Ordained Becoming**
+### Ordained Becoming
 
 The course of biological evolution is not a random drift in the cosmos, which is the claim of current textbook orthodoxy. Rather, evolution—and by extension, the technium—has an inherent direction, shaped by the nature of matter and energy. This direction introduces inevitabilities into the shape of life. These nonmystical tendencies are woven into the fabric of technology as well, which means certain aspects of the technium are also inevitable.
 
@@ -97,7 +97,7 @@ The particular physical arrangements of matter, energy, and information that pro
 
 When Stephen Jay Gould claimed that “Homo sapiens is an entity, not a tendency,” he got it precisely, but elegantly, backward. If we rerun his sentence again, but this time from back to front, I can’t think of a more succinct phrase that sums up evolution’s message better than this: Homo sapiens is a tendency, not an entity. Humanity is a process. Always was, always will be. Every living organism is on its way to becoming. And the human organism even more so, because among all living beings (that we know about) we are the most open-ended. We have just started our evolution as Homo sapiens. As both parent and child of the technium—evolution accelerated—we are nothing more and nothing less than an evolutionary ordained becoming. “I seem to be a verb,” the inventor/philosopher Buckminster Fuller once said.
 
-**Convergence**
+### Convergence
 
 Dig deep enough in the history of any type of discovery in any field and you’ll find more than one claimant for the first priority. In fact, you are likely to find many parents for each novelty. Common instances of equivalent inventions independently discovered at the same moment suggest that the evolution of technology converges in the same manner as biological evolution. If so, then if we could rewind and replay the tape of history, the very same sequence of inventions should roll out in a very similar sequence every time we reran it. Technologies would be inevitable. The appearance of morphological archetypes would further suggest that this technological invention has a direction, a tilt. A tilt that is independent to a certain extent of its human inventors. Indeed, in all fields of technology we commonly find independent, equivalent, and simultaneous invention. If this convergence indicated that discoveries were inevitable, the inventors would appear as conduits filled by an invention that just had to happen. We would expect the people making them to be interchangeable, if not almost random.
 
@@ -109,7 +109,7 @@ To claim that the large-scale trajectory of the technium is inevitable would mea
 
 3. In modern times we find sequences of improvement that are difficult to stop, derail, or alter.
 
-**Listen to the Technology**
+### Listen to the Technology
 
 Technology’s imperative can be seen in the rigid acceleration of progress in DNA sequencing, magnetic storage, semiconductors, bandwidth, and pixel density. Once a fixed curve is revealed, scientists, investors, marketers, and journalists all grab hold of this trajectory and use it to guide experiments, investments, schedules, and publicity. The map becomes the territory. At the same time, since these curves begin and advance independent of our awareness and do not waver very much from a straight line under enormous competition and investment pressures, their course must in some way be bound to the materials.
 
@@ -119,7 +119,7 @@ In this microcosmic realm, unlike the macroworld we live in, energy is not very 
 
 Our choice, and it is significant, is to prepare for the gift—and the problems it will also bring. We can choose to get better at anticipating these inevitable surges. We can choose to educate ourselves and our children to become intelligently literate and wise in their employment. And we can choose to modify our legal and political and economic assumptions to meet the ordained trajectories ahead. But we cannot escape from them. When we spy our technological fate in the distance, we should not reel back in horror of its inevitability; rather, we should lurch forward in preparation.
 
-**Choosing the Inevitable**
+### Choosing the Inevitable
 
 Like personality, technology is shaped by a triad of forces. The primary driver is preordained development—what technology wants. The second driver is the influence of technological history, the gravity of the past, as in the way the size of a horse’s yoke determines the size of a space rocket. The third force is society’s collective free will in shaping the technium, or our choices.
 
@@ -127,9 +127,9 @@ It is the third leg, the collective choice of free-willed individuals, that prov
 
 The ongoing dilemma of technology, then, will never leave us. It is an ever-elaborate tool that we wield and continually update to improve our world; and it is an ever-ripening superorganism, of which we are but a part, that is following a direction beyond our own making. Humans are both master and slave to the technium, and our fate is to remain in this uncomfortable dual role. Therefore, we will always be conflicted about technology and find making our choices difficult. But our concern should not be about whether to embrace it. We are beyond embrace; we are already symbiotic with it. At a macroscale, the technium is following its inevitable progression. Yet at the microscale, volition rules. Our choice is to align ourselves with this direction, to expand choice and possibilities for everyone and everything, and to play out the details with grace and beauty. Or we can choose (unwisely, I believe) to resist our second self. The conflict that the technium triggers in our hearts is due to our refusal to accept our nature—the truth is that we are continuous with the machines we create. We are self-made humans, our own best invention. When we reject technology as a whole, it is a brand of self-hatred.
 
-**PART THREE CHOICES**
+## PART THREE: CHOICES
 
-**The Unabomber Was Right**
+### The Unabomber Was Right
 
 Technology has its own agenda. It is selfish. The technium is not, as most people think, a series of individual artifacts and gadgets for sale. Rather, Kaczynski, speaking as the Unabomber, echoes the arguments of Winner and many of the points I am making in this book, claiming that technology is a dynamic, holistic system. It is not mere hardware; rather, it is more akin to an organism. It is not inert, nor passive; rather, the technium seeks and grabs resources for its own expansion. It is not merely the sum of human action, but in fact it transcends human actions and desires. I think Kaczynski was right about these claims.
 
@@ -165,7 +165,7 @@ Besides the lack of a desirable alternative, the final problem with destroying c
 
 The costs of technology are not easily visible, and the expectations of virtue often hyped. To improve our chances of making better decisions, we need—I almost hate to say it—more technology. The way to reveal the full costs of technology and deflate its hype is with better information tools and processes. We require technologies such as real-time self-monitoring of our use, transparent sharing of problems, deep analysis of testing results, relentless retesting, accurate recording of the chain of sources in manufacturing, and honest accounting of negative externalities such as pollution. Technology can help us reveal the costs of technology and help us make better choices about how we adopt it.
 
-**Lessons of Amish Hackers**
+### Lessons of Amish Hackers
 
 In many ways the view of the Amish as old-fashioned Luddites is an urban myth. In contemporary society our default is set to say yes to new things, and in Old Order Amish communities the default is set to “not yet.” When new things come around, the Old Order Amish automatically react by ignoring them.
 
@@ -179,7 +179,7 @@ Voluntary simplicity is a possibility, an option, a choice that one should exper
 
 I owe the Amish hackers a large debt because through their lives I now see the technium’s dilemma very clearly: To maximize our own contentment, we seek the minimum amount of technology in our lives. Yet to maximize the contentment of others, we must maximize the amount of technology in the world. Indeed, we can only find our own minimal tools if others have created a sufficient maximum pool of options we can choose from. The dilemma remains in how we can personally minimize stuff close to us while trying to expand it globally.
 
-**Seeking Conviviality**
+### Seeking Conviviality
 
 If a new technology is likely to birth a never-before-seen benefit, it will also likely birth a never-before-seen problem. The obvious remedy for this dilemma is to expect the worst. That’s the result of a commonly used approach to new technologies called the Precautionary Principle.
 
@@ -219,9 +219,9 @@ I am convinced by my study of the technium’s imperative that conviviality resi
 
 Living organisms and ecosystems are characterized by a high degree of indirect collaboration, transparency of function, decentralization, flexibility and adaptability, redundancy of roles, and natural efficiency; these are all traits that make biology useful to us and the reasons why life can sustain its own evolution indefinitely. So the more lifelike we train our technology to be, the more convivial it becomes for us and the more sustainable the technium becomes in the long run. The more convivial a technology is, the more it aligns with its nature as the seventh kingdom of life.
 
-**PART FOUR DIRECTIONS**
+## PART FOUR: DIRECTIONS
 
-**Technology’s Trajectories**
+### Technology’s Trajectories
 
 So what does technology want? Technology wants what we want—the same long list of merits we crave. When a technology has found its ideal role in the world, it becomes an active agent in increasing the options, choices, and possibilities of others. Our task is to encourage the development of each new invention toward this inherent good, to align it in the same direction that all life is headed. Our choice in the technium—and it is a real and significant choice—is to steer our creations toward those versions, those manifestations, that maximize that technology’s benefits, and to keep it from thwarting itself. Our role as humans, at least for the time being, is to coax technology along the paths it naturally wants to go.
 
@@ -273,7 +273,7 @@ The technium is primed to hijack matter and rearrange its atoms to infiltrate it
 
 **EVOLVABILITY:** Evolution searches for designs that will keep the game of searching going. In this way, evolution wants to evolve. Yes, life has gained more ways to adapt, but what is really changing is its evolvability—its propensity and agility to create change. Think of this as changeability. Not only is the aggregate process of evolution evolving, but it is evolving more ability to evolve, or greater evolvability. Gaining evolvability is much like a video game where you find a door that opens up another whole level that is much more complex, faster, and full of unexpected powers. As the technium expands, it accelerates the rate of evolution first begun with life, so that it now evolves the idea of change itself. This is more than simply the most powerful force in the world; the evolution of evolution is the most powerful force in the universe.
 
-**Playing the Infinite Game**
+### Playing the Infinite Game
 
 How can technology make a person better? Only in this way: by providing each person with chances. A chance to excel at the unique mixture of talents he or she was born with, a chance to encounter new ideas and new minds, a chance to be different from his or her parents, a chance to create something his or her own.
 

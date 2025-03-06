@@ -27,7 +27,7 @@ In laying out the factory, Musk followed his philosophy that the design, enginee
 
 As his team grew, Musk infused it with his tolerance for risk and reality-bending willfulness. “If you were negative or thought something couldn’t be done, you were not invited to the next meeting,” Mueller recalls. “He just wanted people who would make things happen.” It was a good way to drive people to do what they thought was impossible. But it was also a good way to become surrounded by people afraid to give you bad news or question a decision.
 
-**Musk’s Rules for Rocket-Building**
+### Musk’s Rules for Rocket-Building
 
 - **Question every cost.**
 
@@ -85,7 +85,7 @@ The ultimate human-machine interface, Musk realized, would be a device that conn
 
 One key to understanding Musk—his intensity, focus, competitiveness, die-hard attitudes, and love of strategy—is through his passion for video games. Hours of immersion became the way he let off (or built up) steam and honed his tactical skills and strategic thinking for business.
 
-**Polytopia Life Lessons**
+### Polytopia Life Lessons
 
 - **Empathy is not an asset.** “He knows that I have an empathy gene, unlike him, and it has hurt me in business,” Kimbal says. “Polytopia taught me how he thinks when you remove empathy. When you’re playing a video game, there is no empathy, right?”
 

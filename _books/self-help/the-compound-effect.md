@@ -5,25 +5,25 @@ slug: the-compound-effect
 title: The Compound Effect - by Darren Hardy
 ---
 
-**ACTION STEPS**
+### ACTION STEPS
 
-**CHOICES**
+### CHOICES
 
 - Start tracking at least one behavior in one area of your life you'd like to change and improve (e.g., money, nutrition, fitness, recognizing others, parenting… any area).
 
-**HABITS**
+### HABITS
 
-- Identify your three best habits--those that support your most important goal.
+- Identify your three best habits—those that support your most important goal.
 
 - Identify your three bad habits that take you off course from your most important goal.
 
 - Identify three new habits you need to develop to put you on track toward your most important goal.
 
-**MOMENTUM**
+### MOMENTUM
 
 - Build your bookend morning and evening routines. Design a predicable and fail-safe world-class routine schedule for you life.
 
-**INFLUENCES**
+### INFLUENCES
 
 - Identify the influence the input of media and information is having on your life. Determine what input you need to protect your mind from and how you are going to keep your mind regularly fl ushed with positive,uplifting, and supportive input.
 
@@ -33,7 +33,7 @@ title: The Compound Effect - by Darren Hardy
 
 - Identify the three areas of your life you are most focused on improving. Find and engage a mentor in each of those areas. Your mentors could be people who have accomplished what you wish to and with whom you have brief conversations, or they could be experts who have written down their ideas in books or recorded their ideas on CDs.
 
-**ACCELERATION**
+### ACCELERATION
 
 - Find three areas in your life where you can you do "extra" (e.g., weight lifting reps, calls, recognition, sentiments of appreciation, etc.)
 

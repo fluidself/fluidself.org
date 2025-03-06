@@ -5,7 +5,7 @@ slug: strength-to-awaken
 title: Strength To Awaken - by Rob McNamara
 ---
 
-**Excellence: The Purpose of Life**
+### Excellence: The Purpose of Life
 
 The demand of Excellence is simple: Sacrifice yourself fully into this moment.
 
@@ -25,7 +25,7 @@ True happiness is the complete acceptance of, and engagement with, the present m
 
 When the ego is "triggered" some event has accentuated the ego's conflicted and defensive stance toward the present moment. Typically the ego focuses exclusively on this charged stimulus and abandons any other possible perspectives. The orientation your ego will tend to adopt toward this person, system or event is as a personal attack, triggering a felt need to protect and defend itself. Instead of being attuned to the full field of what is arising, you only consciously relate to a small portion of what is happening and unconsciously allow your habituation to govern your life.
 
-**The Necessity of Practice**
+### The Necessity of Practice
 
 Practice is, at its center, engagement.
 
@@ -33,7 +33,7 @@ When you acquire a certain level of competence that is presumed to be satisfacto
 
 You refine only the dimensions of yourself that you are engaging in practice. So while you may be incredibly focused on one area of your life, another equally important dimension may be stuck in habituation. While this may result in a high degree of competence in one area, if central dimensions of you are not refined through practice, inevitably you will find yourself lacking essential competencies for addressing the true demands of the full scope of your life. **Integral Practice** is a technology that addresses these inherent limitations of practice by engaging all of the major dimensions of yourself. The essential aliveness of Integral Practice resides in the engagement of all of your major faculties in the immediacy of the moment and your present activity. Regardless of what you are doing, you have the capacity to practice with the full territory of your Being. Integral Practice from this perspective has no end, only a beginning ... followed by another beginning. This path requires a constant unwavering commitment to engage.
 
-**Transforming Your Training**
+### Transforming Your Training
 
 Mental struggle = muscular tension. Tension in the body creates struggle in the mind; struggle in the mind creates tension in the body. At no time will you ever be struggling with something mentally and at the same time be completely relaxed, open and at peace in your body. The two are intimately linked.
 
@@ -57,7 +57,7 @@ While **discipline** is a necessity, it also carries great risk. First, anything
 
 - Watch for your mind's tendency to "want to" do something.
 
-**A Stage Model Path to Mastery**
+### A Stage Model Path to Mastery
 
 With each stage an emergent novelty expands your faculties, thus liberating you from previous limitations. The practice of your strength training as well as your self system becomes more integrative, thereby enabling you to manage and negotiate greater complexity and more territory of yourself, your training and ultimately your life.
 
@@ -71,27 +71,27 @@ With each stage an emergent novelty expands your faculties, thus liberating you 
 
 5.  **Mastery**. The master's liberation reaches beyond the split between habituation and liberation and experiences these as no longer two separate dimensions of experience. As such, Mastery is characterized by a progressive and rigorous reconstruction of habituation that aligns with and serves not unconscious struggle but a radical embodiment of love in training (and life). No longer is training an attempt to disidentify from habituated activity into purer and purer passion and inspiration. Rather this stage of training actively participates in the construction of Excellence's greatest integrity in the moment. Liberated habituation in service of Excellence is the essence of this stage.
 
-**The Six Stages of Engagement**
+### The Six Stages of Engagement
 
-1.  Breath--Conducting Energy
+1.  Breath—Conducting Energy
 
-2.  Form--Animating the Posture
+2.  Form—Animating the Posture
 
-3.  Sensation--Riding Immediacy
+3.  Sensation—Riding Immediacy
 
-4.  Being--Spaciousness meets Stillness
+4.  Being—Spaciousness meets Stillness
 
-5.  Mystery--Awakening to The Condition
+5.  Mystery—Awakening to The Condition
 
-6.  Suchness--Non-duality
+6.  Suchness—Non-duality
 
-**Resistance: Your Fuel Forward**
+### Resistance: Your Fuel Forward
 
 Resistance is both an obstacle and an indispensable resource to fuel your practice. Whatever resistance makes itself known in the moment is that which is most alive. This is your place to begin working on engagement; this obstacle happening right now is your next step.
 
 Mental distraction is one of the largest forms of resistance. Your conditioned mind will resist the "inner posture and alignment" of focusing your attention upon your body-mind. Your habituation will actively resist being engaged with the present movements of the body once the neurological and muscular integration occurs. In other words, once you have adequately learned something, there is a tendency to no longer focus, and thus you have the opportunity to mentally "check out." This is "learned disengagement." When your attention divorces itself from the immediacy of your training, no further refining of engagement can occur. Your body-mind has been split. When this separation occurs the practice that is most useful is to notice what pulled your attention away from the immediacy of the movement's posture, alignment and technique. Once you have labeled this you start over. Connect with the core intentions of Body-Mind-Moment Training and then establish a conscious relationship with your breath. Then return to working with your form.
 
-**Practice Beyond Your Training**
+### Practice Beyond Your Training
 
 - Meditation
 
@@ -113,7 +113,7 @@ Mental distraction is one of the largest forms of resistance. Your conditioned m
 
 - Challenge. Establish relationships that are explicitly focused upon challenging you in various dimensions of your life.
 
-**The Purpose of Injury**
+### The Purpose of Injury
 
 1.  To Cultivate your Freedom or Awareness: To Wake Up
 

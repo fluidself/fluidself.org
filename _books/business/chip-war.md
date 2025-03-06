@@ -5,7 +5,7 @@ slug: chip-war
 title: "Chip War: The Fight for the World's Most Critical Technology - by Chris Miller"
 ---
 
-**Introduction**
+### Introduction
 
 World War II was decided by steel and aluminum, and followed shortly thereafter by the Cold War, which was defined by atomic weapons. The rivalry between the United States and China may well be determined by computing power. Strategists in Beijing and Washington now realize that all advanced tech—from machine learning to missile systems, from automated vehicles to armed drones—requires cutting-edge chips, known more formally as semiconductors or integrated circuits. A tiny number of companies control their production.
 
@@ -17,13 +17,13 @@ Semiconductors spread across society because companies devised new techniques to
 
 If any one of the steps in the semiconductor production process is interrupted, the world’s supply of new computing power is imperiled. In the age of AI, it’s often said that data is the new oil. Yet the real limitation we face isn’t the availability of data but of processing power. There’s a finite number of semiconductors that can store and process data. Producing them is mind-bogglingly complex and horrendously expensive. Unlike oil, which can be bought from many countries, our production of computing power depends fundamentally on a series of choke points: tools, chemicals, and software that often are produced by a handful of companies—and sometimes only by one. No other facet of the economy is so dependent on so few firms. Chips from Taiwan provide 37 percent of the world’s new computing power each year. Two Korean companies produce 44 percent of the world’s memory chips. The Dutch company ASML builds 100 percent of the world’s extreme ultraviolet lithography machines, without which cutting-edge chips are simply impossible to make. OPEC’s 40 percent share of world oil production looks unimpressive by comparison.
 
-**PART I: COLD WAR CHIPS**
+### PART I: COLD WAR CHIPS
 
 Eight engineers left Shockley Semiconductor and decided to found their own company, Fairchild Semiconductor, with seed funding from an East Coast millionaire. The eight defectors from Shockley’s lab are widely credited with founding Silicon Valley. One of the eight, Eugene Kleiner, would go on to found Kleiner Perkins, one of the world’s most powerful venture capital firms. Gordon Moore, who went on to run Fairchild’s R&D process, would later coin the concept of Moore’s Law to describe the exponential growth in computing power. Most important was Bob Noyce, the leader of the “traitorous eight,” who had a charismatic, visionary enthusiasm for microelectronics and an intuitive sense of which technical advances were needed to make transistors tiny, cheap, and reliable. Matching new inventions with commercial opportunities was exactly what a startup like Fairchild needed to succeed—and what the chip industry needed to take off.
 
 The Nobel Prize for inventing the transistor went to Shockley, Bardeen, and Brattain. Jack Kilby later won a Nobel for creating the first integrated circuit; had Bob Noyce not died at the age of sixty-two, he’d have shared the prize with Kilby. These inventions were crucial, but science alone wasn’t enough to build the chip industry. The spread of semiconductors was enabled as much by clever manufacturing techniques as academic physics. Universities like MIT and Stanford played a crucial role in developing knowledge about semiconductors, but the chip industry only took off because graduates of these institutions spent years tweaking production processes to make mass manufacturing possible. It was engineering and intuition, as much as scientific theorizing, that turned a Bell Labs patent into a world-changing industry.
 
-**PART II: THE CIRCUITRY OF THE AMERICAN WORLD**
+### PART II: THE CIRCUITRY OF THE AMERICAN WORLD
 
 Soviet leaders never comprehended how the “copy it” strategy condemned them to backwardness. The entire Soviet semiconductor sector functioned like a defense contractor—secretive, top-down, oriented toward military systems, fulfilling orders with little scope for creativity. The copying process was “tightly controlled” by Minister Shokin, one of his subordinates remembered. Copying was literally hardwired into the Soviet semiconductor industry, with some chipmaking machinery using inches rather than centimeters to better replicate American designs, even though the rest of the USSR used the metric system. Thanks to the “copy it” strategy, the USSR started several years behind the U.S. in transistor technology and never caught up.
 
@@ -47,7 +47,7 @@ Hoff realized computers face a tradeoff between customized logic circuits and cu
 
 In the early 1960s, it had been possible to claim the Pentagon had created Silicon Valley. In the decade since, the tables had turned. The U.S. military lost the war in Vietnam, but the chip industry won the peace that followed, binding the rest of Asia, from Singapore to Taiwan to Japan, more closely to the U.S. via rapidly expanding investment links and supply chains. The entire world was more tightly connected to America’s innovation infrastructure, and even adversaries like the USSR spent their time copying U.S. chips and chipmaking tools. Meanwhile, the chip industry had catalyzed an array of new weapons systems that were remaking how the U.S. military would fight future wars. American power was being recast. Now the entire nation depended on Silicon Valley’s success.
 
-**PART III: LEADERSHIP LOST?**
+### PART III: LEADERSHIP LOST?
 
 The U.S. had supported Japan’s postwar transformation into a transistor salesman. U.S. occupation authorities transferred knowledge about the invention of the transistor to Japanese physicists, while policymakers in Washington ensured Japanese firms like Sony could easily sell into U.S. markets. The aim of turning Japan into a country of democratic capitalists had worked. Now some Americans were asking whether it had worked too well. The strategy of empowering Japanese businesses seemed to be undermining America’s economic and technological edge.
 
@@ -55,7 +55,7 @@ The U.S. military was more dependent on electronics—and thus on chips—than e
 
 American power in Asia had been built on technological dominance, military might, and trade and investment links that knit together Japan, Hong Kong, South Korea, and the countries of Southeast Asia. From the first Fairchild assembly plant on Hong Kong’s Kowloon Bay, integrated circuits had been an integral feature of America’s position in Asia. U.S. chipmakers built facilities from Taiwan to South Korea to Singapore. These territories were defended from Communist incursions not only by military force but also by economic integration, as the electronics industry sucked the region’s peasants off farms—where rural poverty often inspired guerilla opposition—into good jobs assembling electronic devices for American consumption. America’s supply chain statecraft had worked brilliantly in fending off Communists, but by the 1980s, the primary beneficiary looked to have been Japan. Its trade and foreign investment had grown massively. Tokyo’s role in Asia’s economics and politics was expanding inexorably. If Japan could so swiftly establish dominance over the chip industry, what would stop it from dethroning America’s geopolitical preeminence, too?
 
-**PART IV: AMERICA RESURGENT**
+### PART IV: AMERICA RESURGENT
 
 Silicon Valley’s resurgence was driven by scrappy startups and by wrenching corporate transformations. The U.S. overtook Japan’s DRAM behemoths not by replicating them but by innovating around them. Rather than cutting itself off from trade, Silicon Valley offshored even more production to Taiwan and South Korea to regain its competitive advantage. Meanwhile, as America’s chip industry recovered, the Pentagon’s bet on microelectronics began to pay off as it fielded new weapons systems that no other country could match. America’s unrivaled power during the 1990s and 2000s stemmed from its resurgent dominance in computer chips, the core technology of the era.
 
@@ -73,7 +73,7 @@ None of the Japanese chip giants could replicate Intel’s pivot to microprocess
 
 After the easy defeat of Saddam Hussein’s Iraq, America’s vast new fighting power was visible to everyone. This caused a crisis in the Soviet military and the KGB, who were embarrassed yet afraid to admit how decisively they were outgunned. The security chiefs led a demoralized coup attempt against Gorbachev that sputtered out after three days. It was a pathetic end for a once-powerful country, which couldn’t come to terms with the painful decline in its military power. The Russian chip industry faced humiliation of its own, with one fab reduced in the 1990s to producing tiny chips for McDonald’s Happy Meal toys. The Cold War was over; Silicon Valley had won.
 
-**PART V: INTEGRATED CIRCUITS, INTEGRATED WORLD?**
+### PART V: INTEGRATED CIRCUITS, INTEGRATED WORLD?
 
 The 1990s were the years when the word “globalization” first became commonly used, though the chip industry had relied on international production and assembly since the earliest days of Fairchild Semiconductor. Taiwan had deliberately inserted itself into semiconductor supply chains since the 1960s, as a strategy to provide jobs, acquire advanced technology, and to strengthen its security relationship with the United States. In the 1990s, Taiwan’s importance began to grow, driven by the spectacular rise of the Taiwan Semiconductor 164Manufacturing Company, which Chang founded with strong backing from the Taiwanese government.
 
@@ -105,7 +105,7 @@ Intel’s missed opportunities in the years since Grove left the scene all had a
 
 A new consensus in Washington formed around the idea that the best policy was to “run faster” than America’s rivals. “The likelihood that the United States will grow dependent on any one country, much less China, for any one product, especially semiconductors, is exceedingly small,” predicted one American expert. “Run faster” was an elegant strategy with only a single problem: by some key metrics, the U.S. wasn’t running faster, it was losing ground. Hardly anyone in government bothered to do the analysis, but Andy Grove’s gloomy predictions about the offshoring of expertise were partially coming true.
 
-**PART VI: OFFSHORING INNOVATION?**
+### PART VI: OFFSHORING INNOVATION?
 
 By the 2000s, it was common to split the semiconductor industry into three categories. “Logic” refers to the processors that run smartphones, computers, and servers. “Memory” refers to DRAM, which provides the short-term memory computers need to operate, and flash, also called NAND, which remembers data over time. The third category of chips is more diffuse, including analog chips like sensors that convert visual or audio signals into digital data, radio frequency chips that communicate with cell phone networks, and semiconductors that manage how devices use electricity.
 
@@ -147,7 +147,7 @@ Whether it will be Nvidia or the big cloud companies doing the vanquishing, Inte
 
 As the decade ended, only two companies could manufacture the most cutting-edge processors, TSMC and Samsung. And so far as the United States was concerned, both were problematic for the same reason: their location. Now the entire world’s production of advanced processors was taking place in Taiwan and Korea—just off the coast from America’s emerging strategic competitor: the People’s Republic of China.
 
-**PART VII: CHINA’S CHALLENGE**
+### PART VII: CHINA’S CHALLENGE
 
 China’s tech giants depend on data centers full of foreign, largely U.S.-produced, chips. The documents that Edward Snowden leaked in 2013 before fleeing to Russia demonstrated American network-tapping capabilities that surprised even the cyber sleuths in Beijing. Chinese firms had replicated Silicon Valley’s expertise in building software for e-commerce, online search, and digital payments. But all this software relies on foreign hardware. When it comes to the core technologies that undergird computing, China is staggeringly reliant on foreign products, many of which are designed in Silicon Valley and almost all of which are produced by firms based in the U.S. or one of its allies. Xi thought this presented an untenable risk.
 
@@ -177,7 +177,7 @@ All these efforts to use microelectronics to spur a new “offset” and reestab
 
 “Call forth the assault,” Xi Jinping declared. China’s leaders have identified their reliance on foreign chipmakers as a critical vulnerability. They’ve set out a plan to rework the world’s chip industry by buying foreign chipmakers, stealing their technology, and providing billions of dollars of subsidies to Chinese chip firms. The People’s Liberation Army is now counting on these efforts to help it evade U.S. restrictions, though it can still buy legally many U.S. chips in its pursuit of “military intelligentization.” For its part, the Pentagon has launched its own offset, after admitting that China’s military modernization has closed the gap between the two superpowers’ militaries, especially in the contested waters off China’s coast. Taiwan isn’t simply the source of the advanced chips that both countries’ militaries are betting on. It’s also the most likely future battleground.
 
-**PART VIII: THE CHIP CHOKE**
+### PART VIII: THE CHIP CHOKE
 
 By around 2015, from deep in the U.S. government, gears slowly began to shift. The government’s trade negotiators saw China’s chip subsidies as a flagrant violation of international agreements. The Pentagon nervously watched China’s efforts to apply computing power to new weapons systems. The intelligence agencies and Justice Department unearthed more evidence of collusion between China’s government and its industries to push out American chip firms. Yet the twin pillars of American tech policy—embracing globalization and “running faster”—were deeply ingrained, not only by the industry’s lobbying, but also by Washington’s intellectual consensus. Moreover, most people in Washington barely knew what a semiconductor was. The Obama administration moved slowly on semiconductors, one person involved in the effort recalled, because many senior officials simply didn’t see chips as an important issue.
 

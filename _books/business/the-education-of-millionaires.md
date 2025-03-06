@@ -2,8 +2,8 @@
 date: 2017-05-04 17:32:29+00:00
 link: https://fluidself.org/books/business/the-education-of-millionaires
 slug: the-education-of-millionaires
-title: 'The Education of Millionaires: It''s Not What You Think and It''s Not Too
-  Late - by Michael Ellsberg'
+title: "The Education of Millionaires: It's Not What You Think and It's Not Too
+  Late - by Michael Ellsberg"
 ---
 
 Your success and happiness in life has to do with your drive, your initiative, your persistence, your ability to make a contribution to other people's lives, your ability to come up with good ideas and pitch them to others effectively, your charisma, your ability to navigate gracefully through social and business networks (what some researchers call "practical intelligence"), and a total, unwavering belief in your own eventual triumph, throughout all the ups and downs, no matter what the naysayers tell you.
@@ -38,7 +38,7 @@ Your brand is what people think about when they hear your name.
 
 "There are two decisions you need to come to in order to be free, and to be more effective. First is that you are not entitled to anything in the world, until you create value for another human being first. Second, you are 100 percent responsible for producing results. No one else. If you adopt those two views, you will go far."
 
-**Entrepreneurial Mindset**
+### Entrepreneurial Mindset
 
 - **Focusing on Contribution** versus Focusing on Entitlement
 
@@ -46,12 +46,12 @@ Your brand is what people think about when they hear your name.
 
 - **Sorting for What's Needed** versus Sorting for What's Requested
 
-- **Work Yourself Out of a Job**--Don't Work to Protect Your Job
+- **Work Yourself Out of a Job**—Don't Work to Protect Your Job
 
 - **Go Toward Big Decisions, Even Without Authority**
 
 - **See Your Circumstances as Illusory and Temporary**, Not Real and Permanent
 
-If you always asked yourself how you could make a greater and higher-leveraged contribution to the people you work with and the situations you find yourself in; if you focused like a laser on actual outcome of the projects you're involved with, rather than the output of your time and effort; if you were relentless about taking care of what's actually needed in your workplace or team, rather than just doing what was requested of you; if you started running toward the big decisions in your organization, rather than away from them, whether or not your job description called for it; if you became a diligent student of the ways in which social reality is more flexible and malleable, and less predetermined, than you think it is--if you did all these things, is there any chance you would come out behind?
+If you always asked yourself how you could make a greater and higher-leveraged contribution to the people you work with and the situations you find yourself in; if you focused like a laser on actual outcome of the projects you're involved with, rather than the output of your time and effort; if you were relentless about taking care of what's actually needed in your workplace or team, rather than just doing what was requested of you; if you started running toward the big decisions in your organization, rather than away from them, whether or not your job description called for it; if you became a diligent student of the ways in which social reality is more flexible and malleable, and less predetermined, than you think it is—if you did all these things, is there any chance you would come out behind?
 
 "Tell me something that you think is true that very few people agree with."

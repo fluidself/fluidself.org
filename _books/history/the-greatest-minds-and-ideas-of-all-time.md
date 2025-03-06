@@ -7,7 +7,7 @@ title: The Greatest Minds and Ideas of All Time - by Will Durant
 
 The real history of man is not in prices and wages, nor in elections and battles, nor in the even tenor of the common man; it is in the lasting contributions made by geniuses to the sum of human civilization and culture.
 
-**The Ten "Greatest" Thinkers**
+### The Ten "Greatest" Thinkers
 
 1.  **Confucius.** A highly conservative system; it exalted manners and etiquette, and scorned democracy; despite its clear enunciation of the Golden Rule it was nearer to Stoicism than to Christianity. The greatest fortune of a people would be to keep ignorant persons from public office, and secure their wisest men to rule them.
 
@@ -25,11 +25,11 @@ The real history of man is not in prices and wages, nor in elections and battles
 
 8.  **Voltaire.** It will shock scholastic minds to see Voltaire included among the supreme thinkers of mankind; they will protest that his thought was borrowed rather than original, and that his influence was immoral and destructive. But which of us is original except in form? What idea can we conceive today that has not enjoyed, in one garb or another, a hoary antiquity of time? It is easier to be original in error than in truth, for every truth displaces a thousand falsehoods. Granted that Voltaire, like Bacon, "lighted his candle at every man's torch" it remains that he made the torch burn so brightly that it enlightened all mankind. Things came to him dull and he made them radiant; things came to him obscure, and he cleansed and scoured them with clarity; things came to him in useless scholastic dress, and he clothed them in such language that the whole world could understand and profit from them. Never did one man teach so many, or with such irresistible artistry.
 
-9.  **Immanuel Kant.** Now there are two modes of approach to an analysis of the world; we may begin with matter, and then we shall be forced to deduce from it all the mystery of mind; or we may begin with mind, and then we shall be forced to look upon matter as merely a bundle of sensations. For how can we know matter except through our senses?--and what is it then for us but our idea of it? Matter, as known to us, is but a form of mind. When Berkeley for the first time clearly announced this novel conclusion to the world, it made a stir among the pundits, and seemed to offer a splendid exit from the infidelity of the Enlightenment. Here was a chance to reassert the primacy of mind, to reduce its threatening enemy to a mere province in its realm, and so to restore the philosophical bases of religious belief and immortal hope. The supreme figure in this idealistic development was Immanuel Kant, perfect archetype of the abstract philosopher.
+9.  **Immanuel Kant.** Now there are two modes of approach to an analysis of the world; we may begin with matter, and then we shall be forced to deduce from it all the mystery of mind; or we may begin with mind, and then we shall be forced to look upon matter as merely a bundle of sensations. For how can we know matter except through our senses?—and what is it then for us but our idea of it? Matter, as known to us, is but a form of mind. When Berkeley for the first time clearly announced this novel conclusion to the world, it made a stir among the pundits, and seemed to offer a splendid exit from the infidelity of the Enlightenment. Here was a chance to reassert the primacy of mind, to reduce its threatening enemy to a mere province in its realm, and so to restore the philosophical bases of religious belief and immortal hope. The supreme figure in this idealistic development was Immanuel Kant, perfect archetype of the abstract philosopher.
 
 10. **Charles Darwin.**
 
-**The Ten "Greatest" Poets**
+### The Ten "Greatest" Poets
 
 1.  Homer
 
@@ -51,7 +51,7 @@ The real history of man is not in prices and wages, nor in elections and battles
 
 10. Walt Whitman
 
-**The One Hundred "Best" Books for an Education**
+### The One Hundred "Best" Books for an Education
 
 [https://onehundredbestbooks.com/](https://onehundredbestbooks.com/)
 
@@ -61,11 +61,11 @@ Take your time with the introductory books, for you must expect a long siege bef
 
 Skip if you will: learn the art of seizing out of every paragraph (usually near its beginning) the "topical sentence" in which the author lays down the proposition which his paragraph hopes to prove, and if this thesis falls outside your use or interest, leap on to the next topic, or the next, until you feel that the author is talking to you.
 
-**The Ten "Peaks" of Human Progress**
+### The Ten "Peaks" of Human Progress
 
 Let us provisionally define progress as "increasing control of the environment by life," and let us mean by environment "all the circumstances that condition the coordination and realization of desire." Progress is the domination of chaos by mind and purpose, of matter by form and will.
 
-When we look at history in the large we see it as a graph of rising and falling states--nations and cultures disappearing as on some gigantic film. But in that irregular movement of countries and that chaos of men, certain great moments stand out as the peaks and essence of human history, certain advances which, once made, were never lost. Step by step man has climbed from the savage to the scientist, and these are the stages of his growth:
+When we look at history in the large we see it as a graph of rising and falling states—nations and cultures disappearing as on some gigantic film. But in that irregular movement of countries and that chaos of men, certain great moments stand out as the peaks and essence of human history, certain advances which, once made, were never lost. Step by step man has climbed from the savage to the scientist, and these are the stages of his growth:
 
 1.  Speech
 
@@ -87,30 +87,30 @@ When we look at history in the large we see it as a graph of rising and falling 
 
 10. Writing and Print
 
-**Twelve Vital Dates in World History**
+### Twelve Vital Dates in World History
 
 If one is condemned to live on a mental desert island, and can take only twelve dates with him, these dates should presumably be such as to carry in their implications the essential history of mankind. About them should cluster such associations that on their docket the greater achievements of the human mind would string themselves in a concatenation of development, in an order and perspective that would clarify old knowledge and facilitate the new. Since history is varied, and all aspects of human activity in any age are bound up with the rest, many such chains of pivotal events might be composed. What follows, then, are not the twelve world dates; they are merely twelve.
 
-1.  4241 B.C.--THE INTRODUCTION OF THE EGYPTIAN CALENDAR
+1.  4241 B.C.—THE INTRODUCTION OF THE EGYPTIAN CALENDAR
 
-2.  543 B.C.--THE DEATH OF BUDDHA
+2.  543 B.C.—THE DEATH OF BUDDHA
 
-3.  478 B.C.--THE DEATH OF CONFUCIUS
+3.  478 B.C.—THE DEATH OF CONFUCIUS
 
-4.  399 B.C.--THE DEATH OF SOCRATES
+4.  399 B.C.—THE DEATH OF SOCRATES
 
-5.  44 B.C.--THE DEATH OF CAESAR
+5.  44 B.C.—THE DEATH OF CAESAR
 
-6.  ? B.C.--THE BIRTH OF CHRIST
+6.  ? B.C.—THE BIRTH OF CHRIST
 
-7.  A.D. 632--THE DEATH OF MOHAMMED
+7.  A.D. 632—THE DEATH OF MOHAMMED
 
-8.  1294--THE DEATH OF ROGER BACON. This date is almost as good as any other to mark the first use of gunpowder, for the rebellious English monk who died in this year may be held partly responsible for its invention.
+8.  1294—THE DEATH OF ROGER BACON. This date is almost as good as any other to mark the first use of gunpowder, for the rebellious English monk who died in this year may be held partly responsible for its invention.
 
-9.  1454--THE PRESS OF JOHANNES GUTENBERG (AT MAINZ ON THE RHINE) ISSUES THE FIRST PRINTED DOCUMENTS BEARING A PRINTED DATE
+9.  1454—THE PRESS OF JOHANNES GUTENBERG (AT MAINZ ON THE RHINE) ISSUES THE FIRST PRINTED DOCUMENTS BEARING A PRINTED DATE
 
-10. 1492--COLUMBUS DISCOVERS AMERICA
+10. 1492—COLUMBUS DISCOVERS AMERICA
 
-11. 1769--JAMES WATT BRINGS THE STEAM ENGINE TO PRACTICAL UTILITY. This event inaugurated the Industrial Revolution.
+11. 1769—JAMES WATT BRINGS THE STEAM ENGINE TO PRACTICAL UTILITY. This event inaugurated the Industrial Revolution.
 
-12. 1789--THE FRENCH REVOLUTION
+12. 1789—THE FRENCH REVOLUTION

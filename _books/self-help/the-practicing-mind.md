@@ -12,7 +12,7 @@ The practicing mind is quiet. It lives in the present and has laser-like, pinpoi
 
 A paradox of life: The problem with patience and discipline is that developing each of them requires both of them.
 
-**Process, Not Product**
+### Process, Not Product
 
 To me, the words practice and learning are similar but not the same. The word practice implies the presence of awareness and will. The word learning does not. When we practice something, we are involved in the deliberate repetition of a process with the intention of reaching a specific goal. The words deliberate and intention are key here because they define the difference between actively practicing something and passively learning it. Practice encompasses learning, but not the other way around. Learning does not take content into consideration. Keeping that in mind, we can also say that good practice mechanics require deliberately and intentionally staying in the process of doing something and being aware of whether or not we are actually accomplishing that. This also requires that we let go of our attachment to the "product."
 
@@ -36,7 +36,7 @@ During a present-moment experience, you cannot be aware of anything other than t
 
 Why, during a subconscious judgment process, do we define one activity as work and another as "not work"? I feel that a large part of what makes us define something as work is that the activity requires a lot of decision making, which can be very stressful and fatiguing. This is especially true when the decisions that you are making are very subtle and you are not even aware that you are making them. Try this the next time you are faced with doing something you define as unenjoyable or as work. It doesn't matter if it is mowing the lawn or cleaning up the dinner dishes. If the activity will take a long time, tell yourself you will work on staying present-moment and process oriented for just the first half hour. After that, you can hate it as much as usual, but in that first half hour you absolutely will not think of anything but what you are doing. You will not go into the past and think of all the judgments you have made that define this activity as work. You will not go into the future, anticipating when it will be completed, allowing you to participate in an activity that you have defined as "not work." You will just do whatever you are doing right now for half an hour. Don't try to enjoy it, either, because in that effort you are bringing emotions and struggle into your effort.
 
-**Creating Habits**
+### Creating Habits
 
 We need to become an observer of our thoughts and actions, like an instructor watching a student performing a task. The instructor is not judgmental or emotional. The instructor knows just what he or she wants the student to produce. The teacher observes the student's actions, and when the student does something that is moving in the wrong direction, the instructor gently brings it to the student's attention and pulls the student back onto the proper path.
 
@@ -48,7 +48,7 @@ I work with a lot of junior golfers, many of whom play in weekly tournaments. Be
 
 It is very comforting to know that when you remain present in an effort like this, and when you have a predetermined intention about how to react, that intention will, with surprising quickness, come to your rescue and give you that little edge in personal control you need to stay ahead of your reaction. Then your new reaction becomes self-perpetuating. You execute the reaction you want; then your internal reaction to your response feels good because you have protected your inner peace, and you experience the paycheck for your effort. This gives you the emotional and mental stamina to stay with your effort. Thus a new habit begins to form.
 
-**Patience**
+### Patience
 
 Experiencing impatience is one of the first symptoms of not being in the present moment, not doing what you are doing, and not staying process-oriented.
 
@@ -58,7 +58,7 @@ Progress is a natural result of staying focused on the process of doing anything
 
 The real thrill of acquiring anything, whether it is an object or a personal goal, is your anticipation of the moment of receiving it. The real joy lies in creating and sustaining the stamina and patience needed to work for something over a period of time.
 
-**The Four "S" Words**
+### The Four "S" Words
 
 - **Simplify.** When you work at a specific project or activity, simplify it by breaking it down into its component sections.
 
@@ -70,7 +70,7 @@ The real thrill of acquiring anything, whether it is an object or a personal goa
 
 Since all four components take effort to develop and maintain, you will have greater success if you break down the time that you apply to working on them into short intervals. You will find it much easier to stay with your effort if you do this. An exercise I use to start my day in this mindset is brushing my teeth slowly. You can apply these simple rules to any part of your life and to any activity you undertake. As you begin to evolve in this area, the Observer within you will become more and more apparent. You will start to watch yourself going through your daily life; you will become more and more aware of when you are living in the present moment and working in the process, and when you are not.
 
-**Equanimity and "Do, Observe, Correct"**
+### Equanimity and "Do, Observe, Correct"
 
 Equanimity comes from the art of nonjudgment. Nonjudgment quiets the internal dialogue of our mind. First we must become aware of exactly when we are involved in the process of judging. We must work at being more objectively aware of ourselves. We cannot refine any part of our daily thought processes if we are not separate from those processes. The more closely you become aligned with the quiet Observer, the less you judge. Your internal dialogue begins to shut down, and you become more detached about the various external stimuli that come at you all day long. You begin to actually view your internal dialogue with an unbiased (and sometimes amused) perspective.
 

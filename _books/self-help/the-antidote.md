@@ -16,7 +16,7 @@ I am conducting a ritual of deliberate self-humiliation on the instructions of a
 
 Over the last few years, the German-born psychologist Gabriele Oettingen and her colleagues have constructed a series of experiments designed to unearth the truth about ‘positive fantasies about the future'. The results are striking: spending time and energy thinking about how well things could go, it has emerged, actually reduces most people's motivation to achieve them. Experimental subjects who were encouraged to think about how they were going to have a particularly high-achieving week at work, for example, ended up achieving less than those who were invited to reflect on the coming week, but given no further guidelines on how to do so.
 
-**STOICISM**
+### STOICISM
 
 For the Stoics, the ideal state of mind was tranquility, not the excitable cheer that positive thinkers usually seem to mean when they use the word ‘happiness'. And tranquility was to be achieved not by strenuously chasing after enjoyable experiences, but by cultivating a kind of calm indifference towards one's circumstances. One way to do this, the Stoics argued, was by turning towards negative emotions and experiences; not shunning them, but examining them closely instead.
 
@@ -42,7 +42,7 @@ This ‘shame-attacking exercise', as he later came to refer to these kinds of u
 
 The distinction between judging something to be ‘very bad' and judging it to be ‘absolutely horrific' makes all the difference in the world. It is only to the absolutely horrific that we respond with blind terror; all other fears are finite, and thus susceptible to being coped with. ‘If you accept that the universe is uncontrollable,' Ellis told me, ‘you're going to be a lot less anxious.'
 
-**BUDDHISM**
+### BUDDHISM
 
 The modern image of meditation as a sophisticated form of positive thinking is almost the opposite of the truth. In fact, meditation has little to do with achieving any specific desired state of mind, no matter whether blissful or calm. At Buddhism's core, instead, is an often misunderstood notion that is starkly opposed to most contemporary assumptions about how to be happy, and that places it squarely on the ‘negative path' to happiness: **non-attachment**.
 
@@ -64,7 +64,7 @@ It is illuminating to note, here, how the daily rituals and working routines of 
 
 We can feel the fear, and do it anyway.
 
-**GOALSETTING**
+### GOALSETTING
 
 ‘SMART' goals (specific, measurable, attainable, realistic, time-bounded)
 
@@ -84,13 +84,13 @@ Saras Sarasvathy has distilled her anti-goal approach into a set of principles s
 
 One foundation of effectuation is the ‘bird in hand' principle: ‘Start with your means. Don't wait for the perfect opportunity. Start taking action, based on what you have readily available: what you are, what you know and who you know.' A second is the ‘principle of affordable loss': don't be guided by thoughts of how wonderful the rewards might be if you were spectacularly successful at any given next step. Instead – and there are distinct echoes, here, of the Stoic focus on the worst-case scenario – ask how big the loss would be if you failed. So long as it would be tolerable, that's all you need to know. Take that next step, and see what happens. ‘See what happens', indeed, might be the motto of this entire approach to working and living, and it is a hard-headed message, not a woolly one. ‘The quest for certainty blocks the search for meaning,' argued the social psychologist Erich Fromm. ‘Uncertainty is the very condition to impel man to unfold his powers.' Uncertainty is where things happen. It is where the opportunities – for success, for happiness, for really living – are waiting.
 
-**ECKHART TOLLE, POWER OF NOW**
+### ECKHART TOLLE, POWER OF NOW
 
 The optimism-focused, goal-fixated, positive-thinking approach to happiness is exactly the kind of thing the ego loves. Positive thinking is all about identifying with your thoughts, rather than disidentifying from them. And the ‘cult of optimism' is all about looking forward to a happy or successful future, thereby reinforcing the message that happiness belongs to some other time than now. Schemes and plans for making things better fuel our dissatisfaction with the only place where happiness can ever be found – the present.
 
 ‘The important thing,' Tolle told me, ‘is not to be continuously lost in this mental projection away from now. Most humans are never fully present in the now, because unconsciously they believe that the next moment must be more important than this one. But then you miss your whole life, which is never not now.' Another staccato chuckle. ‘And that's a revelation for some people. To realise that your whole life is only ever now. Many people suddenly realise that they have lived most of their life as if this were not true – as if the opposite were true.' Without noticing we're doing it, we treat the future as intrinsically more valuable than the present. And yet the future never seems to arrive.
 
-**SECURITY, STABILITY, FAILURE**
+### SECURITY, STABILITY, FAILURE
 
 Chödrön's most famous book is entitled When Things Fall Apart, which makes it sound as though it might be a manual for getting back on a secure footing when things go catastrophically wrong. In fact, her point is that when things fall apart, however painful the experience, it's a good thing; the collapse of your apparent security represents a confrontation with life as it really is. ‘Things are not permanent, they don't last, there is no final security,' she says. What makes us miserable is not this truth, but our efforts to escape it.
 
@@ -100,7 +100,7 @@ Each of us can be placed somewhere on a continuum, Dweck argues, depending on ou
 
 Alternatively, it's worth trying to recall it when failure strikes: next time you flunk an exam, or mishandle a social situation, consider that it is only happening because you're pushing at the limits of your present abilities – and therefore, over the long run, improving them.
 
-**MEMENTO MORI**
+### MEMENTO MORI
 
 > If I had my life over I should form the habit of nightly composing myself to thoughts of death. I would practice, as it were, the remembrance of death ... without an ever-present sense of death, life is insipid. You might as well live on the whites of eggs.  
 > &mdash; Inspector Mortimer in Muriel Spark's Memento Mori
@@ -117,7 +117,7 @@ The sixteenth-century essayist Michel de Montaigne was fond of praising the anci
 
 You need not engage in cemetery vigils to practise memento mori, however. You can start much smaller. The psychologist Russ Harris suggests a simple exercise: imagine you are eighty years old and then complete the sentences ‘I wish I'd spent more time on . . . ', and ‘I wish I'd spent less time on . . . '. This turns out to be a surprisingly effective way to achieve mortality awareness in short order. Things fall into place. It becomes far easier to follow Lauren Tillinghast's advice – to figure out what, specifically, you might do in order to focus on life's flavours, so as to improve your chances of reaching death having lived life as fully and as deeply as possible. This kind of smaller habit may actually be the most powerful form of memento mori. For it is precisely through such mundane and unassuming rituals that we can best hope to enfold an awareness of death into the daily rhythms of life, and thus achieve something of Epicurus's calm rationality in the face of mortality.
 
-**NEGATIVE CAPABILITY**
+### NEGATIVE CAPABILITY
 
 Sometimes, the most valuable of all talents is to be able not to seek resolution; to notice the craving for completeness or certainty or comfort, and not to feel compelled to follow where it leads.
 

@@ -13,7 +13,7 @@ Ours is the greatest social experiment ever made to solve the question whether p
 
 The passion for having must lead to never-ending class war. The pretense of the communists that their system will end class struggle by abolishing classes is fiction, for their system is based on the principle of unlimited consumption as the goal of living. As long as everybody wants to have more, there must be formations of classes, there must be class war, and in global terms, there must be international war. Greed and peace preclude each other.
 
-**Understanding the Difference Between Having and Being**
+### Understanding the Difference Between Having and Being
 
 Having and being are two fundamental modes of experience, the respective strengths of which determine the differences between the characters of individuals and various types of social character.
 
@@ -49,7 +49,7 @@ In the having mode of existence what matters is not the various objects of havin
 
 Breaking through the mode of having is the condition for all genuine activity. In Eckhart’s ethical system the supreme virtue is the state of productive inner activity, for which the premise is the overcoming of all forms of egoboundness and craving.
 
-**Analyzing the Fundamental Differences Between the Two Modes of Existence**
+### Analyzing the Fundamental Differences Between the Two Modes of Existence
 
 Our judgments are extremely biased because we live in a society that rests on private property, profit, and power as the pillars of its existence. To acquire, to own, and to make a profit are the sacred and unalienable rights of the individual in the industrial society.\* What the sources of property are does not matter; nor does possession impose any obligations on the property owners. The principle is: “Where and how my property was acquired or what I do with it is nobody’s business but my own; as long as I do not violate the law, my right is unrestricted and absolute.”
 
@@ -91,7 +91,7 @@ There is only one way—taught by the Buddha, by Jesus, by the Stoics, by Master
 
 The mode of being exists only in the here and now (_hic et nunc_). The mode of having exists only in time: past, present, and future.
 
-**The New Man and the New Society**
+### The New Man and the New Society
 
 The character structure of the average individual and the socio-economic structure of the society of which he or she is a part are interdependent. I call the blending of the individual psychical sphere and the socioeconomic structure _social character_.
 

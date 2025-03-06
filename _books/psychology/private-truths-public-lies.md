@@ -7,9 +7,9 @@ title: 'Private Truths, Public Lies: The Social Consequences of Preference Falsi
 
 Precisely because people who express different opinions do get treated differently, individuals normally tailor their expressions to the prevailing social pressures. Their adjustments vary greatly in social impact. At one extreme are harmless, and possibly beneficial, acts of politeness, as when one tells a friend wearing a garish shirt that he has good taste. At the other are acts of spinelessness on issues of general concern, as when a politician endorses a protectionist measure that he recognizes as harmful to most of his constituents. The pressures generating such acts of insincerity need not originate from the government. Preference falsification is compatible with all political systems, from the most unyielding dictatorship to the most libertarian democracy.
 
-**Part I: Living a Lie**
+## Part I: Living a Lie
 
-**The Significance of Preference Falsification**
+### The Significance of Preference Falsification
 
 Preference falsification is the act of misrepresenting one’s genuine wants under perceived social pressures.
 
@@ -43,7 +43,7 @@ In the presence of preference falsification, private opposition may spread and i
 
 The possibility of unanticipated revolution rests critically on two factors: the imperfect observability of the criteria on which individuals base their public preferences and the interdependence of those public preferences. In combination, these factors allow small, unobserved changes in private variables to galvanize explosive changes in public opinion. By the same token, they allow private variables to undergo major changes without triggering changes in public opinion. That is, they make it possible for profound transformations to occur, and much tension to build up, in a society that appears asleep. Deceptive stability and explosive change are thus two sides of a single coin.
 
-**Private and Public Preferences**
+### Private and Public Preferences
 
 In many contexts where an agreement is not indispensable, we get urges to regulate the lives of others, to poke our noses into matters we could leave alone, in short, to be “meddlesome.” Plain observation suggests that meddle-someness is a universal human trait, and also that it drives a huge variety of potentially personal choices into the collective realm—the world of politics. The ubiquity of meddle-someness is traceable, says Hannah Arendt, to the division of labor. If we pursued all our activities in mutual isolation, she observes, our choices would be without significance or consequence to others. Evolutionary psychologists add that early human evolution conferred an advantage on individuals who showed an interest in each other’s activities. Such individuals monitored each other with greater effectiveness, so they cooperated more successfully on matters important to survival. They thus left more descendants, predisposing the human mind to meddlesomeness. Today, under conditions vastly different from those faced by our hunter-gatherer ancestors, gossip is a universal pastime and soap operas have huge audiences because our minds remain adapted to taking an interest in the affairs of others. Never mind whether nosiness continues to serve economic productivity or political harmony.
 
@@ -59,7 +59,7 @@ The gist of the argument thus far is that the choice of a public preference give
 
 Selecting a public preference is an act that may offer a choice between inner and outer peace. The insight was captured beautifully by Rumi, the thirteenth-century Anatolian mystic. Each soul must decide, he said, to stay on the safe land of routine predictabilities, custom, and religious law, or to answer the call of its inner voice and launch into the deep.
 
-**Private Opinion, Public Opinion**
+### Private Opinion, Public Opinion
 
 An activity forms a political issue if it is a matter of social concern, a nonissue if it is widely considered a matter of personal choice. Scientific experimentation on animals is currently a political issue, one that pits scientists against the animal rights lobby. It would turn into a nonissue if public interest in regulating the laboratory were to disappear. Implicit in this distinction is a view of politics that highlights people’s meddlesomeness. To say that experiments on rats constitute a political issue is to take note that one group is trying to control the decisions of another. In this simple illustration, the animal rights lobby is on the offensive, scientists on the defensive; the former wish to restrict customary scientific liberties, the latter to protect them. There are also issues where disagreement involves only the details. A community in agreement on building a railway station may split on the matter of location, with competing factions trying to control the communal decision.
 
@@ -87,7 +87,7 @@ It is public opinion, rather than private opinion, that undergirds political pow
 
 An implication is that pressure groups have an incentive to extend their support as much as possible. This may seem to contradict the “size principle,” which asserts that distributional coalitions (like industrial cartels and legislative alliances) prefer to become exclusive after they reach a certain size. In fact, there is no conflict. A pressure group might represent the interests of a cartel seeking the retention of the regulations essential to its survival. While the cartel remained exclusive, the pressure group would remain open to all segments of society, including those harmed by barriers to competition. If barriers benefit only a small minority, the group’s ultimate success will depend on the stands of nonbeneficiaries.
 
-**The Dynamics of Public Opinion**
+### The Dynamics of Public Opinion
 
 The pressures that flow from public opinion often pay for themselves, in the sense of being self-reproducing. A critical implication is that, to achieve the public opinion that will serve their substantive goals, pressure groups frequently rely on incentives created by public opinion itself.
 
@@ -113,7 +113,7 @@ Earlier we saw that pluralistic ignorance may exist with respect to public opini
 
 An important consequence of our tendency to mistake public preferences for private preferences is to compound the power of small events and thus the potential impact of political activities that shape individual expectations. Insofar as we overrate the genuineness of public opinion, we will overestimate its permanence and adapt more readily to its apparent shifts. Therefore public opinion may be very sensitive to signs that it is in flux. A minor demonstration, or a conference that would normally get little attention, may generate a large shift in people’s perceptions, thus activating a bandwagon that will culminate in a dramatically different public opinion.
 
-**Institutional Sources of Preference Falsification**
+### Institutional Sources of Preference Falsification
 
 In all political systems, the power to govern, make laws, and interpret decisions rests on public opinion. Equally critical, none precludes the distortion of public opinion through preference falsification. This is not to propose that democratic societies are no better off than authoritarian ones. It is to suggest, rather, that democracies are not always responsive to private opinion and that the choices they give citizens do not always get exercised.
 
@@ -129,9 +129,9 @@ In view of the intolerant streak in the human personality, it is hardly puzzling
 
 Societies have become increasingly complex and individual fortunes increasingly interdependent. Hence we have more reason today to control one another’s expressions than our ancestors did thousands of years ago. We can expect, moreover, to be affected by the expressions of many more strangers. But this rise in social interdependence has not been matched by a commensurate improvement in our cognitive faculties. We are not substantially more intelligent than our hunter-gatherer ancestors, and we find ourselves able to observe and influence just a minute fraction of the behaviors pertinent to our own happiness. Whether we like it or not, we have to limit our authority, nosiness, and activism to few of the matters of potential concern to ourselves. The principle of tolerance amounts, then, to a recognition that it has become prohibitively costly to control public opinion in every possible context. This interpretation is consistent with the common observation that cities, whose residents remain unknown to most other residents, exhibit greater tolerance than small towns, where everyone knows everyone else.
 
-**Part II: Inhibiting Change**
+## Part II: Inhibiting Change
 
-**Collective Conservatism**
+### Collective Conservatism
 
 Societies routinely adopt laws, regulations, and policies that they then retain indefinitely. At any particular time, therefore, a social order incorporates multitudes of decisions inherited from the past. This characterization applies both to societies perceived as inert and to ones considered exceptionally dynamic. It applies even to those that promote the notion of “permanent revolution.” No community keeps all of its social arrangements constantly open to change. Some observed social continuities reflect the fact that a measure of social stability is indispensable. If the social order were highly fluid, in the sense that any decision or agreement could be changed instantaneously, people would live in great uncertainty regarding the future, and their incentives to learn, invent, save, and invest would be impaired.
 
@@ -145,7 +145,7 @@ In a light-hearted commentary on academia, Francis Cornford once suggested that 
 
 There are two additional lessons here. First, a generation may continue to influence public opinion long after its days are over. Second, an established public opinion may get carried into the future by generations that bear no responsibility for its inception.
 
-**The Obstinacy of Communism**
+### The Obstinacy of Communism
 
 The failures of communism prompted a few Soviet and East European citizens to criticize official policies and institutions. Such dissidents, as they became known in the West, expressed their frustrations through clandestine self-publications (samizdat) and writings published abroad (tamizdat). Given the chasm between the rhetoric of communism and its achievements, the existence of an opposition is easily understood. Harder to comprehend is the rarity of public dissent prior to the collapse of the communist political monopoly in 1989. The crushed uprisings of earlier years—notably, East Berlin in 1953, Hungary in 1956, and Czechoslovakia in 1968—are exceptions that prove the rule. For most of several decades, most members of communist-ruled societies displayed a remarkable tolerance for tyranny and inefficiency. They remained docile, submissive, and even outwardly supportive of the status quo. This subservience is attributable partly to punishments meted out by the communist establishment.
 
@@ -155,7 +155,7 @@ Official repression met with the approval of ordinary citizens. Indeed, it was p
 
 A by-product of this fear-induced reticence to register opposition was pluralistic ignorance with respect to private opinion. The multitudes who objected to communism did not know how widely their resentments were shared. They could sense the repressed discontent of their conformist relatives and close friends; they could observe the hardships in the lives of their fellow citizens; and they could intuit that the mass uprisings of the past would not have occurred in the absence of widespread discontent. Still, they lacked reliable information on how many of their fellow citizens favored radical political change—to say nothing of knowing others’ readiness to react.
 
-**The Ominous Perseverance of the Caste System**
+### The Ominous Perseverance of the Caste System
 
 The caste system is widely perceived as the quintessential example of cultural petrification. It divides Indian society into ranked occupational units, or castes, with membership determined primarily by descent. It has persisted for more than two millennia, surviving anti-Hindu movements, foreign invasions, and the penetration of relatively egalitarian religions, including Islam and Christianity. In modern times the caste system has drawn fire from various groups, and discrimination against the traditionally subservient castes is now illegal. Moreover, some caste norms have weakened under the impact of urbanization and industrialization. Yet as a practical matter caste alliances remain a powerful force in Indian social and political life,
 
@@ -165,7 +165,7 @@ What is it that makes Indians, especially those socially disadvantaged, seek per
 
 “Classes, once they have come into being, harden in their mold and perpetuate themselves, even when the social conditions that created them have disappeared.” So wrote Joseph Schumpeter, in dismissing ahistorical explanations of observed class structures. The foregoing explanation for the extraordinary durability of India’s caste system accords a central role to the past. It suggests that expectations rooted in history have played a key role in keeping Indians loyal to the system. If Indian history had been different, so would subsequent Indian perceptions and expectations and, hence, subsequent Indian choices concerning employment, marriage, and social association. The caste system’s extraordinary durability has stemmed, therefore, at least partly from collective conservatism.
 
-**The Unwanted Spread of Affirmative Action**
+### The Unwanted Spread of Affirmative Action
 
 A political realm in which preference falsification is especially common is race relations. The source of preference falsification on the issue is the fear of being stigmatized as a racist or, in the case of black Americans, as an abettor of racism. Racism evokes such dreadful images that individuals to whom the charge sticks can expect to suffer social indignities, attacks from the press, and even the destruction of their careers. And the possibility of being accused of sinister racial motives is present in a vast array of contexts. On matters as diverse as rape, broadcasting standards, and deficit reduction, one may be accused of racism for taking a position perceived as unfair to minorities, especially to blacks. Race thus makes for a huge “gap between the public and private selves,” observes Shelby Steele. “Publicly, we usually adhere to the received wisdom that gives us the most advantageous ‘racial face’; privately we are harassed by the uncensored thoughts and feelings that occur to us spontaneously.”
 
@@ -181,9 +181,9 @@ Insofar as affirmative action hurts blacks as a group, individual blacks who hav
 
 However, if “blaming the victim” is taken to mean that the victim is unequivocally wrong to engage in preference falsification, the answer is no. It is not immoral to avoid social isolation, material deprivation, and physical injury—although people who willingly bear such penalties do deserve special recognition. Nor is it a sign of mental deficiency to perceive that the penalties for speaking out outweigh the probable gains. The victim’s conformism is ordinarily based on a keen appreciation of his powerlessness as a person and of the advantages of social approval. He is as much a prisoner of an oppressive situation as he is a perpetrator, for he cannot correct it unilaterally.
 
-**Part III: Distorting Knowledge**
+## Part III: Distorting Knowledge
 
-**Public Discourse and Private Knowledge**
+### Public Discourse and Private Knowledge
 
 In principle, preference falsification can alter the appearance of one’s personality without modifying its essence. Yet in practice preference falsification does affect private preferences. It distorts public discourse—the corpus of assertions, arguments, and opinions in the public domain. In turn, the distortion of public discourse transforms private knowledge—the understandings that individuals carry in their own heads. The transformation of private knowledge ends up reshaping private preferences.
 
@@ -207,7 +207,7 @@ The softness or hardness of a belief must not be confused with its power, which 
 
 Insofar as private knowledge rests on public discourse, it can show sensitivity to anything affecting the substance or constitution of public discourse. Faulty models or flawed accounts of public opinion may warp an individual’s private knowledge. So can preference falsification on the part of other individuals trying themselves to avoid social penalties. Some forms of preference falsification alter public discourse, and all affect public opinion. Therefore, preference falsification can distort any private knowledge, hard or soft.
 
-**The Unthinkable and the Unthought**
+### The Unthinkable and the Unthought
 
 The Islamic scholar Mohammed Arkoun makes two distinctions in characterizing public discourse in the Islamic world. One is between the thinkable and the unthinkable, the other between the thought and the unthought.
 
@@ -225,13 +225,13 @@ In view of the common tendency to equate “what exists” with “what is best,
 
 Earlier I showed that preference falsification may cause the persistence of an inefficient choice. This chapter has shown that preference falsification may also account for cognitive adjustments that will make the inefficiency disappear. Each of these two processes contributes to social stability, the former by blocking the attainment of reformist objectives, the latter by pushing such objectives into the unthought. As an inhibitor of change, preference falsification gets the status quo accepted publicly through the stick of punishment and the carrot of social acceptance. As a distorter of knowledge, it gets the status quo accepted privately.
 
-**The Blind Spots of Communism**
+### The Blind Spots of Communism
 
 Personal observations, opinion surveys, and revisionist writings thus all support the view that citizens of the Soviet bloc, however conscious they became of specific communist failures, tended to retain faith in communism itself. Evidently communist ideology blunted their ability to look at communism critically. Official indoctrination provides only part of the explanation. Another part lies in the distortions of public discourse generated by preference falsification on the part of the citizens themselves.
 
 The detachment of abstract Marxist thought from the problems of daily survival promoted mental inconsistencies by encouraging individuals to bifurcate incoming information. Slogans, official speeches, and Marxist forecasts went into the theoretical layer of people’s consciousness; evidence of bureaucratic inefficiency and insights into the uses of markets went into the pragmatic layer. But why did Marxist thought remain partitioned from the concerns of everyday existence? The very factor that made citizens of the Soviet bloc conceal their opposition to communist rule made it hazardous to confront communist ideology with communism’s practical failures. An observant worker could not point out, except at personal risk, that his “worker’s state” offered him a lower standard of living than that enjoyed by workers in “bourgeois-ruled” states. Nor could he draw attention to the fact that shortages were far less common in market economies than in the planned economies. So he kept his thoughts to himself and even participated in the dissemination of official myths, misrepresentations, and sophistries. In the process, he refrained from giving his fellow citizens reasons to reconsider their theoretical convictions.
 
-**The Unfading Specter of White Racism**
+### The Unfading Specter of White Racism
 
 Extending the earlier argument, this chapter proposes that, despite the strong opposition recorded by anonymous polls, preference falsification on affirmative action has produced widespread confusion and ignorance about its consequences. In particular, Americans scarcely recognize the costs of affirmative action. Many harbor misconceptions about its benefits and about its gainers and losers. Few realize how the emphasis on affirmative action has diverted attention from the root causes of the prevailing inequalities, to the detriment of truly disadvantaged Americans, black and nonblack. Only some appreciate how double standards are fueling tribalization and, ultimately, endangering the viability of the American nation. Preference falsification on matters of race has produced such effects by narrowing and perverting the relevant public discourse, including debates within Congress, the courts, universities, and the mass media.
 
@@ -241,9 +241,9 @@ Reform communism was initiated by individuals aware of communism’s shortcoming
 
 The common theme of the past few chapters has been that preference falsification promotes, fortifies, and preserves myths. Myths arise because the preconceptions that control our interpretations are based partly on social proof. Preference falsification distorts social proof by removing from public discourse facts and arguments that powerful groups deem unmentionable. As such, it has a profound effect on the evolution of private knowledge. It imparts credibility to myths by shielding them from corrective disclosures.
 
-**Part IV: Generating Surprise**
+## Part IV: Generating Surprise
 
-**Unforeseen Political Revolutions**
+### Unforeseen Political Revolutions
 
 Where the status quo owes its stability to preference falsification, there are people waiting for an opportunity, and perhaps others who can easily be induced, to stand up for change. Some eye-opening event or an apparent shift in social pressures may cause public opposition to swell. The public preferences of individuals are interdependent, so a jump in public opposition may be self-augmenting. Under the right conditions, every jump will galvanize further jumps.
 
@@ -257,13 +257,13 @@ Individuals who become increasingly sympathetic to political change do not neces
 
 If a revolution brings into view both real and simulated grievances against the toppled government, and if the two types are often practically indistinguishable, public discourse will offer historians reasons in abundance why society had to overthrow its old order. From these reasons almost any writer will be able to construct an explanation for the observed eruption. Preference falsification is thus a prime reason why accounts of revolution, whether journalistic or scholarly, typically give revolutions the appearance of inevitability, even when they seemed anything but inevitable until they occurred. Preference falsification contributes, in other words, to making our hindsight better than our foresight.
 
-**The Fall of Communism and Other Sudden Overturns**
+### The Fall of Communism and Other Sudden Overturns
 
 A complex array of trends, events, and decisions thus determines a regime’s fate. Some of the relevant factors, like private opinion and revolutionary thresholds, are only imperfectly observable. Herein lies a fundamental obstacle to predicting political revolutions. Because the imperfect observability of private variables is a universal feature, we can expect to be surprised again and again. In the future, as in the past, seemingly tranquil societies will burst aflame with little warning, toppling regimes considered invincible.
 
 The general argument applies to a much broader set of contexts than revolutions that topple national governments. A specific law, regulation, policy, norm, or custom can be abruptly abandoned when people who have helped sustain it suddenly discover a common desire for change. So it is that long-protectionist nations suddenly embrace trade liberalization; fashions appear and disappear inexplicably; and in a matter of years deep-seated prejudices become dangerous to vent. The same phenomenon of abrupt and unforeseen change is also observed in collectivities narrower than entire nations. Academic departments, corporate managements, and social organizations sometimes change direction at astonishing speed, following long periods of continuity that lulled everyone into considering them frozen. The explanation for the sudden shift will often be found in a bandwagon process that alters the character of preference falsification.
 
-**The Hidden Complexities of Social Evolution**
+### The Hidden Complexities of Social Evolution
 
 One of the most enduring splits in scholarly thought concerns the orderliness of what we call the “social order.” On one side are traditions that treat social relationships as simple, continuous, harmonious, predictable, controllable, and efficient. On the other are traditions that recognize and seek to explain complexity, discontinuity, disharmony, unpredictability, uncontrollability, and inefficiency. The theory of general economic equilibrium, which draws inspiration from Newtonian physics, epitomizes the former class. Examples of the latter include evolutionary economics and the emerging discipline of complexity. The arguments developed in this book are in tune with the latter set of traditions. Unforeseen breaks in public opinion are consistent with the idea, common to many evolutionary theories, including some theories of biological evolution, that invisible phenomena may have enormous consequences. The book’s other evolutionary themes include the persistent inefficiencies caused by collective conservatism and the tensions fueled by incongruities between public and private opinion.
 
@@ -285,7 +285,7 @@ Preference falsification is itself a form of free riding, for it is undertaken t
 
 Like biological evolution, social evolution is influenced by chance and contingency, in addition, of course, to genuine desires. Just as improbable stresses may destroy a species superbly adapted to common circumstances, so too intrinsically improbable contingencies may limit the political effectiveness of deeply felt and very widespread needs. Contingencies may maintain, even expand, gaps between private and public opinion. Social evolution does not always bring progress, if by that one means increasingly satisfying social policies and institutions. It is an imperfect process that generates happiness and sadness, triumphs and defeats, rises as well as declines in efficiency.
 
-**Preference Falsification and Social Analysis**
+### Preference Falsification and Social Analysis
 
 The “march of science,” wrote Henri Poincaré, is simultaneously “towards unity and simplicity” and “towards variety and complexity.” On the one hand, “new relations are continually being discovered between objects which seemed destined to remain forever unconnected; scattered facts cease to be strangers to each other and tend to be marshalled into an imposing synthesis.” On the other hand, “we are continually perceiving details ever more varied in the phenomena we know, where our crude senses used to be unable to detect any lack of unity.” Both processes, Poincaré went on, are critical to the cumulation of useful knowledge.
 

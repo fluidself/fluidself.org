@@ -51,7 +51,7 @@ It is much easier for your brain to be motivated if the eventual goal is tangibl
 
 One of the most important things you should always observe is consistency of your actions – a person is not truly inspired if they are not consistent. Inconsistency means that you are coming from some negative emotion towards your goal – fear, anxiety or something else. In that case, you need to go back and figure out what is happening.
 
-**The 'Four Agreements' used by the Toltec**
+### The 'Four Agreements' used by the Toltec
 
 1.  **Be impeccable with your word.** Truth is one of the strongest ways of creating and sustaining inspiration. People, including our self, respond well to an honest person, and can be enthused more easily. You have to tell the truth to yourself otherwise your self-saboteur will not believe you and will wear you down with attack thoughts. The same goes for your interaction with others.
 
@@ -76,7 +76,7 @@ Consistency must happen regardless of your immediate emotional state. Did someon
 
 Networking is about putting yourself into situations where you are likely to meet people you would not meet otherwise, or who you would not normally get to know at all. Networking is about going out there, finding out more about others and telling them a bit about you. It is nothing more than that.
 
-**How to become better with people**
+### How to become better with people
 
 1.  **Say hello and smile.**
 
@@ -94,19 +94,19 @@ Find good buddies who will support you in your goals and vision. Focus on identi
 
 Effective learning comes down to three key things: understand your objectives (what you want to get out of it,) create the right high-level plan (strategy) and execute well (tactics).
 
-**Objectives**
+### Objectives
 
-Your brain likes anchors--specific points or key data and information that can be used to create the basic framework of understanding. So it is important to define objectives before you start learning so that your brain has key points around which it can group other information and a way of evaluating its performance. This helps you focus and keep your concentration levels high during your studies. In addition, it creates immediate benchmarks and feedback loops. If you do not have objectives, how do you determine if you need to re-read a particular chapter? The only criterion you have in such a situation is whether you feel that you understand the material or not. That is a pretty unreliable benchmark.
+Your brain likes anchors—specific points or key data and information that can be used to create the basic framework of understanding. So it is important to define objectives before you start learning so that your brain has key points around which it can group other information and a way of evaluating its performance. This helps you focus and keep your concentration levels high during your studies. In addition, it creates immediate benchmarks and feedback loops. If you do not have objectives, how do you determine if you need to re-read a particular chapter? The only criterion you have in such a situation is whether you feel that you understand the material or not. That is a pretty unreliable benchmark.
 
-**Strategy**
+### Strategy
 
-Strategic planning is about mapping out the journey ahead and setting clear expectations in order to ensure a smooth, effective execution later on. To be more specific – once you have decided on your objectives, you need to use these to create the right strategy for learning the material. Always consider the big picture first. Decide on deadlines and benchmarks. Divide the work into smaller pieces--this has the added benefit of making it feel like you are learning effortlessly. If you, for example, set aside just 15–30 min every day as opposed to two hours thrice a week, learning will eventually feel much easier and much less like hard work. Develop a deliberate practice plan, rather than a hardworking one. Continue evaluating whether you are learning effectively, and adjust the course if necessary.
+Strategic planning is about mapping out the journey ahead and setting clear expectations in order to ensure a smooth, effective execution later on. To be more specific – once you have decided on your objectives, you need to use these to create the right strategy for learning the material. Always consider the big picture first. Decide on deadlines and benchmarks. Divide the work into smaller pieces—this has the added benefit of making it feel like you are learning effortlessly. If you, for example, set aside just 15–30 min every day as opposed to two hours thrice a week, learning will eventually feel much easier and much less like hard work. Develop a deliberate practice plan, rather than a hardworking one. Continue evaluating whether you are learning effectively, and adjust the course if necessary.
 
-**Tactics**
+### Tactics
 
 - Remove distractions and create an environment conductive to learning.
 
-- Focus on understanding and do not compromise. Thinking "I will look it up later" never works. Learning is a cumulative process--you need to build the basics first before proceeding higher.
+- Focus on understanding and do not compromise. Thinking "I will look it up later" never works. Learning is a cumulative process—you need to build the basics first before proceeding higher.
 
 - Develop intuition, particularly in technical subjects. You have to be able to visualise the entire idea in plain language, with examples that a child could understand.
 

@@ -12,11 +12,11 @@ A brief pause will help you make a smarter next move.
 
 "The key is cognitive control of the amygdala by the prefrontal cortex," Dr. Gordon told me. So I asked him how we could help our prefrontal cortex win the war. He paused for a minute and then answered, "If you take a breath and delay your action, you give the prefrontal cortex time to control the emotional response." Why a breath? "Slowing down your breath has a direct calming effect on your brain." "How long do we have to stall?" I asked. "How much time does our prefrontal cortex need to overcome our amygdala?" "Not long. A second or two."
 
-Regular rest stops are useful interruptions. They will refuel your body and mind, naturally reorient your life toward what's important to you, and create the time and space to aim your efforts more accurately. I'm not talking about a stop as much as a ritual of self-imposed brief and strategic interruptions. A series of pauses to ask yourself a few important questions, to listen to the answers that arise, and to open yourself to making some changes--maybe big ones, maybe small ones--that will help you run strongly. That will ensure you're running the right race. And running it the right way. That will position you to win.
+Regular rest stops are useful interruptions. They will refuel your body and mind, naturally reorient your life toward what's important to you, and create the time and space to aim your efforts more accurately. I'm not talking about a stop as much as a ritual of self-imposed brief and strategic interruptions. A series of pauses to ask yourself a few important questions, to listen to the answers that arise, and to open yourself to making some changes—maybe big ones, maybe small ones—that will help you run strongly. That will ensure you're running the right race. And running it the right way. That will position you to win.
 
-The world changes--we change--faster than we tend to notice. To maximize your potential, you need to peer through the expectations that limit you and your choices. You need to see the world as it is--and yourself as you are.
+The world changes—we change—faster than we tend to notice. To maximize your potential, you need to peer through the expectations that limit you and your choices. You need to see the world as it is—and yourself as you are.
 
-Choose rituals that have meaning to you and do them religiously. Most important, be consistent--doing the same thing repeatedly over time solidifies your identity.
+Choose rituals that have meaning to you and do them religiously. Most important, be consistent—doing the same thing repeatedly over time solidifies your identity.
 
 Don't settle for being less than you are. It won't serve others and it won't serve you.
 
@@ -24,25 +24,25 @@ Focus on the outcome, then choose your reaction.
 event → outcome → reaction
 When an unsettling event occurs, pause before reacting. In that pause, ask yourself a single question: What is the outcome I want? Then, instead of reacting to the event, react to the outcome.
 
-There is a much cheaper, easier way to place a person--you or anyone--in a position to succeed. Ask one question: What do you do in your spare time?
+There is a much cheaper, easier way to place a person—you or anyone—in a position to succeed. Ask one question: What do you do in your spare time?
 
-People are often successful not despite their dysfunctions but because of them. Obsessions are one of the greatest telltale signs of success. Understand your obsessions and you will understand your natural motivation--the thing for which you would walk to the end of the earth.
+People are often successful not despite their dysfunctions but because of them. Obsessions are one of the greatest telltale signs of success. Understand your obsessions and you will understand your natural motivation—the thing for which you would walk to the end of the earth.
 
-Don't waste your time, your year. Spend it in a way that excites you. That teaches you new things. That introduces you to new people who see you at your natural, most excited, most powerful best. Use and develop your strengths. Use and even develop your weaknesses. Express your differences. And pursue the things you love. There's no better way to spend your year. Your year will be best spent doing work that you enjoy so much, it feels effortless. You'll always work tirelessly at your passions--hard work will feel easier.
+Don't waste your time, your year. Spend it in a way that excites you. That teaches you new things. That introduces you to new people who see you at your natural, most excited, most powerful best. Use and develop your strengths. Use and even develop your weaknesses. Express your differences. And pursue the things you love. There's no better way to spend your year. Your year will be best spent doing work that you enjoy so much, it feels effortless. You'll always work tirelessly at your passions—hard work will feel easier.
 
 Want to increase your own performance? Set high goals where you have a 50 to 70 percent chance of success. According to the late David McClelland, psychologist and Harvard researcher, that's the sweet spot for high achievers. Then, when you fail half the time, figure out what you should do differently and try again. That's practice. And, as we saw earlier, ten thousand hours of that kind of practice will make you an expert in anything. No matter where you start.
 
 Instead of worrying about what life is going to be like tomorrow, focus on these three things today. Answer these three questions:
 
-1.  Are you working on something meaningful and challenging--something for which you have about a 50 percent chance of succeeding?
+1.  Are you working on something meaningful and challenging—something for which you have about a 50 percent chance of succeeding?
 
-2.  Are you relating to other people at work or socially--people you like and to whom you feel close?
+2.  Are you relating to other people at work or socially—people you like and to whom you feel close?
 
-3.  Do you feel recognized for the work you are doing--paid or unpaid? Can you influence decisions and outcomes?
+3.  Do you feel recognized for the work you are doing—paid or unpaid? Can you influence decisions and outcomes?
 
 If the answer is yes in each case, great. You'll be motivated. Wherever it's not, create those opportunities immediately. Make sure you have clear goals and the autonomy to achieve them. Make sure you are working on something you find challenging and interesting. And find opportunities to collaborate (and celebrate) with others.
 
-Sound contrived? Maybe. But it still works. And sometimes it takes some contriving to get what you want. Especially if the future is uncertain, your goals are not clear, and you feel paralyzed in terms of moving forward. Perhaps you don't know exactly what this next year should be about. Perhaps you're not crystal clear about your goals for the year or what you want to achieve. That's okay. As long as you create the right environment--one in which you feel challenged, loved, and respected--then you'll be motivated enough to keep moving in the right direction. Even without a plan. Even without a destination.
+Sound contrived? Maybe. But it still works. And sometimes it takes some contriving to get what you want. Especially if the future is uncertain, your goals are not clear, and you feel paralyzed in terms of moving forward. Perhaps you don't know exactly what this next year should be about. Perhaps you're not crystal clear about your goals for the year or what you want to achieve. That's okay. As long as you create the right environment—one in which you feel challenged, loved, and respected—then you'll be motivated enough to keep moving in the right direction. Even without a plan. Even without a destination.
 
 The time to judge your successes or failures is never.
 
@@ -64,11 +64,11 @@ Don't fight yourself to change your behavior in the midst of the wrong environme
 
 You need to be motivated for only a few seconds. Know when you're vulnerable and you'll know when you need to turn it on.
 
-Fear can be a useful catalyst to change--then pleasure sustains it. If you need help getting yourself going, don't choose one or the other. Choose one before the other.
+Fear can be a useful catalyst to change—then pleasure sustains it. If you need help getting yourself going, don't choose one or the other. Choose one before the other.
 
 People tend to think of themselves as stories. When you interact with someone, you're playing a role in her story. And whatever you do, or whatever she does, or whatever you want her to do, needs to fit into that story in some satisfying way. When you want something from someone, ask yourself what story that person is trying to tell about herself or himself, and then make sure your role and actions are enhancing that story in the right way.
 
-A good story--one you feel deeply about and in which you see yourself--is tremendously motivating. Make sure the story you tell about yourself (sometimes only to yourself) inspires you to move in the direction you want to move.
+A good story—one you feel deeply about and in which you see yourself—is tremendously motivating. Make sure the story you tell about yourself (sometimes only to yourself) inspires you to move in the direction you want to move.
 
 Your mind can help you move forward or can get in the way. Choose the fantasy world that supports you.
 
@@ -80,13 +80,13 @@ I propose a little test that every commitment should pass before you agree to it
 
 3.  Do I have enough information?
 
-If the request fails the test--if the answer to any one of these questions is no--then don't do it. Pass it to someone else (the right person), schedule it for another time (the right time), or wait until you have the information you need (either you or someone else needs to get it).
+If the request fails the test—if the answer to any one of these questions is no—then don't do it. Pass it to someone else (the right person), schedule it for another time (the right time), or wait until you have the information you need (either you or someone else needs to get it).
 
 Don't wait too long to bring something up. People can only respect boundaries they know are there. The first time someone does something that makes me feel uncomfortable, I simply notice it. The second time, I acknowledge that the first time was not an isolated event or an accident but a potential pattern, and I begin to observe more closely and plan my response. The third time? The third time I always speak to the person about it. It's my rule of three.
 
-When you shorten transition time, you create a boundary that helps you and others adjust to a new reality. If there's something you need to do that you find difficult--writing a proposal, having an unpleasant conversation with someone, or doing any work you consider unpleasant--try doing it first thing in the morning so you minimize the time you have to think about it.
+When you shorten transition time, you create a boundary that helps you and others adjust to a new reality. If there's something you need to do that you find difficult—writing a proposal, having an unpleasant conversation with someone, or doing any work you consider unpleasant—try doing it first thing in the morning so you minimize the time you have to think about it.
 
-When you take vacation--or any other time you want to be undisturbed--schedule a specific time to take care of the things that would otherwise creep into each and every available moment.
+When you take vacation—or any other time you want to be undisturbed—schedule a specific time to take care of the things that would otherwise creep into each and every available moment.
 
 We don't actually multitask. We switch-task. And it's inefficient, unproductive, and sometimes even dangerous. Resist the temptation. How do we resist the temptation to multitask? First, the obvious: The best way to avoid interruptions is to turn them off. Second, the less obvious: Use your loss of patience to your advantage. Create unrealistically short deadlines. Cut all meetings in half. Give yourself one-third the time you think you need to accomplish something. Because there's nothing like a deadline to keep things moving. And when things are moving fast, we can't help but focus on them.
 

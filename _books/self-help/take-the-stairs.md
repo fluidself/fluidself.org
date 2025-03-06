@@ -5,7 +5,7 @@ slug: take-the-stairs
 title: 'Take the Stairs: 7 Steps to Achieving True Success - by Rory Vaden'
 ---
 
-**Commit to the Ridiculous**
+### Commit to the Ridiculous
 
 How committed are you to changing your life for the better? What are you willing to sacrifice?
 
@@ -31,7 +31,7 @@ Changing from the question "Should I?" to "How will I?" is the mind-set shift th
 
 If you are at a pivot point in your life and you truly want to make a change, then you must act now. You must increase the stakes, raise the price, and increase the amount of time and money you are investing into whatever it is that matters to you. Because if you don’t shift from "I'm not sure yet" to "I am in for good," then you are already naturally slipping back into doing things the way you have always done them. And realize that indecision often costs you more than the wrong decision does. Or as my friend and pastor at Cross Point Church in Nashville, Pete Wilson, says, "The cost of missing out is more than the cost of messing up."
 
-**Crush It Where You’re At**
+### Crush It Where You’re At
 
 "Rory, when do I know if I should leave to try something new?"
 
@@ -39,7 +39,7 @@ If you’re not maximizing your potential where you are, then you can never know
 
 So, you must crush it where you’re at. You must dominate whatever it is that you are doing. You must do everything in your power to reach the top of whatever game it is you are playing. Because if you don’t, then you are not a successful person looking for a new challenge to take on; you’re a person with conditional commitment looking for a new set of circumstances, and most likely starting the same self-defeating pattern all over again. Success isn’t a matter of circumstance; it’s a matter of choice. Finding new circumstances won’t make you successful, but making new choices will.
 
-**Focus: The Magnification Principle**
+### Focus: The Magnification Principle
 
 I was engaged in activities all day, but I wasn’t making progress. I was being efficient, but I wasn’t being effective. I was doing things right, but I wasn’t doing the right things. As the old anonymous quote goes, "In the absence of disciplined focus, we become strangely loyal to performing daily acts of trivia."
 
@@ -51,11 +51,11 @@ Peace of mind comes from falling in love with the fact that there is simply and 
 
 The amount of your endurance, and the intensity of your focus, is directly proportionate to the clarity of your vision.
 
-**Integrity: The Creation Principle**
+### Integrity: The Creation Principle
 
 The Creation Principle of Integrity states that all of creation follows a simple and powerful pattern: You think it, you speak it, you act it, it happens.
 
-**Positive Ways to Strengthen Your Word**
+### Positive Ways to Strengthen Your Word
 
 - Inventing Possibility. What changes do you want to bring about in your life? Start small, and as you gain confidence, you can make bigger and bigger verbal commitments.
 - Expressing Gratitude.
@@ -63,7 +63,7 @@ The Creation Principle of Integrity states that all of creation follows a simple
 - Seeing People for Who They Can Become
 - Holding People Accountable.
 
-**Negative Ways to Weaken Your Word**
+### Negative Ways to Weaken Your Word
 
 - Breaking Our Promises.
 - Uncontrolled Language. Are you considerate of how your words are affecting the people around you?
@@ -73,7 +73,7 @@ The Creation Principle of Integrity states that all of creation follows a simple
 - Using Too Many Words.
 - Intellectual Dishonesty. Intellectual dishonesty is simply allowing someone to believe something that you know is not true. Intellectual dishonesty is tricky to spot because it’s not something that you say; it’s what you don’t say.
 
-**Schedule: The Harvest Principle**
+### Schedule: The Harvest Principle
 
 The law of the harvest says: Focused effort is amplified by appropriate timing and regimented routine.
 
@@ -83,7 +83,7 @@ The biggest problem with the notion of balance is that it causes us to ask the w
 
 Instead of asking ourselves, "How can I fit more in?" we should be asking, "What season(s) is my life in right now, when is the right time to be completing its associated activities, and what are the right things I need to do to maximize my harvest of this season?" Focused effort is amplified by appropriate timing and regimented routine.
 
-**Double-Time Part Time for Full-Time Free Time**
+### Double-Time Part Time for Full-Time Free Time
 
 A healthy approach to time management in the twenty-first century is one that asks, "Is what I’m doing right now the best use of my time at this moment? Am I accomplishing the most important item at the most opportune time?" Instead of trying to do a lot of things equally at once for the sake of doing a little bit of everything, it is better to be selecting one or a few of the most critical priorities and effectively imbalancing your life in the direction of the most timely. Of course, what is timely and what is most important are constantly shuffling and changing according to each of the areas of our daily lives.
 
@@ -91,7 +91,7 @@ Don’t allow yourself the indulgence of saying, "I’m too busy." The moment yo
 
 Get relentless about putting your self-esteem into your work habits instead of your results.
 
-**Action: The Pendulum Principle**
+### Action: The Pendulum Principle
 
 You are much more likely to act your way into healthy thinking than to think your way into healthy acting. — Roger Seip
 

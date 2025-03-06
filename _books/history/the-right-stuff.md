@@ -15,7 +15,7 @@ Manliness, manhood, manly courage... there was something ancient, primordial, ir
 
 Reporters violated the invisible walls of the fraternity. They blurted out questions and spoke boorish words about... all the unspoken things!—about fear and bravery (they would say the words!) and how you felt at such-and-such a moment! It was obscene! They presumed a knowledge and an intimacy they did not have and had no right to.
 
-**Single combat**
+### Single combat
 
 Just as the Soviet success in putting Sputniks into orbit around the earth revived long-buried superstitions about the power of heavenly bodies and the fear of hostile control of the heavens, so did the creation of astronauts and a “manned space program” bring back to life one of the ancient superstitions of warfare. Single combat had been common throughout the world in the pre-Christian era and endured in some places through the Middle Ages. In single combat the mightiest soldier of one army would fight the mightiest soldier of the other army as a substitute for a pitched battle between the entire forces. In some cases the combat would pit small teams of warriors against one another. Single combat was not seen as a humanitarian substitute for wholesale slaughter until late in its history. That was a Christian reinterpretation of the practice. Originally it had a magical meaning. In ancient China, first the champion warriors would fight to the death as a “testing of fate,” and then the entire armies would fight, emboldened or demoralized by the outcome of the single combat.
 

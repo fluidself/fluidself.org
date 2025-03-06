@@ -11,7 +11,7 @@ If you don't prioritise your life, someone else will.
 
 **Decision fatigue:** the more choices we are forced to make, the more the quality of our decisions deteriorates.
 
-**ESSENCE**
+### ESSENCE
 
 There are three deeply entrenched assumptions we must conquer to live the way of the Essentialist: "I have to," "It's all important," and "I can do both." To embrace the essence of Essentialism requires we replace these false assumptions with three core truths: "I choose to," "Only a few things really matter," and "I can do anything but not everything."
 
@@ -19,7 +19,7 @@ There are three deeply entrenched assumptions we must conquer to live the way of
 
 A non-Essentialist approaches every trade-off by asking, "How can I do both?" Essentialists ask the tougher but ultimately more liberating question, "Which problem do I want?" An Essentialist makes trade-offs deliberately. She acts for herself rather than waiting to be acted upon. As economist Thomas Sowell wrote: "There are no solutions. There are only trade-offs." Essentialists see trade-offs as an inherent part of life, not as an inherently negative part of life. Instead of asking, "What do I have to give up?" they ask, "What do I want to go big on?" The cumulative impact of this small change in thinking can be profound.
 
-**EXPLORE**
+### EXPLORE
 
 An Essentialist focuses the way our eyes focus; not by fixating on something but by constantly adjusting and adapting to the field of vision.
 
@@ -31,13 +31,13 @@ One practice I've found useful is simply to read something from classic literatu
 
 "If the answer isn't a definite yes then it should be a no." You can think of this as the 90 Per Cent Rule, and it's one you can apply to just about every decision or dilemma. As you evaluate an option, think about the single most important criterion for that decision, and then simply give the option a score between 0 and 100. If you rate it any lower than 90 per cent, then automatically change the rating to 0 and simply reject it. This way you avoid getting caught up in indecision, or worse, getting stuck with the 60s or 70s. Think about how you'd feel if you scored a 65 on some test. Why would you deliberately choose to feel that way about an important choice in your life?
 
-**EXECUTE**
+### EXECUTE
 
 The Essentialist looks ahead. She plans. She prepares for different contingencies. She expects the unexpected. She creates a **buffer** to prepare for the unforeseen, thus giving herself some wiggle room when things come up, as they inevitably do.
 
 **Use extreme preparation.** Add 50 percent to your time estimate. Conduct scenario planning.
 
-**Bring forth more by removing obstacles.**
+### Bring forth more by removing obstacles.
 
 1.  Be clear about the essential intent.
 
@@ -47,4 +47,4 @@ The Essentialist looks ahead. She plans. She prepares for different contingencie
 
 **The power of small wins.** Focus on minimal viable progress. Do the minimal viable preparation. Visually reward progress.
 
-**The genius of routine.** Routine, in an intelligent man, is a sign of ambition. --W. H. Auden
+**The genius of routine.** Routine, in an intelligent man, is a sign of ambition. —W. H. Auden

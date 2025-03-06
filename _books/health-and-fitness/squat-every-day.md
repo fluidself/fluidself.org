@@ -6,7 +6,7 @@ title: 'Squat Every Day: Thoughts on Overtraining and Recovery in Strength Train
   - by Matt Perryman'
 ---
 
-**THEORY**
+## THEORY
 
 Strength isn't always built through raw muscle bulk. Strength sports aren't bodybuilding. Strength means lifting things. Powerlifters, Olympic weightlifters and strongmen all need to pick things up and move them around. The exercises are different, but the better you are at moving heavy things, the better you perform. What better way to get better than to spend time practicing your sport?
 
@@ -20,7 +20,7 @@ The more quality work you do in training, the more your whole body ― muscles, 
 
 The powerlifters that have traditionally done the best in minimal gear, at lighter body weights, and under strict judging have always had more in common with Olymplic lifters than the current popular image of powerlifters.
 
-**Complexity**
+### Complexity
 
 Simple cause-and-effect thinking has no place in the study of living beings. Causes and effects smear out over networks where each piece effects, and is effected by, tens, hundreds, or thousands of other pieces. The patterns that define our bodies are complex. Complex systems have some interesting properties. Their patterns are inherently unstable, intrinsically variable, having no easily identified chains of causes and effects as we would expect in a factory. Despite all this volatility and uncertainty, these patterns can remain stable over long periods of time and are resilient in the face of all kinds of perturbations. These are all features that have obvious implications for how we train, let alone how we eat and live our lives. Unfortunately recreational exercisers, bodybuilders, and let's face it, most strength & conditioning experts and athletes, love to get hung up on details. We still think of the body as a collection of linear systems that we can tug on and pry apart. Every time someone asks what's most important or worries about whether a hormone is optimally stimulated, you're seeing reductionist thinking in action. Whenever that comes up, just remember: Biology Is Not Like That.
 
@@ -28,7 +28,7 @@ Allostasis is stability through change, the flexibility that living organisms ne
 
 The stability-via-change dance of allostasis leaves supercompensation theory in an awkward position. No depleted biomolecules to trigger the supercompensation effect. No exhaustion of stress hormones to leave you overtrained. That also means a lot of things the textbooks tell us about recovery could stand a revision. Supercompensation isn't exactly wrong, but it's not quite right-enough either.
 
-**Recovery vs Overtraining**
+### Recovery vs Overtraining
 
 "Recoveredness" isn't about muscles or the CNS or any of the pieces. It's about the accumulated disorder across your whole body relative to your current fitness level. While I enjoy some good navel-gazing over biology, we also have to ask if the shift from a focus on bodily exhaustion to a focus on the altered behavior of coping systems really makes any difference. If your body's so stressed out that it's not working right, and our mood and gym performance reflect that, does it really matter that we're not technically exhausted?
 
@@ -56,13 +56,13 @@ When you feel sore, achy, warm in the day or two after a hard workout, that's th
 
 The "superadaptation" concept: the idea that the adaptive processes can, themselves, adapt. I think we should treat the psychological as we treat the muscular and neural, as another quality to train. The "fatigue" response isn't the enemy but another target of our training.
 
-**HRV**
+### HRV
 
 We're given a limited and naive view of recovery. The "feel bad" and the wacky hormones and HRV measurements aren't, by themselves, any indication that you've overtrained. You need to see when these symptoms happen and how long they last. They might go away. They might persist through your entire training cycle and then vanish after recovery during a deloading week. From day to day and week to week performance and stress-mode have little overlap. Where monitoring comes in handy, is in seeing when and how the stress-mode happens. If you've just made a change in training, maybe hit a new PR or added more volume, and you get a blip of autonomic disruption, then it's worth waiting to see what happens. If your lifestyle changes suddenly and you're more focused throughout the day, getting less sleep, or whatever else, it's worth waiting to see what happens. Monitoring your autonomic responses over time helps you make sure that increased workloads are "adaptable", and if not, that you take breaks to let everything settle down.
 
 HRV isn't limited to measuring purely physical stress. Research showing that HRV can also detect the autonomic disruption caused by ego depletion. If you're zapped after a 12-hour drive or a hard day of sitting through meetings, you may not have the fight in you to have a spectacular workout and HRV will reflect that.
 
-**Responsiveness**
+### Responsiveness
 
 If you don't respond to brief, intense, and infrequent, then maybe you need to think practice. Practice builds proficiency with lots of repetition at the edge of our limits. Forget about hammering your poor body into submission. Coax it and nurture it through consistency and repetition. Aim to do as much quality work as possible. This is what daily lifting is all about. The more often you practice training, and training heavy, the better you become at it.
 
@@ -74,7 +74,7 @@ V.S. Ramachandran speaks of the "James Bond reflex", in which the emotions are i
 
 Psychology matters. Where you sit relative to the avoidant introvert or sensation-seeking extrovert, or between the neurotic high-reactor or sedate normal-reactor, impacts your life. Your intuitions, your gut feelings, your instinctive reactions, that all influences your physical state. Your mind lays the foundation for subsequent physical responses. What isn't so clear is which ― or how much ― of those tendencies are fixed, and what can be cultivated with effort. Plasticity means that nothing need be set in stone and many traits we've taken for granted as fixed actually can be changed with the right set of circumstances. If you train hard and often, will your mind and body trend towards a more stress-tolerant, fatigue-resistant mode? I think so. Training often conditions you to train often. We can train our whole psycho-biological system to handle brief, intense, and frequent stress events, to take the edge off and remove their destructive power.
 
-**RPE**
+### RPE
 
 A maximum effort anchors the top of the scale with a score of 10, which would be a best-right-now lift without the possibility of another unassisted rep. A nine leaves you with one or two reps, still hard but staying just shy of maximum. An eight leaves you with 2-4 possible reps ― heavy but comfortable ― while a seven qualifies as speed work, only felt as "hard" when you focus on acceleration. RPE measures quality. Lifts with RPE scores of 7-9 could be described as smooth, crisp, or springy, whereas a more fatiguing lift in the 9-10 range brings to mind words like grinding and straining. One rep or twenty, you can rate any set according to how hard it felt.
 
@@ -84,7 +84,7 @@ Single reps maximize the quality we're after. With only the one rep to worry abo
 
 Training with quality – heavy but smooth – keeps you fresh and in control of the weight.
 
-**Daily Max**
+### Daily Max
 
 If the weight you're lifting on the regular isn't treated as a threat by your body's coping systems, then you are avoiding most of the problems of ‘recovery'. Hitting a daily minimum won't do that. All the daily max does, then, is give you the option to tinker with the heaviest weight on the day. Specifically, the daily max method tests the maximum weight we can handle without getting mentally wound up.
 
@@ -92,7 +92,7 @@ Going by the RTS scale, you'll want most of your reps to fall in the 8-9 range, 
 
 This is not to suggest that these workouts are "easy". This is still good old fashioned hard work, and that's how the magic of daily training happens. Work hard, and keep your eyes open for opportunities ― whether that means a PR or an opportunity for a light day. So there's your plan: go hit a daily minimum and come home. After you've done that for a month, start tinkering with a daily max. This should translate to an RPE of no more than 8 or 9. When RPEs stay low and all your reps have snap, you can keep working up. When difficulty takes a jump, you're done. It's that simple.
 
-**Apollonian vs Dionysian**
+### Apollonian vs Dionysian
 
 It might help if you think of your body as more like a garden than a factory. If you try to manage your garden like a factory, you probably aren't getting much of a crop. Gardens require tending rather than intrusive management. Tending a garden means guiding along processes which, for their intended purposes, are far smarter than you could ever be. Respect the garden's nature as an organic, fluid, adaptable system and it will flourish. Your job is to guide the ship, so to speak, to provide direction. That's how we need to envision the entire process of training for self-improvement, whether that means strength, muscle mass, or improving body composition to look better.
 
@@ -106,19 +106,19 @@ You don't always see the best improvements by aiming for small increments and me
 
 A shocking number of people have it in their heads that running head-first into the wall of a maxed-out lift is the way to get stronger. All that does is wear you down and destroy your motivation. By thinking in terms of "lots of training" and contrasts between ups and downs, none of that even matters. When you're squatting 5-6 days a week, a bad workout is nothing. So you've had a bad day? You're coming back tomorrow. You've totally removed your mental investment in any single session. On a 12-week cycle, a bad workout can be ruinous. When you're auto-regulating on a regular basis, mistakes are painless. No single workout is that important; you can absorb a screw-up and still benefit from it. This approach to performance improvement, ditching the Apollonian in favor of the reckless and unpredictable Dionysian – exploiting the contrast between highs and lows – is what I've taken to calling the Longtails Strategy.
 
-**Longtails Strategy**
+### Longtails Strategy
 
 We'll be putting the asymmetry between brief, stressful effort and cool relaxation to work. Our mindset needs to be thus: Light is light. Heavy is heavy. The middle ground is best avoided. These terms are vague at best, so let me clarify that I'm talking about a somewhat less vague idea which I'll call training effectiveness. Training effectiveness is all the effortful things about the workout. Heavy weights count. High reps taken to the limit, even as high as 20-30 or more, count. Anything involving mental effort, grinding, and straining ― and lots of it ― would be a "heavy" workout by this standard. A light workout would fall on the other side of the continuum: medium to light weights, lower volume, and most importantly, only lightly tapping into the mental-neurological stuff. You'd be tempted to call that "easy" training, but that's not the route I want to go. "Easy" gives the impression that these workouts are useless or somehow not manly enough to be productive, but I don't believe that to be the case. The effort dimension and the actual fitness-promoting effects on the body are two different things. You're still moving in a light workout; nerves are firing and muscles are contracting. Training effectiveness, as I mean it here, can be summarized as the net effect on your body, which is maximized by exhausting yourself with straining, grinding effort. A light workout would score very low, whereas a heavy workout would be high. In that sense, we're trying to tie it back to our emotional state. You need to be able to train without emotional effort most of time, and then to intentionally drop adrenaline on days you're good for it. Most of you will naturally want to do the latter, all the time, when in reality we need to learn to do what Dan John calls "punching the clock" for the bulk of our workouts.
 
-**PRACTICE**
+## PRACTICE
 
-**Daily Squatting: What I Did**
+### Daily Squatting: What I Did
 
 My workouts were set up to focus on two main exercises, which were a squat and a press, and then anywhere from one to three accessory moves depending on my motivation and energy level. It was almost always one upper-back exercise, either chin-ups or dumbbell rows, and then if I felt like it, a few sets for arms. Back squats and bench presses were the bread and butter, with front squats making an easy substitution if I wanted a lighter day. Also, if you have any concern about your overhead pressing strength ― and I did ― you might want to rotate it in as well. I alternated days between push press and bench. The first time I ran through this, I alternated back and front squats, as well as bench and overhead presses, each workout, for a total of five days a week. I found this made for a nice heavy-light contrast between days. In a later cycle, I stuck to back squats but alternated between belted and non-belted lifts as a way of tinkering with the daily effort levels.
 
 I aimed for the daily max as I outlined in the last chapter, and it quickly turned into a focus more on the daily minimum ― after a week or two, I knew what I'd be able to hit as a "no-brainer" weight for the day, and I always made that my benchmark. If I could do more, I would. If I wasn't feeling so hot, I'd hit it and call it done. When that weight wasn't on the table, because I was achy or just couldn't get the juice to switch on (you will come to know what this means), it meant I needed a couple of days off.
 
-**Ramping It Up**
+### Ramping It Up
 
 1.  The "small jumps" approach gets in a lot of volume, easily 10-12 sets before you get anywhere near daily-max territory. I found this was useful for building "strength fitness", since the small change in weight combined with low reps means you don't have to (or want to) rest very long. If you're doing this every day, though, it can get boring, and sometimes you don't want to go through all the motions.
 
@@ -128,7 +128,7 @@ Which do you pick? I think that big jumps are best when you're going hard-out, h
 
 I found it was better to cap the reps at say 5-6 on the light weights, maybe as much as ten with the bar, and then limit it to triples on anything beyond the first plate or two (if you're a lot stronger). You make up for that by doing multiple sets at each weight.
 
-**Wave Loading**
+### Wave Loading
 
 The Bulgarian weightlifters used a series of waved attempts up to the daily training max, which set the bar for the day (so to speak), then backed off for a few sets and then moved back up to that training max for a few more attempts. This would be repeated two or three times at each workout, much as below:
 
@@ -142,13 +142,13 @@ With the Bulgarian waves, I was getting a lot of training max singles, and then 
 
 I think the best option is to wave your back-off sets. Instead of backing down to -20kg and grinding out sets at that weight, change the weight each set. Do a triple at -20, then a double at -10, and alternate like that. You might want to work back up to the max again, or you might not.
 
-**Back Off Sets**
+### Back Off Sets
 
 I always tried to hit at least 2-3 back-off sets unless I was totally wiped out. I'd just take 15-30kg off the bar and try to knock out some triples. How many? It always depended on how the daily max went. I found that I'd have days where the top lift would be mediocre, but I was able to crank the volume. Other days the opposite would be true.
 
 Pushing back-off sets too soon will take you bad places. Always be conservative; if you aren't sure, the answer is no. Like the daily max itself, the volume of back-off sets needs to ease in slowly. Be consistent and it will come to you. If in doubt, the answer is no.
 
-**Anchor Days, Higher Reps, and Split Schedules**
+### Anchor Days, Higher Reps, and Split Schedules
 
 Some days will feel like "intensity" days, when you want to push the top weights. Others will be more "volume" days, where you stay easy on the top weights but hammer out the back-off work. If you find you've got a day that consistently pops up as a "high energy" day, you might want to anchor it and leave it as your PR day. It doesn't matter what you do; pick something on the day that feels right, and try to beat your previous record.
 
@@ -158,7 +158,7 @@ Cluster-reps, like Borge Fagerli's Myo-Reps, would be a good fit as you can tink
 
 If you aren't totally sold on squatting and pressing every single day, the easiest change you can make that will still keep you in the ballpark is a two-way split. Popular choices would be upper and lower body, hitting bench and overheads and then squats and pulls, or pushing and pulling, hitting squats and pressing followed by pulling and back assistance. You could train six days each week, so that each one day is repeated three times, or if you don't care about days off, just alternate back and forth until you need or want a day off. I haven't toyed with either long enough to say which I like best, although the push-pull type of split is similar to what I wound up doing anyway. The main difference is that you'd get more pulling, since you'd have three ‘pull' workouts instead of throwing them in as subs for squats, and less overhead pressing, since it would have to work with benching. Honestly, nothing would stop you from using a simple squat/bench and overhead/pull split, and I think that would be a good choice.
 
-**Dealing with the Deadlift**
+### Dealing with the Deadlift
 
 Being at once redundant with squatting and entirely different in how it responds, the deadlift is hard to mesh with a daily squatting program. I've tried two solutions, neither of which is entirely satisfying, but each is worth trying for your own sake.
 
@@ -172,7 +172,7 @@ When using a planned max, be careful about taking attempts over that weight even
 
 I think that, like most everything else, you'll benefit the most from cycling in between squat-focused and deadlift-focused phases.
 
-**How to Ease In**
+### How to Ease In
 
 When you first begin, you'll face two hurdles, and both of them are more mental than physical.
 
@@ -182,7 +182,7 @@ When you first begin, you'll face two hurdles, and both of them are more mental 
 
 There are two approaches to take when jumping in to higher frequency. The slow and gradual approach has you add sessions over months, and only when your volume gets high enough do you let it spill over into an extra workout. And then there's the head-first approach, in which you jump right in to five, six, or seven days a week. This has the advantage of quickly adapting you to the frequency, at the cost of extra soreness and probably a few weeks of diminished strength. If you're after longevity and planning out over a career, the slow and steady approach is worth keeping in mind. I favor the second approach if you want to give daily squatting a try for shorter training cycles. Frequent loading needs its own adjustment, and there's no real way to get your toes wet without going all in.
 
-**Dark Times**
+### Dark Times
 
 No matter how well you manage your training and keep your stress in check, you might find that you hit a wall after 4-6 months of training. It won't be physical. You might notice that you feel more soreness than usual, maybe the aches and pains acting up a little more, maybe some nagging tendinitis. Otherwise you feel good, without any of the expected "overtraining" feelings, but the spark's gone. You're just sick of training. When that happens, I think that you're as close as you'll get to genuine overtraining by way of lifting weights. You lose the desire to go to the gym, you have no motivation to train. You've gone stale when, just a few days before, you were ready to go squat. When this happens after several months of high workloads, you can almost bet that you're dabbling with emotional exhaustion. You're literally sick of training.
 
@@ -196,7 +196,7 @@ I don't believe that any single HRV measurement tells you much, as per the curre
 
 Over time, not keeping your tendons mobile and loaded after strenuous exercise can actually make them weaker. This means that Broz was largely right. Training hard but only infrequently, with the goal of "getting more rest", actually aggravates joint and connective tissue injuries, doing the exact opposite of what's needed to keep them healthy.
 
-**Be Easy: A Warning for Beginners and Everyone Else**
+### Be Easy: A Warning for Beginners and Everyone Else
 
 Some things can't be learned by telling. Some things require a total change of perspective, so completely rewire and reframe your thoughts, that they can only happen with direct experience ― or hindsight. Raw information doesn't mean a thing without the right perspective. Information can be taught. Perspective must come from experience. For the more cynical take, we can't learn except for screwing up.
 
@@ -206,7 +206,7 @@ Strength is built on a foundation of muscle. "Neural" training works by squeezin
 
 You aren't tuned in to your body, and even if you are, you're more likely to ignore it and train by your ego. If you can't train patiently, really spend time introspecting and learning when it's go-time, and when it's time to go home, then you are going to fail if you try to lift every day. You will overestimate what you can do, push too hard, and burn yourself out. You haven't learned how to train, and no amount of good intentions will overcome that. If that describes you ― and I mean really, honestly describes you ― then you have no business using many of the ideas I've put forth. You can begin the process, make a habit of paying attention to how your sets feel and writing down RPEs so that you learn how you respond. You can practice "training calm" and learning to feel out the difference between an emotional lift and a casual effort. But training every day, for the beginner, tends to be an exercise in ego rather than productive, progressive training. You probably won't listen ― Younger Me wouldn't have ― but I had to say it.
 
-**Mind**
+### Mind
 
 This book has, in its own way, been about what you believe as much as what you do. Whether you believe that you're in charge and responsible for your results, or the product of favorable statistical outcomes. Whether you believe that overtraining is a crippling malady best avoided and thus justifying plenty of rest, or it's just a transient sensation that goes away with practice. Whether you believe you can get stronger by thinking "practice" instead of "destroy". Whether you focus on every last detail or just go get it done.
 

@@ -5,9 +5,9 @@ slug: power-and-prediction
 title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligence - by Ajay Agrawal, Joshua Gans, Avi Goldfarb'
 ---
 
-**Part One: The Between Times**
+## Part One: The Between Times
 
-**A Parable of Three Entrepreneurs**
+### A Parable of Three Entrepreneurs
 
 - The parable of the three entrepreneurs, set over a hundred years ago and focused on the market for energy, illustrates how different entrepreneurs exploiting the same technology shift, from steam to electricity, can exploit different value propositions: point solutions (lower cost of power and less loss due to friction—no design change to factory system); application solutions (individual electric drives on each machine—modular machines, so the stoppage of one does not impact others; no design change to factory system); and system solutions (redesigned factories—lightweight construction, single story, workflows optimized in terms of spatial layout and flow of workers and materials).
 
@@ -15,7 +15,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Just as electricity enabled decoupling the machine from the power source and thus facilitated shifting the value proposition from “lower fuel costs” to “vastly more productive factory design,” AI enables decoupling prediction from the other aspects of a decision and thus facilitates shifting the value proposition from “lower cost of prediction” to “vastly more productive systems.”
 
-**AI’s System Future**
+### AI’s System Future
 
 - Despite the awesome predictive powers of AI, measured productivity growth has declined by half over the past decade and real income has stagnated since the late 1990s for a majority of Americans. This productivity paradox is not novel. We experienced something similar in the 1980s with computers. We call this The Between Times: after witnessing the power of AI and before its widespread adoption. Although point solutions and application solutions can be designed and implemented reasonably quickly, system solutions that will unlock AI’s vast potential take much more time.
 
@@ -23,7 +23,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - System solutions are typically harder to implement than point solutions or application solutions because the AI-enhanced decision impacts other decisions in the system. Whereas point solutions and application solutions often reinforce existing systems, system solutions, by definition, upend existing solutions and therefore often result in disruption. However, in many cases, system solutions are likely to generate the greatest overall return to investments in AI. Furthermore, system solutions are likely to cause disruption in some industries, creating winners and losers.
 
-**AI Is Prediction Technology**
+### AI Is Prediction Technology
 
 - Recent advances in AI have caused a drop in the cost of prediction. We use prediction to take information we have (e.g., data on whether past financial transactions were fraudulent) and generate data we need but don’t have (e.g., whether a current financial transaction is fraudulent). Prediction is an input to decision-making. When the cost of an input falls, we use more of it. So, as prediction becomes cheaper, we will use more AI. As the cost of prediction falls, the value of substitutes for machine prediction (e.g., human prediction) will fall. At the same time, the value of complements to machine prediction will rise. Two of the main complements to machine prediction are data and judgment. We use data to train AI models. We use judgment along with predictions to make decisions. While prediction is an expression of likelihood, judgment is an expression of desire—what we want. So, when we make a decision, we contemplate the likelihood of each possible outcome that could arise from that decision (prediction) and how much we value each outcome (judgment).
 
@@ -31,9 +31,9 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - In Prediction Machines, we introduced a thought experiment regarding Amazon’s recommendation engine. We imagined what would happen if it became increasingly accurate. At first, the tool does a better job of recommending items to customers. However, at some point it crosses a threshold where it becomes so good that the folks at Amazon could ask: “If we’re so good at predicting what our customers want, then why are we waiting for them to order it? Let’s just ship it.” Although Amazon filed a patent in the area of “anticipatory shipping,” it has not yet adopted this new business model. Why not? The original point solution—AI that provides better recommendations on the existing platform—leverages the Amazon system as is. The new model would require Amazon to redesign its system, especially regarding how it handles returns. At present, its system for returns is so costly that it often finds it more economical to throw away returned items than to restock them for sale to other customers. The threshold in our thought experiment required shifting from a point solution to a system solution. In Prediction Machines, we underappreciated the difference.
 
-**Part Two: Rules**
+## Part Two: Rules
 
-**To Decide or Not to Decide**
+### To Decide or Not to Decide
 
 - Rules are decisions that we make preemptively. Making a decision, unlike following a rule, allows us to take into account information available at the time and place of the decision. Therefore, actions resulting from decisions are often better than those resulting from rules because they can respond to the situation. So, why would we ever use rules rather than make decisions? Decisions incur a higher cognitive cost. When is the cost worth it? When the consequences are significant and when the cost of information is small. Introducing AI does not change the consequences, but it lowers the cost of information.
 
@@ -41,7 +41,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - However, rules not only incur lower cognitive costs but also enable higher reliability. One decision often impacts others. In the context of a system with interdependent decisions, reliability can be very important. For example, most organizations rely on standard operating procedures (SOPs), which are rules. SOPs reduce cognitive load and enhance reliability. If you are going to use AI prediction to turn rules into decisions, then you may need to redesign the system to account for the reduced reliability.
 
-**Hidden Uncertainty**
+### Hidden Uncertainty
 
 - It is not simply the rules themselves that represent the target of opportunity for AI-enabled decisions but the edifices and scaffolding that have built up to hide the uncertainty that leads to waste and inefficiency in the rules we have adopted.
 
@@ -49,7 +49,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - In greenhouses, AI predictions of pest infestations can be used to enhance the grower’s ability to prevent them. This is a point solution. If AI for pest prediction becomes good enough, then instead of being used as a point solution, AI could enable a system-level change. The entire structural design and workflow of the greenhouse are influenced by the risk of pest infestation. With better prediction, farmers can grow different (more pest-sensitive) crops, operate larger greenhouses, and pursue novel alternative energy-saving strategies.
 
-**Rules Are Glue**
+### Rules Are Glue
 
 - Like SOPs, checklists are the manifestation of rules and the need to follow them. They are there to ensure reliability and reduce error. The alternative is that people make decisions based on their own observations. While switching from a rule to a decision may improve the quality of that particular action, it may also create problems and uncertainty for other people.
 
@@ -57,9 +57,9 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - An example is a personalized education AI that predicts the next best content to present to a learner. Dropping this AI into a system designed around the age-based curriculum rule would stifle the benefit. In contrast, embedding the very same AI into a new system that leverages personalized (not age-based) discussion, group projects, and teacher support would likely result in a much bigger impact on overall education and personal growth and development. The primary challenge for unleashing the potential of a personalized education AI is not building the prediction model but rather unsticking education from the age-based curriculum rule that currently glues the system together.
 
-**Part Three: Systems**
+## Part Three: Systems
 
-**Glued versus Oiled Systems**
+### Glued versus Oiled Systems
 
 - We used a rule—social distancing—to manage the pandemic. This rule was expensive. It led to shutting down a significant fraction of education systems, health-care systems, and the world economy. The resultant isolation had mental health impacts that will take decades to fully comprehend. Many other rules were built around the social distancing rule, such as restaurant capacity limits, public transit protocols, school teaching methods, sporting event restrictions, wage subsidies, and emergency care procedures.
 
@@ -67,7 +67,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - In order to take advantage of prediction machines, we must often turn rules into decisions. However, the system has to be able to accommodate that change. If one rule is glued to another in order for the system to be reliable, putting a decision within that system may be fruitless. We describe a Covid-19-related example where we developed a small but oiled system, initially consisting of twelve large companies, where the CEOs directed their senior leadership teams to make information-based decisions based on predictions of employee infectiousness from rapid antigen testing. This enabled these twelve companies to keep their businesses running in an environment where the prevailing system would have likely otherwise forced a shutdown. The demonstration of this success subsequently motivated over 2,000 more organizations to adopt this system and shift from rules to decisions.
 
-**The System Mindset**
+### The System Mindset
 
 - Task-level thinking is currently the dominant approach to planning for the introduction of AI into all sectors of the economy. The main idea is to identify specific tasks in an occupation that rely on predictions that AI, rather than a human, can generate more accurately, faster, or cheaper. Corporate leaders, management consultants, and academics have largely all converged on this approach.
 
@@ -75,7 +75,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - There are many applications for AI in health care: disease diagnosis, automated surgery, at-home patient monitoring, personalized treatments, and drug discovery and repurposing. However, the health-care system has seen only a marginal benefit from AI to date. Some of that is due to the time required for regulatory approval, but much is due to the muted benefits from using AI point solutions in the existing health-care system. A system solutions approach is required to fully leverage the power of AI in health care. We must begin with a blank slate and imagine how people’s health can best be served in a freshly designed system that has access to newly powerful prediction technology. That means rethinking training, delivery procedures, compensation, privacy, and liability. That means adopting a system mindset.
 
-**The Greatest System of All**
+### The Greatest System of All
 
 - Innovations in the innovation system itself can have cascading effects downstream on many other systems. Advances in lens-grinding technology led to innovations in the personal optics market (e.g., eyeglasses) but also in the research tools market (e.g., microscopes), which enabled further innovations in the innovation system. From the microscope came the germ theory of disease, which made battling viruses and bacteria feasible and changed other aspects of medicine.
 
@@ -83,9 +83,9 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Automated hypothesis generation may enhance innovation productivity significantly. However, to fully benefit from this technology, we must reconsider the entire innovation system, not just the single step of hypothesis generation. For example, faster hypothesis generation will have little impact if the next step in the process, hypothesis testing, doesn’t change and simply creates a bottleneck downstream.
 
-**Part Four: Power**
+## Part Four: Power
 
-**Disruption and Power**
+### Disruption and Power
 
 - Incumbents can often adopt point solutions quite easily because they enable improvements in a specific decision or task without requiring changes to other related decisions or tasks. However, incumbents often struggle to adopt system-level solutions because those require changes to other related tasks and the organization has invested in optimizing those other tasks; furthermore the system solution may be inferior in some of those tasks, particularly in the short run. That sets the stage for disruption.
 
@@ -93,7 +93,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Sometimes, a system-level solution is required to fully benefit from AI. The redesign of a system may lead to a shift in power at the industry level (e.g., data-rich industries become more powerful as AI becomes more prevalent), the company level (e.g., discussed in chapter 12), or the job level (e.g., Blockbuster franchises lost power in the shift to online movie rentals and mail delivery DVDs). Those that stand to lose power will resist change. Those resistant to change often currently hold power (that’s why they resist) and therefore may be quite effective at preventing system-level change. That creates the context for disruption.
 
-**Do Machines Have Power?**
+### Do Machines Have Power?
 
 - Machines cannot make decisions. However, AI can fool people into thinking that machines make decisions. Machines can appear to decide when we are able to codify judgment. The AI generates a prediction, and then the machine draws upon codified human judgment in order to execute an action (decision).
 
@@ -101,7 +101,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Although machines do not have power, they can create power through scale, and they can reallocate power by shifting whose judgment is used where and when for decision-making. Systems predicated on AI can decouple the judgment from the decision such that it can be provided at a different time and place. If judgment shifts from individually deployed by people for each decision to instead codified into software, then this can lead to (1) scaling and consequently a shift in power due to a shift in market share, and (2) a change in who makes the decision and consequently a shift in power from whoever used to apply judgment to whoever provides it for codification or owns the system in which it is embedded.
 
-**Accumulating Power**
+### Accumulating Power
 
 - Despite the challenges of doing system-level innovation with AI, there is a good reason for initiating it sooner rather than later: AI confers an advantage on first movers because AI learns. The sooner it is deployed, the sooner it can begin to learn. The more it learns, the better it gets in terms of prediction accuracy. The better it gets, the more effective the new system is.
 
@@ -109,9 +109,9 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Feedback loops can have significant implications for system design. In order for an AI to learn, it must have access to the outcome data. For example, an educational AI system that employs a prediction of the next best content to show a learner must be designed to collect feedback as frequently as possible, to both determine whether the student has learned the material and to assess their level of engagement. So, this would not be dropping a next-best-content prediction (point solution) into the existing education system. Instead, an educational system redesign would create and collect high-frequency feedback data that is measured in minutes rather than midterms.
 
-**Part Five: How AI Disrupts**
+## Part Five: How AI Disrupts
 
-**A Great Decoupling**
+### A Great Decoupling
 
 - Prediction and judgment are the two primary ingredients for decision-making. In a decision tree, prediction generates the probability that each branch in the tree will occur. Judgment generates the payoffs associated with the outcomes at the ends of each branch. Usually, we make decisions without recognizing that the predictions and judgment are two separate inputs as they are both in the mind of the same person (the decision-maker). When we introduce AI, we shift the prediction from a person to a machine, and thus we decouple the prediction from the judgment. That may change who provides the judgment.
 
@@ -119,7 +119,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Decisions are the primary building blocks of a system. Before AI, the distinction between prediction and judgment was irrelevant from a system design perspective because both functions happen inside a single person’s mind. However, AI changes that. When we transition the prediction from a person to an AI, we can rethink the system design. If the AI is much faster and cheaper, can we do the prediction more often? Can we do it for less important decisions? Can we codify the judgment and therefore automate and scale the decision? Can we assign the judgment role to a different person or group of people who have significantly better judgment than in the prior system where judgment was constrained to the same mind that generated the prediction? The opportunity for new system design is so great because AI creates new opportunities right down at the most fundamental level: decision composition.
 
-**Thinking Probabilistically**
+### Thinking Probabilistically
 
 - AIs introduce probabilistic thinking into a system. When we investigate a car accident, we ask whether the driver saw the pedestrian before they collided. We expect a yes or no answer. We are less accustomed to dealing with “sort of” or “a bit.” Yet, that is precisely the response the AI provides. It saw something that it thought was a human approaching the road with, say, a 0.01 percent likelihood. When we introduce an AI into a system, we often transform that system from deterministic to probabilistic. Sometimes the existing system is well designed to accommodate a probabilistic input. Other times, this creates an opportunity for greatly enhanced productivity via system redesign.
 
@@ -127,7 +127,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - To fully exploit the power of AI, many applications will require newly designed system-level solutions that include not only prediction and judgment but also a regulatory function designed to assure society when systems transition from deterministic to probabilistic. We don’t know in advance how the system will behave in all scenarios because it is not hard-coded. Similar to the hard-to-verify, probabilistic pharmaceutical industry that greatly benefited from a regulatory process to assure citizens that despite risks from side effects, the benefits were overall net positive, we might need an FDA-type regulatory function that examines the machines’ decisions against an established testing framework. In many cases, this may be critical to the success of a system redesign that relies on probabilistic information.
 
-**The New Judges**
+### The New Judges
 
 - When the implementation of an AI results in decoupling prediction and judgment, there may be an opportunity to increase value creation, but that may require redesigning the system in a way that moves the locus of judgment from current decision-makers to others. When this happens, power is reallocated. Those who confer judgment ultimately decide and thus have power. New system design that leverages AI may reduce the power of certain individuals who therefore may resist change.
 
@@ -135,9 +135,9 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - New system design may concentrate power if judgment is codifiable and thus scalable. Credit card networks and radiology departments are two examples. In the case of credit card networks, power is concentrated in a few credit card companies rather than across many merchants, as was the case in the past. In the radiology case, some speculate that the key skill of pattern recognition and anomaly detection in medical images lends itself to the concentration of prediction in an AI solution. In that case, if radiologists are no longer required for their prediction skills, are they best suited to provide judgment? If not, nurses, social workers, or other trained health-care professionals may provide judgment.
 
-**Part Six: Envisaging New Systems**
+## Part Six: Envisaging New Systems
 
-**Designing Reliable Systems**
+### Designing Reliable Systems
 
 - Decisions don’t operate in a vacuum. Often, multiple other decisions or actions are influenced by the outcome of a single decision. That’s why we sometimes use predetermined decisions (rules) instead of real-time decisions because rules enhance reliability, so we accept worse localized decisions in exchange for greater reliability for the benefit of the overall system. Reliability is a key feature of systems with interdependent decisions.
 
@@ -145,7 +145,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - Systems are combinations of decisions that interact with each other. Consider a set of related binary decisions. Three decisions lead to eight different combinations. Ten interacting decisions generate 1,024 combinations, and twenty interacting decisions generate 1,048,576 combinations. Systems with interdependent decisions can get very complex very quickly. That’s why simulation is so powerful for system design. We can use digital twins to simulate different combinations and use AI to predict the outcome from each combination.
 
-**The Blank Slate**
+### The Blank Slate
 
 - Most companies have created systems comprising so many interdependent rules, along with so much associated scaffolding to manage uncertainty, that it’s difficult to think about how to undo parts of it and contemplate the new system design possibilities AI predictions afford. So, rather than thinking through the implications of changing some rules or scaffolding and how those changes will impact other parts of the system, we instead suggest starting from scratch: the blank slate. The AI Systems Discovery Canvas involves three steps: (1) articulate the mission; (2) reduce the business to the fewest possible decisions required to achieve the mission if you had super-powerful, high-fidelity AIs; and (3) specify the prediction and judgment associated with each of the primary decisions.
 
@@ -153,7 +153,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - The AI Systems Discovery Canvas can also provide insight into new business opportunities. For example, if an AI that predicts the likelihood of filing a claim multiplied by the magnitude of the claim becomes good enough such that it can generate its predictions at the peril level or the sub-peril level (e.g., a sensor to provide early detection of a heightened electrical fire risk or an increased risk of flooding from a leaky pipe), then the company could predict which risk mitigation solutions will have a high enough return on investment to warrant the cost of implementation. Then, the insurance firm could subsidize the risk mitigation device and reduce the premium, providing a whole new value proposition to the customer: risk mitigation. Not only does the insurance company transfer risk from the homeowner to the carrier, but it also reduces the risk—a valuable service the insurance industry has historically not offered except in a minority of cases. To fully exploit this opportunity requires designing a new system that is optimized for risk mitigation.
 
-**Anticipating System Change**
+### Anticipating System Change
 
 - Two economists built an AI that was superhuman in its ability to predict when someone was having a heart attack. It was cheaper, faster, and seemingly less error-prone than the average doctor in terms of both false positives and false negatives. This prediction machine could be deployed as a point solution, impacting only a single decision: whether to administer a test. The point solution application of this AI would enhance the productivity of the hospital by better allocating heart attack detection tests.
 
@@ -161,7 +161,7 @@ title: 'Power And Prediction: The Disruptive Economics of Artificial Intelligenc
 
 - A key attribute of the AI System Discovery Canvas is that it abstracts the organization to its core decisions. By doing so, it unshackles the mission of the organization, which remains fixed, from the plethora of rules and decisions associated with the status quo, which are dispensable. Designers then have freedom to imagine a multitude of different system-level solutions that could be enabled by powerful prediction machines that underpin the primary decisions. The single heart attack prediction AI could enable not one but several alternative system-level solutions. The thought process begins with identifying the key decisions, speculating on what is possible if the predictions become highly accurate, and then reimagining the types of systems that can exploit those predictions in a manner optimized for mission success.
 
-**Epilogue: AI Bias and Systems**
+### Epilogue: AI Bias and Systems
 
 - The popular narrative around AIs is that they learn human bias and amplify it. We agree and advocate for constant vigilance. Another narrative is that AI systems should not be introduced in important decisions like hiring, bank loans, insurance claims, legal rulings, and university admissions because they are opaque—we can’t see inside the black box—and they perpetuate discrimination. We disagree. We think they should be introduced in important decisions precisely because they are scrutable in a way that humans are not. We cannot effectively interrogate a human hiring manager we suspect of discrimination with thousands of questions like “Would you have hired this person if they were exactly the same, except white?” and expect an honest response. However, we can ask precisely that question, and thousands more, of an AI system and receive rapid and accurate answers.
 

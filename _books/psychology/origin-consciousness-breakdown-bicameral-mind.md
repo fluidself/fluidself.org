@@ -5,23 +5,23 @@ slug: origin-consciousness-breakdown-bicameral-mind
 title: The Origin of Consciousness in the Breakdown of the Bicameral Mind - by Julian Jaynes
 ---
 
-**The Helpless Spectator Theory**
+### The Helpless Spectator Theory
 
 This doctrine assures us consciousness does nothing at all, and in fact can do nothing. Many tough-minded experimentalists still agree with Herbert Spencer that such a downgrading of consciousness is the only view that is consistent with straight evolutionary theory. Animals are evolved; nervous systems and their mechanical reflexes increase in complexity; when some unspecified degree of nervous complexity is reached, consciousness appears, and so begins its futile course as a helpless spectator of cosmic events. What we do is completely controlled by the wiring diagram of the brain and its reflexes to external stimuli. Consciousness is not more than the heat given off by the wires, a mere epiphenomenon.
 
-**The Consciousness of Consciousness**
+### The Consciousness of Consciousness
 
 In being conscious of consciousness, we feel it is the most self-evident thing imaginable. We feel it is the defining attribute of all our waking states, our moods and affections, our memories, our thoughts, attentions, and volitions. We feel comfortably certain that consciousness is the basis of concepts, of learning and reasoning, of thought and judgment, and that it is so because it records and stores our experiences as they happen, allowing us to introspect on them and learn from them at will. We are also quite conscious that all this wonderful set of operations and contents that we call consciousness is located somewhere in the head. On critical examination, all of these statements are false. They are the costume that consciousness has been masquerading in for centuries. They are the misconceptions that have prevented a solution to the problem of the origin of consciousness.
 
 Reactivity covers all stimuli my behavior takes account of in any way, while consciousness is something quite distinct and a far less ubiquitous phenomenon. We are conscious of what we are reacting to only from time to time. And whereas reactivity can be defined behaviorally and neurologically, consciousness at the present state of knowledge cannot.
 
-**Is Consciousness Necessary?**
+### Is Consciousness Necessary?
 
 We have been brought to the conclusion that consciousness is not what we generally think it is. It is not to be confused with reactivity. It is not involved in hosts of perceptual phenomena. It is not involved in the performance of skills and often hinders their execution. It need not be involved in speaking, writing, listening, or reading. It does not copy down experience, as most people think. Consciousness is not at all involved in signal learning, and need not be involved in the learning of skills or solutions, which can go on without any consciousness whatever. It is not necessary for making judgments or in simple thinking. It is not the seat of reason, and indeed some of the most difficult instances of creative reasoning go on without any attending consciousness. And it has no location except an imaginary one!
 
 Here it is only necessary to conclude that consciousness does not make all that much difference to a lot of our activities. If our reasonings have been correct, it is perfectly possible that there could have existed a race of men who spoke, judged, reasoned, solved problems, indeed did most of the things that we do, but who were not conscious at all. This is the important and in some ways upsetting notion that we are forced to conclude at this point.
 
-**Consciousness**
+### Consciousness
 
 Understanding a thing is to arrive at a metaphor for that thing by substituting something more familiar to us. And the feeling of familiarity is the feeling of understanding.
 
@@ -33,7 +33,7 @@ Subjective conscious mind is an analog of what is called the real world. It is b
 
 Consciousness is the work of lexical metaphor. It is spun out of the concrete metaphiers of expression and their paraphiers, projecting paraphrands that exist only in the functional sense. Moreover, it goes on generating itself, each new paraphrand capable of being a metaphrand on its own, resulting in new metaphiers with their paraphiers, and so on. Of course this process is not and cannot be as haphazard as I am making it sound. The world is organized, highly organized, and the concrete metaphiers that are generating consciousness thus generate consciousness in an organized way. Hence the similarity of consciousness and the physical-behavioral world we are conscious of. And hence the structure of that world is echoed —though with certain differences—in the structure of consciousness.
 
-**The Features of Consciousness**
+### The Features of Consciousness
 
 1. **Spatialization:** We invent mind-space inside our own heads as well as the heads of others. The word invent is perhaps too strong except in the ontological sense. We rather assume these ‘spaces’ without question. They are a part of what it is to be conscious and what it is to assume consciousness in others. Moreover, things that in the physical-behavioral world do not have a spatial quality are made to have such in consciousness. Otherwise we cannot be conscious of them. This we shall call spatialization.
 2. **Excerption:** In consciousness, we are never ‘seeing’ anything in its entirety. This is because such ‘seeing’ is an analog of actual behavior; and in actual behavior we can only see or pay attention to a part of a thing at any one moment. And so in consciousness. We excerpt from the collection of possible attentions to a thing which comprises our knowledge of it. And this is all that it is possible to do since consciousness is a metaphor of our actual behavior. How we excerpt other people largely determines the kind of world we feel we are living in. Take for example one’s relatives when one was a child. If we excerpt them as their failures, their hidden conflicts, their delusions, well, that is one thing. But if we excerpt them at their happiest, in their idiosyncratic delights, it is quite another world. Writers and artists are doing in a controlled way what happens ‘in’ consciousness more haphazardly.
@@ -44,7 +44,7 @@ Consciousness is the work of lexical metaphor. It is spun out of the concrete me
 
 Let me summarize as a way of ‘seeing’ where we are and the direction in which our discussion is going. We have said that consciousness is an operation rather than a thing, a repository, or a function. It operates by way of analogy, by way of constructing an analog space with an analog ‘I’ that can observe that space, and move metaphorically in it. It operates on any reactivity, excerpts relevant aspects, narratizes and conciliates them together in a metaphorical space where such meanings can be manipulated like things in space. Conscious mind is a spatial analog of the world and mental acts are analogs of bodily acts. Consciousness operates only on objectively observable things. Or, to say it another way with echoes of John Locke, there is nothing in consciousness that is not an analog of something that was in behavior first.
 
-**The Mind of Iliad**
+### The Mind of Iliad
 
 If our impressionistic development of a theory of consciousness in the last chapter is even pointing in the right direction, then consciousness can only have arisen in the human species, and that development must have come after the development of language.
 
@@ -62,7 +62,7 @@ It is not that the vague general ideas of psychological causation appear first a
 
 The main point of this chapter is that the earliest writing of men in a language that we can really comprehend, when looked at objectively, reveals a very different mentality from our own. And this must, I think, be accepted as true. Such instances of narratization, analog behavior, or mind-space as occasionally occur are regarded by scholars as of later authorship. The bulk of the poem is consistent in its lack of analog consciousness and points back to a very different kind of human nature. Since we know that Greek culture very quickly became a literature of consciousness, we may regard the Iliad as standing at the great turning of the times, and a window back into those unsubjective times when every kingdom was in essence a theocracy and every man the slave of voices heard whenever novel situations occurred.
 
-**The Bicameral Mind**
+### The Bicameral Mind
 
 The preposterous hypothesis we have come to in the previous chapter is that at one time human nature was split in two, an executive part called a god, and a follower part called a man. Neither part was conscious. This is almost incomprehensible to us. And since we are conscious, and wish to understand, we wish to reduce this to something familiar in our experience, as we saw was the nature of understanding in Chapter 2.
 
@@ -80,7 +80,7 @@ There is no person there, no point of space from which the voice emanates, a voi
 
 The studies of commissurotomy patients demonstrate conclusively that the two hemispheres can function so as to seem like two independent persons, which in the bicameral period were, I suggest, the individual and his god.
 
-**The Origin of Civilization**
+### The Origin of Civilization
 
 The bicameral mind is a form of social control and it is that form of social control which allowed mankind to move from small hunter-gatherer groups to large agricultural communities. The bicameral mind with its controlling gods was evolved as a final stage of the evolution of language. And in this development lies the origin of civilization.
 
@@ -88,31 +88,31 @@ Let us consider another problem in the origin of gods, the origin of auditory ha
 
 Like the queen in a termite nest or a beehive, the idols of a bicameral world are the carefully tended centers of social control, with auditory hallucinations instead of pheromones.
 
-**Gods, Graves, and Idols**
+### Gods, Graves, and Idols
 
 Let us imagine ourselves coming as strangers to an unknown land and finding its settlements all organized on a similar plan: ordinary houses and buildings grouped around one larger and more magnificent dwelling. We would immediately assume that the large magnificent dwelling was the house of the prince who ruled there. And we might be right. But in the case of older civilizations, we would not be right if we supposed such a ruler was a person like a contemporary prince. Rather he was an hallucinated presence, or, in the more general case, a statue, often at one end of his superior house, with a table in front of him where the ordinary could place their offerings to him. Now, whenever we encounter a town or city plan such as this, with a central larger building that is not a dwelling and has no other practical use as a granary or barn, for example, and particularly if the building contains some kind of human effigy, we may take it as evidence of a bicameral culture or of a culture derived from one. This criterion may seem fatuous, simply because it is the plan of many towns today. We are so used to the town plan of a church surrounded by lesser houses and shops that we see nothing unusual. But our contemporary religious and city architecture is partly, I think, the residue of our bicameral past. The church or temple or mosque is still called the House of God. In it, we still speak to the god, still bring offerings to be placed on a table or altar before the god or his emblem. My purpose in speaking in this objective fashion is to defamiliarize this whole pattern, so that standing back and seeing civilized man against his entire primate evolution, we can see that such a pattern of town structure is unusual and not to be expected from our Neanderthal origins.
 
 A third feature of primitive civilization that I take to be indicative of bicamerality is the enormous numbers and kinds of human effigies and their obvious centrality to ancient life. The first effigies in history were of course the propped-up corpses of chiefs, or the remodeled skulls we have referred to earlier. But thereafter they have an astonishing development. It is difficult to understand their obvious importance to the cultures involved with them apart from the supposition that they were aids in hallucinating voices.
 
-**Literate Bicameral Theocracies**
+### Literate Bicameral Theocracies
 
 I suggest that there is a built-in periodicity to bicameral theocracies, that the complexities of hallucinatory control with their very success increase until the civil state and civilized relations can no longer be sustained, and the bicameral society collapses. As I noted in the previous chapter, this occurred many times in the pre-Columbian civilizations of America, whole populations suddenly deserting their cities, with no external cause, and anarchically melting back into tribal living in surrounding terrain, but returning to their cities and their gods a century or so later.
 
 I have endeavored in these two chapters to examine the record of a huge time span to reveal the plausibility that man and his early civilizations had a profoundly different mentality from our own, that in fact men and women were not conscious as are we, were not responsible for their actions, and therefore cannot be given the credit or blame for anything that was done over these vast millennia of time; that instead each person had a part of his nervous system which was divine, by which he was ordered about like any slave, a voice or voices which indeed were what we call volition and empowered what they commanded and were related to the hallucinated voices of others in a carefully established hierarchy. The gods were in no sense ‘figments of the imagination’ of anyone. They were man’s volition. They occupied his nervous system, probably his right hemisphere, and from stores of admonitory and preceptive experience, transmuted this experience into articulated speech which then ‘told’ the man what to do.
 
-**The Causes of Consciousness**
+### The Causes of Consciousness
 
 There is no middle ground in intertheocracy relations. Admonitory voices echoing kings, viziers, parents, etc., are unlikely to command individuals into acts of compromise. Even today, our ideas of nobility are largely residues of bicameral authority: it is not noble to whine, it is not noble to plead, it is not noble to beg, even though these postures are really the most moral of ways to settle differences. And hence the instability of the bicameral world, and the fact that during the bicameral era boundary relations would, I think, be more likely to end in all-out friendship or all-out hostility than anything between these extremes.
 
 The input to the divine hallucinatory aspect of the bicameral mind was auditory. It used cortical areas more closely connected to the auditory parts of the brain. And once the word of god was silent, written on dumb clay tablets or incised into speechless stone, the god’s commands or the king’s directives could be turned to or avoided by one’s own efforts in a way that auditory hallucinations never could be. The word of a god had a controllable location rather than an ubiquitous power with immediate obedience. This is extremely important.
 
-**How Consciousness Began**
+### How Consciousness Began
 
 The observation of difference may be the origin of the analog space of consciousness. Natural selection may have played a role in the beginning of consciousness. But in putting up this question, I wish to be very clear that consciousness is chiefly a cultural introduction, learned on the basis of language and taught to others, rather than any biological necessity. But that it had and still has a survival value suggests that the change to consciousness may have been assisted by a certain amount of natural selection. It is impossible to calculate what percentage of the civilized world died in these terrible centuries toward the end of the second millennium B.C. I suspect it was enormous. And death would come soonest to those who impulsively lived by their unconscious habits or who could not resist the commandments of their gods to smite whatever strangers interfered with them. It is thus possible that individuals most obdurately bicameral, most obedient to their familiar divinities, would perish, leaving the genes of the less impetuous, the less bicameral, to endow the ensuing generations. And again we may appeal to the principle of Baldwinian evolution as we did in our discussion of language. Consciousness must be learned by each new generation, and those biologically most able to learn it would be those most likely to survive.
 
 I have sketched out several factors at work in the great transilience from the bicameral mind to consciousness: (1) the weakening of the auditory by the advent of writing; (2) the inherent fragility of hallucinatory control; (3) the unworkableness of gods in the chaos of historical upheaval; (4) the positing of internal cause in the observation of difference in others; (5) the acquisition of narratization from epics; (6) the survival value of deceit; and (7) a modicum of natural selection.
 
-**A Change of Mind in Mesopotamia**
+### A Change of Mind in Mesopotamia
 
 The mighty themes of the religions of the world are here sounded for the first time. Why have the gods left us? Like friends who depart from us, they must be offended. Our misfortunes are our punishments for our offenses. We go down on our knees, begging to be forgiven. And then find redemption in some return of the word of a god. These aspects of present-day religion find an explanation in the theory of the bicameral mind and its breakdown during this period. The world had long known rules and dues. They were divinely ordained and humanly obeyed. But the idea of right and wrong, the idea of a good man and of redemption from sin and divine forgiveness only begin in this uneasy questioning of why the hallucinated guidances can no longer be heard.
 
@@ -120,11 +120,11 @@ The world had long known rules and dues. They were divinely ordained and humanly
 
 These then are the four main types of divination, omens, sortilege, augury, and spontaneous divination. And I would draw to your attention that they can be considered as exopsychic methods of thought or decision-making, and that they are successively closer and closer proximations to the structure of consciousness. The fact that all of them have roots that go back far into the bicameral period should not detract from the force of the generalization that they became the important media of decision only after the breakdown of the bicameral mind.
 
-**The Intellectual Consciousness of Greece**
+### The Intellectual Consciousness of Greece
 
 After the Iliad, the Odyssey. And anyone reading these poems freshly and consecutively sees what a gigantic vault in mentality it is! The contrast with the Iliad is astonishing. Both in word and deed and character, the Odyssey describes a new and different world inhabited by new and different beings. The bicameral gods of the Iliad, in crossing over to the Odyssey, have become defensive and feeble. They disguise themselves more and even indulge in magic wands. The bicameral mind by its very definition directs much less of the action. The gods have less to do, and like receding ghosts talk more to each other—and that so tediously! The initiatives move from them, even against them, toward the work of the more conscious human characters, though overseen by a Zeus who in losing his absolute power has acquired a Lear-like interest in justice. Seers and omens, these hallmarks of the breakdown of bicamerality, are more common. Poetry, from describing external events objectively, is becoming subjectified into a poetry of personal conscious expression.
 
-**The Moral Consciousness of the Khabiru**
+### The Moral Consciousness of the Khabiru
 
 The story or imagined story of the later Khabiru or Hebrews is told in what has come down to us as the Old Testament. The thesis to which we shall give our concern in this chapter is that this magnificent collection of history and harangue, of song, sermon, and story is in its grand overall contour the description of the loss of the bicameral mind, and its replacement by subjectivity over the first millennium B.C.
 
@@ -132,9 +132,9 @@ In the bicameral period, the strict hierarchy of society, the settled geography 
 
 Once one has read through the Old Testament from this point of view, the entire succession of works becomes majestically and wonderfully the birth pangs of our subjective consciousness. No other literature has recorded this absolutely important event at such length or with such fullness. Chinese literature jumps into subjectivity in the teaching of Confucius with little before it. Indian hurtles from the bicameral Veda into the ultra subjective Upanishads, neither of which are as authentic to their times.
 
-**VESTIGES OF THE BICAMERAL MIND IN THE MODERN WORLD**
+## VESTIGES OF THE BICAMERAL MIND IN THE MODERN WORLD
 
-**The Quest for Authorization**
+### The Quest for Authorization
 
 All about us lie the remnants of our recent bicameral past. We have our houses of gods which record our births, define us, marry us, and bury us, receive our confessions and intercede with the gods to forgive us our trespasses. Our laws are based upon values which without their divine pendancy would be empty and unenforceable. Our national mottoes and hymns of state are usually divine invocations. Our kings, presidents, judges, and officers begin their tenures with oaths to the now silent deities taken upon the writings of those who have last heard them. The most obvious and important carry-over from the previous mentality is thus our religious heritage in all its labyrinthine beauty and variety of forms. The overwhelming importance of religion both in general world history and in the history of the average world individual is of course very clear from any objective standpoint, even though a scientific view of man often seems embarrassed at acknowledging this most obvious fact. For in spite of all that rationalist materialist science has implied since the Scientific Revolution, mankind as a whole has not, does not, and perhaps cannot relinquish his fascination with some human type of relationship to a greater and wholly other, some mysterium tremendum with powers and intelligences beyond all left hemispheric categories, something necessarily indefinite and unclear, to be approached and felt in awe and wonder and almost speechless worship, rather than in clear conception, something that for modern religious people communicates in truths of feeling, rather than in what can be verbalized by the left hemisphere, and so what in our time can be more truly felt when least named, a patterning of self and numinous other from which, in times of our darkest distress, none of us can escape—even as the infinitely milder distress of decision-making brought out that relationship three millennia ago.
 
@@ -146,7 +146,7 @@ There is a kind of balance or summation among these elements, such that when one
 
 To this causative expectancy should be added something about the natural scene itself. Oracles begin in localities with a specific awesomeness, natural formations of mountain or gorge, of hallucinogenic wind or waves, of symbolic gleamings and vistas, which I suggest are more conducive to occasioning right hemisphere activity than the analytic planes of everyday life. Perhaps we can say that the geography of the bicameral mind in the first part of the first millennium B.C. was shrinking down into sites of awe and beauty where the voices of gods could still be heard.
 
-**Of Prophets and Possession**
+### Of Prophets and Possession
 
 There is no such thing as possession or any hint of anything similar throughout the Iliad or Odyssey or other early poetry. No ‘god’ speaks through human lips in the truly bicameral age. Yet by 400 B.C., it is apparently as common as churches are with us, both in the many oracles scattered about Greece as well as in private individuals. The bicameral mind has vanished and possession is its trace.
 
@@ -154,19 +154,19 @@ The speech of possessed prophets is not an hallucination proper, not something h
 
 The vestiges of the bicameral mind do not exist in any empty psychological space. That is, they should not be considered as isolated phenomena that simply appear in a culture and loiter around doing nothing but leaning on their own antique merits. Instead, they always live at the very heart of a culture or subculture, moving out and filling up the unspoken and the unrationalized. They become indeed the irrational and unquestionable support and structural integrity of the culture.
 
-**Of Poetry and Music**
+### Of Poetry and Music
 
 The first poets were gods. Poetry began with the bicameral mind. The god-side of our ancient mentality, at least in a certain period of history, usually or perhaps always spoke in verse. This means that most men at one time, throughout the day, were hearing poetry (of a sort) composed and spoken within their own minds.
 
 Poetry begins as the divine speech of the bicameral mind. Then, as the bicameral mind breaks down, there remain prophets. Some become institutionalized as oracles making decisions for the future. While others become specialized into poets, relating from the gods statements about the past. Then, as the bicameral mind shrinks back from its impulsiveness, and as perhaps a certain reticence falls upon the right hemisphere, poets who are to obtain this same state must learn to do it. As this becomes more difficult, the state becomes a fury, and then ecstatic possession, just as happened in the oracles. And then indeed toward the end of the first millennium B.C., just as the oracles began to become prosaic and their statements versified consciously, so poetry also. Its givenness by the unison Muses has vanished. And conscious men now wrote and crossed out and careted and rewrote their compositions in laborious mimesis of the older divine utterances.
 
-**Hypnosis**
+### Hypnosis
 
 How can such supererogatory enabling even exist? Hypnosis can cause this extra enabling because it engages the general bicameral paradigm which allows a more absolute control over behavior than is possible with consciousness.
 
 The hypnotic trance is called just that. It is of course usually different from the kind of trance that goes on in other vestiges of the bicameral mind. Individuals do not have true auditory hallucinations, as in the trances of oracles or mediums. That place in the paradigm is taken over by the operator. But there is the same diminution and then absence of normal consciousness. Narratization is severely restricted. The analog ‘I’ is more or less effaced. The hypnotized subject is not living in a subjective world. He does not introspect as we do, does not know he is hypnotized, and is not constantly monitoring himself as, in an unhypnotized state, he does.
 
-**Schizophrenia**
+### Schizophrenia
 
 Like the phenomena discussed in the preceding chapters, schizophrenia, at least in part, is a vestige of bicamerality, a partial relapse to the bicameral mind. Some of the fundamental, most characteristic, and most commonly observed symptoms of florid unmedicated schizophrenia are uniquely consistent with the description I have given on previous pages of the bicameral mind. These symptoms are primarily the presence of auditory hallucinations, and the deterioration of consciousness, namely the loss of the analog ‘I’, the erosion of mind-space, and an inability to narratize.
 
@@ -174,7 +174,7 @@ Very clearly, there is a genetic inherited basis to the biochemistry underlying 
 
 Schizophrenics are almost drowning in sensory data. Unable to narratize or conciliate, they see every tree and never the forest. They seem to have a more immediate and absolute involvement with their physical environment, a greater in-the-world-ness.
 
-**The Auguries of Science**
+### The Auguries of Science
 
 But over and behind these and other causes of science has been something more universal, something in this age of specialization often unspoken. It is something about understanding the totality of existence, the essential defining reality of things, the entire universe and man’s place in it. It is a groping among stars for final answers, a wandering the infinitesimal for the infinitely general, a deeper and deeper pilgrimage into the unknown. It is a direction whose far beginning in the mists of history can be distantly seen in the search for lost directives in the breakdown of the bicameral mind.
 

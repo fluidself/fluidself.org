@@ -5,27 +5,27 @@ slug: tools-of-titans
 title: Tools of Titans - by Timothy Ferriss
 ---
 
-### HEALTHY
+## HEALTHY
 
-**RHONDA PERCIAVALLE PATRICK**
+### RHONDA PERCIAVALLE PATRICK
 
 “Hyperthermic conditioning” (calculated heat exposure) can help you to increase growth hormone (GH) levels and substantially improve endurance. I now take ~20-minute sauna sessions post-workout or post-stretching at least four times per week, typically at roughly 160 to 170°F. If nothing else, it seems to dramatically decrease DOMS (delayed-onset muscle soreness).
 
 I usually stay in a hot bath or sauna for about 20 minutes, which is long enough to significantly elevate my heart rate. I push a few minutes past dynorphin release, which usually makes one feel dysphoric and want to get out (but **not** to dizziness or lightheadedness).
 
-**CHRISTOPHER SOMMER**
+### CHRISTOPHER SOMMER
 
 When in doubt, work on the deficiencies you’re most embarrassed by. My biggest weaknesses are shoulder extension and bridging using the thoracic spine (versus lower-back arch).
 
 “Flexibility” can be passive, whereas “mobility” requires that you can demonstrate strength throughout the entire range of motion, including the end ranges.
 
-**3 MOVEMENTS EVERYONE SHOULD PRACTICE**
+### 3 MOVEMENTS EVERYONE SHOULD PRACTICE
 
 - Jefferson Curl
 - Shoulder Extension: Lift a dowel behind your back (standing), or sit on the floor and walk your hands backward behind your hips.
 - Thoracic Bridge: Elevate your feet enough to feel the bulk of the stretch in the upper back and shoulders, not the lower back. The feet might be 3+ feet off the ground. Ensure you can concentrate on straightening your arms (and legs, if possible), holding the position, and breathing.
 
-**GYMNAST STRONG Unusual and Effective Bodyweight Exercises**
+### GYMNAST STRONG Unusual and Effective Bodyweight Exercises
 
 **QL Walk—An Unusual Warmup:** The QL walk is intended to get your glutes and quadratus lumborum (QL) firing, the latter of which Donnie calls “an angry troll in your back”: Sit down on a mat (or gravel, if you want to turn your ass into hamburger meat). Legs are extended in front of you, ankles can be touching or slightly apart, and your back should be straight. I keep legs together. This is “pike” position, which I’ll refer to quite a bit in this book. Lift a kettlebell or dumbbell to your collarbones (think front squat). I weigh 170 pounds and use 30 to 60 pounds. I hold the kettlebell “horns,” but Donnie prefers to support it from underneath. Keeping your legs straight (no bend at the knee), walk your butt cheeks—left, right, left, right—across the floor. I typically go 10 to 15 feet. Reverse direction and go backward 10 to 15 feet. That’s it.
 
@@ -33,7 +33,7 @@ When in doubt, work on the deficiencies you’re most embarrassed by. My biggest
 
 **Cast Wall Walk:** If you have no gymnastics background, this one will be fun/terrible. I use cast wall walks as a workout finisher and recommend you do the same, as you’ll be worthless afterward. First, let’s define the position you need to maintain. Torso “Hollow”: Sit on a chair, back straight, with your hands on your knees. Now, try to bring your sternum (chest bone) to your belly button; “shorten” your torso by 3 to 4 inches by contracting and pulling in your abs. You’ll maintain this position throughout the entire exercise. No lower-back arch or sag permitted. Shoulders “Protracted”: Keep your torso “hollow” per the above. Now, pretend you’re hugging a telephone pole. Your shoulders should be well in front of your chest, sternum pulled back strongly. Straighten your arms but maintain this position. Next, without losing any of the aforementioned, lift your arms overhead as high as you can. There you go. Now we can begin. Get into a handstand position against a wall, nose facing toward the wall. Keeping your body in one line, slowly walk your hands out and your feet down the wall simultaneously. Keep your knees straight and walk with your ankles. The steps should be small. Reach the bottom with your feet on the floor in a push-up position. Correct your form to be maximally hollow and protracted. Reverse and go back up the wall, returning to handstand position. That is 1 rep, my friend. Target is 10 reps, but stop this one at least a few reps before muscular failure.
 
-**DOMINIC D’AGOSTINO**
+### DOMINIC D’AGOSTINO
 
 The primary resource, as you’ll come back to this: Dom’s top go-to resource for the ketogenic diet, including FAQs, meal plans, and more is ketogenic-diet-resource.com. “I like to promote mild to moderate ketosis for health and longevity, which is between 1 to 3 mmol.”
 
@@ -47,17 +47,17 @@ Each day of fasting, feel free to consume exogenous ketones or fat (e.g., coconu
 
 Break your fast on Sunday night. Enjoy it. For a 14-day or longer fast, you need to think about refeeding carefully. But for a 3-day fast, I don’t think what you eat matters much.
 
-ONCE YOU’RE IN KETO, HOW CAN YOU KEEP IT GOING WITHOUT FASTING? The short answer is: Eat a boatload of fat (~1.5 to 2.5 g per kilogram of body weight), next-to-no carbs, and moderate protein (1 to 1.5 g per kilogram of body weight) each day. High protein and low fat doesn’t work. Your liver will convert excess amino acids into glucose and shut down ketogenesis. Fat as 70 to 85% of calories is required.
+**ONCE YOU’RE IN KETO, HOW CAN YOU KEEP IT GOING WITHOUT FASTING?** The short answer is: Eat a boatload of fat (~1.5 to 2.5 g per kilogram of body weight), next-to-no carbs, and moderate protein (1 to 1.5 g per kilogram of body weight) each day. High protein and low fat doesn’t work. Your liver will convert excess amino acids into glucose and shut down ketogenesis. Fat as 70 to 85% of calories is required.
 
 Dom noticed that dairy can cause lipid profile issues (e.g., can spike LDL) and has started to minimize things like cream and cheese. Consider coconut milk (Aroy-D Pure Coconut Milk) instead. Dom doesn’t worry about elevated LDL as long as other blood markers aren’t out of whack (high CRP, low HDL, etc.). From Dom: “The thing that I focus on most is triglycerides. If your triglycerides are elevated, that means your body is just not adapting to the ketogenic diet. Some people’s triglycerides are elevated even when their calories are restricted. That’s a sign that the ketogenic diet is not for you... It’s not a one-size-fits-all diet.”
 
-**LAIRD HAMILTON, GABBY REECE & BRIAN MACKENZIE**
+### LAIRD HAMILTON, GABBY REECE & BRIAN MACKENZIE
 
 **PRACTICE GOING FIRST** “I always say that I’ll go first... That means if I’m checking out at the store, I’ll say hello first. If I’m coming across somebody and make eye contact, I’ll smile first. [I wish] people would experiment with that in their life a little bit: Be first, because—not all times, but most times—it comes in your favor. The response is pretty amazing...
 
 **“A LONELY PLACE IS AN UNMOTIVATED PLACE”** This line from Laird underscored everything I saw around him. He has a tightly bonded tribe around him, and scheduled group exercise appears to be the glue that keeps the group together. If you spend a lot of time thinking of the “how” and “what” of exercise (exercises, programming, etc.), as I do, you might consider asking yourself, “What if I had to choose all of my exercise based on ‘Who?’ first? What would I do if exercise were only allowed with other people?” This is how I ended up diving into AcroYoga.
 
-**KELLY STARRETT**
+### KELLY STARRETT
 
 **BONER OR NO BONER?** “Quantified self” tracking doesn’t need to be complicated. It’s easy to miss the flashing red signal in front of your face while chasing the cutting edge of blood testing, genomics, etc. For men, the “boner or no boner” test is a simple but excellent indicator of sleep quality, hormonal health (GH, FSH, testosterone), circadian rhythm timing, and more.
 
@@ -65,30 +65,30 @@ Dom noticed that dairy can cause lipid profile issues (e.g., can spike LDL) and 
 
 **“IF YOU CAN’T BREATHE, YOU DON’T KNOW THY POSITION.”** In other words, if you can’t breathe in a given position, you haven’t mastered it.
 
-**THE TOP MOBILIZATIONS TO DO EVERY DAY**
+### THE TOP MOBILIZATIONS TO DO EVERY DAY
 
 - Everyone can benefit from something that looks like the cow stretch (also sometimes called “cat-camel” in yoga classes). It’s a low-level static stretch that gets you into this extension pattern, and out of the other pattern of sitting in the rounded flexion position.
 - Spend as much time in a lunge as you can. [TF: One simple way to check this box prior to workouts is Eric Cressey’s “walking Spiderman” exercise. I touch my inside elbow to the ground before switching sides.
 - ‘Smash’ your gut (i.e., roll on it) for downregulation before bed with a medicine ball.
 - Internal shoulder rotation is so crucial. Doing the Burgener warmup will help show you if you have full internal rotation of your shoulder.
 
-### WEALTHY
+## WEALTHY
 
-**DEREK SIVERS**
+### DEREK SIVERS
 
-“IF MORE INFORMATION WAS THE ANSWER, THEN WE’D ALL BE BILLIONAIRES WITH PERFECT ABS.” TF: It’s not what you know, it’s what you do consistently.
+**“IF MORE INFORMATION WAS THE ANSWER, THEN WE’D ALL BE BILLIONAIRES WITH PERFECT ABS.”** TF: It’s not what you know, it’s what you do consistently.
 
-FOR PEOPLE STARTING OUT—SAY “YES” When you’re earlier in your career, I think the best strategy is to just say ‘yes’ to everything. Every little gig. You just never know what are the lottery tickets.”
+**FOR PEOPLE STARTING OUT—SAY “YES”** When you’re earlier in your career, I think the best strategy is to just say ‘yes’ to everything. Every little gig. You just never know what are the lottery tickets.”
 
-ONCE YOU HAVE SOME SUCCESS—IF IT’S NOT A “HELL, YES!” IT’S A “NO”
+**ONCE YOU HAVE SOME SUCCESS—IF IT’S NOT A “HELL, YES!” IT’S A “NO”**
 
-THE STANDARD PACE IS FOR CHUMPS
+**THE STANDARD PACE IS FOR CHUMPS**
 
-“BUSY” = OUT OF CONTROL “Every time people contact me, they say, ‘Look, I know you must be incredibly busy...’ and I always think, ‘No, I’m not.’ Because I’m in control of my time. I’m on top of it. ‘Busy,’ to me, seems to imply ‘out of control.’ Like, ‘Oh my God, I’m so busy. I don’t have any time for this shit!’ To me, that sounds like a person who’s got no control over their life.” TF: Lack of time is lack of priorities. If I’m “busy,” it is because I’ve made choices that put me in that position, so I’ve forbidden myself to reply to “How are you?” with “Busy.” I have no right to complain. Instead, if I’m too busy, it’s a cue to reexamine my systems and rules.
+**“BUSY” = OUT OF CONTROL** “Every time people contact me, they say, ‘Look, I know you must be incredibly busy...’ and I always think, ‘No, I’m not.’ Because I’m in control of my time. I’m on top of it. ‘Busy,’ to me, seems to imply ‘out of control.’ Like, ‘Oh my God, I’m so busy. I don’t have any time for this shit!’ To me, that sounds like a person who’s got no control over their life.” TF: Lack of time is lack of priorities. If I’m “busy,” it is because I’ve made choices that put me in that position, so I’ve forbidden myself to reply to “How are you?” with “Busy.” I have no right to complain. Instead, if I’m too busy, it’s a cue to reexamine my systems and rules.
 
-TREAT LIFE AS A SERIES OF EXPERIMENTS “My recommendation is to do little tests. Try a few months of living the life you think you want, but leave yourself an exit plan, being open to the big chance that you might not like it after actually trying it... The best book about this subject is Stumbling on Happiness by Daniel Gilbert. His recommendation is to talk to a few people who are currently where you think you want to be and ask them for the pros and cons. Then trust their opinion since they’re right in it, not just remembering or imagining.”
+**TREAT LIFE AS A SERIES OF EXPERIMENTS** “My recommendation is to do little tests. Try a few months of living the life you think you want, but leave yourself an exit plan, being open to the big chance that you might not like it after actually trying it... The best book about this subject is Stumbling on Happiness by Daniel Gilbert. His recommendation is to talk to a few people who are currently where you think you want to be and ask them for the pros and cons. Then trust their opinion since they’re right in it, not just remembering or imagining.”
 
-**“PRODUCTIVITY” TRICKS FOR THE NEUROTIC, MANIC-DEPRESSIVE, AND CRAZY (LIKE ME)**
+### “PRODUCTIVITY” TRICKS FOR THE NEUROTIC, MANIC-DEPRESSIVE, AND CRAZY (LIKE ME)
 
 Personally, I suck at efficiency (doing things quickly). To compensate and cope, here’s my 8-step process for maximizing efficacy (doing the right things):
 
@@ -100,13 +100,13 @@ Don’t overestimate the world and underestimate yourself. You are better than y
 
 “Everyone is interesting. If you’re ever bored in a conversation, the problem’s with you, not the other person.”
 
-**TONY ROBBINS: STATE → STORY → STRATEGY**
+### TONY ROBBINS: STATE → STORY → STRATEGY
 
 Perhaps more than any other lesson from Tony, I’ve thought about this the most in the last year. If you were to look at my daily journal right now, you’d see that I’ve scribbled “STATE → STORY → STRATEGY” at the top of each page for the next several weeks. It’s a reminder to check the boxes in that order. Tony believes that, in a lowered emotional state, we only see the problems, not solutions. Let’s say you wake up feeling tired and overwhelmed. You sit down to brainstorm strategies to solve your issues, but it comes to naught, and you feel even worse afterward. This is because you started in a negative state, then attempted strategy but didn’t succeed (due to tunnel vision on the problems), and then likely told yourself self-defeating stories (e.g., “I always do this. Why am I so wound up I can’t even think straight?”).
 
 To fix this, he encourages you to “prime” your state first. The biochemistry will help you proactively tell yourself an enabling story. Only then do you think on strategy, as you’ll see the options instead of dead ends. “Priming” my state is often as simple as doing 5 to 10 push-ups or getting 20 minutes of sun exposure. Even though I do my most intense exercise at night, I’ve started doing 1–2 minutes of calisthenics—or kettlebell swings in the morning to set my state for the day. I now often ask myself, “Is this really a problem I need to think my way out of? Or is it possible I just need to fix my biochemistry?” I’ve wasted a lot of time journaling on “problems” when I just needed to eat breakfast sooner, do 10 push-ups, or get an extra hour of sleep. Sometimes, you think you have to figure out your life’s purpose, but you really just need some macadamia nuts and a cold fucking shower.
 
-**SETH GODIN**
+### SETH GODIN
 
 **IF YOU GENERATE ENOUGH BAD IDEAS, A FEW GOOD ONES TEND TO SHOW UP** “People who have trouble coming up with good ideas, if they’re telling you the truth, will tell you they don’t have very many bad ideas. But people who have plenty of good ideas, if they’re telling you the truth, will say they have even more bad ideas. So the goal isn’t to get good ideas; the goal is to get bad ideas. Because once you get enough bad ideas, then some good ones have to show up.”
 
@@ -114,7 +114,7 @@ To fix this, he encourages you to “prime” your state first. The biochemistry
 
 **FIRST, TEN PEOPLE** “The blog post I point people to the most is called ‘First, Ten,’ and it is a simple theory of marketing that says: tell ten people, show ten people, share it with ten people; ten people who already trust you and already like you. If they don’t tell anybody else, it’s not that good and you should start over. If they do tell other people, you’re on your way.”
 
-**SCOTT ADAMS**
+### SCOTT ADAMS
 
 Naval Ravikant regularly credits Scott’s short blog post [“The Day You Became a Better Writer”](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html) for improving his writing.
 
@@ -122,7 +122,7 @@ Naval Ravikant regularly credits Scott’s short blog post [“The Day You Becam
 
 **THE LOGIC OF THE DOUBLE OR TRIPLE THREAT** Become very good (top 25%) at two or more things. Anyone can do it with practice. If you add that talent to any other, suddenly you’re the boss of the people who have only one skill. Capitalism rewards things that are both rare and valuable. You make yourself rare by combining two or more “pretty goods” until no one else has your mix... At least one of the skills in your mixture should involve communication, either written or verbal. And it could be as simple as learning how to sell more effectively than 75% of the world. That’s one. Now add to that whatever your passion is, and you have two, because that’s the thing you’ll easily put enough energy into to reach the top 25%. If you have an aptitude for a third skill, perhaps business or public speaking, develop that too.
 
-**1,000 TRUE FANS—REVISITED**
+### 1,000 TRUE FANS—REVISITED
 
 Here’s a highly simplified synopsis: “Success” need not be complicated. Just start with making 1,000 people extremely, extremely happy.
 
@@ -134,7 +134,7 @@ Pleasing a true fan is pleasurable and invigorating. It rewards the artist to re
 
 True fans are not only the direct source of your income, but also your chief marketing force for the ordinary fans.
 
-**NOAH KAGAN**
+### NOAH KAGAN
 
 **TAKE THE COFFEE CHALLENGE** For would-be entrepreneurs (he calls them “wantrapreneurs”), or entrepreneurs who’ve grown a little too comfortable, Noah has a recommendation—ask for 10% off of your next few coffees. “Go up to the counter and order coffee. If you don’t drink coffee, order tea. If you don’t drink tea, order water. I don’t care. Then just ask for 10% off. The coffee challenge sounds kind of silly, but the whole point is that—in business and in life—you don’t have to be on the extreme, but you have to ask for things, and you have to put yourself out there.”
 
@@ -142,7 +142,7 @@ True fans are not only the direct source of your income, but also your chief mar
 
 **THE VALUE OF “I DON’T UNDERSTAND”** Later, [I understood what he was doing]. This is basically just an act. Essentially, I was being unclear about what I was saying, and I did not fully understand what I was trying to explain to him. He was just drilling deeper and deeper and deeper until I realized, every time, that there was actually something I didn’t have clear in my mind. He really taught me to think deeply about things, and I think that’s something I have not forgotten.” TF: This week, try experimenting with saying “I don’t understand. Can you explain that to me?” more often.
 
-**HOW TO SAY “NO” WHEN IT MATTERS MOST**
+### HOW TO SAY “NO” WHEN IT MATTERS MOST
 
 I revisit these questions often, usually every month. I hope they help you remove noise and internal conflict from your life.
 
@@ -166,15 +166,15 @@ I revisit these questions often, usually every month. I hope they help you remov
 
 - My Challenge to You: Write Down the “What Ifs” Tonight or tomorrow morning, think of a decision you’ve been putting off, and challenge the fuzzy “what ifs” holding you hostage. If not now, when? If left at the status quo, what will your life and stress look like in 6 months? In 1 year? In 3 years? Who around you will also suffer? I hope you find the strength to say “no” when it matters most. I’m striving for the same, and only time will tell if I pull it off. So far, it’s turned out better than I ever could have imagined.
 
-### WISE
+## WISE
 
-**MARIA POPOVA**
+### MARIA POPOVA
 
 **SOMETIMES, THE BEST “NO” IS NO REPLY** “Why put in the effort to explain why it isn’t a fit, if they haven’t done the homework to determine if it is a fit?” Maria could spend all day replying to bad pitches with polite declines. I think of her above policy often. Did the person take 10 minutes to do their homework? Are they minding the details? If not, don’t encourage more incompetence by rewarding it. Those who are sloppy during the honeymoon (at the beginning) only get worse later.
 
 **WHEN IN DOUBT, SCRATCH YOUR OWN ITCH** “When Kurt Vonnegut wrote ‘Write to please just one person,’ what he was really saying was write for yourself. Don’t try to please anyone but yourself. The second you start doing it for an audience, you’ve lost the long game because creating something that is rewarding and sustainable over the long run requires, most of all, keeping yourself excited about it. Trying to predict what [an audience will] be interested in and kind of pretzeling yourself to fit those expectations, you soon begin to begrudge it and become embittered—and it begins to show in the work. It always, always shows in the work when you resent it. And there’s really nothing less pleasurable to read than embittered writing.”
 
-**JOCKO WILLINK**
+### JOCKO WILLINK
 
 **DISCIPLINE EQUALS FREEDOM** TF: I interpret this to mean, among other things, that you can use positive constraints to increase perceived free will and results. Freeform days might seem idyllic, but they are paralyzing due to continual paradox of choice (e.g., “What should I do now?”) and decision fatigue (e.g., “What should I have for breakfast?”). In contrast, something as simple as pre-scheduled workouts acts as scaffolding around which you can more effectively plan and execute your day. This gives you a greater sense of agency and feeling of freedom.
 
@@ -182,7 +182,7 @@ I revisit these questions often, usually every month. I hope they help you remov
 
 **IF YOU WANT TO BE TOUGHER, BE TOUGHER** “If you want to be tougher mentally, it is simple: Be tougher. Don’t meditate on it.” These words of Jocko’s helped one listener—a drug addict—get sober after many failed attempts. The simple logic struck a chord: “Being tougher” was, more than anything, a decision to be tougher. It’s possible to immediately “be tougher,” starting with your next decision. Have trouble saying “no” to dessert? Be tougher. Make that your starting decision. Feeling winded? Take the stairs anyway. Ditto. It doesn’t matter how small or big you start. If you want to be tougher, be tougher.
 
-**GENERAL STANLEY MCCHRYSTAL & CHRIS FUSSELL**
+### GENERAL STANLEY MCCHRYSTAL & CHRIS FUSSELL
 
 **ONE PRIMARY MEAL PER DAY** Stan rewards himself with a large dinner at night and doesn’t do well with smaller meals throughout the day.
 
@@ -192,13 +192,13 @@ I revisit these questions often, usually every month. I hope they help you remov
 
 **THREE PRACTICES FOR MENTAL TOUGHNESS** The following was in response to “What are three tests or practices from the military that civilians could use to help develop mental toughness?”: STAN: “The first is to push yourself harder than you believe you’re capable of. You’ll find new depth inside yourself. The second is to put yourself in groups who share difficulties, discomfort. We used to call it ‘shared privation.’ You’ll find that when you have been through that kind of difficult environment, that you feel more strongly about that which you’re committed to. And finally, create some fear and make individuals overcome it.”
 
-**SHAY CARL**
+### SHAY CARL
 
 **“THE SECRETS TO LIFE ARE HIDDEN BEHIND THE WORD ‘CLICHÉ.’”** So any time you hear something that you think is a cliché, my tip to you is to perk your ears up and listen more carefully.” He had heard certain phrases like “Eat more vegetables” a million times, but ignored them for years, as it all seemed too simplistic. Ultimately, it was the simple that worked. He didn’t need sophisticated answers. They were right in front of him the whole time. What advice are you ignoring because you think it’s trite or clichéd? Can you mine it for any testable action?
 
 **LEARNING FROM YOUR FUTURE SELF—AN EXERCISE WE BOTH USE** Think about how old you are right now and think about being a 10-year-older version of yourself. Then think, ‘What would I probably tell myself as an older version of myself?’ That is the wisdom that I think you found in that exercise. [If you do this exercise and then start living the answers,] I think you’re going to grow exponentially faster than you would have otherwise.”
 
-**MY FAVORITE THOUGHT EXERCISE: FEAR-SETTING**
+### MY FAVORITE THOUGHT EXERCISE: FEAR-SETTING
 
 If you are nervous about making the jump or simply putting it off out of fear of the unknown, here is your antidote. Write down your answers, and keep in mind that thinking a lot will not prove as fruitful or as prolific as simply brain-vomiting on the page. Write and do not edit—aim for volume. Spend a few minutes on each answer.
 
@@ -216,7 +216,7 @@ If you are nervous about making the jump or simply putting it off out of fear of
 
 7. What are you waiting for? If you cannot answer this without resorting to the BS concept of “good timing,” the answer is simple: You’re afraid, just like the rest of the world. Measure the cost of inaction, realize the unlikelihood and repairability of most missteps, and develop the most important habit of those who excel and enjoy doing so: action.
 
-**KEVIN KELLY**
+### KEVIN KELLY
 
 **SIT, SIT. WALK, WALK. DON’T WOBBLE.** “The Zen mantra is ‘Sit, sit. Walk, walk. Don’t wobble.’ It’s this idea that when I’m with a person, that’s total priority. Anything else is multitasking. No, no, no, no. The people-to-people, person-to-person trumps anything else. I have given my dedication to this. If I go to a play or a movie, I am at the movie. I am not anywhere else. It’s 100%—I am going to listen. If I go to a conference, I am going to go to the conference.”
 
@@ -224,7 +224,7 @@ If you are nervous about making the jump or simply putting it off out of fear of
 
 **WRITE TO GET IDEAS, NOT TO EXPRESS THEM** “What I discovered, which is what many writers discover, is that I write in order to think. I’d say, ‘I think I have an idea,’ but when I begin to write it, I realize, ‘I have no idea,’ and I don’t actually know what I think until I try and write it. That was the revelation.”
 
-**ALAIN DE BOTTON**
+### ALAIN DE BOTTON
 
 **DON’T ATTRIBUTE TO MALICE THAT WHICH CAN BE EXPLAINED OTHERWISE** “Wasn’t it Bill Clinton who said that when dealing with anyone who’s upset, he always asks, ‘Has this person slept? Have they eaten? Is somebody else bugging them?’ He goes through this simple checklist. When we’re handling babies and the baby is kicking and crying, we almost never once say, ‘That baby’s out to get me’ or ‘She’s got evil intentions.’”
 
@@ -232,7 +232,7 @@ If you are nervous about making the jump or simply putting it off out of fear of
 
 **Advice to your 30-year-old self?** “I would have said, ‘Appreciate what’s good about this moment. Don’t always think that you’re on a permanent journey. Stop and enjoy the view.’ I always had this assumption that if you appreciate the moment, you’re weakening your resolve to improve your circumstances. That’s not true, but I think when you’re young, it’s sort of associated with that. I had people around me who’d say things like, ‘Oh, a flower, nice.’ A little part of me was thinking, ‘You absolute loser. You’ve taken time to appreciate a flower? Do you not have bigger plans? I mean, this the limit of your ambition?’ and when life’s knocked you around a bit and when you’ve seen a few things, and time has happened and you’ve got some years under your belt, you start to think more highly of modest things like flowers and a pretty sky, or just a morning where nothing’s wrong and everyone’s been pretty nice to everyone else. Fortune can do anything with us. We are very fragile creatures. You only need to tap us or hit us in slightly the wrong place. You only have to push us a little bit, and we crack very easily, whether that’s the pressure of disgrace or physical illness, financial pressure, etc. It doesn’t take very much. So, we do have to appreciate every day that goes by without a major disaster.”
 
-**WRITING PROMPTS FROM CHERYL STRAYED**
+### WRITING PROMPTS FROM CHERYL STRAYED
 
 Even if you don’t consider yourself a writer (I never did), putting thoughts on paper is the best way to A) develop ideas, and B) review and improve your thinking. The benefits of even 30 minutes a week of scribbling can transfer to everything else that you do. The following bullets are writing prompts that Cheryl has suggested when asked for assignment ideas for students who’ve read Wild. They are brilliant and make fantastic jumping-off points for any type of journaling or writing, whether Morning Pages, a blog post, the beginning of a novel, a letter to a friend, a diary entry, a screenplay, or a too-fast-too-soon Tinder message. Try one for two pages of longhand writing. Go for uninterrupted flow, and don’t stop to edit. Step one is to generate without judging. Chances are that you’ll surprise yourself.
 
@@ -252,13 +252,13 @@ Even if you don’t consider yourself a writer (I never did), putting thoughts o
 - Write about why you could not do it.
 - Write about why you did.
 
-**NAVAL RAVIKANT**
+### NAVAL RAVIKANT
 
 **THE THREE OPTIONS YOU ALWAYS HAVE IN LIFE** “In any situation in life, you only have three options. You always have three options. You can change it, you can accept it, or you can leave it. What is not a good option is to sit around wishing you would change it but not changing it, wishing you would leave it but not leaving it, and not accepting it. It’s that struggle, that aversion, that is responsible for most of our misery. The phrase that I probably use the most to myself in my head is just one word: accept.”
 
 “Tell your friends that you’re a happy person. Then you’ll be forced to conform to it. You’ll have a consistency bias. You have to live up to it. Your friends will expect you to be a happy person.”
 
-**NAVAL’S LAWS**
+### NAVAL’S LAWS
 
 - Be present above all else.
 - Desire is suffering (Buddha).
@@ -282,11 +282,11 @@ Even if you don’t consider yourself a writer (I never did), putting thoughts o
 
 “My one repeated learning in life: ‘There are no adults.’ Everyone’s making it up as they go along. Figure it out yourself, and do it.”
 
-**MALCOLM GLADWELL**
+### MALCOLM GLADWELL
 
 **HOW MALCOLM LEARNED TO ASK QUESTIONS** His father, a mathematician, taught Malcolm to ask questions upon questions: “My father has zero intellectual insecurities. It has never crossed his mind to be concerned that the world thinks he’s an idiot. He’s not in that game. So if he doesn’t understand something, he just asks you. He doesn’t care if he sounds foolish. He will ask the most obvious question without any sort of concern about it. So he asks lots and lots of ‘dumb,’ in the best sense of that word, questions. He’ll say to someone, ‘I don’t understand. Explain that to me.’ He’ll just keep asking questions until he gets it right, and I grew up listening to him do this in every conceivable setting. [If my father had met Bernie Madoff, he] never would have invested money with him because he would have said, ‘I don’t understand’ a hundred times. ‘I don’t understand how that works,’ in this kind of dumb, slow voice. ‘I don’t understand, sir. What is going on?’”
 
-**TESTING THE “IMPOSSIBLE”: 17 QUESTIONS THAT CHANGED MY LIFE**
+### TESTING THE “IMPOSSIBLE”: 17 QUESTIONS THAT CHANGED MY LIFE
 
 1. What if I did the opposite for 48 hours?
 2. What do I spend a silly amount of money on? How might I scratch my own itch?
@@ -306,7 +306,7 @@ Even if you don’t consider yourself a writer (I never did), putting thoughts o
 16. How can I throw money at this problem? How can I “waste” money to improve the quality of my life?
 17. No hurry, no pause. I routinely write “No hurry, no pause” at the top of my notebooks as a daily reminder. In effect, it’s shorthand for Derek Sivers’s story of the 45-minute versus 43-minute bike ride—you don’t need to go through life huffing and puffing, straining and red-faced. You can get 95% of the results you want by calmly putting one foot in front of the other. One former Navy SEAL friend recently texted me a principle used in their training: “Slow is smooth. Smooth is fast.” Perhaps I’m just getting old, but my definition of luxury has changed over time. Now, it’s not about owning a lot of stuff. Luxury, to me, is feeling unrushed. No hurry, no pause.
 
-**“GOOD” by Jocko Willink**
+### “GOOD” by Jocko Willink
 
 How do I deal with setbacks, failures, delays, defeat, or other disasters? I actually have a fairly simple way of dealing with these situations. There is one word to deal with all those situations, and that is: “good.”
 

@@ -5,21 +5,21 @@ slug: the-machiavellians
 title: 'The Machiavellians: Defenders of Freedom - by James Burnham'
 ---
 
-**Part I - DANTE: POLITICS AS WISH**
+## Part I - DANTE: POLITICS AS WISH
 
-**The Formal Meaning of _De Monarchia_**
+### The Formal Meaning of _De Monarchia_
 
 Taking the treatise at face value and judging it as a study of politics, it is worthless, totally worthless. With this, it might seem that no more could, or ought to be, said about De Monarchia. Such a conclusion, however, would show a thorough failure to understand the nature of a work of this kind. So far we have been considering only the formal meaning of the treatise. But this formal meaning, the meaning which is explicitly stated, is the least important aspect of De Monarchia. The formal meaning, besides what it explicitly states when taken at face value, serves to express, in an indirect and disguised manner, what may be called the real meaning of the essay.
 
 By “real meaning” I refer to the meaning not in terms of the mythical world of religion, metaphysics, miracles, and pseudo-history (which is the world of the formal meaning of De Monarchia), but in terms of the actual world of space, time, and events. To understand the real meaning, we cannot take the words at face value nor confine our attention to what they explicitly state; we must fit them into the specific context of Dante’s times and his own life. It is characteristic of De Monarchia, and of all similar treatises, that there should be this divorce between formal and real meanings, that the formal meaning should not explicitly state but only indirectly express, and to one or another extent hide and distort, the real meaning. The real meaning is thereby rendered irresponsible, since it is not subject to open and deliberate intellectual control; but the real meaning is nonetheless there.
 
-**The Real Meaning of _De Monarchia_**
+### The Real Meaning of _De Monarchia_
 
 The entire formal meaning, which has told us nothing and proved nothing, assumes its genuine role of merely expressing and disguising the real meaning. This real meaning is simply an impassioned propagandistic defense of the point of view of the turncoat Bianchi exiles from Florence, specifically; and more generally of the broader Ghibelline point of view to which these Bianchi capitulated. De Monarchia is, we might say, a Ghibelline Party Platform.
 
 It should not be imagined, however, that this point of view is argued rationally, that there is offered in its favor any proof or evidence, that any demonstration is attempted to show that its acceptance would contribute to human welfare. The proof and evidence and demonstration, such as they are, are all devoted to the mysteries of the formal meaning. The real meaning is expressed and projected indirectly through the formal meaning, and is supported by nothing more than emotion, prejudice, and confusion. The real aims are thus intellectually irresponsible, subject to no intellectual check or control. Even if they were justifiable, the case for them is in no degree established. The ostensible goals of the formal argument are noble, high-minded, what people often call “idealistic.” This serves to create a favorable emotional response in the reader, to disarm him, to lead him to believe in the “good will” of the author. The unwary reader carries this attitude over to the practical aims of the real argument. But what of these latter aims, what do they concretely amount to? When we dig behind the formal façade, they emerge as vengeful and reactionary. There is an intellectual advantage in separating the two, the poetry and the politics, for judgment.
 
-**The Typical Method of Political Thought**
+### The Typical Method of Political Thought
 
 1. There is a sharp divorce between what I have called the formal meaning, the formal aims and arguments, and the real meaning, the real aims and argument (if there is, as there is usually not, any real argument)
 
@@ -33,9 +33,9 @@ It should not be imagined, however, that this point of view is argued rationally
 
 This method, whose intellectual consequence is merely to confuse and hide, can teach us nothing of the truth, can in no way help us to solve the problems of our political life. In the hands of the powerful and their spokesmen, however, used by demagogues or hypocrites or simply the self-deluded, this method is well designed, and the best, to deceive us, and to lead us by easy routes to the sacrifice of our own interests and dignity in the service of the mighty.
 
-**Part II - MACHIAVELLI: THE SCIENCE OF POWER**
+## Part II - MACHIAVELLI: THE SCIENCE OF POWER
 
-**Machiavelli’s Practical Goal**
+### Machiavelli’s Practical Goal
 
 There are certain goals which are peculiar and proper to science, without which science does not exist. These are: the accurate and systematic description of public facts; the attempt to correlate sets of these facts in laws; and, through these correlations, the attempt to predict, with some degree of probability, future facts. Many scientific investigations do not try to go beyond these special goals; nor is there any need for them to do so. In the field of historical, social, and political science, as in other sciences, these goals might be, and sometimes are, alone relevant. But without these goals, whether or not there are also others, an inquiry is not scientific. These special goals of science are not present in De Monarchia. They could not be served by Dante’s methods. In Machiavelli’s writings, in contrast, they are always present, and they control the logic of his investigations.
 
@@ -47,7 +47,7 @@ Almost all commentators on Machiavelli say that his principal innovation, and th
 
 This very refusal, however, this allegiance to objective truth, is itself a moral ideal. Moreover, in another sense, Machiavelli undertook his studies of politics for the sake of very definite goals, one of which I have analyzed in this section. These goals, like all goals, have an ethical content: indeed, ethics is simply the consideration of human behavior from the point of view of goals, standards, norms, and ideals. Machiavelli divorced politics from a certain kind of ethics—namely, from a transcendental, otherworldly, and, it may be added, very rotten ethics. But he did so in order to bring politics and ethics more closely into line, and to locate both of them firmly in the real world of space and time and history, which is the only world about which we can know anything. Machiavelli is as ethical a political writer as Dante. The difference is that Machiavelli’s ethics are much better.
 
-**Machiavelli’s Method**
+### Machiavelli’s Method
 
 Machiavelli’s method is the method of science applied to politics. Naturally, Machiavelli’s conceptions often seem to us somewhat immature—we know so much more than Machiavelli knew. We must make our judgment in a proper historical perspective, remembering that he wrote more than four centuries ago. In those days, scientific method in our sense, deliberate, systematic, self-conscious, was only beginning.
 
@@ -63,7 +63,7 @@ Finally, though this is not strictly part of the logic of scientific method, we 
 
 In general summary of Machiavelli’s method, we may recall the distinction between formal and real meaning which I defined in analyzing De Monarchia. It is a characteristic of Machiavelli’s writing, as of all scientific discourse, that this distinction is inapplicable. Formal meaning and real meaning are one. There is no hidden meaning, no undisclosed purpose. This is why, where Machiavelli is wrong, it is easy to correct him; and why he cannot deceive us.
 
-**Political Man**
+### Political Man
 
 There have been many critical discussions about Machiavelli’s supposed views on “human nature.” Some defend him, but he is usually charged with a libel upon mankind, with having a perverted, shocking, and detestable notion of what human beings are like. These discussions, however, are beside the point. Machiavelli has no views on human nature; or, at any rate, none is presented in his writings. Machiavelli is neither a psychologist nor a moral philosopher, but a political scientist. It is clear from a study of Machiavelli that what he is trying to analyze is not “man” but “political man,” in somewhat the same way that Adam Smith analyzed “economic man.”
 
@@ -77,7 +77,7 @@ The ruler-type has, usually, strength, especially martial strength. War and figh
 
 Finally, political man of the ruler-type is skilled at adapting himself to the times. In passage after passage, Machiavelli returns to this essential ability: neither cruelty nor humaneness, neither rashness nor caution, neither liberality nor avarice avails in the struggle for power unless the times are suited.
 
-**Machiavelli’s Conception of History**
+### Machiavelli’s Conception of History
 
 1. Political life, according to Machiavelli, is never static, but in continual change. There is no way of avoiding this change. Any idea of a perfect state, or even of a reasonably good state, much short of perfection, that could last indefinitely, is an illusion. The process of change is repetitive, and roughly cyclical. That is to say, the pattern of change occurs again and again in history (so that, by studying the past, we learn also about the present and future); and this pattern comprises a more or less recognizable cycle. A good, flourishing, prosperous state becomes corrupt, evil, degenerate; from the corrupt, evil state again arises one that is strong and flourishing. The degeneration can, perhaps, be delayed; but Machiavelli has no confidence that it could be avoided. The very virtues of the good state contain the seeds of its own destruction. The strong and flourishing state is feared by all neighbors, and is therefore left in peace. War and the ways of force are neglected. The peace and prosperity breed idleness, luxury, and license; these, political corruption, tyranny, and weakness. The state is overcome by the force of uncorrupted neighbors, or itself enters a new cycle, where hard days and arms purge the corruption, and bring a new strength, a new virtue and prosperity. But once again, the degeneration sets in.
 
@@ -91,7 +91,7 @@ Finally, political man of the ruler-type is skilled at adapting himself to the t
 
 Beyond and superior to his preference among the forms of government, Machiavelli projects his ideal of “liberty.” For any given group of people, “liberty,” as Machiavelli uses the word, means: independence—that is, no external subjection to another group; and, internally, a government by law, not by the arbitrary will of any individual men, princes or commoners. Independence, the first condition of liberty, can be secured in the last analysis only by the armed strength of the citizenry itself, never by mercenaries or allies or money; consequently arms are the first foundation of liberty. There is no lasting safeguard for liberty in anything but one’s own strength. Internally, also, liberty rests on force—on the public force of the state, however, never on force exercised by private individuals or groups, which is invariably a direct threat to liberty. Guaranteed by force, then, internal liberty means government by law, with strict adherence to due legal process. As protectors of liberty, Machiavelli has no confidence in individual men as such; driven by unlimited ambition, deceiving even themselves, they are always corrupted by power. But individuals can, to some extent at least and for a while, be disciplined within the established framework of wise laws. A great deal of the Discourses is a commentary on this problem. In chapter after chapter, Machiavelli insists that if liberty is to be preserved: no person and no magistrate may be permitted to be above the law; there must be legal means for any citizen to bring accusations against any other citizen or any official; terms of office must be short, and must never, no matter what the inconvenience, be lengthened; punishment must be firm and impartial; the ambitions of citizens must never be allowed to build up private power, but must be directed into public channels. Machiavelli is not so naïve as to imagine that the law can support itself. The law is founded upon force, but the force in turn will destroy the law unless it also is bridled; but force can be bridled only by opposing force. Sociologically, therefore, the foundation of liberty is a balancing of forces, what Machiavelli calls a “mixed” government. Since Machiavelli is neither a propagandist nor an apologist, since he is not the demagogue of any party or sect or group, he knows and says how hypocritical are the calls for a “unity” that is a mask for the suppression of all opposition, how fatally lying or wrong are all beliefs that liberty is the peculiar attribute of any single individual or group—prince or democrat, nobles or people or “multitude.” Only out of the continuing clash of opposing groups can liberty flow. This balancing clash of opposed interests will the more surely preserve liberty when the state guards against too great inequality in privilege and wealth. Liberty, then—not the rhetorical liberty of an impossible and misconceived utopia, but such concrete liberty as is, when they are fortunate, within the grasp of real men, with their real limitations—is the dominant ideal of Machiavelli, and his final norm of judgment. Tyranny is liberty’s opposite, and no man has been a clearer foe of tyranny.
 
-**Machiavelli’s Reputation**
+### Machiavelli’s Reputation
 
 Men are fond of believing that, even though they may for a while be mistaken, yet in the long run they do suitable honor, if not to the persons then at least to the memories, of those who have brought some measure of truth and enlightenment to the world. We may burn an occasional Bruno, imprison a Galileo, denounce a Darwin, exile an Einstein; but time, we imagine, restores judgment, and a new generation recognizes the brave captains of the mind who have dared to advance through the dark barriers of ignorance, superstition, and illusion. Machiavelli was so plainly one of these.
 
@@ -103,9 +103,9 @@ We are, I think, and not only from the fate of Machiavelli’s reputation, force
 
 In any case, whatever may be the desires of most men, it is most certainly against the interests of the powerful that the truth should be known about political behavior. If the political truths stated or approximated by Machiavelli were widely known by men, the success of tyranny and all the other forms of oppressive political rule would become much less likely. A deeper freedom would be possible in society than Machiavelli himself believed attainable. If men generally understood as much of the mechanism of rule and privilege as Machiavelli understood, they would no longer be deceived into accepting that rule and privilege, and they would know what steps to take to overcome them. Therefore the powerful and their spokesmen—all the “official” thinkers, the lawyers and philosophers and preachers and demagogues and moralists and editors—must defame Machiavelli. Machiavelli says that rulers lie and break faith: this proves, they say, that he libels human nature. Machiavelli says that ambitious men struggle for power: he is apologizing for the opposition, the enemy, and trying to confuse you about us, who wish to lead you for your own good and welfare. Machiavelli says that you must keep strict watch over officials and subordinate them to the law: he is encouraging subversion and the loss of national unity. Machiavelli says that no man with power is to be trusted: you see that his aim is to smash all your faith and ideals. Small wonder that the powerful—in public—denounce Machiavelli. The powerful have long practice and much skill in sizing up their opponents. They can recognize an enemy who will never compromise, even when that enemy is so abstract as a body of ideas.
 
-**Part III - MOSCA: THE THEORY OF THE RULING CLASS**
+## Part III - MOSCA: THE THEORY OF THE RULING CLASS
 
-**The Machiavellian Tradition**
+### The Machiavellian Tradition
 
 Machiavelli lived and wrote during a great social revolution, through which feudal society, its economy, political arrangement, and culture, were being replaced by the first stage of capitalist society. We also live during a great social revolution, a revolution through which capitalist society is being replaced by what I have elsewhere defined as “managerial society.” It is, perhaps, the close analogy between our age and Machiavelli’s that explains why the Machiavellian tradition, after centuries during which it was either neglected or misunderstood or merely repeated, has, in recent decades, been notably revived.
 
@@ -113,7 +113,7 @@ In a revolutionary transition, the struggle for power, which, during years of so
 
 Gaetano Mosca, like all Machiavellians, rejects any monistic view of history—that is, any theory of history which holds that there is one single cause that accounts for everything that happens in society. Mosca himself holds what is sometimes called an “interdependence” theory of historical causation: the view that there are a number of important factors that determine historical change, that no one of these can be considered solely decisive, that they interact upon each other, with changes in one field affecting and in turn being affected by changes in others. He makes his critique of historical monism in order to break down abstract approaches to history, to do away with preconceptions of how things ought to be, and to force a concrete examination of the facts in each specific problem rather than an adjustment of the facts to fit the requirements of some schematic theory. Monistic theories of history, he believes, are a great obstacle to a recognition of the facts.
 
-**The Ruling Class**
+### The Ruling Class
 
 It is characteristic of Machiavellian political analysis to be “anti-formal,” using “formal” in the sense which I have defined in the discussion of Dante’s De Monarchia. That is, Machiavellians, in their investigations of political behavior, do not accept at face value what men say, think, believe, or write. Whether it is the speech or letter or book of an individual, or a public document such as a constitution or set of laws or a party platform, Machiavellians treat it as only one fact among the larger set of social facts, and interpret its meaning always in relation to these other facts. In some cases, examination shows that the words can be accepted just as they stand; more often, as we found with De Monarchia, a divorce between formal and real meaning is discovered, with the words distorting and disguising the real political behavior which they indirectly express.
 
@@ -125,7 +125,7 @@ From the point of view of the theory of the ruling class, a society is the socie
 
 In stating the theory of the ruling class, Mosca is not making a moral judgment, is not arguing that it is good, or bad, that mankind should be divided into rulers and ruled. I recently read, in a review by a well-known journalist, that “this country will never accept a theory of the élite”—as if it is wicked to talk about such things, and noble to denounce them. The scientific problem, however, is not whether this country or any other will accept such theories, but whether the theories are true. Mosca believes that the stratification of society into rulers and ruled is universal and permanent, a general form of political life. As such it would be absurd to call it good or bad; it is simply the way things are. Moral values, goodness and badness, justice and injustice, are indeed to be found, and Mosca does not try to avoid making moral judgments; but they are meaningful only within the permanent structure of society. Granted that there are always rulers and ruled, then we may judge that the societies of some ruling classes are good, or more good, just, or less unjust, than others.
 
-**Composition and Character of the Ruling Class**
+### Composition and Character of the Ruling Class
 
 These qualities—a capacity for hard work, ambition (Machiavelli’s _virtù_), a certain callousness, luck in birth and circumstances—are those that help toward membership in any ruling class at any time in history. In addition, however, there is another group of qualities that are variable, dependent upon the particular society in question. “Members of a ruling minority regularly have some attribute, real or apparent, which is highly esteemed and very influential in the society in which they live.” To mention simple examples: in a society which lives primarily by fishing, the expert fisherman has an advantage; the skilled warrior, in a predominantly military society; the able priest, in a profoundly religious group; and so on. Considered as keys to rule, such qualities as these are variable; if the conditions of life change, they change, for when religion declines, the priest is no longer so important, or when fishing changes to agriculture, the fisherman naturally drops in the social scale. Thus, changes in the general conditions of life are correlated with far-reaching changes in the composition of the ruling class.
 
@@ -135,7 +135,7 @@ From this point of view, it may be seen that the relation of a ruling class to t
 
 A ruling class expresses its role and position through what Mosca calls a political formula. This formula rationalizes and justifies its rule and the structure of the society over which it rules. The formula may be a “racial myth,” as in Germany under a Nazi regime or in this country in relation to the Negroes or the yellow races: rule is then explained as the natural prerogative of the superior race. Or it may be a “divine right” doctrine, as in the theories elaborated in connection with absolutist monarchies of the 16th and 17th centuries or traditional Japanese imperialism: then rule is explained as following from a peculiar relationship to divinity, very often in fact from direct blood descent (such formulas were very common in ancient times, and have by no means lost all efficacy). Or, to cite the formula most familiar to us, and functioning now in this country, it is a belief in the “will of the people”: rule is then said to follow legitimately from the will or choice of the people expressed through some type of suffrage.
 
-**Tendencies in the Ruling Class**
+### Tendencies in the Ruling Class
 
 Within all ruling classes, Mosca shows that it is possible to distinguish two “principles,” as he calls them, and two “tendencies.” These are, it might be said, the developmental laws of ruling classes. Their relative strength establishes the most important differences among various ruling classes.
 
@@ -145,7 +145,7 @@ The distinction which Mosca makes between the “aristocratic” and “democrat
 
 In terms of this definition, there can be, as there have often been, in spite of common opinion to the contrary, autocracies which are primarily democratic in tendency, and liberal systems which are largely aristocratic.
 
-**The Best and Worst Governments**
+### The Best and Worst Governments
 
 Mosca, like Machiavelli, does not stop with the descriptive analysis of political life. He states plainly his own preferences, his opinions about what types of government are best, what worst.
 
@@ -161,9 +161,9 @@ From one point of view, the protective balance must be established between the a
 
 Freedom, in the world as it is, is thus the product of conflict and difference, not of unity and harmony. In these terms we see again the danger of “idealism,” utopianism, and demagogy. The idealists, utopians, and demagogues always tell us that justice and the good society will be achieved by the absolute triumph of their doctrine and their side. The facts show us that the absolute triumph of any side and any doctrine whatsoever can only mean tyranny.
 
-**Part IV - SOREL: A NOTE ON MYTH AND VIOLENCE**
+## Part IV - SOREL: A NOTE ON MYTH AND VIOLENCE
 
-**The Function of Myth**
+### The Function of Myth
 
 Georges Sorel cannot be considered in all respects a Machiavellian. For one thing, he was a political extremist. Though Machiavellian principles are not committed to any single political program, they do not seem to accord naturally with extremism. Further, Sorel partly repudiates, or seems to repudiate, scientific method, and to grant, in certain connections, the legitimacy of intuition and of a metaphysics derived from the French philosopher, Henri Bergson. To the extent that he rejects science, Sorel is certainly outside the Machiavellian tradition. However, Sorel’s repudiation of scientific method is largely appearance. In reality, he attacks not science, but academic pseudo-science, which he calls the “little science,” that pretends to tell us about the nature of society and politics, but in truth is merely seeking to justify this or that group of power-seekers. Sorel does indeed contend that genuine scientific doctrines are not enough to motivate mass political action; but this conclusion, far from being anti-scientific, is reached by a careful scientific analysis. Moreover, Sorel shares fully what I have called the “anti-formalism” of the Machiavellians, their refusal to take at face value the words and beliefs and ideals of men. In common with other Machiavellians he defines the subject-matter of politics as the struggle for social power; and he makes the same general analysis of the behavior of “political man,” of men, that is to say, as they act in relation to the struggle for power.
 
@@ -173,7 +173,7 @@ A myth, in contrast to hypotheses or utopias, is not either true or false. The f
 
 Though the myth is not a scientific theory and is therefore not required to conform to the facts, it is nevertheless not at all arbitrary. Not just any myth will do. A myth that serves to weld together a social group—nation, people, or class—must be capable of arousing their most profound sentiments and must at the same time direct energies toward the solution of the real problems which the group faces in its actual environment.
 
-**The Function of Violence**
+### The Function of Violence
 
 A great myth makes a social movement serious, formidable, and heroic. But this it would not do unless the myth inspired, and was in turn sustained by, violence.
 
@@ -183,9 +183,9 @@ The growth of the humanitarian and pacifist ideologies, this effort to hide the 
 
 An open recognition of the necessity of violence can reverse the social degeneration. Violence, however, can serve this function, can be kept free from brutality and from mere vengeful force, only if it is linked to a great myth. Myth and violence, reciprocally acting on each other, produce not senseless cruelty and suffering, but sacrifice and heroism.[*] But, by what is only superficially a paradox, the open acceptance of violence, when linked with a great myth, in practice decreases the total amount of actual violence in society. As in the case of the early Christian martyrdoms, which research has shown to have been surprisingly few and minor, the absolute quality of the myth gives a heightened significance to what violence does take place, and at the same time guards against an endless repetition of vulgar brutalities.
 
-**Part V - MICHELS: THE LIMITS OF DEMOCRACY**
+## Part V - MICHELS: THE LIMITS OF DEMOCRACY
 
-**Michels’ Problem**
+### Michels’ Problem
 
 A Machiavellian does not assume, without examination, the desirability of democracy or peace or even of “justice” or any other ideal goal. Before declaring his allegiance, he makes sure that he understands what is being talked about, together with the probable consequences for social welfare and well-being. Above all, no Machiavellian assumes without inquiry that the various goals are possible. A goal must be possible before there is any point in considering it desirable. It is not possible merely because it sounds pleasant or because men want it badly. Before asking, for instance, how democracy can be made to work, we must ask whether in fact it can work, or how far it can work. In general, Machiavellians are very careful to separate scientific questions concerning the truth about society from moral disputes over what type of society is most desirable.
 
@@ -193,7 +193,7 @@ A Machiavellian does not assume, without examination, the desirability of democr
 
 Organization into groups and sub-groups—families, totems, tribes, cities, nations, empires, churches, economic classes, clubs, parties—is an altogether universal feature of human life. The general laws or tendencies of organization, then, are part of the very conditions of social existence. There will be no escape from them no matter what alterations occur in economic or political structure; all attainable social goals, good or evil, will lie within the limits set by them. It is these general laws or tendencies of organization that Michels sets out to discover, in particular those tendencies that bear upon the possibility of achieving democracy. In this task, Michels does not, of course, proceed by abstract demonstration from “first principles”; he makes no appeal to metaphysics or theology or the “eternal nature of things” or to what “must be.” Nor does he accept at face value what men say or think or believe they are doing or want to do. He follows, in short, not Dante’s method, but Machiavelli’s. He examines the facts about organizations, what actually happens in real and existing human organizations, past and present. His generalizations are derived solely from these facts.
 
-**The Fact of Leadership**
+### The Fact of Leadership
 
 Democratic theory is based upon the principle of “self-government”; the persons belonging to a social group are, according to democratic theory, able to, and properly ought to, govern themselves. It is possible to imagine, and even to discover, social groups in which this theory is fully realized. Such would be a small company of adults (half a dozen or so), united for some jointly held purpose (business or recreation or crime, whatever it might be), who shared the same interests and level of culture, and who reached decisions unanimously, after an adequate discussion, by what we call “a meeting of minds.” Certainly such groups, which are not unknown, can be intelligibly said to be practicing, with respect to their organized purpose, “self-government”: their members are, plainly enough, “governing themselves.” However, as soon as the group becomes at all large (and the politically important groups of modern civilized society are very large) it is necessary, still retaining the democratic intention, to introduce arbitrary rules that are not wholly in accord with democratic theory. For example, the “group” has to be re-defined in such a way as to exclude certain individuals who are nevertheless subject to its decisions: children up to a certain arbitrarily determined age, criminals, insane persons, and so on. Usually, it may be added, additional restrictions apply in practice even when not in theory—property and racial and educational restrictions, to mention some of the most prominent. Secondly, since in larger groups we seldom get opinions that are both freely given and unanimous, it is necessary to accept the decision of a numerical majority as the decision of the entire group. Both of these qualifications are obviously unavoidable, and no sensible person could object to them. Nevertheless, it should not be overlooked that they do contradict strict democratic theory, even though it is easy enough for a clever philosopher to patch up the theory in order to allow for them. They are enough to show that strict and full democracy is not possible in practice. However, having noted this, we shall accept them as a legitimate emendation of democratic theory, and go on to inquire whether democracy thus circumscribed is compatible with the facts of organization.
 
@@ -207,7 +207,7 @@ Democratic theory is compelled to try to adapt itself to the fact of leadership.
 
 In short, the leaders—not every individual leader, but the leadership as a group, and a group with at least a considerable measure of stability and permanence—are indispensable to every important organization. Their genuine indispensability is the strongest lever whereby the position of the leadership is consolidated, whereby the leaders control and are not controlled by the mass, whereby, therefore, democracy succumbs. The power of the leadership, organized as an informal sub-group independent of the mass of the membership, follows as a necessary consequence of its indispensability.
 
-**The Autocracy of Leadership**
+### The Autocracy of Leadership
 
 The leaders—mere “representatives,” according to democratic theory—have effective control of the organization’s finances. The funds are for the most part supplied by the mass. In theory and to some extent in fact, the mass can impose certain restrictions on what is done with the funds. But in practice the use and distribution of funds is under the direct control of the leaders. This control is often very crudely expressed by the tendency of leaders to assign relatively large amounts of money to themselves.
 
@@ -219,7 +219,7 @@ Michels underestimates the indirect, if not direct, democratic significance of t
 
 Once granted the principle of representation, Bonapartism can be regarded as the logical culmination of democracy. More than this: to judge from the experience not only of our own times but from that of the Greek city-states, the Roman Republic, and the medieval city-states, Bonapartism is likewise the normal—though not perhaps the invariable—historical culmination of democracy. Bonapartism, in one or another stage of development, is the most striking and typical political structure of our day. The great nations which, in the period since the Renaissance, adopted democratic political formulas and representative parliamentary practices, have without exception in this century exhibited a powerful tendency toward Bonapartism, a tendency which in Germany, Russia, and Italy has gone to full maturity, but which has also been plainly marked in, for example, England and the United States. It is a grave historical error to identify Bonapartism with other forms of despotism. Bonapartism is not mere military dictatorship; it is not the traditional hereditary or God-derived despotism of absolute monarchies; it is not the oligarchical rule of a closed hereditary caste. Mature Bonapartism is a popular, a democratic despotism, founded on democratic doctrine, and, at least in its initiation, committed to democratic forms. If Bonapartism, in fact rather than in theory, denies democracy, it does so by bringing democracy to completion.
 
-**The Iron Law of Oligarchy**
+### The Iron Law of Oligarchy
 
 The autocratic tendencies of organization have not, of course, escaped the notice of those proponents of democracy who have been both hard-headed and sincere. Recognizing them, a number of measures have been proposed in an effort to thwart these tendencies and to guard democracy. Michels discusses the result obtained from four of the chief of these: the referendum, “renunciation,” syndicalism, and anarchism.
 
@@ -235,9 +235,9 @@ It is not surprising that the test of experience shows that these and all other 
 
 However, from the iron law of oligarchy, Michels does not at all conclude that we should abandon the struggle for democracy, or, more strictly, for a reduction to the minimum possible of those autocratic tendencies which will nevertheless always remain.
 
-**Part VI - PARETO: THE NATURE OF SOCIAL ACTION**
+## Part VI - PARETO: THE NATURE OF SOCIAL ACTION
 
-**Logical and Non-logical Conduct**
+### Logical and Non-logical Conduct
 
 Vilfredo Pareto, in his gigantic book, _Mind and Society_, disavows any purpose other than to describe and correlate social facts. He is not offering any program for social improvement nor expressing any ideal of what society and government ought to be. He is trying merely to describe what society is like, and to discover some of the general laws in terms of which society operates. What could or should be done with this knowledge, once obtained, is a question he does not try to answer.
 
@@ -247,7 +247,7 @@ Pareto is strict with his definition. It might be that, though the deliberately 
 
 Pareto not only shows that non-logical conduct is predominant; his crucial point is that the conduct which has a bearing on social and political structure, on what he calls the “social equilibrium,” is above all the arena of the non-logical. What happens to society, whether it progresses or decays, is free or despotic, happy or miserable, poor or prosperous, is only to the slightest degree influenced by the deliberate, rational purposes held by human beings.
 
-**Residues and Derivations**
+### Residues and Derivations
 
 Words are perhaps the most distinctive trait of human beings. If man is only in small degree a rational animal, he is pre-eminently a verbal animal. Words, spoken or written, are associated with most of his activities, and in particular with those activities that are of social and political significance. After finishing his discussion of non-logical conduct in general, Pareto restricts himself to those non-logical actions which include or are associated with words. Everyone will recognize that nearly all of non-verbal conduct, such as is found in animals or in the purely instinctive behavior of human beings, is also non-logical. The peculiar and deceptive problems arise in connection with conduct which is verbal but at the same time non-logical. Pareto examines a vast number of examples of this sort of conduct, taken from many times and cultures. From this examination, Pareto concludes that two quite different phases may be discovered. There is, he says, a fairly small number of relatively constant factors (or “nuclei”) which change little or not at all from age to age or from culture to culture. These constant factors he calls “residues.” Along with these there are other factors which are variable, change rapidly, and are different from age to age and nation to nation. These variable factors he calls “derivations.”
 
@@ -287,7 +287,7 @@ It will be evident from the examples and analysis given in this and the precedin
 
 Pareto, as well as the other Machiavellians, is often charged by sentimentalists with “neglecting human ideals” and “disregarding men’s goals.” No charge could be more inappropriate. It is the Machiavellians, perhaps more than any other school, who have paid closest attention to ideals. However, as I have already more than once stated, they do not take ideals and the theories accompanying them at face value. They insist on relating the ideals and theories to the whole complex of human behavior, and interpreting what men do, not merely by their words, but by their words related to the rest of their actions. Recognizing that moral, social, and political doctrines have little or no genuinely scientific content, they do not try to evaluate them through a superficial examination of the words that appear in them, nor do they expect to understand and predict the course of social events by accepting the verbal nonsense that a Constitution or Platform or political speech may contain. Often they discover that the actual effects of a doctrine are completely at variance with the results that it claims to be able to accomplish—a discovery not without its practical importance, if we are interested in the welfare of society.
 
-**Social Utility**
+### Social Utility
 
 Since the beginning of systematic thought—that is, for about 2500 years in western culture—there has been constant discussion of the problem of “the good community,” “the ideal society,” “the best form of government.” Tens of thousands of persons have given time and intelligence to arguments over these questions, and have devised nearly as many answers. After all this while, men have not reached any generally accepted conclusions, and there is no indication that we have advanced in these matters a single step beyond the reasonings of the ancient Greeks and Romans. This fact, and the contrast it presents to the advances made in solving the problems of the physical sciences, are enough to show that the attempted answers to these questions are not scientifically credible theories, but non-logical expressions, that is to say, derivations. Derivations, not being subject to the controls of logic, clarity and evidence, never reach any objective stability, but come and go with every shift of sentiment and cultural fashion.
 
@@ -301,7 +301,7 @@ What is the truth about this problem, apart from derivations? The truth seems to
 
 We are not, therefore, entitled to judge that it is invariably a “bad thing” that men believe derivations, ideologies, myths, formulas, these verbal constructions which from a scientific standpoint always contain a large measure of the false and the absurd. The myths are, in the first place, a necessary ingredient of social life. A society in which they would be eliminated in favor of exclusively scientific beliefs would have nothing in common with the human societies that have existed and do exist in the real world, and is a merely imaginary fantasy. Here once more our investigation must be concrete. Certain derivations or myths under certain circumstances are socially useful, others detrimental; when the circumstances change, so may the effects of the myths.
 
-**The Circulation of the Elites**
+### The Circulation of the Elites
 
 By “Social Equilibrium,” Pareto means the general state and structure of society, considered dynamically, at any given moment. That is, the term refers to the state of society insofar as it involves the interplay of those forces that both determine what it is at any given moment, and at the same time, through their operation, work to change its state and structure. What are these forces that determine the social equilibrium, that make society what it is and bring about changes in society? Pareto believes the chief of them to be the following:
 
@@ -329,9 +329,9 @@ A combination of this sort does not, however, as a rule last long. The typical, 
 
 Pareto claims, as we have seen, that, though we can come to objective conclusions about the strength of a society relative to other societies, we cannot make any objective judgment about what type of social structure is “best” from the point of view of internal welfare. However, a certain tendency in his own feelings becomes evident from his analysis. To begin with, he plainly puts external strength first, since it is a pre-condition of everything else: that is, if a nation cannot survive, it is rather pointless to argue in the abstract whether or not it is a “good society.” In order to survive, a society must have a fairly free class-circulation; the élite must not bar its doors too rigidly. This freedom will at the same time on the whole operate to increase the internal well-being of the society. Second, in discussing the distribution of residues, Pareto implicitly joins the other Machiavellians in an evident preference for social checks and balances. The strongest and healthiest societies balance a predominance of Class I residues in the élite with a predominance of Class II residues in the non-élite. But Class II residues must not be altogether excluded from the élite. If Class II residues prevail in all classes, the nation develops no active culture, degenerates in a slough of brutality and stubborn prejudice, in the end is unable to overcome new forces in its environment, and meets disaster. Disaster, too, awaits the nation given over wholly to Class I residues, with no regard for the morrow, for discipline or tradition, with a blind confidence in clever tricks as the sufficient means for salvation.
 
-**Part VII - POLITICS AND TRUTH**
+## Part VII - POLITICS AND TRUTH
 
-**The Nature of the Present**
+### The Nature of the Present
 
 I shall now summarize the main principles of Machiavellism, those principles which are common to all Machiavellians and which, taken together, define Machiavellism as a distinctive tradition of political thought. These general principles constitute a way of looking at social life, an instrument for social and political analysis. They are capable of being applied concretely in the study of any historical period, including our own, that may interest us. In each case, in the list that follows, I shall state in parentheses the contrary point of view which is opposed to the Machiavellian principle. In order to understand what a thing is, we must understand also what it is not.
 
@@ -363,7 +363,7 @@ I shall now summarize the main principles of Machiavellism, those principles whi
 
 It may be remarked that these Machiavellian principles are much closer to the more or less instinctive views of “practical men” who are themselves active in the social struggle than to the views of theorists, reformers and philosophers. This is natural, because the principles are simply the generalized statement of what practical men do and have been doing; whereas the theorists, most often comparatively isolated from direct participation in the social struggle, are able to imagine society and its laws to be as they would wish to have them.
 
-**The Meaning of Democracy**
+### The Meaning of Democracy
 
 “Democracy” is usually defined in some such terms as “self-government” or “government by the people.” Historical experience forces us to conclude that democracy, in this sense, is impossible. The Machiavellians have shown that the practical impossibility of democracy depends upon a variety of factors: upon psychological tendencies which are apparently constant in social life, and, most decisively of all, upon the necessary technical conditions of social organization. Since our expectations of the future can be based only upon the evidence from the past, and since there is no reason to suppose that the tendencies and conditions which prevented democracy in the past will cease to hold for the future, we must, from a scientific standpoint, believe that democratic self-government is ruled out for the future as it has been absent from the past. The theory of democracy as self-government must, therefore, be understood as a myth, formula, or derivation. It does not correspond to any actual or possible social reality. Debates over the merits of the theory are almost wholly valueless in throwing light on social facts. It does not, however, follow that the theory of democracy (I continue to refer to democracy in the sense of “self-government” or “government by the people”) is without any influence on the social structure. The theory does not correctly describe any social facts. No societies are governed by the people, by a majority; all societies, including societies called democratic, are ruled by a minority. But the ruling minority always seeks to justify and legitimize its rule in part through a formula, without which the social structure would disintegrate. The positive significance of democratic theory is as a political formula of this kind. Moreover, certain political practices are associated with the democratic formula: of particular importance, the practice of suffrage extended to a considerable proportion of the adult members of the society, whereby some questions, including the naming of certain state officials, pass through the electoral process.
 
@@ -381,7 +381,7 @@ Liberty or freedom means above all, as I have said, the existence of a public op
 
 It is only when there are several different major social forces, not wholly subordinated to any one social force, that there can be any assurance of liberty, since only then is there the mutual check and balance that is able to chain power. There is no one force, no group, and no class that is the preserver of liberty. Liberty is preserved by those who are against the existing chief power. Oppositions which do not express genuine social forces are as trivial, in relation to entrenched power, as the old court jesters.
 
-**Can Politics Be Scientific?**
+### Can Politics Be Scientific?
 
 It is at once apparent that the broad question, “Can politics be scientific?” is ambiguous. It must be resolved into several more precise questions before answers become possible. The three of these with which I shall deal are the following: (1) Can there be a science of politics (and of society, since politics is a phase of social life)? (2) Can the masses act scientifically in political affairs? (3) Can the élite, or some section of the élite, act scientifically in political affairs?
 

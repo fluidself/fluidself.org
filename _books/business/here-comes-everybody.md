@@ -5,7 +5,7 @@ slug: here-comes-everybody
 title: 'Here Comes Everybody: The Power of Organizing Without Organizations - by Clay Shirky'
 ---
 
-**IT TAKES A VILLAGE TO FIND A PHONE**
+### IT TAKES A VILLAGE TO FIND A PHONE
 
 Human beings are social creatures—not occasionally or by accident but always. Sociability is one of our core capabilities, and it shows up in almost every aspect of our lives as both cause and effect. Society is not just the product of its individual members; it is also the product of its constituent groups. The aggregate relations among individuals and groups, among individuals within groups, and among groups forms a network of astonishing complexity. We have always relied on group effort for survival; even before the invention of agriculture, hunting and gathering required coordinated work and division of labor. You can see an echo of our talent for sociability in the language we have for groups; like a real-world version of the mythical seventeen Eskimo words for snow, we use incredibly rich language in describing human association. We can make refined distinctions between a corporation and a congregation, a clique and a club, a crowd and a cabal. We readily understand the difference between transitive labels like “my wife’s friend’s son” and “my son’s friend’s wife,” and this relational subtlety permeates our lives. Our social nature even shows up in negation. One of the most severe punishments that can be meted out to a prisoner is solitary confinement; even in a social environment as harsh and attenuated as prison, complete removal from human contact is harsher still.
 
@@ -19,7 +19,7 @@ We now have communications tools that are flexible enough to match our social ca
 
 For most of modern life, our strong talents and desires for group effort have been filtered through relatively rigid institutional structures because of the complexity of managing groups. We haven’t had all the groups we’ve wanted, we’ve simply had all the groups we could afford. The old limits of what unmanaged and unpaid groups can do are no longer in operation; the difficulties that kept self-assembled groups from working together are shrinking, meaning that the number and kinds of things groups can get done without financial motivation or managerial oversight are growing. The current change, in one sentence, is this: most of the barriers to group action have collapsed, and without those barriers, we are free to explore new ways of gathering together and getting things done.
 
-**SHARING ANCHORS COMMUNITY**
+### SHARING ANCHORS COMMUNITY
 
 Groups of people are complex, in ways that make those groups hard to form and hard to sustain; much of the shape of traditional institutions is a response to those difficulties. New social tools relieve some of those burdens, allowing for new kinds of group-forming, like using simple sharing to anchor the creation of new groups.
 
@@ -47,7 +47,7 @@ Collaborative production is a more involved form of cooperation, as it increases
 
 Collective action, the third rung, is the hardest kind of group effort, as it requires a group of people to commit themselves to undertaking a particular effort together, and to do so in a way that makes the decision of the group binding on the individual members. All group structures create dilemmas, but these dilemmas are hardest when it comes to collective action, because the cohesion of the group becomes critical to its success. Information sharing produces shared awareness among the participants, and collaborative production relies on shared creation, but collective action creates shared responsibility, by tying the user’s identity to the identity of the group.
 
-**EVERYONE IS A MEDIA OUTLET**
+### EVERYONE IS A MEDIA OUTLET
 
 Our social tools remove older obstacles to public expression, and thus remove the bottlenecks that characterized mass media. The result is the mass amateurization of efforts previously reserved for media professionals.
 
@@ -59,7 +59,7 @@ Professional self-conception and self-defense, so valuable in ordinary times, be
 
 The pattern here is simple—what seems like a fixed and abiding category like “journalist” turns out to be tied to an accidental scarcity created by the expense of publishing apparatus. Sometimes this scarcity is decades old (as with photographers) or even centuries old (as with journalists), but that doesn’t stop it from being accidental, and when that scarcity gets undone, the seemingly stable categories turn out to be unsupportable. This is not to say that professional journalists and photographers do not exist—no one is likely to mistake Bob Woodward or Annie Liebowitz for an amateur—but it does mean that the primary distinction between the two groups is gone. What once was a chasm has now become a mere slope.
 
-**PUBLISH, THEN FILTER**
+### PUBLISH, THEN FILTER
 
 The media landscape is transformed, because personal communication and publishing, previously separate functions, now shade into one another. One result is to break the older pattern of professional filtering of the good from the mediocre before publication; now such filtering is increasingly social, and happens after the fact.
 
@@ -77,7 +77,7 @@ Life teaches us that motivations other than getting paid aren’t enough to add 
 
 Communications tools don’t get socially interesting until they get technologically boring. The invention of a tool doesn’t create change; it has to have been around long enough that most of society is using it. It’s when a technology becomes normal, then ubiquitous, and finally so pervasive as to be invisible, that the really profound changes happen, and for young people today, our new social tools have passed normal and are heading to ubiquitous, and invisible is coming.
 
-**PERSONAL MOTIVATION MEETS COLLABORATIVE PRODUCTION**
+### PERSONAL MOTIVATION MEETS COLLABORATIVE PRODUCTION
 
 Collaborative production, where people have to coordinate with one another to get anything done, is considerably harder than simple sharing, but the results can be more profound. New tools allow large groups to collaborate, by taking advantage of nonfinancial motivations and by allowing for wildly differing levels of contribution.
 
@@ -99,7 +99,7 @@ Yochai Benkler, a legal scholar and network theorist and author of The Wealth of
 
 Wikipedia invites us to do the following disorienting math: a chaotic process, with unpredictable and wildly uneven contributions, made by nonexpert contributors acting out of variable motivations, is creating a global resource of tremendous daily value. A commercial producer of encyclopedias has to be efficient about finding and fixing mistakes, since things like process and deadlines and salaries are involved. Wikipedia, with none of those things, does not have to be efficient—it merely has to be effective. If enough people see an article, the chance that an error will be caught and fixed improves with time. Because Wikipedia is a process, not a product, it replaces guarantees offered by institutions with probabilities supported by process: if enough people care enough about an article to read it, then enough people will care enough to improve it, and over time this will lead to a large enough body of good enough work to begin to take both availability and quality of articles for granted, and to integrate Wikipedia into daily use by millions.
 
-**COLLECTIVE ACTION AND INSTITUTIONAL CHALLENGES**
+### COLLECTIVE ACTION AND INSTITUTIONAL CHALLENGES
 
 Collective action, where a group acts as a whole, is even more complex than collaborative production, but here again new tools give life to new forms of action. This in turn challenges existing institutions, by eroding the institutional monopoly on large-scale coordination.
 
@@ -111,7 +111,7 @@ It is a curiosity of technology that it creates new characteristics in old insti
 
 The communications tools broadly adopted in the last decade are the first to fit human social networks well, and because they are easily modifiable, they can be made to fit better over time. Rather than limiting our communications to one-to-one and one-to-many tools, which have always been a bad fit to social life, we now have many-to-many tools that support and accelerate cooperation and action.
 
-**FASTER AND FASTER**
+### FASTER AND FASTER
 
 As more people adopt simple social tools, and as those tools allow increasingly rapid communication, the speed of group action also increases, and just as more is different, faster is different.
 
@@ -121,7 +121,7 @@ Social tools create what economists would call a positive supply-side shock to t
 
 The power to coordinate otherwise dispersed groups will continue to improve; new social tools are still being invented, and however minor they may seem, any tool that improves shared awareness or group coordination can be pressed into service for political means, because the freedom to act in a group is inherently political.
 
-**SOLVING SOCIAL DILEMMAS**
+### SOLVING SOCIAL DILEMMAS
 
 There are real and permanent social dilemmas, which can only be optimized for, never completely solved. The human social repertoire includes many such optimizations, which social tools can amplify.
 
@@ -145,7 +145,7 @@ The second kind of loss will damage current social bargains. Many countries plac
 
 The third kind of loss is the most serious. Networked organizations are more resilient as a result of better communications tools and more flexible social structures, but this is as true of terrorist networks or criminal gangs as of Wikipedians or student protesters. This third loss, where the harms are not merely transitional, leads to a hard question: What are we going to do about the negative effects of freedom? It’s easy to tell the newspaper people to quit whining, because the writing has been on the wall since the internet became publicly accessible in the early 1990s—their response has been inadequate in part because they waited so long to grapple with the change. It’s harder, though, to say what we should be doing about Pro-Ana kids or about newly robust criminal networks.
 
-**FITTING OUR TOOLS TO A SMALL WORLD**
+### FITTING OUR TOOLS TO A SMALL WORLD
 
 Large social groups are different from small ones, but we are still understanding all the ways in which that is true. Recent innovations in social tools provide more explicit support for a pattern of social networking called the Small World pattern, which underlies the idea of Six Degrees of Separation.
 
@@ -165,7 +165,7 @@ Bonding capital tends to be more exclusive and bridging capital more inclusive. 
 
 Perhaps the most significant effect of our new tools, though, lies in the increased leverage they give the most connected people. The tightness of a large social network comes less from increasing the number of connections that the average member of the network can support than from increasing the number of connections that the most connected people can support.
 
-**FAILURE FOR FREE**
+### FAILURE FOR FREE
 
 The logic of publish-then-filter means that new social systems have to tolerate enormous amounts of failure. The only way to uncover and promote the rare successes is to rely, yet again, on social structure supported by social tools.
 
@@ -185,7 +185,7 @@ The cost of trying things is where Coasean theory about transaction costs and po
 
 What the open source movement teaches us is that the communal can be at least as durable as the commercial. For any given piece of software, the question “Do the people who like it take care of each other?” turns out to be a better predictor of success than “What’s the business model?” As the rest of the world gets access to the tools once reserved for the techies, that pattern is appearing everywhere, and it is changing society as it does.
 
-**PROMISE, TOOL, BARGAIN**
+### PROMISE, TOOL, BARGAIN
 
 There is no recipe for the successful use of social tools. Instead, every working system is a mix of social and technological factors.
 
@@ -217,7 +217,7 @@ People are basically good, when they are in circumstances that reward goodness w
 
 Any experiment of any importance will always have people who want it to fail. Only the systems that have defenses against such users can thrive; the assumption that those users won’t appear is an inadequate defense.
 
-**EPILOGUE**
+### EPILOGUE
 
 Increased options for communication in groups don’t just mean we will get more of the patterns we already recognize; they also mean we will also get more new kinds of patterns. More is different, even for people who understand that more is different, which explains in part our persistent difficulties in getting technology predictions right.
 

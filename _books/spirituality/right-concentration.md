@@ -11,7 +11,7 @@ The jhānas themselves are not awakening, but they are a skillful means for conc
 
 The four preliminary practices of keeping the precepts, guarding the senses, maintaining mindfulness, and being content with little are “off-the-cushion” practices that you need to make the four cornerstones of your basic way of life. Without the support of these practices, meditation “on the cushion” usually proceeds in fits and starts, if it proceeds at all. For learning jhānas, it really is necessary to have a quality daily on-the-cushion meditation practice worthy of the word daily, hopefully of at least forty-five minutes and preferably an hour or more. These four practices go a long way to making that possible.
 
-**Access Concentration**
+### Access Concentration
 
 The setting aside of unwholesome mind states is known as abandoning the hindrances. There are five of these hindrances, usually listed as sense desire, ill will, sloth and torpor, restlessness and remorse, and doubt. They could also be listed as wanting, aversion, too little energy, too much energy, and doubt. The overcoming of these five unwholesome states of mind is the same as generating access concentration.
 
@@ -21,7 +21,7 @@ It is probably better if you can observe the physical sensations at the nostrils
 
 When the thoughts are just slight, when they’re not really pulling you away and you’re fully with the sensations of the breath, knowing each in-breath and each out-breath—this is the sign that you’ve arrived at access concentration. Whatever method you use to generate access concentration, the sign that you’ve gotten to access concentration is that you are fully present with the object of meditation.
 
-**Entering the Jhānas**
+### Entering the Jhānas
 
 You may discover that the breath becomes very subtle; instead of a normal breath, you notice you are breathing very shallowly. It may even seem that you’ve stopped breathing altogether. These are signs that you’ve likely arrived at access concentration.
 
@@ -39,7 +39,7 @@ It’s also very important to let go of the breath when you make the shift to th
 
 So you’ve found the pleasant sensation and fully shifted your attention to that pleasant sensation. You now observe the pleasantness of the pleasant sensation and do nothing else. If you can do that, the pleasant sensation will begin to grow in intensity; it will become stronger. This will not happen in a linear way. At first, nothing happens. Then it’ll grow a little bit and then grow a little bit more and then hang out and grow a little bit more... And then eventually, it will suddenly take off and take you into what is obviously an altered state of consciousness. In this altered state of consciousness, you will be overcome with rapture... euphoria... ecstasy... delight. These are all English words that are used to translate the Pali word pīti. Perhaps the best English word for pīti is “glee.”
 
-**First Jhāna**
+### First Jhāna
 
 To summarize the method for entering the first jhāna: You sit in a nice comfortable upright position and generate access concentration by placing and eventually maintaining your attention on a single meditation object. When access concentration is firmly established, then you shift your attention from the breath (or whatever your meditation object is) to a pleasant sensation, preferably a pleasant physical sensation. You put your attention on that sensation, and maintain your attention on that sensation, and do nothing else.
 
@@ -51,7 +51,7 @@ Another thing you can do in the first jhāna is play with the intensity level of
 
 Pīti can manifest as rocking or swaying, or it can be very intense so that you are actually vibrating to the point where it is visible to others. It can manifest as heat and get very, very warm. Hopefully it has a pleasant aspect to it. Most often, it manifests as an upward rush of energy, often centered up the spine. I’ve talked with people who practice kundalini yoga, and it seems that pīti is the same energy. I’ve talked with people who practice tummo, which is the Tibetan practice of generating heat, and I was told that this practice also involves generating the same sort of energy. It’s a known, widespread phenomenon that is used in different ways. Here it is used to grab your attention and take you into a concentrated state due to it being so strong that it is easy to put your attention on it and absorb into the experience.
 
-**Second Jhāna**
+### Second Jhāna
 
 The thinking, which was in the background of both access concentration and the first jhāna, subsides when one enters the second jhāna and is replaced by inner tranquilitya and unification of mind. As a practical matter, to move from the first jhāna to the second jhāna, you should take a nice deep breath and let it out slowly and totally, which will calm down the pīti yet leave the sukha strong enough so that you can focus on it. In the first jhāna, the pīti predominates and the sukha is in the background. To move toward the second jhāna, you want to do a foreground-background reversal. When you take the deep breath and deeply exhale, both the pīti and the sukha calm down in intensity, but the pīti drops much more in intensity and is now low-grade and more in the background. The sukha, although perhaps now a bit less intense than it was before the deep breath, is still strong enough to now be the more prominent of the two. The “inner tranquility” mentioned in the description of the second jhāna reflects the shift from an experience of pīti and sukha to an experience of sukha and pīti.
 
@@ -61,7 +61,7 @@ What you want to do is to be able to get to this state and be able to maintain i
 
 The most common problem encountered when learning the second jhāna results from the fact that the sukha is a more subtle object than the pīti of the first jhāna. It takes a more concentrated mind to be able to stay with this more subtle object. It sometimes happens that you generate strong enough access concentration to be able to enter the first jhāna, but when you move on to the second jhāna, you soon fall out of it. The solution is to stay longer in access concentration and let it deepen before moving to the first jhāna.
 
-**Third Jhāna**
+### Third Jhāna
 
 The key thing that happens when you enter the third jhāna is that the pīti—the rapture—fades away. You are in a place where you are just happy. But, you are also in a state of equanimity, mindful and clearly comprehending. The best word to describe this state is contentment. You are in a state of wishlessness, a state of satisfaction, and you want for nothing. This state is without pīti, so there is no sense of movement. You are very still and happy and hanging out in an ongoing state of wishlessness.
 
@@ -71,7 +71,7 @@ Because the pīti has faded out, this state is a much nicer place to spend time.
 
 The third jhāna is less energetic and feels lower in the body, more toward the belly level. In fact, there is a strong sense of the locus of each jhāna moving physically downward as you go up in the numbers.
 
-**Fourth Jhāna**
+### Fourth Jhāna
 
 The aim here is to attain an emotionally neutral state such that your equanimity can fully purify your mindfulness. As a practical matter, to enter the fourth jhāna, let go of the pleasure of the third jhāna, and hopefully when you do so, there will be a sense of things starting to physically drop down. Go with this sense of dropping down, and continue to let it drop. In the third jhāna, you may find you have a faint smile, a Buddha-like smile. If so, all you have to do is relax the muscles of your face. Both the smile and the sense of pleasure disappear; then usually a sense of things starting to drop down follows. Just stay focused on that sense of dropping, which can continue for quite some time. Eventually the mind settles into a place of quiet stillness.
 
@@ -83,7 +83,7 @@ To be skilled in this state, again you should be able to maintain it for at leas
 
 The quiet, still, neutral state of mind that is the object of the fourth jhāna is considerably more subtle than the objects of the previous jhānas. This makes it more difficult to maintain your attention on it. If you find that you are frequently becoming distracted from the fourth jhāna experience or if the background thinking begins to kick in again, it’s a sure sign that your concentration level is not strong enough. The best remedy, and the only real long-term solution, is that the next time you are in access concentration, stay longer in access concentration before entering the first jhāna. It is possible to enter the first three jhānas having generated sufficient concentration while in access, but not having generated sufficient concentration to stabilize the fourth jhāna. Counteract this by staying longer in access concentration.
 
-**Insight Practice**
+### Insight Practice
 
 The purpose of the jhānas is to generate a mind that is concentrated, pure and bright, unblemished, free from defects, malleable, wieldy, steady, and attained to imperturbability, which you can then direct and incline to knowing and seeing. Knowing and seeing what? Body and mind. The jhānas provide you with a mind that can do insight practice more efficiently; they are a warm-up exercise for investigating your body and your mind. Whatever your insight practice is, whatever method you choose to investigate your body and your mind, it will be more effective with a mind that is concentrated, bright, wieldy, and so forth.
 
@@ -97,7 +97,7 @@ It is very helpful when you first sit down to begin your meditation practice to 
 
 There are two basic categories into which insight practices can be divided: meditations and contemplations. Meditation techniques involve the wordless, or nearly wordless, examination of some sort of sensory input. It is usually easier to stay focused and not become distracted when doing an insight meditation. And it is easy to recognize that you have become distracted: if you notice thinking happening, you can let go of the thinking and come back to the meditation object. Contemplation techniques involve thinking about a specific topic. The particulars of a topic may come from sensory input (e.g., contemplating the four elements via sight and touch), or the particulars might come from remembering a teaching and pondering the implications of it (e.g., contemplating dependent origination or contemplating the five daily remembrances). It is more difficult to recognize a distraction when contemplating than when meditating since obviously not all thinking is a distraction when contemplating. It is helpful when a contemplation has a word, phrase, or sentence that serves as an initial key to beginning that contemplation. When you recognize a distraction, you can rethink the key to get settled in again.
 
-**The Immaterial Jhānas**
+### The Immaterial Jhānas
 
 From reading the suttas, it would appear that the Buddha considered the fourth jhāna sufficient for generating the “higher mind” of concentration deep enough to enhance your insight practice. But there are also the four immaterial states, which are sometimes mentioned in the suttas as being practiced after the fourth jhāna. This sequence of eight states of concentration led in the later literature to the four immaterial states being referred to as the arūpa jhānas—meaning, “immaterial jhānas.” The first four jhānas were then referred to as the rūpa jhānas—meaning, “material jhānas.”
 
@@ -105,7 +105,7 @@ Jhānas are not superhuman mind states—they arise naturally when your mind is 
 
 The jhānas were not invented; they were discovered. People in India had been practicing mindfulness of breathing for many centuries by the time of the Buddha. They had been stumbling into deep, stable states of concentration for a very long time. Eventually these states were codified and arranged in order of increasing subtlety of object.
 
-**Other Benefits of Jhāna Practice**
+### Other Benefits of Jhāna Practice
 
 Besides the jhānas being a way to prepare your mind for insight practice, they can also have the following benefits as well:
 
@@ -123,7 +123,7 @@ Besides the jhānas being a way to prepare your mind for insight practice, they 
 
 - provide a pleasant abiding here and now.
 
-**Five Things to Do at the Beginning of Meditation**
+### Five Things to Do at the Beginning of Meditation
 
 It is very helpful after you get seated in your comfortable, upright posture to generate some _gratitude_—gratitude toward your teachers who have taught you the dhamma, gratitude for the life circumstance that enables you to undertake this period of meditation practice, gratitude for all the millions of people who have had a hand in preserving the Buddha’s dhamma for two and half thousand years, gratitude to the Buddha for finding and showing the way, gratitude for anything else that you are currently grateful for. This begins to settle your mind into a positive state, which will be helpful for entering the jhānas. Also current neuroscience research has shown that gratitude practice begins the process of shutting down the so-called default-mode network, which is responsible for many of our distractions.
 
@@ -133,7 +133,7 @@ At the beginning of every meditation period, you should always do some _mettā_ 
 
 The last of the five things to do at the start of a meditation period is only useful if you are using mindfulness of breathing as your access method; otherwise, just skip it. There is a gatha (saying) from Thich Nhat Hanh: “Breathing in, I calm body and mind. Breathing out, I smile.”1 This is exactly what you need to do to generate access concentration using mindfulness of breathing. Don’t take the saying too literally—just breathe in and out and smile and get calm.
 
-**Five Things to Do at the End of Meditation**
+### Five Things to Do at the End of Meditation
 
 The five things to do at the end of a meditation period begin with _recapitulation_—what did you do, and how did you get there? This includes remembering what your posture was at the beginning of the period, what it was like to do the five preliminaries mentioned above, what you used for your access method, how you knew you were in access, how long you stayed in access, what was the pleasant sensation that you switched to, what was it like to be with that pleasant sensation, how did the jhāna begin to manifest (if one did), how you responded, and so forth. In fact it can be helpful to remember things that you did before coming to meditate: Had you just eaten? Had you just come back from a walk? Did you read something inspiring? If you have a meditation the likes of which you would like to have again, it is helpful to know the factors that went into generating that experience. So remember anything that might be relevant. Then when you meditate the next time, try, to the best of your ability, to repeat those factors. You are not going to be able to repeat the experience—that’s over and gone. But you will have a better chance of having new experiences similar to the previous one if you have some idea of what you did to generate that previous experience. Not everything you remember preceding some meditation experience is going to be relevant—just keep doing the recapitulation after each sitting, and eventually you’ll discover the important contributing factors.
 
@@ -145,9 +145,9 @@ The meditation practice you do has effects beyond just you personally. Recognizi
 
 Unrelenting _mindfulness_ is an extremely important practice to undertake while learning the jhānas. Therefore, just before you get up from your seat, resolve to be mindful as you arise and go about your activities. Continuous mindfulness is very difficult—you need all the help you can get. So make it a habit to remind yourself to be mindful as the last thing at the end of every period of formal meditation.
 
-**Access Concentration Methods**
+## Access Concentration Methods
 
-**Mindfulness of Breathing**
+### Mindfulness of Breathing
 
 You want to sit upright, especially if you are doing mindfulness of breathing. The upright posture helps keep you awake, and it also makes the breathing happen more easily, and therefore it is easier to be mindful of it. After you have settled in, put your attention on the physical sensations associated with your breathing. Pay attention to your breath at your nostrils if you can. Paying attention at the nostrils is more difficult than at the belly or the chest—you have to concentrate more because it’s a more subtle object. If you can successfully concentrate on the breath at the nostrils, you have more concentration than if you successfully concentrate on the breath at the belly. Since you need a strong level of concentration to enter the jhāna, it’s helpful to work with the more subtle object of the breath at the nostrils.
 
@@ -159,6 +159,6 @@ These are the possible aids: counting the gaps between the out- and the in-breat
 
 In summary, sit in a comfortable, upright posture that you can maintain for the length of the sitting. Put your attention on the breathing by noticing the tactile sensations associated with it. Pay attention at the nostrils if possible, or the belly or the chest. You can use one of the aids. When you get distracted, which is no big deal, label the distraction and then intentionally relax. Bring your attention back to the tactile sensations of breathing. Repeat until you feel settled. If you’re still using an aid, drop the aid; repeat until you feel settled without the aid; then you’re at access concentration. Then stay at access concentration for 5, 10, 15 minutes, if you want to enter the jhānas.
 
-**Mantra**
+### Mantra
 
 Although the word mantra is almost never mentioned in vipassanā or Theravadan Buddhism, mantras are a highly effective way of getting deeply concentrated. In fact, that is exactly why mantra meditation was developed. It is far beyond the scope of this book to discuss how to do mantra meditation, but if you already know a form of mantra meditation, you can use it to generate access concentration. A shorter mantra is usually better than a lengthy one for generating concentration. As with all access methods, after having done your preliminaries as described in “Helpful Things to Do at the Beginning and End of Each Meditation Period,” begin saying your mantra silently. Eventually instead of it feeling like you are doing the mantra, it will feel as though the mantra is doing you. Now you are likely to have arrived at access concentration—provided of course that you are not becoming distracted. Stay with the mantra doing you for five to ten minutes; then drop the mantra, and switch your attention to a pleasant sensation. As usual, stay focused on the pleasantness of that pleasant sensation, enjoy it, and let the jhāna come and find you.

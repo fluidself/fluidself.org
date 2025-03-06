@@ -5,7 +5,7 @@ slug: the-pragmatic-programmer
 title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and David Thomas'
 ---
 
-**QUICK REFERENCE GUIDE**
+### QUICK REFERENCE GUIDE
 
 1. **Care About Your Craft** Why spend your life developing software unless you care about doing it well?
 
@@ -147,16 +147,16 @@ title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and
 
 70. **Sign Your Work** Craftsmen of an earlier age were proud to sign their work. You should be, too.
 
-**CHECKLISTS**
+## CHECKLISTS
 
-**How to Maintain Orthogonality**
+### How to Maintain Orthogonality
 
 - Design independent, well-defined components
 - Keep your code decoupled
 - Avoid global data
 - Refactor similar functions
 
-**Things to prototype**
+### Things to prototype
 
 - Architecture
 - New functionality in an existing system
@@ -165,7 +165,7 @@ title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and
 - Performance issues
 - User interface design
 
-**Architectural Questions**
+### Architectural Questions
 
 - Are responsibilities well defined?
 - Are the collaborations well defined?
@@ -174,7 +174,7 @@ title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and
 - Are interface definitions and constraints acceptable?
 - Can modules access needed data—when needed?
 
-**Debugging Checklist**
+### Debugging Checklist
 
 - Is the problem being reported a direct result of the underlying bug, or merely a symptom?
 - Is the bug really in the compiler? Is it in the OS? Or is it in your code?
@@ -182,7 +182,7 @@ title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and
 - If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with _this_ data?
 - Do the conditions that caused this bug exist anywhere else in the system?
 
-**How to Program Deliberately**
+### How to Program Deliberately
 
 - Stay aware of what you're doing.
 - Don't code blindfolded.
@@ -193,7 +193,7 @@ title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and
 - Prioritize your effort.
 - Don't be a slave to history.
 
-**When to Refactor**
+### When to Refactor
 
 - You discover a violation of the DRY principle.
 - You find things that could be more orthogonal.
@@ -201,11 +201,11 @@ title: 'The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and
 - The requirements evolve.
 - You need to improve performance.
 
-**Take Responsibility**
+### Take Responsibility
 
 Responsibility is something you actively agree to. You make a commitment to ensure that something is done right, but you don't necessarily have direct control over every aspect of it. In addition to doing your own personal best, you must analyze the situation for risks that are beyond your control. You have the right not to take on a responsibility for an impossible situation, or one in which the risks are too great. You'll have to make the call based on your own ethics and judgment. When you do accept the responsibility for an outcome, you should expect to be held accountable for it. When you make a mistake (as we all do) or an error in judgment, admit it honestly and try to offer options.
 
-**Your Knowledge Portfolio**
+### Your Knowledge Portfolio
 
 - Learn at least one new language every year. Different languages solve the same problems in different ways. By learning several different approaches, you can help broaden your thinking and avoid getting stuck in a rut. Additionally, learning many languages is far easier now, thanks to the wealth of freely available software on the Internet.
 
@@ -217,10 +217,10 @@ Responsibility is something you actively agree to. You make a commitment to ensu
 
 - Stay current. Subscribe to trade magazines and other journals. Choose some that cover technology different from that of your current project. Get wired. Want to know the ins and outs of a new language or other technology? Newsgroups are a great way to find out what experiences other people are having with it, the particular jargon they use, and so on. Surf the Web for papers, commercial sites, and any other sources of information you can find.
 
-**Rubber Ducking**
+### Rubber Ducking
 
 A very simple but particularly useful technique for finding the cause of a problem is simply to explain it to someone else. It sounds simple, but in explaining the problem to another person you must explicitly state things that you may take for granted when going through the code yourself. By having to verbalize some of these assumptions, you may suddenly gain new insight into the problem.
 
-**Comments in Code**
+### Comments in Code
 
 In general, comments should discuss why something is done, its purpose and its goal. The code already shows how it is done, so commenting on this is redundant—and is a violation of the DRY principle. We like to see a simple module-level header comment, comments for significant data and type declarations, and a brief per-class and per-method header, describing how the function is used and anything that it does that is not obvious.

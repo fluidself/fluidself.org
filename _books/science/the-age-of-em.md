@@ -5,11 +5,11 @@ slug: the-age-of-em
 title: 'The Age of Em: Work, Love and Life when Robots Rule the Earth - by Robin Hanson'
 ---
 
-**PART I Basics**
+## PART I: Basics
 
 **DEFINITION:** An em results from taking a particular human brain, scanning it to record its particular cell features and connections, and then building a computer model that processes signals according to those same features and connections. A good enough em has close to the same overall input-output signal behavior as the original human. One might talk with it, and convince it to do useful jobs.
 
-**SUMMARY**
+### SUMMARY
 
 In this book I paint a plausible picture of a future era dominated by ems. This future happens mainly in a few dense cities on Earth, sometime in the next hundred years or so. This era may only last for a year or two, after which something even stranger may follow. But to its speedy inhabitants, this era seems to last for millennia. Which is why it all happens on Earth; at em speeds, travel to other planets is way too slow. Just as foragers and subsistence farmers are marginalized by our industrial world, humans are not the main inhabitants of the em era. Humans instead live far from the em cities, mostly enjoying a comfortable retirement on their em-economy investments. This book mostly ignores humans, and focuses on the ems, who have very human-like experiences. While some ems work in robotic bodies, most work and play in virtual reality. These virtual realities are of spectacular-quality, with no intense hunger, cold, heat, grime, physical illness, or pain; ems never need to clean, eat, take medicine, or have sex, although they may choose to do these anyway. Even ems in virtual reality, however, cannot exist unless someone pays for supports such as computer hardware, energy and cooling, real estate, structural support, and communication lines. Someone must work to enable these things. Whether robotic or virtual, ems think and feel like humans; their world looks and feels to them much as ours looks and feels to us. Just as humans do, ems remember a past, are aware of a present, and anticipate a future. Ems can be happy or sad, eager or tired, fearful or hopeful, proud or shamed, creative or derivative, compassionate or cold. Ems can learn, and have friends, lovers, bosses, and colleagues. Although em psychological features may differ from the human average, almost all are near the range of human variation.
 
@@ -27,13 +27,13 @@ Ems differ from people today in a great many more identifiable ways. Compared to
 
 Em lives are more prepared, planned, and scheduled, but also more undoable and endable when those are desired. Ems have more work and meetings, more intensely entertaining leisure, and less contact with children. Their world and tools feel more stable. The world that ems see is more pleasing, variable, annotated, authenticated, and cartoonish. Em society is less democratic and gender-balanced, more divided into distinct classes, and its leaders are more accessible and trusted. Em law is more efficient, covers more kinds of conflicts, and offers more choices. The em world is richer, faster-growing, and it is more specialized, adaptive, urban, populous, and fertile. It has weaker gender differences in personality and roles, and larger more coherent plans and designs. Even if most ems work hard most of the time, and will end or retire soon, most remember much recent leisure and long histories of succeeding against the odds. To most ems, it seems good to be an em.
 
-**Dreamtime**
+### Dreamtime
 
 New styles adopted by rich industrial humans today can be seen as representing a brief but influential “dreamtime” of unusual attitudes and behavior. Our rich industrial-era behavior is biologically maladaptive in the sense of not even approximately maximizing each person’s number of descendants. Yes, our forager ancestors evolved many delusory beliefs, and matching behaviors, but in their environments such delusions mostly induced biologically adaptive behavior. More recently, however, social rates of change have outpaced the abilities of both genetic and cultural selection to adapt our behaviors well to our new environments. Our behaviors are far less well adapted to our new environments than in the past.
 
 Of course there is no guarantee that adaptive behaviors are good for the world or universe as a whole; it is possible for life overall to be hurt by adaptive behaviors. Nevertheless, while our increased wealth currently buffers us more from all sorts of adaptation mistakes, in the long run we should expect adaptation mistakes to diminish in frequency, and eventually disappear.
 
-**Limits**
+### Limits
 
 Once all available physical matter is converted into very advanced artifacts there seems little room for further rapid growth in physical resources. Our search of the space of physically useful devices, algorithms, etc., should similarly eventually reach greatly diminishing returns. Although an effectively infinite space of possible designs would remain to be searched, the rate at which physically useful improvements are found should become astronomically slower. Similarly, limits should also be reached, if perhaps a bit later, for plans, devices, algorithms, etc., that are useful for social, artistic, or entertainment purposes.
 
@@ -41,7 +41,7 @@ Thus over the trillions of years to come, net economic growth should fall to a v
 
 If the speed of light limits the speed of future communication, if the pace of local cultural change is not ridiculously slow, and if there isn’t strong universal coordination, then the physical scale of the universe should ensure that future cultures must also fragment into many local cultures. Our distant forager ancestors were well adapted to their very slowly changing world, and were quite culturally and militarily fragmented over the planet. Our distant descendants are thus likely to be more similar to our distant ancestors in these ways. Our current “dreamtime” era is cosmologically unusual; it is a brief period of a rapidly growing highly integrated global culture, with many important behaviors that are quite far from biologically adaptive. We can’t be sure in what future era the patterns of history might “turn the corner” to return to the patterns of our distant past and distant future. But we should weakly expect that without global coordination the next great era will begin to move in that direction, with a larger population of creatures that are smaller, use less energy, and have low living standards, behavior better adapted to their environment, a slower subjectively perceived rate of innovation and growth, and more fragmented cultures and societies.
 
-**Assumptions**
+### Assumptions
 
 For the purpose of this book I make the following concrete assumptions about emulations. I assume that sometime in roughly the next century it will be possible to scan a human brain at a fine enough spatial and chemical resolution, and to combine that scan with good enough models of how individual brain cells achieve their signal processing functions, to create a cell-by-cell dynamically executable model of the full brain in artificial hardware, a model whose signal input-output behavior is usefully close to that of the original brain.
 
@@ -49,7 +49,7 @@ Em models need not reproduce the many aspects of brains and brain cells that do 
 
 I further assume that brain signal emulation can be cheaply combined with appropriate android or virtual reality bodies, and given sufficiently rich and familiar sensory inputs, so that these combinations of emulated brains and bodies can, after the usual job training delays, effectively substitute for almost all ordinary human workers on almost all jobs. Physical jobs require a robotic physical body to control, whereas a virtual body is sufficient for most office jobs. Also, I focus on a time when all of this can be done at a cost well below the wages that most such jobs would have commanded had emulations not existed.
 
-**PART II Physics**
+## PART II: Physics
 
 The ability to run at different speeds opens up many new possibilities for an em society. However, it is a mistake to assume that rates of social development, such as economic growth, innovation, and intellectual progress, increase in proportion to the speed of either the fastest or the typical em minds. Rates of total change are more closely related to total economic activity, and thus to the sum total of all the activity in all of the em minds. Having fewer minds that each run faster, to give the same total activity as a larger number of slower ems, shouldn’t much change rates of social development.
 
@@ -75,7 +75,7 @@ Em minds age with experience, becoming less flexible and thus less able to adapt
 
 Individual em copies may come to see the choice to end a copy not as “Shall I end?” but instead as “Do I want to remember this?” Ems will see that there are substantial costs to remembering experiences, and make tradeoffs about what is worth remembering. In the short term, remembering work (and its stresses) adds to work weariness that must be paid for by rest from work. In the long term, remembering life events adds to mental aging and fragility. Ems see memories as more expensive than we do. When different copies are made to try different things, but not all can be kept, this choice may be seen as mostly about which attempts are most useful to remember later. If archive copies are saved, ems could even change their mind later about which experiences are worth remembering, and revive an archive copy they weren’t planning to retrieve from storage.
 
-**PART III Economics**
+## PART III: Economics
 
 The introduction of competitively supplied ems should greatly lower wages, to near the full cost of the computer hardware needed to run em brains. Such a scenario is famously called “Malthusian,” after Thomas Malthus who in 1798 argued that when population can grow faster than total economic output, wages fall to near subsistence levels.
 
@@ -117,7 +117,7 @@ One might guess that a future very computer-centered economy improves at somethi
 
 The situations in which ems are trained are a mixture of real and simulated environments. Ems in training might not always know which is which. As in the science-fiction novel Ender’s Game, ems might also sometimes not be told when they make the switch from training to practical work, if this policy increased productivity by increasing the em’s confidence or comfort.
 
-**PART IV Organization**
+## PART IV: Organization
 
 Industrial economies today achieve large gains from clumping social and business activities closely together. The more easily that people can quickly travel to visit many different stores, employers, clubs, schools, etc., the more kinds of beneficial interactions become possible. The ability to interact via phones, email, and social media hasn’t reduced this effect; if anything the possibility of additional electronic interaction has usually increased the value of personal visits. Urban economists and other academics have long studied such “agglomeration” effects, and understand them in great detail. We should expect these gains from clumping to continue in an em world. Ems want to be near one another, and near supporting tools and utilities, so that they could more easily and quickly interact with more such people and tools.
 
@@ -127,7 +127,7 @@ Over the last few centuries, democracy has become an increasingly respected form
 
 Democracy has been much more common during the industrial era than it was during the farming era, although forager bands had many democratic elements. As we will discuss, increasing democracy is another industry era trend that can plausibly be attributed to increasing wealth inducing more forager-like values. The fact that ems are individually poorer suggests that ems are more farmer-like and thus may feel a weaker preference for democracy. This is another reason to expect less democracy.
 
-**PART V Sociology**
+## PART V: Sociology
 
 Gender differences in personality seem to be stronger in richer societies, as well as in cultures whose ancestors used the plow, which required more physical strength. So we weakly expect gender role differences to become weaker in a poorer em world where physical strength matters less. A poorer em world may also encourage a focus on long-term over short-term mating, although the reduced role of pair bonding in raising children may counter that effect.
 
@@ -143,7 +143,7 @@ Today, liberals tend to be more open-minded, creative, curious, and novelty seek
 
 Because ordinary humans originally owned everything from which the em economy arose, as a group they could retain substantial wealth in the new era. Humans could own real estate, stocks, bonds, patents, etc. Thus a reasonable hope is that ordinary humans become the retirees of this new world. We don’t today kill all the retirees in our world, and then take all their stuff, in part because such actions would threaten the stability of the legal, financial, and political world on which we all rely, and in part because we have many direct social ties to retirees. Yes we humans all expect to retire today, while ems don’t expect to become human, but em retirees are vulnerable in similar ways to humans. So ems may be reluctant to expropriate or exterminate ordinary humans if ems rely on the same or closely interconnected legal, financial, and political systems as humans, and if ems retain many direct social ties to ordinary humans. Few ordinary humans can earn wages in competition with em workers, at least when serving em customers. The main options for humans to earn wages are in direct service to other humans. Thus individual ordinary humans without non-wage assets, thieving abilities, private charity, or government transfers are likely to starve, as have people throughout history who lacked useful assets, abilities, allies, or benefactors.
 
-**PART VI Implications**
+## PART VI: Implications
 
 The introduction of many technologies induces changes that are relatively gradual and anticipated, because first versions have high cost and limited abilities. Costs then gradually fall as abilities gradually rise. In contrast, the introduction of other technologies induces more sudden and unanticipated jumps in abilities and costs. The technology of brain emulation is of this second more sudden sort, because partial or nearly accurate emulations are of little use. The early em economy creates a burst of growth, concentrated in a few key industries, firms, and geographical locations. Ordinary humans might better hedge em transition risks if they invest in funds that are very diversified across industries, firms, and locations. Such humans might benefit even more if they could buy “em bonds”—bets that pay off only after a transition to an em economy.
 

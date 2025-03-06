@@ -24,7 +24,7 @@ People won't understand what you are doing. They won't understand why you are sp
 
 It's the people who use luck as an accusation who will never have it. You and I will. Luck is the key to freedom. But luck is not magic. Luck equals (1) diversification plus (2) persistence. Diversification means coming up with a thousand ideas and implementing the 1 or 2 percent that seem reasonable. Persistence is a sentence filled with failures punctuated by the occasional success.
 
-**EXERCISES**
+### EXERCISES
 
 - **GRATITUDE.** Every day this week, write an e-mail to people who have done you a favor at some point. Tell them why you are writing to them. Do not expect a response, but document the letters and any responses in a diary.
 
@@ -40,7 +40,7 @@ It's the people who use luck as an accusation who will never have it. You and I 
 
 - **RECOGNIZING YOUR SHADOW.** One of the best ways to get in touch with your real self is to notice those things that you tend to passionately dislike in others. When you have a moment for reflection, sit down and take a few cleansing breaths. Then think about someone you dislike, and write down the traits in him or her that repel you. For instance, self-righteousness, or carelessness, or passive-aggressiveness. Recognize that these traits live in you, too. They are the part that you'd rather not look at. Just by doing this, you can become aware of when you are projecting these qualities onto others. The next time you find yourself criticizing someone for something they do or say, something you feel is very out of line, you will be able to recognize that there is some projection in that. You will also be able to turn it around and ask the question, "Where am I like this?" This is incredibly powerful and centering. It grounds you to know that you are human and that you share these things you deny so strongly. Observing the sides of yourself you usually keep in the dark gives you access to power because it grounds you in a more open-minded view of yourself and others.
 
-**THE ROAD MAP TO REINVENTING YOURSELF**
+### THE ROAD MAP TO REINVENTING YOURSELF
 
 1.  Reinvention never stops.
 

@@ -10,7 +10,7 @@ title: 'Move Your DNA: Restore Your Health Through Natural Movement - by Katy Bo
 
 Because DNA can be expressed differently, depending on how external factors impinge upon the cells within which the DNA resides, and because movement is one of these factors, the way we move directly influences how our bodies are shaped—for good and ill. It is not enough for me to tell you just to “move more.” You also need to “move better” if you are to enjoy a more sustainable state of well-being.
 
-**NUTRITIOUS MOVEMENT AND DISEASES OF CAPTIVITY**
+### NUTRITIOUS MOVEMENT AND DISEASES OF CAPTIVITY
 
 Every unique joint configuration, and the way that joint configuration is positioned relative to gravity, and every motion created, and the way that motion was initiated, creates a unique load that in turn creates a very specific pattern of strain in the body. Every load experienced by the body, whether the distortion is created by our activity (or lack thereof), the position of that activity, the impact of that activity, or the repetitiveness of that activity (or lack thereof), is its own “nutrient”—what I will now refer to as a load profile.
 
@@ -24,7 +24,7 @@ _Mechanobiology_: A relatively new field of science that focuses on the way phys
 
 The more you can imagine just how your activities of daily living differ from those found in nomadic, food-searching individuals, the easier it will be for you to understand why it takes more than an hour of exercise a day, however high in intensity, to recreate the distinct loading profiles of this lifestyle.
 
-**THE DIFFERENCE BETWEEN EXERCISE AND MOVEMENT**
+### THE DIFFERENCE BETWEEN EXERCISE AND MOVEMENT
 
 If the goal of exercise is to reap the physical benefits of movement, the goal of non-exercise movement would be to reap the non-movement benefits of the activity. Going for a one-mile or thirty-minute walk to strengthen your legs, burn some calories, and stretch your muscles is an example of exercise. Walking a mile to the store because you need to pick up something for dinner is an example of movement. Both may use the body in exactly the same way, but there is a difference in the bigger picture regarding how we think about and schedule the needs of our body.
 
@@ -32,9 +32,9 @@ Exercise is movement, but movement is not always exercise.
 
 Yet another reason movement is not optional: In addition to creating loads and modifying genetic behavior, movement is an essential step in the process of oxygen delivery. The effect of exercise—specifically the increase of oxygen delivery—is not systemic.
 
-**TRANSITIONING WELL**
+### TRANSITIONING WELL
 
-**WALKING**
+### WALKING
 
 Instead of dividing your twenty miles a week into tidy 2.75-mile daily walks, try another schedule, like this: Monday: Two miles Tuesday: Three miles Wednesday: Eight miles Thursday: One mile Friday: Five miles Saturday: Zero miles Sunday: One mile If you followed this plan, you’d create a different body than you would by walking three miles every day. You could also plan a greater physical endeavor, like a twenty-mile walk once a month or whenever your schedule allows.
 
@@ -46,7 +46,7 @@ As you design your walking program, remember the following:
 - The more inclined and declined your walking surface, the more variation in ankle, knee, and hip use, pelvic positioning, and the greater variance in muscles used throughout the entire body.
 - The more the walking surface is cluttered with natural debris (sand, rocks, leaves, slate, roots, holes, pebbles, etc.), the more your feet, knees, hips, pelvis, and whole-body musculature have to work.
 
-**YOUR FEET**
+### YOUR FEET
 
 - **Calf Stretch:** Place a thick folded and rolled towel on the floor in front of you. Step onto the towel with a bare foot, placing the ball of the foot on the top of the towel and keeping your heel on the floor. Adjust the foot so that it points straight forward. Keeping your body upright (shoulders and hips over heels), step forward with the opposite foot.
 
@@ -54,7 +54,7 @@ As you design your walking program, remember the following:
 
 - **Foot Bone Mobilization on Ball**
 
-**SITTING**
+### SITTING
 
 You are going to sit a lot of the day. Which is fine. It’s entirely natural to sit and rest and hang out with your peeps. But there isn’t any requirement that you spend your sitting time in a chair. It takes no additional time to sit on the floor instead of on your couch.
 
@@ -68,7 +68,7 @@ You are going to sit a lot of the day. Which is fine. It’s entirely natural to
 
 - **Sitting in Daily Life:** If you already take an hour to do this, great, but don’t undo your work by practicing your most-practiced habit, sitting on furniture. Instead, sit on the floor for meals and while reading, chatting, or just watching TV.
 
-**STANDING**
+### STANDING
 
 - **Straighten Your Feet:** Line up the feet so they look more like the tires on your car when you’re driving forward.
 
@@ -78,7 +78,7 @@ You are going to sit a lot of the day. Which is fine. It’s entirely natural to
 
 - **Shoulder Blades Neutral**
 
-**MOUSE HANDS TO MONKEY ARMS**
+### MOUSE HANDS TO MONKEY ARMS
 
 Restore your wrist and finger range of motion with the following:
 
@@ -92,7 +92,7 @@ Restore your wrist and finger range of motion with the following:
 
 - **Quadruped Hand Stretch**
 
-**IT’S HARD TO REST IN A ZOO**
+### IT’S HARD TO REST IN A ZOO
 
 - **Abdominal Release:** Keep checking yourself for gut tension throughout the day, softening when you catch yourself clenching!
 
@@ -112,7 +112,7 @@ Restore your wrist and finger range of motion with the following:
 
 - **Rest, in General**
 
-**WALKING: THE SPECIFICS**
+### WALKING: THE SPECIFICS
 
 I am always surprised when people say they find walking boring. Walking defines us as a species. It is not a luxury. Not a bonus. It is not optional. Walking is a biological imperative, like eating and having sex. Which is why we should, as a species, see the inability to walk without pain for what it is—a huge, red, waving flag calling attention to the state of other parts and processes necessary to perpetuate our humanness.
 
@@ -124,7 +124,7 @@ The pelvis is the skeletal environment for sexual pleasure and performance, egg 
 
 - **Reclined Sole-to-Sole Sit:** Instead of sitting up with the soles of your feet touching, lie back on the ground (bolstering your head and shoulders.)
 
-**THE SQUAT**
+### THE SQUAT
 
 - **Calf Stretch Soleus:** Standing on a half foam roller with the ball of one foot up on the dome and its heel on the ground, bend the same leg’s knee—pushing it slightly forward—as you press that same heel toward the ground.
 
@@ -134,7 +134,7 @@ Without glutes, a squat has to be driven mostly by the quads. To slowly challeng
 
 Taking a snapshot of a squat for the purpose of teaching form can be misleading. Many people, all over the world, “live” in their squat. They cook, clean, play, visit, and explore in a squat, which means that a squat is not a fixed thing. Once you’ve gotten your body used to squatting, try shifting your weight from side to side and front to back, all while down in your squat.
 
-**EXERCISE FLOW**
+### EXERCISE FLOW
 
 Feel free to eliminate a move that’s not working for your particular body. Unless otherwise noted, perform each move for 30–60 seconds and most importantly, pay attention to the moves between moves—that is, how you transition from one position to another. This phase, too, is movement and can be improved.
 

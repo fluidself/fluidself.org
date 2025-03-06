@@ -17,7 +17,7 @@ _Bureaucracy is a construction by which a person is conveniently separated from 
 
 Decentralization is based on the simple notion that it is easier to macrobullshit than microbullshit. Decentralization reduces large structural asymmetries. But not to worry, if we do not decentralize and distribute responsibility, it will happen by itself, the hard way: a system that doesn’t have a mechanism of skin in the game, with a buildup of imbalances, will eventually blow up and self-repair that way. If it survives.
 
-**SYSTEMS LEARN BY REMOVING**
+### SYSTEMS LEARN BY REMOVING
 
 Interventionistas don’t learn _because they are not the victims of their mistakes_, and, as we hinted at with _pathemata mathemata_:
 _The same mechanism of transferring risk also impedes learning._
@@ -64,7 +64,7 @@ The skin-in-the-game definition of a commons: a space in which you are treated b
 
 A doctor is pushed by the system to transfer risk from himself to you, and from the present into the future, or from the immediate future into a more distant future.
 
-**The Most Intolerant Wins: The Dominance of the Stubborn Minority**
+### The Most Intolerant Wins: The Dominance of the Stubborn Minority
 
 A kosher (or halal) eater will never eat nonkosher (or nonhalal) food, but a nonkosher eater isn’t banned from eating kosher. Or, rephrased in another domain: A disabled person will not use the regular bathroom, but a nondisabled person will use the bathroom for disabled people.
 
@@ -90,7 +90,7 @@ Understanding how the subparts of the brain (say, neurons) work will never allow
 
 Under the right market structure, a collection of idiots produces a well-functioning market. Furthermore: It may be that be that some idiosyncratic behavior on the part of the individual (deemed at first glance “irrational”) may be necessary for efficient functioning at the collective level. More critically for the “rationalist” crowd, Individuals don’t need to know where they are going; markets do. Leave people alone under a good structure and they will take care of things.
 
-**How to Legally Own Another Person**
+### How to Legally Own Another Person
 
 Those who use foul language on social networks (such as Twitter) are sending an expensive signal that they are free—and, ironically, competent. You don’t signal competence if you don’t take risks for it—there are few such low-risk strategies. So cursing today is a status symbol, just as oligarchs in Moscow wear blue jeans at special events to signal their power. Ironically the highest status, that of a free man, is usually indicated by voluntarily adopting the mores of the lowest class.
 
@@ -102,19 +102,19 @@ Society likes saints and moral heroes to be celibate so they do not have family 
 
 Explicit communal punishment can be used where other methods of justice have failed, provided they are not based on an emotional reaction, but on a well-outlined method of justice defined prior to the event, so that it becomes a deterrent. One who is sacrificing himself for a perceived upside for a given collective needs a deterrent, so it is a form of injection of skin in the game where there are no other methods. And the skin is visible: that very collective. The only way we have left to control suicide-terrorists would be precisely to convince them that blowing themselves up is not the worst-case scenario for them, nor the end scenario at all. Making their families and loved ones bear a financial burden—just as Germans still pay for war crimes—would immediately add consequences to their actions. The penalty needs to be properly calibrated to be a true disincentive, without imparting any sense of heroism or martyrdom to the families in question. But I feel queasy about transferring a crime from one unit, an individual, to another, a collective. What I do not feel bad about is preventing the family of the perpetrators of terrorist acts from benefiting from those acts—many terrorist groups reward the families of suicide bombers, and this can be safely terminated without any ethical dilemma.
 
-**Being Alive Means Taking Certain Risks**
+### Being Alive Means Taking Certain Risks
 
 Scars signal skin in the game. People can detect the difference between front- and back-office operators.
 
 Take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
 
-**The Intellectual Yet Idiot**
+### The Intellectual Yet Idiot
 
 The IYI pathologizes others for doing things he doesn’t understand without ever realizing it is his understanding that may be limited. He thinks people should act according to their best interests and he knows their interests, particularly if they are “rednecks” or from the English non-crisp-vowel class who voted for Brexit. When plebeians do something that makes sense to themselves, but not to him, the IYI uses the term “uneducated.” What we generally call participation in the political process, he calls by two distinct designations: “democracy” when it fits the IYI, and “populism” when plebeians dare to vote in a way that contradicts IYI preferences.
 
 Typically, the IYI get first-order logic right, but not second-order (or higher) effects, making him totally incompetent in complex domains.
 
-**Inequality and Skin in the Game**
+### Inequality and Skin in the Game
 
 In countries where wealth comes from rent-seeking, political patronage, or regulatory capture (which, I remind the reader, is how the powerful and the insiders use regulation to scam the public, or red tape to slow down competition), wealth is seen as zero-sum.fn2 What Peter gets is extracted from Paul. Someone getting rich is doing so at other people’s expense. In countries such as the U.S., where wealth can come from destruction, people can easily see that someone getting rich is not taking dollars from your pocket; odds are he is even putting some in yours.
 
@@ -124,7 +124,7 @@ Static inequality is a snapshot view of inequality; it does not reflect what wil
 
 It is downright unethical to use public office for enrichment. A good rule for society is to oblige those who start in public office to pledge never subsequently to earn from the private sector more than a set amount; the rest should go to the taxpayer. This will ensure sincerity in, literally, “service”—where employees are supposedly underpaid because of their emotional reward from serving society. It would prove that they are not in the public sector as an investment strategy.
 
-**An Expert Called Lindy**
+### An Expert Called Lindy
 
 That which is fragile has an asymmetric response to volatility and other stressors, that is, will experience more harm than benefit from it.
 
@@ -142,7 +142,7 @@ The reason science works isn’t because there is a proper “scientific method�
 
 An observation about modernity. Change for the sake of change, as we see in architecture, food, and lifestyle, is frequently the opposite of progress. As I have explained in Antifragile, too high a rate of mutation prevents locking in the benefits of previous changes: evolution (and progress) requires some, but not too frequent, variation.
 
-**Surgeons Should Not Look Like Surgeons**
+### Surgeons Should Not Look Like Surgeons
 
 Say you had the choice between two surgeons of similar rank in the same department in some hospital. The first is highly refined in appearance; he wears silver-rimmed glasses, has a thin build, delicate hands, measured speech, and elegant gestures. His hair is silver and well combed. He is the person you would put in a movie if you needed to impersonate a surgeon. His office prominently boasts Ivy League diplomas, both for his undergraduate and medical schools. The second one looks like a butcher; he is overweight, with large hands, uncouth speech, and an unkempt appearance. His shirt is dangling from the back. No known tailor on the East Coast of the U.S. is capable of making his shirt button at the neck. He speaks unapologetically with a strong New Yawk accent, as if he wasn’t aware of it. He even has a gold tooth showing when he opens his mouth. The absence of diplomas on the wall hints at the lack of pride in his education: he perhaps went to some local college. In a movie, you would expect him to impersonate a retired bodyguard for a junior congressman, or a third-generation cook in a New Jersey cafeteria. Now if I had to pick, I would overcome my sucker-proneness and take the butcher any minute. Even more: I would seek the butcher as a third option if my choice was between two doctors who looked like doctors. Why? Simply the one who doesn’t look the part, conditional on having made a (sort of) successful career in his profession, had to have much to overcome in terms of perception. And if we are lucky enough to have people who do not look the part, it is thanks to the presence of some skin in the game, the contact with reality that filters out incompetence, as reality is blind to looks.
 
@@ -154,7 +154,7 @@ Just as the slick fellow in a Ferrari looks richer than the rumpled centimillion
 
 People who have always operated without skin in the game (or without their skin in the right game) seek the complicated and centralized, and avoid the simple like the plague. Practitioners, on the other hand, have opposite instincts, looking for the simplest heuristics. Some rules: People who are bred, selected, and compensated to find complicated solutions do not have an incentive to implement simplified ones. And it gets more complicated as the remedy has itself a skin-in-the-game problem. This is particularly acute in the meta-problem, when the solution is about solving this very problem. In other words, many problems in society come from the interventions of people who sell complicated solutions because that’s what their position and training invite them to do. There is absolutely no gain for someone in such a position to propose something simple: you are rewarded for perception, not results. Meanwhile, they pay no price for the side effects that grow nonlinearly with such complications.
 
-**Only the Rich Are Poisoned: The Preferences of Others**
+### Only the Rich Are Poisoned: The Preferences of Others
 
 If anything, being rich you need to hide your money if you want to have what I call friends. This may be known; what is less obvious is that you may also need to hide your erudition and learning. People can only be social friends if they don’t try to upstage or outsmart one another. Indeed, the classical art of conversation is to avoid any imbalance, as in Baldassare Castiglione’s _Book of the Courtier_: people need to be equal, at least for the purpose of the conversation, otherwise it fails. It has to be hierarchy-free and equal in contribution. You’d rather have dinner with your friends than with your professor, unless of course your professor understands “the art” of conversation. Indeed, one can generalize and define a community as a space within which many rules of competition and hierarchy are lifted, where the collective prevails over one’s interest. Of course there will be tension with the outside, but that’s another discussion. This idea of competition being lifted within a group or a tribe was, once again, present in the notion of a group as studied by Elinor Ostrom.
 
@@ -162,11 +162,11 @@ lifted within a group or a tribe was, once again, present
 
 _Facta non Verba (Deeds Before Words)_: Verbal threats reveal nothing beyond weakness and unreliability.
 
-**The Facts Are True, the News Is Fake**
+### The Facts Are True, the News Is Fake
 
 _The precautionary principle_: One does not need complex models as a justification to avoid a certain action. If we don’t understand something and it has a systemic effect, just avoid it. Models are error-prone, something I knew well with finance; most risks only appear in analyses after harm is done. As far as I know, we only have one planet. So the burden is on those who pollute—or who introduce new substances in larger than usual quantities—to show a lack of tail risk. In fact, the more uncertainty about the models, the more conservative one should be.
 
-**The Merchandising of Virtue**
+### The Merchandising of Virtue
 
 It is immoral to be in opposition to the market system and not live (somewhere in Vermont or Northwestern Afghanistan) in a hut or cave isolated from it. But there is worse: It is much more immoral to claim virtue without fully living with its direct consequences.
 
@@ -184,7 +184,7 @@ When young people who “want to help mankind” come to me asking, “What shou
 
 No peace proceeds from bureaucratic ink. If you want peace, make people trade, as they have done for millennia. They will be eventually forced to work something out.
 
-**RELIGION, BELIEF, AND SKIN IN THE GAME**
+### RELIGION, BELIEF, AND SKIN IN THE GAME
 
 There are people who are atheists in actions, religious in words (most Orthodox and Catholic Christians) and others who are religious in actions, religious in words (Salafi Islamists and suicide bombers) but I know of nobody who is atheist in both actions and words, completely devoid of rituals, respect for the dead, and superstitions (say a belief in economics, or in the miraculous powers of the mighty state and its institutions).
 
@@ -192,7 +192,7 @@ When we look at religion, and, to some extent, ancestral superstitions, we shoul
 
 Survival comes first, truth, understanding, and science later. In other words, you do not need science to survive (we’ve survived for several hundred million years or more, depending on how you define the “we”), but you must survive to do science. As your grandmother would have said, better safe than sorry.
 
-**REVELATION OF PREFERENCES**
+### REVELATION OF PREFERENCES
 
 Before explaining the concept, consider the following three maxims: Judging people by their beliefs is not scientific. There is no such thing as the “rationality” of a belief, there is rationality of action. The rationality of an action can be judged only in terms of evolutionary considerations. The axiom of revelation of preferences (originating with Paul Samuelson, or possibly the Semitic gods), as you recall, states the following: you will not have an idea about what people really think, what predicts people’s actions, merely by asking them—they themselves don’t necessarily know. What matters, in the end, is what they pay for goods, not what they say they “think” about them, or the various possible reasons they give you or themselves for that. If you think about it, you will see that this is a reformulation of skin in the game. Even psychologists get it; in their experiments, their procedures require that actual dollars be spent for a test to be “scientific.”
 
@@ -208,7 +208,7 @@ The fact to consider is not that beliefs have survived a long time—the Catholi
 
 This allows us to summarize: Rationality does not depend on explicit verbalistic explanatory factors; it is only what aids survival, what avoids ruin. Why? Clearly as we saw in the Lindy discussion: Not everything that happens happens for a reason, but everything that survives survives for a reason.
 
-**The Logic of Risk Taking**
+### The Logic of Risk Taking
 
 A situation is deemed non-ergodic when observed past probabilities do not apply to future processes. There is a “stop” somewhere, an absorbing barrier that prevents people with skin in the game from emerging from it—and to which the system will invariably tend. Let us call these situations “ruin,” as there is no reversibility away from the condition. The central problem is that if there is a possibility of ruin, cost-benefit analyses are no longer possible.
 
@@ -255,7 +255,7 @@ _religion without tolerance,_
 and, most of all:  
 _nothing without skin in the game._
 
-**Glossary**
+### Glossary
 
 **Rent Seeking:** trying to use protective regulations or “rights” to derive income without adding anything to economic activity, without increasing the wealth of others. As Fat Tony would define it, it is like being forced to pay protection money to the Mafia without getting the economic benefits of protection. Revelation of Preferences: the theory, originating with Paul Samuelson (initially in the context of choice of public goods), that agents do not have full access to the reasoning behind their actions; actions are observables, while thought is not, which prevents the latter from being used for rigorous scientific investigation. In economics, experiments require an actual expenditure by the agent. Fat Tony’s summary is “_tawk_ is always cheap.”
 

@@ -7,7 +7,7 @@ title: 'Principles: Life and Work - by Ray Dalio'
 
 Principles are concepts that can be applied over and over again in similar circumstances as distinct from narrow answers to specific questions. When digesting each principle, please... ask yourself: “Is it true?”
 
-**PART 1: THE IMPORTANCE OF PRINCIPLES**
+## PART 1: THE IMPORTANCE OF PRINCIPLES
 
 1. WHAT ARE PRINCIPLES? Your values are what you consider important, literally what you “value.” Principles are what allow you to live a life consistent with those values. Principles connect your values to your actions; they are beacons that guide your actions, and help you successfully deal with the laws of reality. It is to your principles that you turn when you face hard choices.
 
@@ -19,7 +19,7 @@ Principles are concepts that can be applied over and over again in similar circu
 
 5. HOW WELL DO YOU THINK THEY WILL WORK, AND WHY?
 
-**PART 2: MY MOST FUNDAMENTAL LIFE PRINCIPLES**
+## PART 2: MY MOST FUNDAMENTAL LIFE PRINCIPLES
 
 I want you to work for yourself, to come up with independent opinions, to stress-test them, to be wary about being overconfident, and to reflect on the consequences of your decisions and constantly improve.
 
@@ -45,7 +45,7 @@ While most others seem to believe that finding out about one’s weaknesses is a
 
 While most others seem to believe that pain is bad, I believe that pain is required to become stronger.
 
-**MY MOST FUNDAMENTAL PRINCIPLES**
+### MY MOST FUNDAMENTAL PRINCIPLES
 
 Truth — more precisely, an accurate understanding of reality — is the essential foundation for producing good outcomes. This perspective gives me a non-traditional sense of good and bad: “good,” to me, means operating consistently with the natural laws, while “bad” means operating inconsistently with these laws. In other words, for something to be “good” it must be grounded in reality. And if something is in conflict with reality—for example, if morality is in conflict with reality—it is “bad,” i.e., it will not produce good outcomes. In other words, I believe that understanding what is good is obtained by looking at the way the world works and figuring out how to operate in harmony with it to help it (and yourself) evolve. But it is not obvious, and it is sometimes difficult to accept.
 
@@ -57,7 +57,7 @@ I believe that pursuing self-interest in harmony with the laws of the universe a
 
 It is extremely important to one’s happiness and success to know oneself—most importantly to understand one’s own values and abilities—and then to find the right fits. We all have things that we value that we want and we all have strengths and weaknesses that affect our paths for getting them. The most important quality that differentiates successful people from unsuccessful people is our capacity to learn and adapt to these things.
 
-**THE PERSONAL EVOLUTIONARY PROCESS**
+### THE PERSONAL EVOLUTIONARY PROCESS
 
 The quality of our lives depends on the quality of the decisions we make.
 
@@ -65,7 +65,7 @@ Reality + Dreams + Determination = A Successful Life
 
 For most people happiness is much more determined by how things turn out relative to their expectations rather than the absolute level of their conditions. This basic principle suggests that you can follow one of two paths to happiness: 1) have high expectations and strive to exceed them, or 2) lower your expectations so that they are at or below your conditions.
 
-**YOUR MOST IMPORTANT CHOICES**
+### YOUR MOST IMPORTANT CHOICES
 
 I believe that there are five big types of choices that we continually must make that radically affect the quality of our lives and the rates at which we move toward what we want.
 
@@ -79,7 +79,7 @@ I believe that there are five big types of choices that we continually must make
 
 5. FIFTH: Successful people understand that bad things come at everyone and that it is their responsibility to make their lives what they want them to be by successfully dealing with whatever challenges they face. Successful people know that nature is testing them, and that it is not sympathetic.
 
-**YOUR TWO YOUS AND YOUR MACHINE**
+### YOUR TWO YOUS AND YOUR MACHINE
 
 Think of it as though there are two yous—you as the designer and overseer of the plan to achieve your goals (let’s call that one you(1)) and you as one of the participants in pursuing that mission (which we will call you(2)). You(2) are a resource that you(1) have to get what you(1) want, but by no means your only resource. To be successful you(1) have to be objective about you(2).
 
@@ -87,7 +87,7 @@ If you(1) see that you(2) are not capable of doing something, it is only sensibl
 
 The biggest mistake most people make is to not see themselves and others objectively. If they could just get around this, they could live up to their potentials.
 
-**MY 5-STEP PROCESS TO GETTING WHAT YOU WANT OUT OF LIFE**
+### MY 5-STEP PROCESS TO GETTING WHAT YOU WANT OUT OF LIFE
 
 Have clear goals. Identify and don’t tolerate the problems that stand in the way of achieving your goals. Accurately diagnose these problems. Design plans that explicitly lay out tasks that will get you around your problems and on to your goals. Implement these plans—i.e., do these tasks.
 
@@ -99,7 +99,7 @@ Have clear goals. Identify and don’t tolerate the problems that stand in the w
 
 To help you do these things well—and stay centered and effective rather than stressed and thrown off by your emotions—try this technique for reducing the pressure: treat your life like a game or a martial art. Your mission is to figure out how to get around your challenges to get to your goals.
 
-**THE 5 STEPS CLOSE-UP**
+### THE 5 STEPS CLOSE-UP
 
 1. SETTING GOALS
 
@@ -147,11 +147,11 @@ Remember: Designing precedes doing! The design will give you your to-do list (i.
 
 It is critical to know each day what you need to do and have the discipline to do it.
 
-**THE RELATIONSHIPS BETWEEN THESE STEPS**
+### THE RELATIONSHIPS BETWEEN THESE STEPS
 
 Designs and tasks have no purpose other than to achieve your goals. Frequently I see people feel great about doing their tasks while forgetting the goals they were designed to achieve, resulting in the failure to achieve their goals. To remember the connections between the tasks and the goals that they are meant to achieve, you just have to ask, “Why?”
 
-**PART 3: MY MANAGEMENT PRINCIPLES**
+## PART 3: MY MANAGEMENT PRINCIPLES
 
 I want Bridgewater to be a company in which people collectively...
 
@@ -161,7 +161,7 @@ I want Bridgewater to be a company in which people collectively...
 4. are wary about overconfidence, and good at not knowing
 5. wrestle with reality, experiencing the results of their decisions, and reflecting on what they did to produce them so that they can improve.
 
-**TO GET THE CULTURE RIGHT...**
+### TO GET THE CULTURE RIGHT...
 
 1. Trust in Truth
 2. Be extremely open.
@@ -173,7 +173,7 @@ I want Bridgewater to be a company in which people collectively...
 8. Don’t treat all opinions as equally valuable.
 9. Consider your own and others’ “believabilities.” a) Ask yourself whether you have earned the right to have an opinion. b) People who have repeatedly and successfully accomplished the thing in question and have great explanations when probed are most believable. c) If someone asks you a question, think first whether you’re the responsible party/right person to be answering the question.
 
-**TO GET THE PEOPLE RIGHT...**
+### TO GET THE PEOPLE RIGHT...
 
 1. Recognize the most important decisions you make are who you choose to be your responsible party
 2. Remember that almost everything good comes from having great people operating in a great culture.
@@ -197,7 +197,7 @@ I want Bridgewater to be a company in which people collectively...
 20. Know that experience creates internalization
 21. Teach your people to fish rather than give them fish.
 
-**TO PERCEIVE, DIAGNOSE, AND SOLVE PROBLEMS...**
+### TO PERCEIVE, DIAGNOSE, AND SOLVE PROBLEMS...
 
 1. Know how to perceive problems effectively. Keep in mind the 5-Step process explained in Part 2.
 2. Understand that problems are the fuel for improvement.
@@ -211,7 +211,7 @@ I want Bridgewater to be a company in which people collectively...
 10. Tool: Maintain a procedures manual.
 11. Tool: Use checklists. a) Don’t confuse checklists with personal responsibility. b) Remember that “systematic” doesn’t necessarily mean computerized. c) Use “double-do” rather than “double-check” to make sure mission-critical tasks are done correctly.
 
-**TO MAKE DECISIONS EFFECTIVELY...**
+### TO MAKE DECISIONS EFFECTIVELY...
 
 1. Recognize the power of knowing how to deal with not knowing
 2. Make all decisions logically, as expected value calculations a) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. b) Don’t bet too much on anything. Make 15 or more good, uncorrelated bets.
@@ -219,7 +219,7 @@ I want Bridgewater to be a company in which people collectively...
 4. Remember that the best choices are the ones with more pros than cons, not those that don’t have any cons. Watch out for people who tend to argue against something because they can find something wrong with it without properly weighing all the pros against the cons.
 5. Understand the concept and use the phrase “by and large.” When you ask someone whether something is true and they tell you that “It’s not totally true,” it’s probably true enough.
 
-**TO GET THE CULTURE RIGHT...**
+### TO GET THE CULTURE RIGHT...
 
 1. Realize that you have nothing to fear from truth.
 2. Create an environment in which everyone has the right to understand what makes sense and no one has the right to hold a critical opinion without speaking up about it.
@@ -230,7 +230,7 @@ I want Bridgewater to be a company in which people collectively...
 7. Be radically transparent.
 8. Don’t tolerate dishonesty. Don’t believe it when someone caught being dishonest says they have seen the light and will never do that sort of thing again.
 
-**CREATE A CULTURE IN WHICH IT IS OK TO MAKE MISTAKES BUT UNACCEPTABLE NOT TO IDENTIFY, ANALYZE, AND LEARN FROM THEM**
+### CREATE A CULTURE IN WHICH IT IS OK TO MAKE MISTAKES BUT UNACCEPTABLE NOT TO IDENTIFY, ANALYZE, AND LEARN FROM THEM
 
 1. Recognize that effective, innovative thinkers are going to make mistakes and learn from them because it is a natural part of the innovation process.
 2. Do not feel bad about your mistakes or those of others. Love them!
@@ -242,7 +242,7 @@ I want Bridgewater to be a company in which people collectively...
 8. When you experience pain, remember to reflect. You can convert the “pain” of seeing your mistakes and weaknesses into pleasure. If there is only one piece of advice I can get you to remember it is this one.
 9. Teach and reinforce the merits of mistake-based learning.
 
-**CONSTANTLY GET IN SYNCH**
+### CONSTANTLY GET IN SYNCH
 
 1. Constantly get in synch about what is true and what to do about it.
 2. Talk about “Is it true?” and “Does it make sense?”
@@ -268,13 +268,13 @@ I want Bridgewater to be a company in which people collectively...
 22. Achieve completion in conversations.
 23. Have someone assigned to maintain notes in meetings and make sure follow-through happens.
 
-**TO GET THE PEOPLE RIGHT...**
+### TO GET THE PEOPLE RIGHT...
 
 1. Most importantly, find people who share your values. At Bridgewater, those key values are a drive for excellence, truth at all costs, a high sense of ownership, and strong character (by character, I mean the willingness to do the good but difficult things).
 2. Look for people who are willing to look at themselves objectively and have character.
 3. Recognize that the type of person you fit in the job must match the requirements for that job.
 
-**How People’s Thinking Abilities Differ**
+### How People’s Thinking Abilities Differ
 
 I believe, but am not certain about, the following:
 
@@ -294,7 +294,7 @@ I believe, but am not certain about, the following:
 
 - Some people are driven more by their emotions, and others are driven more by their intellect.
 
-**HIRE RIGHT, BECAUSE THE PENALTIES OF HIRING WRONG ARE HUGE**
+### HIRE RIGHT, BECAUSE THE PENALTIES OF HIRING WRONG ARE HUGE
 
 1. Weigh values and abilities more heavily than skills in deciding whom to hire.
 2. Remember that people tend to pick people like themselves, so pick interviewers who can identify what you are looking for.
@@ -302,7 +302,7 @@ I believe, but am not certain about, the following:
 4. Look for people who have lots of great questions.
 5. Don’t hire people just to fit the first job they will do at Bridgewater; hire people you want to share your life with.
 
-**MANAGE AS SOMEONE WHO IS DESIGNING AND OPERATING A MACHINE TO ACHIEVE THE GOAL**
+### MANAGE AS SOMEONE WHO IS DESIGNING AND OPERATING A MACHINE TO ACHIEVE THE GOAL
 
 1. Understand the differences between managing, micromanaging, and not managing.
 2. Managing the people who report to you should feel like “skiing together.”
@@ -323,7 +323,7 @@ I believe, but am not certain about, the following:
 17. Avoid the “theoretical should.” The theoretical should occurs when a manager theorizes that people should be able to do something when they can’t or without actually knowing whether they can do it.
 18. Escalate when you can’t adequately handle your responsibilities, and make sure that the people who work for you do the same.
 
-**PROBE DEEP AND HARD TO LEARN WHAT TO EXPECT FROM YOUR “MACHINE”**
+### PROBE DEEP AND HARD TO LEARN WHAT TO EXPECT FROM YOUR “MACHINE”
 
 1. Know what your people are like, and make sure they do their jobs excellently. This requires constantly challenging them and probing them. That’s true even if your people are doing their jobs well, even though those people can be given more leeway.
 2. Remind the people you are probing that problems and mistakes are fuel for improvement.
@@ -331,7 +331,7 @@ I believe, but am not certain about, the following:
 4. Don’t assume that people’s answers are correct.
 5. Make the probing transparent rather than private.
 
-**EVALUATE PEOPLE ACCURATELY, NOT “KINDLY”**
+### EVALUATE PEOPLE ACCURATELY, NOT “KINDLY”
 
 1. Maintain “baseball cards” and/or “believability matrixes” for your people.
 2. Know what makes your people tick, because people are your most important resource. Develop a full profile of each person’s values, abilities, and skills.
@@ -339,14 +339,14 @@ I believe, but am not certain about, the following:
 4. Provide constant, clear, and honest feedback, and encourage discussion of this feedback. Don’t hesitate to be both critical and complimentary—and be sure to be open-minded.
 5. Look at patterns of behaviors and don’t read too much into any one event.
 
-**TRAIN AND TEST PEOPLE THROUGH EXPERIENCES**
+### TRAIN AND TEST PEOPLE THROUGH EXPERIENCES
 
 1. Know that experience creates internalization. A huge difference exists between memory- based “book” learning and hands-on, internalized learning.
 2. Teach your people to fish rather than give them fish.
 3. Recognize that sometimes it is better to let people make mistakes so that they can learn from them rather than tell them the better decision.
 4. Train people; don’t rehabilitate them. Training is part of the plan to develop people’s skills and to help them evolve. Rehabilitation is the process of trying to create significant change in people’s values and/or abilities. Since values and abilities are difficult to change, rehabilitation typically takes too long and is too improbable to do at Bridgewater.
 
-**TO PERCEIVE, DIAGNOSE, AND SOLVE PROBLEMS...**
+### TO PERCEIVE, DIAGNOSE, AND SOLVE PROBLEMS...
 
 1. Understand that problems are the fuel for improvement.
 2. Don’t tolerate badness.
@@ -360,7 +360,7 @@ I believe, but am not certain about, the following:
 10. Avoid “Monday morning quarterbacking.” That is, evaluate the merits of a past decision based on what you know now versus what you could have reasonably known at the time of the decision.
 11. Identify the principles that were violated. Identify which of these principles apply to the case at hand, review them, and see if they would have helped. Think for yourself what principles are best for handling cases like this. This will help solve not only this problem but it will also help you solve other problems like it.
 
-**DESIGN YOUR MACHINE TO ACHIEVE YOUR GOALS**
+### DESIGN YOUR MACHINE TO ACHIEVE YOUR GOALS
 
 1. Remember: You are designing a “machine” or system that will produce outcomes.
 2. Beware of paying too much attention to what is coming at you and not enough attention to what your responsibilities are or how your machine should work to achieve your goals.
@@ -372,17 +372,17 @@ I believe, but am not certain about, the following:
 8. Tool: Maintain a procedures manual.
 9. Tool: Use checklists.
 
-**TO MAKE DECISIONS EFFECTIVELY...**
+### TO MAKE DECISIONS EFFECTIVELY...
 
 1. Embrace the power of asking: “What don’t I know, and what should I do about it?”
 2. While everyone has the right to have questions and theories, only believable people have the right to have opinions.
 
-**MAKE ALL DECISIONS LOGICALLY, AS EXPECTED VALUE CALCULATIONS**
+### MAKE ALL DECISIONS LOGICALLY, AS EXPECTED VALUE CALCULATIONS
 
 1. Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low.
 2. Don’t bet too much on anything. Make 15 or more good, uncorrelated bets.
 
-**REMEMBER THE 80/20 RULE, AND KNOW WHAT THE KEY 20% IS**
+### REMEMBER THE 80/20 RULE, AND KNOW WHAT THE KEY 20% IS
 
 1. Distinguish the important things from the unimportant things and deal with the important things first.
 2. Don’t be a perfectionist, because perfectionists often spend too much time on little differences at the margins at the expense of other big, important things. Be an effective imperfectionist.

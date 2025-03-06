@@ -31,7 +31,7 @@ When any type of threat includes indirect or veiled references to things they mi
 
 **Rule #1.** The very fact that you fear something is solid evidence that it is not happening.
 
-**Rule #2.** What you fear is rarely what you think you fear--it is what you link to fear.
+**Rule #2.** What you fear is rarely what you think you fear—it is what you link to fear.
 
 Worry, wariness, anxiety and concern all have a purpose, but they are not fear. So any time your dreaded outcome cannot be reasonably linked to pain or death and it isn't a signal in the presence of danger, then it really shouldn't be confused with fear. It may well be something worth trying to understand and manage, but worry will not bring solutions. It will more likely distract you from finding solutions. The relationship between real fear and worry is analogous to the relationship between pain and suffering. Pain and fear are necessary and valuable components of life. Suffering and worry are destructive and unnecessary components of life.
 

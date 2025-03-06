@@ -7,7 +7,7 @@ title: The Sovereign Man - by James Maverick
 
 If what you're selling is in demand, you don't have to do much at all: people will always find a way to obtain it.
 
-**VALUE**
+### VALUE
 
 Many adjectives can be used to describe people who possess value, but there are two adjectives that always first come to mind: cool and interesting.
 
@@ -17,7 +17,7 @@ Value imbalance is the reason why business partnerships fail, people divorce, an
 
 Fortunately, it's possible to use value as a currency by trading one set of value in one area (e.g., BJJ skills) for another area (e.g., introduction into an exclusive social circle with cute girls). It's great for both parties because each person gets exactly what he or she wants. It works in all cases where you have something (information, knowledge, skills, connections) that another person wants. Life is a barter. High value people also realize that value depends on the context and have no problem letting others dominate situations where they have strong value. They don't need to prove anything. They're not jealous of others. They are at ease because they know that their domain of expertise resides somewhere else.
 
-**TIME**
+### TIME
 
 Time is dictated by priorities. By choosing how we manage our time, we communicate our value relative to someone else's. A reliable indicator of someone's priorities is their willingness to do something for someone else on very short notice.
 
@@ -25,29 +25,29 @@ Another trait associated with high-quality men is that they rarely, if ever, sus
 
 The way that a person spends their time represents much more than values or priorities: it's a mirror of themselves.
 
-Learning to properly manage your time is like killing two birds with one stone. First, you become more productive because your efforts are now concentrated on higher priority tasks. Second--and more importantly--people begin to perceive you differently. This shifts the social dynamic. While previously others felt that your time and attention were infinite, they now realize that you have more important things to do and can't indefinitely be at someone else's disposal. People notice that you've got more important things to do. They see that you don't get involved in petty intrigues. They see that you're always busy, cutting people out by moving your attention elsewhere. They might not know what exactly it is that you're occupied with, but they sense that it must be something more important than them. This behavior earns you more respect from others.
+Learning to properly manage your time is like killing two birds with one stone. First, you become more productive because your efforts are now concentrated on higher priority tasks. Second—and more importantly—people begin to perceive you differently. This shifts the social dynamic. While previously others felt that your time and attention were infinite, they now realize that you have more important things to do and can't indefinitely be at someone else's disposal. People notice that you've got more important things to do. They see that you don't get involved in petty intrigues. They see that you're always busy, cutting people out by moving your attention elsewhere. They might not know what exactly it is that you're occupied with, but they sense that it must be something more important than them. This behavior earns you more respect from others.
 
 Making time scarce automatically forces me to work on higher priorities tasks first, followed by any other ones later.
 
 Using time as a weapon is an extremely powerful psychological tool. But before you can utilize this potent tool you must be aware of certain conditions. The first is that you must own your time and utilize it correctly. Instead of always being available to others, others must feel they have to work for your scarce time. The second is that the other person must have demand for your time. It makes no difference whatsoever if you suddenly decide to stop calling some girl who doesn't even know you exist, or one who hates your guts. You can't take away something that wasn't really valued in the first place. The third condition is that you must initially withdraw your time when someone is interested in it. If you're super-available in the first place, then you can't punish someone by becoming unavailable. The same goes for reward. The power rests in changing from being available to unavailable or vice versa.
 
-**STANDARDS**
+### STANDARDS
 
 Possessing standards is important because they establish you as a high value man in two crucial ways. First, by serving as a filter, standards force you to be more selective with the kind of people and places that you bless with your valuable time and attention. Second, by erecting standards you effectively change how others perceive you. That's because others notice that your time and attention are now scarcer, instead of being seemingly unlimited. They notice that you no longer spend your valuable time with just anyone. People are thus forced to fight for your time and attention if they don't want to be left out.
 
-**INTERVIEWER**
+### INTERVIEWER
 
-When you interview someone before demonstrating interest, you immediately sub-communicate that you're not just a person who deals with anyone--you have standards. And, unless a person passes specific standards, that person isn't worth your valuable time or interest.
+When you interview someone before demonstrating interest, you immediately sub-communicate that you're not just a person who deals with anyone—you have standards. And, unless a person passes specific standards, that person isn't worth your valuable time or interest.
 
 One of the chief attributes of the interviewing mindset is that the person who's doing the interviewing is rarely easily impressed or quickly satisfied. The interviewer will most likely find himself in a position of skepticism or doubt.
 
 Interviewing, negotiating, and the ability to walk away if things don't work out in your favor form a very potent weapon for the interviewing mindset. It's a preemptive psychological weapon against your adversary. The actual questions that you ask matter less than the very fact that it's you who's interviewing someone else, and not the other way around. It shows that you're the chooser. Choosers are extremely high value.
 
-**ENTITLEMENT**
+### ENTITLEMENT
 
 One thing I always noticed about high value men is that they possess this inherent sense of entitlement to everything, most commonly information, money, and women. They don't need to convince themselves that something belongs to them: they know it belongs to them. After feeling entitled to something, obtaining it is all but automatic; all that's left is to physically go out and get it. Once you get comfortable with entitlement, the rest usually just follows. It's like putting yourself on autopilot on the way to success.
 
-**CONFIDENCE**
+### CONFIDENCE
 
 Confidence is one of the most attractive traits that a man can have. It really lets you get away with virtually anything. Confidence is the triumph of action over thought.
 
@@ -59,7 +59,7 @@ An excellent way to alleviate both internal and external doubts is by being busy
 
 Embrace the unknown. Instead of being afraid of the unfamiliar, replace that fear with the desire to do something new and obtain a new experience. Experience is the father of confidence.
 
-**CONFRONTATION**
+### CONFRONTATION
 
 You must be aware that what you spend your time doing will inevitably mold your personality in many important ways. A guy who's constantly dealing with people will have no problems in other situations of conflict. For a guy whose life consists of interacting with different people, there's also no such thing as "approach anxiety."
 
@@ -73,7 +73,7 @@ When it comes to women, nothing truly matters until you go over and begin talkin
 
 Once you establish committing the action as your benchmark for living, you will actually learn to embrace contact, and confrontation will no longer be something that you fear. Here's a quick way to see if you've been actually living or planning to live: can the things that you've done fill up a book? If not, you better start living.
 
-**PRESENCE**
+### PRESENCE
 
 Effective communication is less about the actual content of what you're trying to do and more about the way you do it: the way you talk; the way you walk; the way you carry yourself.
 
@@ -81,7 +81,7 @@ A high value man never aimlessly wanders around like a lost puppy. He's always t
 
 The owner mentality is about having complete control of any environment. That consists of directing people what to do while sitting back and being served. The owner mentality is also about having options and alternatives. The high value man always knows that if the product or service he's planning to use is not up to his standards, he will simply go somewhere else.
 
-**NONCHALANT**
+### NONCHALANT
 
 High value people show that they are nonchalant by letting other people come to them instead of rushing to other people. Nonchalant is the exact opposite of eager, overzealous, and desperate, which is someone who you never want to be.
 
@@ -91,7 +91,7 @@ One of my most trusted indicators of growth as a man is whether I'm becoming mor
 
 Never underestimate the power of initial demand. Demand needs no energy input. It needs no convincing. It simply exists, waiting for you to harness and enjoy it. It's also very difficult, if not impossible, to create it out of thin air. Someone either finds me attractive or not. The harder you try to convince someone to do something, the more frustrating will be the experience if they do show up. On the other hand, the less I have to work on convincing someone to do something, the easier and more enjoyable the actual experience will be.
 
-**KINGDOM**
+### KINGDOM
 
 The kingdom includes the properties that you own or rent. The house you own or rent is part of your kingdom. The business you run is part of your kingdom. Second, the kingdom is a collection of people that are either outright loyal to you, or you have some influence over. People such as your close friends, business partners, a serious girlfriend or wife are part of your kingdom. Those people are naturally the ones who respect you and value your time. They're trustworthy. They're reliable. They're loyal. They keep their word. They don't flake.
 

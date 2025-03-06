@@ -5,7 +5,7 @@ slug: the-everything-token
 title: 'The Everything Token - by Steve Kaczynski and Scott Duke Kominers'
 ---
 
-**PART I: THE NEXT DIGITAL REVOLUTION**
+## PART I: THE NEXT DIGITAL REVOLUTION
 
 NFTs make it possible to create an effectively infallible record of who owns what in digital space.
 
@@ -39,9 +39,9 @@ The idea of Web3 is that we can fundamentally disrupt the way business works by 
 
 From the perspective of the individual, the three eras of the internet can be summarized as follows: In Web 1, you’re the consumer: You travel across the web, ingesting information and participating in e-commerce. In Web 2, you’re the product: It’s well documented that most social media platforms and phone apps are free because they, at the very least, use your engagement to show you targeted advertising—and some of them even sell access to your information, as well. (As the old phrase goes, if you’re not paying for the product, you probably are the product!) Even so, because social media is habit-forming, users generate the vast majority of the content for free. In Web3, you’re part of the brand: This is the key distinction Web3 brings: Through digital ownership, individuals are simultaneously consumers, active participants, and, to some degree, owners and investors. The same digital assets you use to flex your enthusiasm for your favorite brands also give you a stake in their success (and give the brand a stake in your success), because when the brand does better, your brand assets and affiliation can increase in value.
 
-**PART II: ASCENDING THE STAIRCASE**
+## PART II: ASCENDING THE STAIRCASE
 
-**Establishing Ownership**
+### Establishing Ownership
 
 When you hold an NFT, it resides in a software application that you control—often called a wallet. The key word here is control. This may not sound like a big shift; however, historically, digital goods have typically been controlled by the platforms on which they were created.
 
@@ -59,7 +59,7 @@ One’s digital wallet can function as a sort of profile, similar to Facebook or
 
 Equally crucially, most NFTs are designed to interoperate, which means they can be used with many different platforms—rather than just the one that created them. If you buy a bunch of physical trading cards, you can trade them for other types of cards, or even other assets like cool sunglasses or a xylophone. You can make up your own games with them and teach your friends. And if you want to sell them, you can typically do that in any store. All of this can happen without the creator’s knowledge, much less their permission. Most NFTs work the same way. They can be used flexibly across platforms—you can use an NFT you own to display an associated image on Twitter and in a virtual gallery, and if you wanted to, someone could even develop a video game based around it. All of this can happen without permission—unlike with Web 2 digital assets, which tend to be heavily restricted by platform policies and APIs.
 
-**Enhancing Ownership with Utility**
+### Enhancing Ownership with Utility
 
 We would argue that pretty much any NFT—yes, even just a token associated to an image—can add utility to help move its way up the NFT Staircase. While some industries require a bit more creativity, oftentimes it’s easy to think of ways to build in value. It can be as simple as a holder rewards program or as complex as a multifaceted governance and profit-sharing model, but there’s almost always a way to use NFTs to engage customers in a meaningful way and keep them in your business’s ecosystem.
 
@@ -79,7 +79,7 @@ When it comes to third-party utility, NFTs are especially powerful. Businesses c
 
 You could build multi-threaded subscriptions for pretty much any topic of interest—maybe subscribing to Science also gets you access to all the microbiology articles in various other journals. Or imagine if you could buy an all-access pass to Star Wars news across newspapers and magazines worldwide. It’s possible that these sorts of customized content products would be so valuable to many buyers relative to subscriptions to individual publications that they would raise total readership and revenue overall. And of course, with people building deeply personalized internet content flows that better reflect their interests and identity, there are opportunities for communities to form around the associated digital assets—but we’re getting ahead of ourselves.
 
-**Building and Reinforcing Identity**
+### Building and Reinforcing Identity
 
 NFTs enable uniquely strong affinities and can strengthen people’s connections to the things they already love.
 
@@ -91,7 +91,7 @@ As we’ve already mentioned, the most successful businesses in Web 2 are built 
 
 Network effects center on community cohesion: the more value a group of people sees in a given digital asset—and the more value that community itself creates—the more other people want to own the asset, growing the community further.
 
-**Connecting the Community**
+### Connecting the Community
 
 Community formation around shared interests has been happening forever, of course. But NFTs turn it up to eleven because of what we call their embedded network superpower: As we’ve said, becoming the owner of an NFT is to some degree an act of affiliation with the brand. Yet NFT ownership doesn’t just connect you with the brand itself, but also with the entire network of individuals who are similarly affiliated. Remember that with NFTs, the network effect accrues to the asset. The quasi-converse is that the network is embedded in the asset itself. The holders of a given NFT comprise a network of brand enthusiasts just waiting to be activated. And pretty much anyone can start the community activation process.
 
@@ -101,7 +101,7 @@ NFTs make it possible for people to find their tribes everywhere. That’s becau
 
 When someone buys season tickets to their local ballet, they know that other people who attend regularly each month must have similar tastes, but they don’t have a way to reach those people—they’re more in the background. Web 2 community engagement mechanisms don’t do a great job of solving this problem. They’re siloed in individual platforms, which both makes it hard to figure out where a given community is based (a Facebook group? A specific subreddit?) and limits the form of activity once there. With NFTs, the other holders are front and center. The NFT serves multiple roles at once—it can be both the entry ticket to a ballet performance and a cross-platform community anchor. At minimum, at least for NFTs on public blockchains, you can look up other holders’ digital wallet addresses and see what else they’re into. And if you want to team up with some of the more engaged community members, for example, to co-sponsor some new Forsythe choreography, NFTs can help you track them down. (If you read that and were concerned about unsolicited contact or receiving unwanted NFTs, there are already solutions in place, which will continue to improve over time. Direct contact through an NFT-gated chat channel would require a person to opt in and connect, just like any other current chat medium. Meanwhile, if a person or company wants to send you an unsolicited NFT, there are hidden folders where they land, much like with email spam filters. So, chances are, if someone manages to contact you via NFT, it’s a person or entity you’d actually like to hear from.)
 
-**Driving Brand Evolution**
+### Driving Brand Evolution
 
 Cells have semipermeable membranes that allow certain particles through and not others. Nutrients and water are absorbed, while contaminants are kept out. With NFT brands, there’s a semipermeable membrane between the company and the community. Everyone’s in effect part of the same organism, with bidirectional communication and shared goals. That means an NFT community can be a constant source of feedback and innovation. And when someone in the community has a great idea, it’s easy for the brand to absorb it—and reward the innovator. On the flip side, when holders are upset about something, the brand can learn that immediately through its community channels and quickly gather suggestions for how to respond.
 
@@ -109,9 +109,9 @@ Companies born in Web3 are being built collaboratively and in public for everyon
 
 NFT holders have a vested interest and an ongoing incentive to contribute to the brand and its community. With NFTs, we’re talking about a fundamentally new way to build companies that fully leverages customers’ relationship with the brand. If you’re starting a company, you can find product-market fit among a core community of enthusiasts, and they can then collaborate with you to build out the brand and its ecosystem. If you have an already established company, you can use NFTs to find entirely new markets along with your most engaged customers. And if you’re a consumer, you can participate in—and even demand—that type of engagement.
 
-**PART III: PUTTING IT ALL TOGETHER**
+## PART III: PUTTING IT ALL TOGETHER
 
-**Finding the Proper Price and Scale**
+### Finding the Proper Price and Scale
 
 In practice, the vast majority of collectibles are sold at relatively accessible prices, at least within their product category—maybe a dollar for a souvenir keychain; $5 to $10 for a pack of trading cards; $20 for a special edition game-day program; or $250 for a fancy pair of sneakers. That doesn’t mean they aren’t produced in limited editions—but those editions might run in the many thousands or occasionally even millions. That’s the type of scale we expect to see for collectible NFTs in the long run: NFTs priced appropriately for their audience, and with supply large enough to make those prices sensible. Moreover, many of them will be acquired automatically with other purchases, or earned through effort or engagement, rather than being bought outright.
 
@@ -119,7 +119,7 @@ At the same time, part of what’s special about NFTs is that they emphatically 
 
 NFTs can be especially valuable when a creator is just getting started. They give a way for early fans to build their enthusiasm into their digital identity, and to find and interact with the creator and one another. And of course, NFTs also provide fans with some upside in the creator’s success because then the ownership value and utility can expand.
 
-**Designing Your NFT Strategy**
+### Designing Your NFT Strategy
 
 In Scott’s course on marketplace design, he trains students to identify market failures—places where a market isn’t achieving its maximum social potential. Loosely, identifying market failures requires asking, Where is there an activity or transaction that people would like to engage in, but they aren’t? Whenever that happens, there is (almost tautologically) an opportunity for value creation if you can solve whatever the blocker is. Critically, it’s important to focus on the reason why people can’t engage or transact in the desired way. Defining an NFT opportunity is very much about identifying a market failure and its underlying cause (and of course, how NFTs can address the issue).
 
@@ -145,11 +145,11 @@ In many cases, there are benefits to leveraging multiple steps of the NFT Stairc
 
 As we’ve already said, a huge part of the opportunity in many NFT applications is to enable others to innovate around the underlying asset. This might be as simple as inviting third parties to offer verified member benefits (like discounted drinks for anyone who’s holding an NFTicket to the day’s Celtics game). It also often comes from encouraging holders to expand upon the NFT or create derivatives—everything from writing the fictional backstory of your Bored Ape (or NFTopping) to creating community content independent of but encouraged by the NFT’s original issuer.
 
-**Ongoing Challenges**
+### Ongoing Challenges
 
 As with any novel asset class, NFTs raise questions about regulation. At a basic level, it can be hard to even determine what type of asset an NFT is—and indeed, the answer might vary with the format of the NFT and the specific functionalities it has. Many NFTs, such as those that simply confer ownership of digital artwork or collectibles, have a narrow range of characteristics that make them analogous to commodities or physical property. But some NFTs have a range of characteristics, including features that make them analogous both to commodities and to securities; active secondary markets for this latter category of NFTs raise significant regulatory and policy questions given the different ways commodities and securities markets are regulated.
 
-**How NFTs and Web3 Can Shape Us**
+### How NFTs and Web3 Can Shape Us
 
 NFTs are already creating novel industries, with new ways of building companies and brands. But the greatest and most transformative applications most likely haven’t even been imagined yet. What can you build on top of digital ownership? With a tall enough staircase, the sky is the limit.
 

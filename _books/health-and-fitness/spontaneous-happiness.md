@@ -7,17 +7,17 @@ title: Spontaneous Happiness - by Andrew Weil
 
 Ralph Waldo Emerson: "All life is an experiment. The more experiments you make the better."
 
-**Caring for the Body**
+### Caring for the Body
 
 Cytokines are the principal chemical mediators of the inflammatory response. Anything you can do to keep them within their proper bounds will reduce your risks of chronic disease and also, it now appears, help protect you from depression.
 
-Incorporating a goal--one that at least feels useful--into workouts can make them far more enjoyable.
+Incorporating a goal—one that at least feels useful—into workouts can make them far more enjoyable.
 
 Turmeric and curcumin offer myriad health benefits, including reduced risk of cancer and Alzheimer's disease.
 
 Find ways to satisfy the need for physical touch to promote contentment and comfort.
 
-**Retraining and Caring for the Mind**
+### Retraining and Caring for the Mind
 
 The Three Good Things intervention has the participant write down each day for a week three things that are going well and the reasons why.
 
@@ -43,9 +43,9 @@ Slow, deep, quiet, regular breathing simply cannot coexist with emotional turmoi
 
 Making the 4-7-8 breath part of your daily routine will increase your experience of serenity and comfort and give you greater emotional resilience. It will enable you to stop anxiety in its tracks. You need only spend a few minutes a day on this practice, but you must do it at least twice a day without fail.
 
-If you want to be in optimum emotional health, realize that social isolation stands between you and it. Reach out to others. Join groups--to drum, meditate, sing, sew, read, whatever. Find communities--to garden, do service work, travel, whatever. We humans are social animals. Spontaneous happiness is incompatible with social isolation. Period.
+If you want to be in optimum emotional health, realize that social isolation stands between you and it. Reach out to others. Join groups—to drum, meditate, sing, sew, read, whatever. Find communities—to garden, do service work, travel, whatever. We humans are social animals. Spontaneous happiness is incompatible with social isolation. Period.
 
-**Secular Spirituality**
+### Secular Spirituality
 
 Émile Durkheim: "Man cannot live without attachment to some object which transcends and survives him."
 

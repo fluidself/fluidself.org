@@ -13,7 +13,7 @@ I use the term "robot's rebellion" to refer to the package of evolutionary insig
 
 A major theme of this book is that rationality (and its embodiment in institutions) provides a means of creating conditions that optimize at the level of people rather than the genes-the beginning of the robot's rebellion.
 
-**STARING INTO THE DARWINIAN ABYSS**
+### STARING INTO THE DARWINIAN ABYSS
 
 We were constructed to serve the interests of our genes, not the reverse. The popular notion-that genes "are there to make copies of us"-is 180 degrees off. We are here so that the genes can make copies of themselves! They are primary, we (as people) are secondary. The reason we exist is because it once served their ends to create us.
 
@@ -27,7 +27,7 @@ On the commonsense assumption that bodies are primary in evolution and DNA is th
 
 The first step in the robot's rebellion, then, is to learn how to properly value the vehicle and to stop behaviors and cultural practices that implicitly value our genes over ourselves.
 
-**A BRAIN AT WAR WITH ITSELF**
+### A BRAIN AT WAR WITH ITSELF
 
 Evidence from cognitive neuroscience and cognitive psychology is converging on the conclusion that the functioning of the brain can be characterized by two different types of cognition having somewhat different functions and different strengths and weaknesses. The two processes have sometimes been labeled System 1 and System 2 in the literature.
 
@@ -41,7 +41,7 @@ Such a view of the differences between TASS and the analytic system is consisten
 
 Our analytic systems can learn to give better narrative accounts of our behavior-ones more in accord with the neuropsychological facts. Learning this skill is part of the robot's rebellion.
 
-**Processing without Awareness: There Are Martians in Your Brain!**
+### Processing without Awareness: There Are Martians in Your Brain!
 
 The essence of TASS subprocesses is that they trigger whenever their appropriate stimuli are detected, that they cannot be selectively "turned off," and that they occur outside of our awareness. That such processes may even be priming responses that analytic processing deems infelicitous, means that, as the title of this chapter suggests, sometimes a person may have a brain that is, in an important sense, at war with itself. It may require some cognitive remediation if the outcome of this war is to be what the person's deepest, most reflective self wants. The first step in such a meliorist program of cognitive reform is to recognize that in some sense the "I" that we identify with (the homunculus that, although a fiction, is still part of our folk psychology) is not only not in control of all parts of the brain, but may be positively alienated from the operation of some brain activities that take place beyond its awareness.
 
@@ -49,13 +49,13 @@ TASS is an evolutionarily older system that sometimes primes outputs not appropr
 
 Thus, some of the response tendencies primed by TASS will need to be overridden if they are not to overwhelm our reflective values, as determined by our analytic processing activities. The triggers in our brains for eating sweets, for rejecting a raped spouse, for feeling revulsion at the sight of a disfigured person, are parts of ourselves with which we do not want to identify. They are alien to our considered selves. They are the Martians in our brains. We cannot remove them, but we can dampen their effects and find ways for the analytic system to trump them, so that we don't end up feeling like Bob Marley-that "reflexes got the better of us."
 
-**The Brain on a Long Leash and the Brain on a Short Leash**
+### The Brain on a Long Leash and the Brain on a Short Leash
 
 The goal structures of TASS and the analytic system are different, and that important consequences for human self-fulfillment follow from this fact. The goal structure of TASS has been shaped by evolution to closely track increases in the reproduction probability of genes. The analytic system is primarily a control system focused on the interests of the whole person. It is the primary maximizer of an individual's personal goal satisfaction. Maximizing the latter will occasionally result in sacrificing genetic fitness.
 
 Thus, another difference between TASS and the analytic system is that TASS instantiates short-leashed genetic goals, whereas the analytic system instantiates a flexible goal hierarchy that is oriented toward maximizing goal satisfaction at the level of the whole organism. Because the analytic system is more attuned to the person's needs as a coherent organism than is TASS (which is more directly tuned to the ancient reproductive goals of the subpersonal replicators), in the minority of cases where the outputs of the two systems conflict, people will often be better off if they can accomplish an analytic system override of the TASS-triggered output. Such a system conflict is likely to be signaling a vehicle/replicator goal mismatch and, statistically, such a mismatch is more likely to be resolved in favor of the vehicle (which all of us should want) if the TASS output is overridden.
 
-**Don't Be Sphexish**
+### Don't Be Sphexish
 
 Dennett refers to "that spooky sense one often gets when observing or learning about insects and other lower animals: all that bustling activity but there's nobody home!". Quoting cognitive scientist Douglas Hofstadter, Dennett proposes that we call this unnerving property _sphexishness_. He points out that observing the simple, rigid routines that underpin the complexity of the surface behavior of simple creatures spawns in us the worrying thought: "What makes you sure you're not sphexish-at least a little bit?"
 
@@ -65,7 +65,7 @@ The TASS modules offering up outputs that conflict with reasoned analytic system
 
 The robot's rebellion derives in part from our ability to recognize the potential for sphexishness in our own behavior and take steps to prevent it. The threat to the soul represented by Darwinism is right there in our own brains-in the TASS subsystems that could turn us into sphexish automatons, into robots fulfilling not our own goals but those of the selfish replicators who built us. But there too, in the same brain, is the potential awareness of this plight along with the cognitive mechanisms to overcome it. Uncritically delighting in following our so-called gut instincts makes us little more than slaves of the mindless replicators-the micro-automata that view us as nothing more than vehicles to assist in their quest for replication.
 
-**THE ROBOT'S SECRET WEAPON**
+### THE ROBOT'S SECRET WEAPON
 
 One key component of rationality is the optimization of goal fulfillment at the level of the individual. This is why evolutionarily adaptive behavior is not the same as rational behavior. Evolutionarily adaptive behavior is behavior that increases genetic reproduction probabilities, but rational behavior is behavior that fulfills the goals of the vehicle-given the vehicle's set of beliefs about the world.
 
@@ -75,7 +75,7 @@ Instrumental rationality is behaving in the world so that you get exactly what y
 
 The hedonic experience of the vehicle is just a means to an end for most of the goals lodged in TASS, and it will readily sacrifice the vehicle's hedonic pleasure if ultimate fitness goals are achievable without it. We instead should be focused on our own personal goals as vehicles. We diminish our selfhood if we compromise these in order to honor responses programmed by subpersonal entities that constructed the Darwinian parts of our brains.
 
-**THE BIASES OF THE AUTONOMOUS BRAIN**
+### THE BIASES OF THE AUTONOMOUS BRAIN
 
 The terms heuristics and biases refer to the two aspects of research studies of this genre. First, human performance was shown to deviate from what was rationally expected on a particular task (a cognitive bias is demonstrated). Next, the deviation is shown to result from the operation of an automatic heuristic-a response triggered by TASS. These heuristics are assumed to be useful in many situations (and are computationally inexpensive). But where logical, analytic, and/or decontextualized problem solving is required, TASS heuristics bias processing in the wrong direction, thus resulting in suboptimal responses.
 
@@ -95,26 +95,26 @@ The socialization of problems and the tendency to see deliberate design in the e
 
 Finally, there exist many theoretical arguments for why the automatic contextualization of problems with prior knowledge might be adaptive. For example, Evans and Over argue that beliefs that have served us well in the past should be hard to dislodge, and projecting them on to new information-because of their past efficacy-might help in assimilating the new information.
 
-**Evolutionary Reinterpretations of Responses on Heuristics and Biases Tasks**
+### Evolutionary Reinterpretations of Responses on Heuristics and Biases Tasks
 
 Evolutionary psychologists, adaptationist modelers, and ecological theorists have reinterpreted the modal response in most of the classic heuristics and biases experiments, previously interpreted as indications of human irrationality, as instead indicating an optimal information processing adaptation on the part of the subjects.
 
 The dual-process cognitive architecture introduced in chapter 2 encompasses both the impressive record of descriptive accuracy enjoyed by a variety of evolutionary/adaptationist models as well as the fact that cognitive ability sometimes dissociates from the response deemed optimal on an adaptationist analysis. These data patterns make sense if it is assumed: (1) that there are two systems of processing with the properties outlined in chapter 2; (2) that the two systems of processing are optimized for different situations and different goals as outlined in chapter 2; and (3) that in individuals of higher cognitive ability there is a greater probability that the analytic system will override the response primed by TASS.
 
-**The Fundamental Computational Biases and the Demands for Decontextualization in Modern Society**
+### The Fundamental Computational Biases and the Demands for Decontextualization in Modern Society
 
 Evolutionary psychologists are prone to emphasize situations where genetic goals and personal goals coincide. They are not wrong to do so, because this is often the case. Accurately navigating around objects in the natural world was adaptive during the EEA, and it similarly serves our personal goals as we carry out our lives in the modern world. Likewise, with other evolutionary adaptations.
 
 But none of this means that the overlap is necessarily 100 percent. Unfortunately, the modern world tends to create situations where some of the default values of evolutionarily adapted cognitive systems are not optimal. Many of these situations implicate the fundamental computational biases discussed previously. These biases serve to radically contextualize problem-solving situations. In contrast, modern technological societies continually spawn situations where humans must decontextualize information-where they must deal abstractly and in a depersonalized manner with information. Such situations require the active suppression of the social, narrative, and contextualizing styles that characterize the operation of TASS. These situations may not be numerous, but they tend to be in particularly important domains of modern life-indeed, they in part define modern life in postindustrial knowledge-based societies.
 
-**The TASS Traps of the Modern World**
+### The TASS Traps of the Modern World
 
 It is possible to accept most of the conclusions of the evolutionary psychologists but to draw completely different morals from them. The evolutionary psychologists want to celebrate the astonishing job that evolution did in adapting the human cognitive apparatus to the Pleistocene environment. Certainly they are right to do so. The more we understand about evolutionary mechanisms, the more awed appreciation we have for them. But at the same time, it is not inconsistent for a person to be horrified that a multimillion dollar advertising industry is in part predicated on creating stimuli that will trigger TASS heuristics that many of us will not have the cognitive energy or cognitive disposition to override. I personally find it no great consolation that the heuristics so triggered were evolutionarily adaptive in their day. What I am attempting to combat here is a connotation implicit in some writings in evolutionary psychology that there is nothing to be gained from being able to understand a formal rule at an abstract level (the conjunction rule of probability, etc.)-and no advantage in flexibly overriding the fundamental computational biases at times.
 
 > An uneasy tension disturbs the heart of the selfish gene theory. It is the tension between gene and individual body as fundamental agent of life. On the one hand we have the beguiling image of independent DNA replicators, skipping like chamois, free and untrammelled down the generations, temporarily brought together in throwaway survival machines, immortal coils shuffling off an endless succession of mortal ones as they forge towards their separate eternities. On the other hand we look at the individual bodies themselves and each one is obviously a coherent, integrated, immensely complicated machine, with a conspicuous unity of purpose.  
 > &mdash; Richard Dawkins, The Selfish Gene
 
-**HOW EVOLUTIONARY PSYCHOLOGY GOES WRONG**
+### HOW EVOLUTIONARY PSYCHOLOGY GOES WRONG
 
 From the standpoint of the framework developed in this book, the evolutionary psychologists' theoretical stance against domain-general processing is a profound mistake. Because it is this system that computes actions that maximize utility based on the organism's long-leashed goals, analytic processing is essential if a person is to achieve instrumental rationality. It is this system that overrides the TASS subsystems when they compute responses that are not in the interests of our current long-term goals. When is this likely to happen? Answer: In situations where the cognitive requirements of technological societies do not match those of the environment of evolutionary adaptedness (EEA). Ironically, the evolutionary psychologists themselves often mention that the EEA is not to be confused with the modern world. However, they largely fail to develop the most important implication of potential mismatches between the cognitive requirements of the EEA and those of the modern world-that if we respond in the modern world according to TASS subsystems, we will often be maximizing something other than our current goals as individual organisms.
 
@@ -122,11 +122,11 @@ Measures of the ability to deal with abstraction such as _g_ remain the best emp
 
 In short, evolutionary psychologists are wrong to assume that TASS heuristics (adapted for the EEA) are optimal for achieving rationality in the modern world. Many important decisions in life are nearly "one shot" affairs (job offers, pension decisions, investing decisions, housing decisions, marriage decisions, reproductive decisions, etc.). Some of these decisions were not present at all in the EEA, and we have had no time nor learning trials to acquire extensive personal frequency information about them. Instead we need to make certain logical and probabilistic inferences using various rules of inference, and most importantly, we must decouple myriad sources of information that our autonomously functioning modules might be detecting and feeding into the decision ("no, the likability of this salesperson should not be a factor in my deciding on this $25,000 car").
 
-**What Follows from the Fact that Mother Nature Isn't Nice**
+### What Follows from the Fact that Mother Nature Isn't Nice
 
 As distinguished evolutionary biologist George Williams has eloquently pointed out, Mother Nature is in the replication business, not the niceness business. TASS was built to further the goals of the subpersonal replicators rather than your own personal goals. If you give up your life to TASS (in the form of giving in to your "gut instincts"), then you are essentially buying a lottery ticket. You are betting, when you do so, that it is one of those instances when genetic goals and personal goals coincide. You are betting that it is not one of those instances when pursuing ancient replicator goals conflicts with your personal goals. However, work in cognitive and decision science has indicated that you would sometimes lose this bet and, further, sometimes you would lose it in important circumstances and experience negative real-world consequences.
 
-**DYSRATIONALIA: WHY SO MANY SMART PEOPLE DO SO MANY DUMB THINGS**
+### DYSRATIONALIA: WHY SO MANY SMART PEOPLE DO SO MANY DUMB THINGS
 
 Intelligence, while representing the potential computational power to carry out TASS override, does not guarantee rationality because the capacity for override remains unrealized if not triggered by the superordinate control hierarchies that we identify as rational thinking dispositions at the intentional level. Variability in intentional-level thinking dispositions means that there is at least the potential for cognitively competent people to do irrational things. Such an analysis implies that it should be no surprise that a lot of smart people act dumb sometimes.
 
@@ -134,7 +134,7 @@ A dysrationalic fails to fulfill his/her personal goals despite having at least 
 
 The cultural evolution of rational standards is apt to occur markedly faster than human evolution. In part this cultural evolution creates the conditions whereby instrumental rationality separates from genetic optimization. As we add to the tools of rational thought, we add to the software that the analytic system can run to achieve long-leash goals that optimize actions for the individual. Learning a tool of rational thinking can quickly change behavior and reasoning in useful ways-as when a university student reads the editorial page with new reflectiveness after having just learned the rules of logic. Evolutionary change is glacial by comparison. Thus, in an astonishingly short time by evolutionary standards, humans can learn and disseminate-through education and other forms of cultural transmission-modes of thinking that can trump genetically optimized modules in our brains that have been driving our behavior for eons. Because new discoveries by innovators can be conveyed linguistically, the general populace needs only the capability to understand the new cognitive tools-not to independently discover the new tools themselves.
 
-**FROM THE CLUTCHES OF THE GENES INTO THE CLUTCHES OF THE MEMES**
+### FROM THE CLUTCHES OF THE GENES INTO THE CLUTCHES OF THE MEMES
 
 I prefer to view a meme as a brain control (or informational) state that can potentially cause fundamentally new behaviors and/or thoughts when replicated in another brain. Meme replication has taken place when control states that are causally similar to the source are replicated in the brain host of the copy. Philosopher Daniel Dennett lists some examples of memes (or memeplexes-co-adapted sets of memes)-the arch, the wheel, calendars, calculus, chess, the Odyssey, impressionism, deconstruction, the vendetta, the right triangle, "Greensleeves," the alphabet-to help us get the idea of memes as idea units or collections of idea units.
 
@@ -144,7 +144,7 @@ Memetic theory has profound effects on our reasoning about ideas because it inve
 
 The principles of scientific inference and rational thought serve essentially as meme evaluation devices that help us to determine which beliefs are true and therefore probably of use to us, and also which are consistent with those that are true. Failure of the consistency checks embodied in the choice axioms of instrumental rationality will often point us to memes representing goals that are not serving our life plans. Scientific principles such as falsifiability are of immense usefulness in identifying possible "junk memes"-those that are really not serving our ends but merely serving the end of replication. Think about it. You will never find evidence that refutes an unfalsifiable meme. Thus, you will never have an overt reason to give up such a belief. Yet an unfalsifiable meme really says nothing about the nature of the world (because it admits to no testable predictions) and thus may not be serving our ends by helping us track the world as it is. Such beliefs are quite possibly "junk memes"-unlikely to be shed despite the fact that they do little for the individual who holds them (and may actually do harm.)
 
-**Personal Autonomy and Reflectively Acquired Memes**
+### Personal Autonomy and Reflectively Acquired Memes
 
 I distinguish between memetically acquired goals that are "caught" like viruses (as in the Dawkins quote, "a cultural trait may have evolved in the way it has, simply because it is advantageous to itself")-what we might call nonreflectively acquired memetic goals-and memetic goals that an individual acquires reflectively, with full awareness of their effects on the organism.
 
@@ -161,13 +161,13 @@ Being reflective about the memes we take on as desires and beliefs is the only a
 
 We inhabit a cognitive environment in which there is a widespread hostility to examining belief. Perhaps the unsupportable memes have allied together to create in us a cognitive environment antithetical to the idea that our beliefs and desires need evaluation. Or, another way to put it is: If most of our beliefs are serving us well as vehicles and are able to pass selective tests of their efficacy, why shouldn't they have created a cognitive bias to submit themselves to those very tests-tests that their competitors would surely fail. Instead, the memosphere of most of us is vaguely discouraging of stiff real-world tests of our beliefs. This prompts the worrisome question: What have these memes got to hide?
 
-**Memetic Concepts as Tools of Self-Examination**
+### Memetic Concepts as Tools of Self-Examination
 
 The concept of the meme is cognitively liberating because it aids in the task of mental self-examination by making it easier to achieve cognitive distancing. Memes demystify beliefs. They desanctify beliefs. Memes are solvents for beliefs, and they are epistemic equalizers in the following sense. By providing a common term for all cultural units, memetic science deconstructs the unreflective privileging of certain memes that have leaked into culture through arbitrary historical accident and through specific meme strategies that encourage privileging. The very concept of the meme will suggest to more and more people who become aware of it that they need to engage in some meme therapy-to ponder whether they have thoughtfully taken on a meme or have simply been infected by it without any critical input from their analytic intelligence.
 
 The hostility toward the meme concept in part flows from the fact that the science of memetics has highlighted the tricks played by all faith-based memes and threatens to deprive them of their special status-a status we do not grant other memeplexes that do not contain evaluation-disabling tricks. But since such disabling memes are widely held, they provide the climate in which the meme concept is being received. They condition the cognitive environment in the direction of hostility toward meme evaluation.
 
-**A SOUL WITHOUT MYSTERY: FINDING MEANING IN THE AGE OF DARWIN**
+### A SOUL WITHOUT MYSTERY: FINDING MEANING IN THE AGE OF DARWIN
 
 The conceptual insights of evolutionary theory travel on the back of a scientific technology that people do not want to give up. Simply put, science delivers the goods. People want their technological benefits-they want the increased health, they want the cheaper food, they want the increased mobility, they want convenience and comfort. But riding along with the technologies that people want are the conceptual and metaphysical insights that the scientific discoveries trigger: that we are survival machines, that there is no immaterial "mind" where consciousness occurs and where your "self" makes decisions, that the layperson's notion of free will is utterly confused.
 
@@ -177,7 +177,7 @@ Modern life is just too full of contradictions for someone to claim that his/her
 
 We are the only species that disrupts the coherence of its desires by destabilizing them through internal cognition directed at self-improvement and self-determination.
 
-**Two-Tiered Rationality Evaluation: A Legacy of Human Cognitive Architecture**
+### Two-Tiered Rationality Evaluation: A Legacy of Human Cognitive Architecture
 
 People aspire to rationality broadly conceived, not just instrumental rationality. People want their desires satisfied, but they are concerned about having the right desires. If those desires are TASS subsystems that serve ancient genetic goals better than current life goals, they need to be overridden by the analytic system pursuing considered, environmentally appropriate long-term goals. If those desires are TASS responses acquired in childhood or overpracticed rules not appropriate to the current situation, then they again need to be overridden by analytic processes in the service of a memeplex that has been thoughtfully examined. The full robot's rebellion is achieved by pursuing instrumental rationality in the context of a continuing critique of those desires being pursued.
 
@@ -187,7 +187,7 @@ In order to achieve two-tiered rationality, I have stressed: (1) the importance 
 
 These metarepresentational abilities make possible the higher-order evaluations that determine whether we are pursuing the right aims. They make it possible to add symbolic utility to our lives and actions. They provide the distancing from belief that is necessary for meme evaluation. The critiques of the memes we host and of our first-order desires made possible by these representational abilities make it possible to evaluate whether either genes or memes are sacrificing us as human vehicles.
 
-**The Spookiness of Subpersonal Entities**
+### The Spookiness of Subpersonal Entities
 
 The clarity of human self-examination, for all its benefits, brings with it new and scary notions for humans to face-the spooky notions of the selfish gene and equally selfish meme. It is creepy to think about the notion that these subpersonal entities both construct and constitute our bodies and minds and that they are not necessarily only in it for us (or, to put it another way, are not optimizing for people but are optimizing across people). Here's how things get creepy:
 
@@ -197,7 +197,7 @@ Creepy Fact #2: Our brains were built by entities not exclusively concerned with
 
 Creepy Fact #3: There is another subpersonal replicator that constitutes the software that the analytic system must use to monitor TASS, and this subpersonal replicator, like the gene, may sometimes have interests that conflict with vehicle well-being.
 
-**Are We Up to the Task? Finding What to Value in Our Mental Lives**
+### Are We Up to the Task? Finding What to Value in Our Mental Lives
 
 It may be that in terms of the cultural evolution of human rationality, the narrow instrumental rationality of market societies is perhaps a local maxima in the evolution of ideas. Is there reason to believe that humans are up to the task of pursuing a broader concept of rationality? I would argue that we are in fact up to the task. The reason for my optimism about our broader evaluative abilities stems from the intensity of our drive to deploy our representational abilities.
 

@@ -5,7 +5,7 @@ slug: truth-in-comedy
 title: 'Truth in Comedy: The Manual for Improvisation - by Charna Halpern, Del Close'
 ---
 
-**What is Improv, Anyway?**
+### What is Improv, Anyway?
 
 The simple, basic rules laid down in this book will result in much funnier, intelligent, and more interesting scenes. Deliberately trying to be funny or witty is a considerable drawback, and often leads to disaster. Honest responses are simpler and more effective. By the same token, making patterns and connections is much more important than making jokes.
 
@@ -15,7 +15,7 @@ When an improviser lets go and trusts his fellow performers, it's a wonderful, l
 - Don't go for the jokes.
 - There's nothing funnier than the truth.
 
-**Don't Make Jokes**
+### Don't Make Jokes
 
 One of the biggest mistakes an improviser can make is attempting to be funny. In fact, if an audience senses that any performer is deliberately trying to be funny, that performer may have made his task more difficult. A much easier approach for improvisers is to be sincere and honest, drawing the audience into the scene rather than reaching out and trying to pull them along.
 
@@ -31,7 +31,7 @@ Making connections is as easy as listening; remembering, and recycling informati
 - Agreement is the only rule that cannot be broken.
 - Connections cannot be avoided; don't force them.
 
-**Support and Trust**
+### Support and Trust
 
 Support and trust go hand-in-hand for performers; they must trust that their fellow players will support them. The only star in improv is the ensemble itself; if everyone is doing his job well, then no one should stand out. The best way for an improviser to look good is by making his fellow players look good.
 
@@ -41,7 +41,7 @@ Support and trust go hand-in-hand for performers; they must trust that their fel
 - Treat others as if they are poets, geniuses and artists, and they will be.
 - The best way to look good is to make your fellow players look good.
 
-**Agreement**
+### Agreement
 
 The "**Yes, &...**" rule simply means that whenever two actors are on stage, they agree with each other to the Nth degree. If one asks the other a question, the other must respond positively, and then provide additional information, no matter how small: "Yes, you're right, and I also think we should... " Answering "No" leads nowhere in a scene.
 
@@ -49,7 +49,7 @@ In this way, one step at a time, each player provides a building block, until th
 
 - Yes, and... Accept and build
 
-**Initiations and Game Moves**
+### Initiations and Game Moves
 
 **He who gives information is a gift-giver; he who asks questions is a thief.** Questions — asking other players for information — are an unnecessary evil for improvisers. Instead of providing fellow actors with facts, questions place the burden of invention upon the other players. It's much better for an improviser to assume he knows the same information as the other actors, and use the opportunity to contribute his own share of information to the scene. When a player asks a question, he usually has an answer in mind. So, why ask the question in the first place? If he wants to bring a particular idea into the scene, phrasing it as a question is usually a bad move. After all, his fellow player may not have the same idea that he does, and he may get a completely different answer than he had hoped for.
 
@@ -65,7 +65,7 @@ Preconceived ideas for an improv scene can get a player into trouble. **Avoiding
 - Listen for the whole idea in a statement.
 - Avoid preconceived notions.
 
-**Moment to Moment to Moment**
+### Moment to Moment to Moment
 
 An actor following each moment through to the next is constantly making discoveries, an ideal state for improvisers. If a player is planning ahead and thinking about the direction he wants the action to go, then he isn't paving attention to what is going on at the moment. Unfortunately for him and his fellow actors, what is going on at the moment is the scene! This is a mistake that happens all too often, and may even occur with an experienced performer. When he thinks he sees where a scene is headed, he may steer it that way, without paying careful attention to what is happening on stage at that moment. He's living for the possible future of the scene at the expense of the present.
 
@@ -79,7 +79,7 @@ One of the best ways to achieve this is by listening — paying attention to wha
 - Nothing is ignored. Follow the unexpected twist.
 - There is no such thing as a mistake.
 
-**Building a Scene**
+### Building a Scene
 
 Start in the middle. Exposition sucks. Backstories and explanations are rarely the most exciting part of any book or film; generally they are a necessary evil. In improvisation, actors are seldom hamstrung by exposition. Instead, they simply ignore it all, and begin their scenes in the middle! Nothing is more boring or wastes more time than two improvisers starting a scene with "Who are you?" It is always helpful if the players know each other (or their roles) when they begin their scene; they need to make assumptions about their relationship right from the start.
 
@@ -105,7 +105,7 @@ Too many performers are terrified when the stage is quiet, but a few moments of 
 - Listen for the game move.
 - Welcome the silences. There is action in thought.
 
-**One Mind, Many Bodies**
+### One Mind, Many Bodies
 
 **Following the Unconscious Choice:** The subconscious is a lot smarter than most people think. Very often, when a beginning improviser gets the impulse to say or do something in a scene, he ignores it. Inexperienced players disregard the unconscious choice, and continue on with the scene as if that choice was never made; it doesn't fit in with what they "think" the scene is about. They couldn't be more wrong. As explained in the previous chapters, a scene is never about what the player thinks it is going to be; glossing over this "mistake" actually ruins a great chance to make discoveries. As the players grow more experienced on stage, they discover they have an inner voice which, when followed, leads them to interesting twists in the scene. The unusual choices result in the most interesting scenes.
 
@@ -117,7 +117,7 @@ When a team of improvisers pays close attention to each other, hearing and remem
 - Listen to your inner voice.
 - Reflect each other's ideas.
 
-**Environmentally Aware**
+### Environmentally Aware
 
 Improvisers must totally commit to their environment, because as easily as they create a location for their audience, they can destroy it. It is very jarring to see an elaborate environment created on stage, in which everybody knows where every imaginary object is on stage, only to see an actor walk through a table and destroy everything the players worked so hard to establish.
 

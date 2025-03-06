@@ -9,7 +9,7 @@ When evolution was building the brain, it didn't bother to replace all of these 
 
 This is a crucial cognitive talent. Dopamine neurons atomatically detect the subtle patterns that we would otherwise fail to notice; they assimilate all the data that we can't consciously comprehend. And then, once they come up with a set of refined predictions about how the world works, they translate these predictions into emotions.
 
-**GUIDELINES FOR BETTER DECISION MAKING**
+### GUIDELINES FOR BETTER DECISION MAKING
 
 **SIMPLE PROBLEMS REQUIRE REASON.** The only way to defend against innate flaws like loss aversion is to exercise reason, to fact-check with a little arithmetic. Which simple problems are best suited for the prefontral cortex? Ask yourself if the decision can be accurately summarized in numerical terms.
 

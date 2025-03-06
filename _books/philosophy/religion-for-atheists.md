@@ -5,7 +5,7 @@ slug: religion-for-atheists
 title: Religion for Atheists - by Alain de Botton
 ---
 
-**Wisdom without Doctrine**
+### Wisdom without Doctrine
 
 The real issue is not whether God exists or not, but where to take the argument once one decides that he evidently doesn’t. The premise of this book is that it must be possible to remain a committed atheist and nevertheless find religions sporadically useful, interesting and consoling – and be curious as to the possibilities of importing certain of their ideas and practices into the secular realm.
 
@@ -15,7 +15,7 @@ The error of modern atheism has been to overlook how many aspects of the faiths 
 
 Religions merit our attention for their sheer conceptual ambition; for changing the world in a way that few secular institutions ever have. They have managed to combine theories about ethics and metaphysics with a practical involvement in education, fashion, politics, travel, hostelry, initiation ceremonies, publishing, art and architecture – a range of interests which puts to shame the scope of the achievements of even the greatest and most influential secular movements and individuals in history. For those interested in the spread and impact of ideas, it is hard not to be mesmerized by examples of the most successful educational and intellectual movements the planet has ever witnessed.
 
-**Community**
+### Community
 
 If we have managed to remain awake to (and for) the lessons of the Mass, it should by its close have succeeded in shifting us at least fractionally off our accustomed egocentric axes. It should also have given us a few ideas which we could use to mend some of the endemic fractures of the modern world. One of the first of these ideas relates to the benefit of taking people into a distinct venue which ought itself to be attractive enough to evoke enthusiasm for the notion of a group. It should inspire visitors to suspend their customary frightened egoism in favour of a joyful immersion in a collective spirit – an unlikely scenario in the majority of modern community centres, whose appearance paradoxically serves to confirm the inadvisability of joining anything communal. Secondly, the Mass embodies a lesson about the importance of putting forward rules to direct people in their interactions with one another. The liturgical complexity of a missal – the directive way in which this book of instructions for the celebration of a Mass compels the congregants to look up, stand, kneel, sing, pray, drink and eat at given points – speaks to an essential aspect of human nature which benefits from being guided in how to behave with others. To ensure that profound and dignified personal bonds can be forged, a tightly choreographed agenda of activities may be more effective than leaving a group to mingle aimlessly on its own.
 
@@ -27,7 +27,7 @@ Religions are wise in not expecting us to deal with all of our emotions on our o
 
 If we want well-functioning communities, we cannot be naive about our nature. We must fully accept the depths of our destructive, antisocial feelings. We shouldn’t banish feasting and debauchery to the margins, to be mopped up by the police and frowned upon by commentators. We should give chaos pride of place once a year or so, designating occasions on which we can be briefly exempted from the two greatest pressures of secular adult life: having to be rational and having to be faithful.
 
-**Kindness**
+### Kindness
 
 Once we are grown up, we are seldom encouraged officially to be nice to one another. A key assumption of modern Western political thinking is that we should be left alone to live as we like without being nagged, without fear of moral judgement and without being subject to the whims of authority. Freedom has become our supreme political virtue. It is not thought to be the state’s task to promote a vision of how we should act towards one another or to send us to hear lectures about chivalry and politeness. Modern politics, on both left and right, is dominated by what we can call a libertarian ideology. In this scheme, the state should harbour no aspirations to tinker with the inner well-being or outward manners of its members. The foibles of citizens are placed beyond comment or criticism – for fear of turning government into that most reviled and unpalatable kind of authority in libertarian eyes, the nanny state. Religions, on the other hand, have always had far more directive ambitions, advancing far-reaching ideas about how members of a community should behave towards one another.
 
@@ -43,7 +43,7 @@ Atheists tend to pity the inhabitants of religiously dominated societies for the
 
 A well-functioning secular society would think with similar care about its **role models**. It would not only provide us with film stars and singers. An absence of religious belief in no way invalidates a continuing need for ‘patron saints’ of qualities like Courage, Friendship, Fidelity, Patience, Confidence or Scepticism. We can still profit from moments when we give internal space to the voices of people who are more balanced, brave and generous-spirited than we are – Lincoln or Whitman, Churchill or Stendhal, Warren Buffett or Paul Smith – and through whom we may reconnect with our most dignified and serious possibilities.
 
-**Education**
+### Education
 
 We have implicitly charged our higher-education system with a dual and possibly contradictory mission: to teach us how to make a living and to teach us how to live. And we have left the second of these two aims recklessly vague and unattended. While universities have achieved unparalleled expertise in imparting factual information about culture, they remain wholly uninterested in training students to use it as a repertoire of wisdom – this latter term referring to a kind of knowledge concerned with things which are not only true but also inwardly beneficial, a knowledge which can prove of solace to us when confronted by the infinite challenges of existence, from a tyrannical employer to a fatal lesion on our liver.
 
@@ -73,13 +73,13 @@ It is to religions’ credit that they have never sided with those who would arg
 
 Religion is laden with ideas for correctives. Its example proposes a new curriculum: a scheme for arranging knowledge according to the challenges to which it relates rather than the academic area in which it happens to fall; a strategy of reading for a purpose (to become better and saner); an investment in oratory and a set of methods for memorizing and more effectively publishing ideas.
 
-**Tenderness**
+### Tenderness
 
 In the broadest sense, the cult of Mary speaks of the extent to which, despite our adult powers of reasoning, our responsibilities and our status, the needs of childhood endure within us. While for long stretches of our lives we can believe in our maturity, we never succeed in insulating ourselves against the kind of catastrophic events that sweep away our ability to reason, our courage and our resourcefulness at putting dramas in perspective and throw us back into a state of primordial helplessness.
 
 The cult of Mary recasts vulnerability as a virtue and thus corrects our habitual tendency to believe in a conclusive division between adult and childhood selves. At the same time, Christianity is appropriately delicate in the way it frames our needs. It allows us to partake of the comfort of the maternal without forcing us to face up to our lingering and inescapable desire for an actual mother. It makes no mention of our mother; it simply offers us the imaginative pleasures of being once again young, babied and cared for by a figure who is mater to the world.
 
-**Pessimism**
+### Pessimism
 
 Despite occasional moments of panic, most often connected to market crises, wars or pandemics, the secular age maintains an all but irrational devotion to a narrative of improvement, based on a messianic faith in the three great drivers of change: science, technology and commerce. Material improvements since the mid-eighteenth century have been so remarkable, and have so exponentially increased our comfort, safety, wealth and power, as to deal an almost fatal blow to our capacity to remain pessimistic – and therefore, crucially, to our ability to stay sane and content.
 
@@ -91,11 +91,11 @@ Christian and Jewish marriages, while not always jovial, are at least spared the
 
 A pessimistic worldview does not have to entail a life stripped of joy. Pessimists can have a far greater capacity for appreciation than their opposite numbers, for they never expect things to turn out well and so may be amazed by the modest successes which occasionally break across their darkened horizons.
 
-**Perspective**
+### Perspective
 
 The signal danger of life in a godless society is that it lacks reminders of the transcendent and therefore leaves us unprepared for disappointment and eventual annihilation. When God is dead, human beings – much to their detriment – are at risk of taking psychological centre stage. They imagine themselves to be commanders of their own destinies, they trample upon nature, forget the rhythms of the earth, deny death and shy away from valuing and honouring all that slips through their grasp, until at last they must collide catastrophically with the sharp edges of reality. Our secular world is lacking in the sorts of rituals that might put us gently in our place. It surreptitiously invites us to think of the present moment as the summit of history, and the achievements of our fellow humans as the measure of all things – a grandiosity that plunges us into continuous swirls of anxiety and envy.
 
-**Art**
+### Art
 
 To return to one of the familiar themes of this book, we need art because we are so forgetful. We are creatures of the body as well as of the mind, and so require art to stir our languid imaginations and motivate us in ways that mere philosophical expositions cannot. Many of our most important ideas get flattened and overlooked in everyday life, their truth rubbed off through casual use. We know intellectually that we should be kind and forgiving and empathetic, but such adjectives have a tendency to lose all their meaning until we meet with a work of art that grabs us through our senses and won’t let us go until we have properly remembered why these qualities matter and how badly society needs them for its balance and its sanity.
 
@@ -103,7 +103,7 @@ We might modify Hegel’s definition to bring it more fully into line with Chris
 
 Inspired by Buddhism’s heavy-handed and yet productive curatorial directions, we might ask of many works of art that they tell us more explicitly what important notions they are trying sensually to remind us of, so as to rescue us from the hesitation and puzzlement that they may otherwise provoke. Despite a powerful elite prejudice against guidance, works of art are rarely diminished by being accompanied by instruction manuals.
 
-**Architecture**
+### Architecture
 
 When Protestantism took hold in northern Europe in the first half of the sixteenth century, it manifested an extreme hostility towards the visual arts, attacking Catholics for their complicated and richly decorated buildings. ‘For anyone to arrive at God the Creator, he needs only Scripture as his Guide and Teacher,’ insisted John Calvin, giving voice to the anti-aesthetic sentiment of many in the new denomination. What mattered to Protestants was the written word. This, rather than elaborate architecture, would be enough to lead us to God. Devotion could be fostered by a Bible in a bare room just as well as it could in the nave of a jewel-encrusted cathedral. Indeed, there was a risk that through their sensory richness, sumptuous buildings could distract us, making us prefer beauty over holiness.
 
@@ -113,7 +113,7 @@ Upon examination it in no way logically follows that an end to our belief in sac
 
 We should revive and continue the underlying aims of religious architecture, by expressing these through secular temples designed to promote important emotions and abstract themes, rather than through sacred shrines dedicated to embodied deities. No less than the church spires in the skyscapes of medieval Christian towns, these temples would function as reminders of our hopes. They would vary in terms of their style, dimensions and forms – they could range from huts to hangars, they could be made of recycled tyres or gold tiles, they could hang from the sides of office buildings or be buried in illuminated grottoes under the streets – but they would all be connected through the ancient aspiration of sacred architecture: to place us for a time in a thoughtfully structured three-dimensional space, in order to educate and rebalance our souls.
 
-**Institutions**
+### Institutions
 
 Although these sceptics proved to be caustically entertaining critics of the faiths, they failed to appreciate the fundamental difference between themselves and their enemies: the latter were not relying primarily on the publication of books to achieve their impact. They were employing institutions, marshalling enormous agglomerations of people to act in concert upon the world through works of art, buildings, schools, uniforms, logos, rituals, monuments and calendars.
 
@@ -125,6 +125,6 @@ We need institutions to foster and protect those emotions to which we are sincer
 
 [Auguste] Comte’s ideas proceeded from a characteristically blunt observation that in the modern world, thanks to the discoveries of science, it would no longer be possible for anyone intelligent to believe in God. Faith would henceforth be limited to the uneducated, the fanatical, children and those suffering the final stages of incurable diseases. At the same time, Comte recognized, as many of his contemporaries did not, that a secular society devoted solely to the accumulation of wealth, scientific discovery, popular entertainment and romantic love – a society lacking in any sources of ethical instruction, consolation, transcendent awe or solidarity – would fall prey to untenable social maladies. Comte’s solution was neither to cling blindly to sacred traditions nor to cast them collectively and belligerently aside, but rather to identify their more relevant and rational aspects and put them to use. The resulting programme, the outcome of decades’ worth of thought and the summit of Comte’s intellectual achievement, was a new religion, a religion for atheists or, as Comte termed it, a Religion of Humanity, an original creed expressly tailored to the specific emotional and intellectual demands of modern man.
 
-**Conclusion**
+### Conclusion
 
 A central problem with any attempt to rethink some of the needs left unmet by the ebbing of religion is novelty. Whereas we are for the most part well disposed to embrace the new in technology, when it comes to social practices, we are as deeply devoted to sticking with what we know. We are reassured by traditional ways of handling education, relationships, leisure time, ceremonies and manners. We are especially resistant to innovations which can be pegged to the thought of one person alone. To have the best chance of being taken up, ideas should seem like the product of common sense or collective wisdom rather than an innovation put forward by any single individual. What would likely be seen as a bold innovation in software can too easily, in the social sphere, come across as a cult of personality. It is to the benefit of most religions that they have been around for many centuries, a characteristic which appeals strongly to our fondness for what we are accustomed to. We naturally defer to practices that we would reject as extraordinary if they were newly suggested to us. A few millennia can do wonders to render a fanciful idea respectable.

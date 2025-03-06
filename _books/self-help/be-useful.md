@@ -5,7 +5,7 @@ slug: be-useful
 title: 'Be Useful: Seven Tools for Life - by Arnold Schwarzenegger'
 ---
 
-**1. HAVE A CLEAR VISION**
+### 1. HAVE A CLEAR VISION
 
 Vision is the most important thing. Vision is purpose and meaning. To have a clear vision is to have a picture of what you want your life to look like and a plan for how to get there. The people who feel most lost have neither of those. They don’t have the picture or the plan.
 
@@ -25,7 +25,7 @@ As uncomfortable as it can be, you have to look at yourself in the mirror every 
 
 Life isn’t just the high points or the big moments. It’s not just the stuff that ends up seared into people’s memory banks or recorded in photos that are confined to scrapbooks. Life is also those stretches of time in between. Life happens as much in the transitions as it does in the poses. It’s all one long performance, and the greater the impact you want that performance to have, the more important each one of those little moments becomes.
 
-**2. NEVER THINK SMALL**
+### 2. NEVER THINK SMALL
 
 This isn’t just how you should think about chasing your goals, it’s how you should craft them, too, no matter how big or small they are compared to other people’s. What I’m saying is, if you’re going to do it, _do it_. Not just because going all in might be the thing that guarantees your success, but because not going all in will absolutely guarantee that you fall short. And it’s not just you who will suffer as a result. It’s like that cheesy motivational saying: _Shoot for the moon. Even if you miss, you’ll end up among the stars!_ Setting aside that whoever came up with it never took an astronomy class, the point is that if you aim for a big goal and give it your all and you come up short, that’s OK because you’ve still probably done something pretty impressive: graduated college, become a police officer or a mechanic or a parent, and so on. But the flip side of that is also true, and perhaps more important. If you only aim for the smaller goal, the big goal is automatically out of reach, in part because you are no longer motivated to truly go all in and focus on all the little things that make the difference between greatness and good enough.
 
@@ -37,7 +37,7 @@ Fulfilling a dream gives you the power to see further and deeper—further out i
 
 Why aim for the middle? Why settle for “good enough” before you’ve even done the work to see what you are capable of? What do you have to lose? It’s not like dreaming up a big vision takes more energy than dreaming up a small one. Try it. Grab a piece of paper and a pencil. Write down your vision. Now cross that out and write it again, only bigger. See, the same amount of energy. It’s no harder to think big than it is to think small. The only hard part is giving yourself permission to think that way. Well, I don’t just give you permission, I demand it of you, because when you’re thinking about your goals and crafting that vision for your life, you have to remember that it’s not just about you. You could have a huge impact on the people around you. While you are breaking new ground in your own life, you could be blazing trails for people you didn’t even know were watching. How big you dream, whether you give it your all, or whether you give in at the first sign of trouble—these things matter. They matter for your own happiness and success, obviously. But they also matter because it could make a real difference in the world, far beyond what you can directly impact yourself.
 
-**3. WORK YOUR ASS OFF**
+### 3. WORK YOUR ASS OFF
 
 If there is one unavoidable truth in this world, it’s that there is no substitute for putting in the work. There is no shortcut or growth hack or magic pill that can get you around the hard work of doing your job well, of winning something you care about, or of making your dreams come true. People have tried to cut corners and skip steps in this process for as long as hard work has been hard. Eventually, those people either fall behind or get left in our dust, because working your ass off is the only thing that works 100 percent of the time for 100 percent of the things worth achieving.
 
@@ -61,7 +61,7 @@ We have something else in common besides our willingness to work. We each have t
 
 Whether it’s a matter of getting into flow state or not, what every person who gets shit done has in common is that they either find the time, make the time, or turn the time they do have into what it needs to be for them to accomplish the task in front of them. When you hear stories like these, if you’re still worried about eating or energy or sleep or fun, maybe your problem isn’t time at all. Maybe it’s what you’re spending your time on. Do you know how many times people tell me they don’t have time to work out, and then I ask them to take out their phones and show me their screen time stats and it says they spent three and a half hours on social media? It’s not hours in the day you lack, it’s a vision for your life that makes time irrelevant.
 
-**4. SELL, SELL, SELL**
+### 4. SELL, SELL, SELL
 
 When entrepreneurs and athletes and artists ask me for advice nowadays—it doesn’t matter if they’re talking about their newest product, their latest piece, or how to get representation—the one thing I tell them that they should be doing more of is promoting. Communicating. Selling. Sell, sell, sell! You can have the most amazing idea, the most fantastic plan, the best in class of virtually anything, but if nobody knows that it exists or knows what it is, then it’s a waste of time and effort. It might as well not exist at all. When it comes to realizing your dreams, you cannot allow that to happen. In fact, it should never happen, because no one is better equipped or motivated than you to sell your vision to the world.
 
@@ -79,7 +79,7 @@ When you’re different, when you’re unique, and nobody has ever dealt with so
 
 This is something you should think about. What is the value of trying to be someone you’re not? Of hiding from your true story and letting someone else tell it? Where do you think that gets you in the end? I promise you, it’s nowhere good. Embrace who you are! Own your story! Even if you don’t like it. Even if it’s bad, and you’re ashamed. If you run away and hide from your past, if you deny your story and try to sell a different one, even if you mean well, it just makes you seem like a con artist. Or worse, a politician.
 
-**5. SHIFT GEARS**
+### 5. SHIFT GEARS
 
 I have a rule: no complaining about a situation unless you’re prepared to do something to make it better. If you see a problem and you don’t come to the table with a potential solution, I don’t want to hear your whining about how bad it is. It couldn’t be that bad if it hasn’t motivated you to try to fix it. And when exactly has complaining ever gotten someone closer to achieving their goals? You work to make a dream come true, you don’t whine it into existence. Plus, problems and adversity are a normal part of every person’s journey. Whatever your vision is, there is going to be struggle. Tough times. Things that bug the shit out of you. You have to learn how to manage those moments. You have to get good at shifting gears and finding the positive in things. You have to know how to reframe the failure you experience and understand the risks you’re undertaking. Confronting problems instead of complaining about them gives you the chance to practice all these skills.
 
@@ -89,7 +89,7 @@ You can turn a negative situation into a positive experience. It all starts by c
 
 If anything, when you look at it with the right perspective, failure is actually the beginning of measurable success, because failure is only possible in situations where you’ve tried to accomplish something difficult and worthwhile. You can’t fail when you don’t try. In that sense, failure is kind of like a progress report on your path to purpose. It shows you how far you’ve come, and it reminds you how far you still have to go and what you have to work on to get there. It’s an opportunity to learn from your mistakes, to evolve your approach, and to come back better than ever.
 
-**6. SHUT YOUR MOUTH, OPEN YOUR MIND**
+### 6. SHUT YOUR MOUTH, OPEN YOUR MIND
 
 Curiosity has been a superpower for me. It’s magnetic. Simply by opening my mind to the wonders of the world around me, my curiosity has attracted many amazing opportunities to me. It has also attracted countless good, smart people into my life. The kind who like to teach and support and lift up others.
 
@@ -101,7 +101,7 @@ This, I believe, is one of the reasons so many people feel stuck in their lives.
 
 Use it or lose it is the rule with ripe fruit, political goodwill, media attention, coupons, economic opportunity, space to pass on the highway, all sorts of things. But most importantly, it’s true of the knowledge you soak up over your lifetime. If you don’t regularly flex your mind like a muscle and put your knowledge to work, it will eventually lose its power.
 
-**7. BREAK YOUR MIRRORS**
+### 7. BREAK YOUR MIRRORS
 
 None of us has ever done anything on our own when you really think about it. We have always had help or guidance. Others have paved or pointed the way for us in some form or another, whether we were aware of it beforehand or not. And now that you know this, it’s important for you to recognize that you have a responsibility to give back. To help others. To send the ladder back down and lift the next group up. To pay it forward. To be useful. And let me tell you something: when you fully embrace that responsibility, it will change your life and improve the lives of countless others. You will wonder why you hadn’t realized this much earlier. What began as a responsibility will quickly become a duty, which will eventually feel like a privilege that you will never want to let go of and will never take for granted.
 

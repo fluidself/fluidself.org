@@ -5,8 +5,8 @@ slug: the-unquiet-grave
 title: The Unquiet Grave - by Cyril Connolly
 ---
 
-My desire is for wisdom, not for the exercise of the will. 'The will is the strong blind man who carries on his shoulders the lame man who can see.'
--- Schopenhauer
+> My desire is for wisdom, not for the exercise of the will. The will is the strong blind man who carries on his shoulders the lame man who can see.  
+> — Schopenhauer
 
 A Rune for the very bored: When very bored recite: 'It was during the next twenty minutes that there occurred one of those tiny incidents which revolutionize the whole course of our life and alter the face of history. Truly we are the playthings of enormous fates.'
 

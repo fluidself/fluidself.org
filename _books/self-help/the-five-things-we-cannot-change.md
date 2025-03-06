@@ -6,7 +6,7 @@ title: 'The Five Things We Cannot Change: And the Happiness We Find by Embracing
   - by David Richo'
 ---
 
-**Everything changes and ends**
+### Everything changes and ends
 
 The answer to the unappealing way of all flesh is to enjoy fleshly things nonetheless. A path into the mystery of change and ending may be that of paradox: saying yes with gusto to what is unsatisfactory.
 
@@ -16,27 +16,27 @@ I am no longer so concerned with being in control of what I am like. I am becomi
 
 In a world in which control is not reliable, we need something else: the ability to be satisfied with doing our best and letting the chips fall where they may. Then the work is to deal with what happens, however unkempt or indecipherable it may be. To focus on being in control hinders our chances of finding the new possibilities that arise when surprising directions appear on our path. Randomness becomes less scary and more appealing when we find in it a new frontier.
 
-**Things do not always go according to plan**
+### Things do not always go according to plan
 
 Perfect discipline, or perfect control, is the best way to miss out on the joy of life.
 
-**Life is not always fair**
+### Life is not always fair
 
-If someone treats us unfairly in our personal life, the challenge is to make sure something changes in our relationship--not to make sure the person is punished. The former plan comes from a wish for healing. The latter comes from the dark tendency of the bruised ego to hurt back.
+If someone treats us unfairly in our personal life, the challenge is to make sure something changes in our relationship—not to make sure the person is punished. The former plan comes from a wish for healing. The latter comes from the dark tendency of the bruised ego to hurt back.
 
 _May I be fair in all my dealings and generous in all my giving, and may I ask for fairness from others but not demand it or punish them if they fail to show it to me._
 
-**Pain is part of life**
+### Pain is part of life
 
 Another way of stating this truth or given is that pain is not punishment, and pleasure is not reward. They are simply features of any existence.
 
 Empathic presence means listening to someone's pain with what I call the five A's: attention, acceptance, appreciation, affection, and allowing. We pay attention without being distracted. We accept what is said without editing, adding, or blanking. We feel a genuine caring about what happened and what might happen to this person. We allow whatever feelings or silences or head trips the other employs in this moment without attempting to blame him, stop him, or criticize him. The same five A's are the defining features of support, mirroring, caring, and intimate love.
 
-**People are not loving and loyal all the time**
+### People are not loving and loyal all the time
 
 A Zen saying helps us: "This being the case, how shall I proceed?" That is so much more an adult question than "This being the case, who is at fault or why is this happening to me?"
 
-**HOW TO BECOME YES**
+### HOW TO BECOME YES
 
 The ancient spiritual teachings and practices of Taoism form a technology of cultivating an unconditional yes to life's givens.
 
@@ -48,33 +48,33 @@ Here are some specific ways to ally ourselves with nature in an unconditional ye
 
 - Poems often flow from life's mysterious givens. Feed your soul by reading and writing poetry, listening to music, looking at art, drawing or sculpting, and engaging in any other soul-nurturing arts that are available to you. Do all this outdoors whenever possible. Basho, the Japanese haiku poet, wrote: "No matter what we may be doing at a given moment, it has a bearing on our everlasting self which is poetry."
 
-**YES TO FEELINGS**
+### YES TO FEELINGS
 
 When we live life with an unconditional yes, we develop equanimity. But equanimity is not to be construed as imperturbability. Equanimity is the virtue of returning to baseline, restabilizing, after we feel the perturbation aroused by our feelings. People who are healthy both psychologically and spiritually are touched by what happens to them and to others. They are impacted by events. They feel deeply and they show it. They are not immovable or stoical about what others do or about what happens.
 
 A yes to feelings is the station stop before we get to philosophical explanations, theological consolations, or encouraging maxims.
 
-**HOW FEAR HOLDS US BACK**
+### HOW FEAR HOLDS US BACK
 
 The counterpart of fear is excitement. To be afraid is to repress our excitement about the challenge we are facing. Instead we make contact only with the danger and our own sense of inadequacy in dealing with it. A practice is to ask ourselves, when we are afraid: "What am I afraid to get excited about?" and then to allow the excitement to come through. Feelings are the way excitement is greeted and permitted.
 
-**A STABLE SENSE OF MYSELF**
+### A STABLE SENSE OF MYSELF
 
 What exactly defines a coherent, healthy sense of self? Below are the key elements, which can each also be taken on as a set of practices or aspirations we can employ to gain a stronger sense of self.
 
-**A Sense of Continuity**
+### A Sense of Continuity
 
 I am part of a history. Personally, I am connected to a family and forebears. I have inherited genes from them, and certain talents too. In addition, I am part of the history of humanity. I have a relationship to the collective. Finally, I am part of nature.
 
-**An Ability to Deal with Problems and People**
+### An Ability to Deal with Problems and People
 
 I accept the good and the bad in life events. I accept the good and the bad in others and in myself. This is how I maintain a sense of self that has stability and constancy. I have powers of self-nurturance. When things become difficult, I can soothe myself. I can fall apart, and I also have ways of reconstituting myself. I fully allow a collapse and then get up. I am not devastated by crises. I have resources lined up to help me get through things. I address, process, and resolve what comes up for me. This means that the events of my life are not just experienced unconsciously but are examined and contemplated with consciousness and a plan for improvement. I do not go through things; I come through them. I make sense of what happens to me and learn from it. I see all that happens to me in an evolutionary context, that is, as challenges on the heroic journey to self-actualization.
 
-**A Responsiveness to Support**
+### A Responsiveness to Support
 
 I can receive support and cherish my sense of belonging to a family, a relationship, a community.
 
-**A Virtuous Framework for Conscious Living**
+### A Virtuous Framework for Conscious Living
 
 A sense of self includes living life within a framework, that is, within a set of ethics and standards out of which one makes one's choices. Living according to a reliable set of ideals, values, goals, and aspirations helps us establish a healthy sense of self that is fulfilled by becoming a more virtuous person. Virtues are habits of wholesomeness. They are the building blocks of self-respect, character, and integrity. A spiritual practice of building virtues focuses on them as specific affirmations and actions. Ponder one virtue from the following list each day and look for ways to put it into practice.
 

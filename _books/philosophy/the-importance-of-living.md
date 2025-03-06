@@ -5,31 +5,31 @@ slug: the-importance-of-living
 title: The Importance of Living - by Lin Yutang
 ---
 
-**Approach to Life**
+### Approach to Life
 
 The Chinese philosopher is one who dreams with one eye open, who views life with love and sweet irony, who mixes his cynicism with a kindly tolerance, and who alternately wakes up from life's dream and then nods again, feeling more alive when he is dreaming than when he is awake, thereby investing his waking life with a dream-world quality.
 
 In China, as compared with the West, man lives a life closer to nature and closer to childhood, a life in which the instincts and the emotions are given free play and emphasized against the life of the intellect, with a strange combination of devotion to the flesh and arrogance of the spirit, of profound wisdom and foolish gaiety, of high sophistication and childish naivete. I would say, therefore, that this philosophy is characterized by: first, a gift for seeing life whole in art; secondly, a conscious return to simplicity in philosophy; and thirdly, an ideal of reasonableness in living. The end product is, strange to say, a worship of the poet, the peasant and the vagabond.
 
-**The Scamp as Ideal**
+### The Scamp as Ideal
 
 In short, my faith in human dignity consists in the belief that man is the greatest scamp on earth. Human dignity must be associated with the idea of a scamp and not with that of an obedient, disciplined and regimented soldier.
 
 In this present age of threats to democracy and individual liberty, probably only the scamp and the spirit of the scamp alone will save us from becoming lost as serially numbered units in the masses of disciplined, obedient, regimented and uniformed coolies. The scamp will be the last and most formidable enemy of dictatorships. He will be the champion of human dignity and individual freedom, and will be the last to be conquered. All modern civilization depends entirely upon him.
 
-**On Being Human**
+### On Being Human
 
 We had better find out what it is that we have got to be proud of, what is the essence of human dignity. This human dignity, as I have already hinted at the beginning of this book, consists of four characteristics of the scamp, who has been glorified by Chinese literature. They are: a playful curiosity, a capacity for dreams, a sense of humor to correct those dreams, and finally a certain waywardness and incalculability of behavior. Together they represent the Chinese version of the American doctrine of the individual.
 
 Almost all animals, especially the young, have also the play instinct, but it is in man alone that playful curiosity has been developed to an important extent. It is for this reason that I hate censors and all agencies and forms of government that try to control our thought. I cannot but believe that such a censor or such a ruler is wilfully or unintentionally insulting human intelligence. If the liberty of thought is the highest activity of the human mind, then the suppression of that liberty must be the most degrading to us as human beings. Euripides defined the slave as a man who has lost his liberty of thought or opinion. Every autocracy is a factory for turning out gorgeous Euripidean slaves. Don't we have fine examples of them, East and West, in the twentieth century and at the very home of culture? Every autocratic government, no matter in what form, therefore, is intellectually retrograde. We have seen it in the Middle Ages in general, and in the Spanish Inquisition in particular. Short-sighted politicians or clergymen may think that uniformity of belief and thought contributes toward peace and order, but historically the consequence is always depressing and degrading to the human character. Such autocrats must have a great contempt for the people in general when they do not confine themselves to ordering a nation's external conduct, but proceed also to regiment the people's inner thoughts and beliefs. They have a naive assurance that human minds will put up with this uniformity and that they will like or dislike a book or a concerto or a moving picture exactly as the official propagandist or chief of publicity bureau tells them to. Every autocratic government has tried to confuse literature with propaganda, art with politics, anthropology witih patriotism, and religion with worship of the living ruler. It simply can't be done, and if the controllers of thought go too far in running against human nature itself, they are thereby sowing the seeds of their downfall. As Mencius put it, "If the ruler considers the people as blades of grass, then the people will consider their ruler as a robber or enemy." There is no greater robber in this world than he who robs us of our liberty of thought. Deprived of that, we might as well go down on all fours, call the whole biped experiment of walking on two legs a mistake, and revert to our earlier posture of at least some 30,000 years ago.
 
-**On Being Wayward and Incalculable**
+### On Being Wayward and Incalculable
 
 We no longer think of a man as a man, but as a cog in a wheel, a member of a union or a class, an alien to be imported by quotas, a petit bourgeois to be referred to with contempt, or a capitalist to be denounced, or a worker to be regarded as a comrade because he is a worker. It seems that to label a man as a petit bourgeois or a "capitalist" or a "worker" is already to understand him completely, and he can be conveniently hated or hailed as a comrade accordingly. We are no longer individuals, no longer men, but only classes. May I suggest that this is an over-simplification of things? The scamp has completely disappeared as an ideal, and so has the man with his gloriously scamp-like qualities of reacting freely and incalculably to his external surroundings. Instead of men, we have members of a class; instead of ideas and personal prejudices and idiosyncracies, we have ideologies, or class thoughts; instead of personalities, we have blind forces; and instead of individuals, we have a Marxian dialectic controlling and foreshadowing all human activities with unfading precision. We are all progressing happily and enthusiastically toward the model of the ants.
 
 The best social philosophies do not claim any greater objective than that the individual human beings living under such a regime shall have happy individual lives. If there are social philosophies which deny the happiness of the individual life as the final goal and aim of civilization, those philosophies are the product of a sick and unbalanced mind. As far as culture is concerned, I am inclined to think that the final judgment of any particular type of culture is what type of men and women it turns out.
 
-**Who Can Best Enjoy Life?**
+### Who Can Best Enjoy Life?
 
 Anyone who refuses to take the entire panorama of reality on its surface value, or refuses to believe every word that appears in a newspaper, is more or less a philosopher. He is the fellow who refuses to be taken in. There is always a flavor of disenchantment about philosophy. The philosopher looks at life as an artist looks at a landscape—through a veil or a haze. The raw details of reality are softened a little to permit us to see its meaning. At least that is what a Chinese artist or a Chinese philosopher thinks. The philosopher is therefore the direct opposite of the complete realist who, busily occupied in his daily business, believes that his successes and failures, his losses and gains, are absolute and real.
 
@@ -39,13 +39,13 @@ The contrast between Confucianism and Taoism is relative, the two doctrines sett
 
 The happiest man is still the man of the middle-class who has earned a slight means of economic independence, who has done a little, but just a little, for mankind, and who is slightly distinguished in his community, but not too distinguished. It is only in this milieu of well-known obscurity and financial competence with a pinch, when life is fairly carefree and yet not altogether carefree, that the human spirit is happiest and succeeds best. After all, we have to get on in this life, and so we must bring philosophy down from heaven to earth.
 
-**The Feast of Life**
+### The Feast of Life
 
 Let us not lose ourselves in the abstract when we talk of happiness, but get down to facts and analyze for ourselves what are the truly happy moments of our life. In this world of ours, happiness is very often negative, the complete absence of sorrow or mortification or bodily ailment. But happiness can also be positive, and then we call it joy. To me, for instance, the truly happy moments are: when I get up in the morning after a night of perfect sleep and sniff the morning air and there is an expansiveness in the lungs, when I feel inclined to inhale deeply and there is a fine sensation of movement around the skin and muscles of the chest, and when, therefore, I am fit for work; or when I hold a pipe in my hand and rest my legs on a chair, and the tobacco burns slowly and evenly; or when I am traveling on a summer day, my throat parched with thirst, and I see a beautiful clear spring, whose very sound makes me happy, and I take off my socks and shoes and dip my feet in the delightful, cool water; or when after a perfect dinner I lounge in an armchair, when there is no one I hate to look at in the company and conversation rambles off at a light pace to an unknown destination, and I am spiritually and physically at peace with the world.
 
 Art should be a satire and a warning against our paralyzed emotions, our devitalized thinking and our denaturalized living. It teaches us unsophistication in a sophisticated world. It should restore to us health and sanity of living and enable us to recover from the fever and delirium caused by too much mental activity. It should sharpen our senses, re-establish the connection between our reason and our human nature, and assemble the ruined parts of a dislocated life again into a whole, by restoring our original nature. Miserable indeed is a world in which we have knowledge without understanding, criticism without appreciation, beauty without love, truth without passion, righteousness without mercy, and courtesy without a warm heart!
 
-**The Importance of Loafing**
+### The Importance of Loafing
 
 The most bewildering thing about man is his idea of work and the amount of work he imposes upon himself, or civilization has imposed upon him. All nature loafs, while man alone works for a living. He works because he has to, because with the progress of civilization life gets incredibly more complex, with duties, responsibilities, fears, inhibitions and ambitions, born not of nature, but of human society.
 
@@ -67,7 +67,7 @@ The three great American vices seem to be efficiency, punctuality and the desire
 
 Our quarrel with efficiency is not that it gets things done, but that it is a thief of time when it leaves us no leisure to enjoy ourselves and that it frays our nerves in trying to get things done perfectly.
 
-**The Enjoyment of the Home**
+### The Enjoyment of the Home
 
 It has seemed to me that the final test of any civilization is, what type of husbands and wives and fathers and mothers does it turn out? Besides the austere simplicity of such a question, every other achievement of civilization—art, philosophy, literature and material living—pales into insignificance.
 
@@ -79,7 +79,7 @@ Is it not true that marriage is the best profession for women? My feminist reade
 
 "Water flows downwards and not upwards," the Chinese always say, and therefore the affection for parents and grandparents is something that stands more in need of being taught by culture. A natural man loves his children, but a cultured man loves his parents. The Chinese have not got the sense of individual independence because the whole conception of life is based upon mutual help within the home; hence there is no shame attached to the circumstance of one's being served by his children in the sunset of one's life. Rather it is considered good luck to have children who can take care of one. One lives for nothing else in China.
 
-**The Enjoyment of Living**
+### The Enjoyment of Living
 
 Such a supreme pleasure as a perfect conversation with a friend at night is necessarily rare, for as Li Liweng has pointed out, those who are wise seldom know how to talk, and those who talk are seldom wise.
 
@@ -91,19 +91,19 @@ There is a wise thought in the suggestion that the modern dictators of Europe ar
 
 Taking the broader view of food as nourishment, the Chinese do not draw any distinction between food and medicine. What is good for the body is medicine and at the same time food.
 
-**The Enjoyment of Nature**
+### The Enjoyment of Nature
 
 Only those who take leisurely what the people of the world are busy about can be busy about what the people of the world take leisurely. There is nothing that man enjoys more than leisure, and this does not mean that one simply does nothing during that time. Leisure enables one to read, to travel to famous places, to form beneficial friendships, to drink wine, and to write books. What greater pleasures can there be in the world than these?
 
 To talk with learned friends is like reading a rare book; to talk with poetic friends is like reading the poems and prose of distinguished writers; to talk with friends who are careful and proper in their conduct is like reading the classics of the sages; and to talk with witty friends is like reading a novel or romance.
 
-**The Enjoyment of Travel**
+### The Enjoyment of Travel
 
 In the first place, the true motive of travel should be travel to become lost and unknown. More poetically, we may describe it as travel to forget. Everyone is quite respectable in his home town, no matter what the higher social circles think of him. He is tied by a set of conventions, rules, habits and duties. A banker finds it difficult to be treated just as an ordinary human being at home and to forget that he is a banker, and it seems to me, the real excuse for travel is that he shall be able to find himself in a community in which he is just an ordinary human being.
 
 A true traveler is always a vagabond, with the joys, temptations and sense of adventure of the vagabond. Either travel is "vagabonding" or it is no travel at all. The essence of travel is to have no duties, no fixed hours, no mail, no inquisitive neighbors, no receiving delegations, and no destination. A good traveler is one who does not know where he is going to, and a perfect traveler does not know where he came from.
 
-**The Enjoyment of Culture**
+### The Enjoyment of Culture
 
 The aim of education or culture is merely the development of good taste in knowledge and good form in conduct. The cultured man or the ideal educated man is not necessarily one who is well-read or learned, but one who likes and dislikes the right things. To know what to love and what to hate is to have taste in knowledge. Nothing is more exasperating than to meet a person at a party whose mind is crammed full with historical dates and figures and who is extremely well posted on current affairs in Russia or Czechoslovakia, but whose attitude or point of view is all wrong. Such persons have erudition, but no discernment, or taste. Erudition is a mere matter of cramming of facts or information, while taste or discernment is a matter of artistic judgment.
 
@@ -123,7 +123,7 @@ There are two mines of language, a new one and an old one. The old mine is in th
 
 Genuine literature is but a sense of wonder at the universe and at human life. He who keeps his vision sane and clear will have always this sense of wonder, and therefore has no need to distort the truth in order to make it seem wonderful.
 
-**Relationship to God**
+### Relationship to God
 
 The trouble with orthodox religion is that, in its process of historical development, it got mixed up with a number of things strictly outside religion's moral realm—physics, geology, astronomy, criminology, the conception of sex and woman. If it had confined itself to the realm of the moral conscience, the work of re-orientation would not be so enormous today. Religion should, and will, confine itself to the moral realm, the realm of the moral conscience, which has a dignity of its own comparable in every sense to the study of flowers, the fishes and the stars. Let religion respectfully keep its mouth shut when teachers of biology are talking, and it will seem infinitely less silly and gain immeasurably in the respect of mankind.
 
@@ -133,7 +133,7 @@ Great pagans have always had a deeply reverent attitude toward nature. We shall 
 
 Love among men should be a final, absolute fact. We should be able just to look at each other and love each other without being reminded of a third party in heaven. Christianity seems to me to make morality appear unnecessarily difficult and complicated and sin appear tempting, natural, and desirable. Paganism, on the other hand, seems alone to be able to rescue religion from theology and restore it to its beautiful simplicity of belief and dignity of feeling.
 
-**The Art of Thinking**
+### The Art of Thinking
 
 Thinking is an art, and not a science. One of the greatest contrasts between Chinese and Western scholarship is the fact that in the West there is so much specialized knowledge, and so little humanized knowledge, while in China there is so much more concern with the problems of living, while there are no specialized sciences.
 
@@ -141,7 +141,7 @@ The outstanding characteristic of Western scholarship is its specialization and 
 
 Before we can humanize Western philosophy, we must first humanize Western logic. We have to get back to a way of thinking which is more impatient to be in touch with reality, with life, and above all with human nature, than to be merely correct, logical and consistent.
 
-**Be Reasonable**
+### Be Reasonable
 
 In contrast to logic, there is common sense, or still better, the Spirit of Reasonableness. I think of the Spirit of Reasonableness as the highest and sanest ideal of human culture, and the reasonable man as the highest type of cultivated human being. No one can be perfect; he can only aim at being a likeable, reasonable being.
 

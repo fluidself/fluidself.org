@@ -7,7 +7,7 @@ title: The Ego Trick - by Julian Baggini
 
 It seems that, over time, we change completely, yet remain completely the same.
 
-**The Pearl at the Heart of Self**
+### The Pearl at the Heart of Self
 
 Her Buddhist beliefs deny the existence of an enduring self. ‘To say "what you truly are" is difficult, because that implies I can look within myself and find something that is "truly are", as it were, whereas what I find is a flux and a flow, something that is continually dependent on conditions, where impulses are arising and falling away.'
 
@@ -19,14 +19,14 @@ The relationship between memory and sense of self is therefore a rather complica
 
 Thinking and feeling are what brains and bodies do. Mind should not be thought of a substance, but as a kind of activity. Dualism's mistake is to argue that since minds, thoughts and feelings are not identical with any particular physical things, they must be non-physical things.
 
-_‘I'd say if you have too healthy an appreciation for who you are, that leaves you open to fossilising yourself. Everything's open to revision.' _
--- Brooke Magnanti, a.k.a. Belle de Jour
+> ‘I'd say if you have too healthy an appreciation for who you are, that leaves you open to fossilising yourself. Everything's open to revision.'  
+> — Brooke Magnanti, a.k.a. Belle de Jour
 
 **State-dependent memory:** ‘In different mind-states one does not have access to the same bag of memories, and that has been demonstrated in a lot of quite clever studies. So when you are very angry you do not have access to the same memories that you have when you are feeling very benign and relaxed.' The research on this is extensive and well established. If you want to remember an event or fact, it is better to be in the same situation or state as you were when the event took place or when you learned the fact. There is even some evidence that something learned when drunk is better remembered when drunk than sober. Not only memories, but skills and personality traits are often to some extent state-dependent. A familiar example, in the literal sense, is that no matter what their adult personality is, many people revert to childhood versions of themselves when they gather together as family.
 
 To know a person's nature is to know how they behave in different situations, in different roles, not how they behave in one isolated role. Even if we were to believe, as we surely must, that we put on a front in some situations more than others, there is no justification for privileging solitude as the state which reveals the truth as to how we are. For one thing, it is not obvious that we play no roles when alone. Indeed, in many cases, privacy allows us to indulge the most deluded fantasies about our identities. It can be easier to convince yourself you are a rock god playing guitar in your garage than it is in front of people whose faces reveal you are no such thing. Many a person plays the role of great thinker when no one else is around to challenge their thoughts. The eyes of the world can force us to see ourselves as others see us. Alone, the image we may hold of ourselves may be no true reflection, but a flattering portrait produced by the magic mirror of vanity. Recognising this is important for self-knowledge. We may feel most ourselves when alone, for instance, but our self-knowledge is severely limited if we fail to see how our interactions with others also reveal important truths about who we are. What we see of ourselves when we are playing no roles is not the real self, but a partial glimpse of our self.
 
-**The Ego Trick**
+### The Ego Trick
 
 1.  The unity of the self is psychological. There is no place in the brain where it all comes together and there is no immaterial soul which is the seat of consciousness. The unity we experience, which allows us legitimately to talk of ‘I', is a result of the Ego Trick – the remarkable way in which a complicated bundle of mental events, made possible by the brain, creates a singular self, without there being a singular thing underlying it. It seems as though there is some pearl at the self's core, but in fact there is no core at all. Generations of thinkers have gone wrong in thinking that we need to postulate a unified core self to account for the unity of self-experience. In fact, unity is not a cause: it is an effect of a remarkably disunified, bundle-like system.
 
@@ -34,8 +34,8 @@ To know a person's nature is to know how they behave in different situations, in
 
 3.  Identity is not what matters. The idea that we are creatures without a definite identity over time is the third and least-noticed aspect of the Ego Trick. The unity of sense of self it creates is so compelling that it becomes natural to think of ourselves as beings with clear boundaries in time and space, whose existence over time is all-or-nothing. This is false. We are fluid, ever-changing, amorphous selves. For practical purposes it's usually easy enough to say that we remain the same as we age, but we only need to think of early childhood or dementia to realise that this is not always the case.
 
-_‘You don't have to be afraid of your destruction because there is nothing to destroy.' _
--- Ringu Tulku, Tibetan Lama
+> ‘You don't have to be afraid of your destruction because there is nothing to destroy.'  
+> — Ringu Tulku, Tibetan Lama
 
 Anattā– traditionally translated as ‘no-self'.
 
@@ -43,13 +43,13 @@ According to Stephen Batchelor, ‘What the Buddha did was to reject that whole 
 
 The problem with talk of illusion, I think, is that most people contrast illusory with real, so to say the self is an illusion is to imply it is not real. But it is. There is an Ego Trick, but it is not that the self doesn't exist, only that it is not what we generally assume it to be. The unity and continuity we perceive are really there. We only go wrong when we interpret that as a unity and continuity of a single, solid thing.
 
-**Self-creation**
+### Self-creation
 
 Self-creation is not heroic but necessary. ‘Every human being must make himself into someone in particular, in order to have reasons to act and live. Carving out a personal identity for which we are responsible is one of the inescapable tasks of human life.'
 
 Strawson is perhaps best known for his articulation of one such axis of variability in persons, between short- and long-termers, or what he calls episodics and diachronics. ‘Here what I think you find is that people fall along a spectrum,' he told me. ‘At one end of the spectrum there are the long-termers, who I call the diachronics, and they just naturally think that they're the same selves throughout their lives, and they really identify with themselves when they were children, say. And then there are these people who whenever they look back more than about five years, feel that it's not really them. And then moving to the other extreme, there are people who, like me, or how it seems to me, people who just feel that they're effectively in the moment and they don't really think that the self that they are in the moment was there even a minute ago.'
 
-**Self and other**
+### Self and other
 
 Hofstadter is another kind of bundle theorist, who thinks we are ‘strange loops', not things, but patterns of information that feed back on themselves to create higher, more complex networks of abstraction. ‘It ain't the meat, it's the motion,' he colourfully says of the brain's role in identity. But if we are patterns of thought, then other people's patterns can start to be mirrored in our own brains. We internalise their ways of thinking and in that sense parts of them live in us. There is not ‘an unbridgeable gap between two such people. Each of them is instead spread out into the other one, and each of them lives partially in the other.' This even provides for a kind of impermanent afterlife. Like an eclipsed sun, ‘when someone dies, they leave a glowing corona behind them, an afterglow in the souls of those who were close to them … When, eventually, all those close ones have died as well, then all the embers will have gone cold, and at that last point, it's "ashes to ashes and dust to dust".'
 

@@ -9,7 +9,7 @@ To me, the world remains a terrible place, worthy of all the negative attributes
 
 For reasons examined throughout this book, I’ve gradually realized that sustained, conscious effort is required—or at least strongly self-suggested—for me to not drift toward meaninglessness, depression, disempowering forms of resignation, and bleak ideologies like existentialism. This book is part of my effort.
 
-**WHY AM I INTERESTED IN HIM? [Terence McKenna]**
+### WHY AM I INTERESTED IN HIM? [Terence McKenna]
 
 Despite being extra-rational, he was also optimistic. This surprised me because I associated rational thinking with pessimism, or at least a wan, slightly feigned sort of optimism. McKenna was energetically optimistic. He called himself “a resolute optimist of a complicated sort.” In one talk, he asked if there was “any reason why people of analytical intelligence, who are connected up to the facts of the matter about the state of the world, should hope.” He observed that the conventional wisdom was “basically no,” then explained why, in his view, “yes.”
 
@@ -28,7 +28,7 @@ I took his talks as nourishment that was synergistically entertaining, that made
 > The world which we perceive is a tiny fraction of the world which we can perceive, which is a tiny fraction of the perceivable world.  
 > &mdash;TERENCE MCKENNA, 1987, Los Angeles
 
-**PSILOCYBIN**
+### PSILOCYBIN
 
 Note-taking seemed misguided and neurotic. Experience was the only usable information—takable from existence in the universe—and it was recorded automatically. My life was notes, etched into the four-dimensional object of the universe. Or was that just my behavior? My thoughts and feelings left no trace here; they went into books and then other minds.
 
@@ -44,7 +44,7 @@ The two effects McKenna said occurred on heroic doses:
 
 - **THE MUSHROOM** The other effect of high-dose psilocybin McKenna described also involved language but was unrelated to visible language. It was the invocation, allowing, or triggering of “a voice in the head,” which McKenna called the teaching voice, the Logos, and, most often, “the mushroom.” McKenna didn’t necessarily believe what the mushroom told him; rather, they dialogued.
 
-**DMT**
+### DMT
 
 **WHO ARE THEY?** McKenna called them tykes, fairies, self-articulating sentences, translinguistic elves, friendly fractal entities, elf legions of hyperspace, meme traders, art collectors, and syntactical homunculi. From my three trips, I’d only gotten as detailed as “faceless, bodiless, genderless abstraction” in describing any entities I’d encountered. From his tens of trips, McKenna formed four theories on who they were, which he presented “without judgment” because he was “not sure.”
 
@@ -62,13 +62,13 @@ The effects of society-wide degeneration included pain, confusion, dark humor, a
 
 My experiences had shown I wasn’t ready to explore the unknown. Metaphysical exploration seemed like something one could do for a lifetime, passing on knowledge over generations, which was what aboriginals had done. Modern people, like me, in the global culture, seemed handicapped at it, which therefore made it challenging. The activity asked me to be healthier and more patient and self-aware, to have better memory and language skills, to learn, feel, notice, and understand more.
 
-**SALVIA**
+### SALVIA
 
 When I saw Being John Malkovich (1999) in college, I enjoyed its deadpan tone and absurd world, in which a portal existed in a building in Manhattan that led to the inside perspective of John Malkovich. Now I felt inside myself in a Being John Malkovich manner, disconnected and trapped. My only role now seemed to be to observe.
 
 Using only plants and fungi that have evolved over millions of years and been selected and used by humans over millennia, I can safely travel to the furthest places humans have gone and stay there 5 or 30 or 120 minutes, during which I can experientially research consciousness, death, time, existence, magic, ecstasy, and the mystery within a tradition older than agriculture.
 
-**WHY ARE PSYCHEDELICS ILLEGAL?**
+### WHY ARE PSYCHEDELICS ILLEGAL?
 
 “Psychedelics are illegal not because a loving government is concerned that you may jump out of a third-story window,” said McKenna in “Nature Is the Center of the Mandala” (1987). “Psychedelics are illegal because they dissolve opinion structures and culturally laid down models of behavior and information processing. They open you up to the possibility that everything you know is wrong.”
 
@@ -78,7 +78,7 @@ McKenna got the terms “partnership” and “dominator” from Riane Eisler, w
 
 The past 4,800 years can be viewed as an inconsistent, unpredictable, many-threaded, unguaranteed but achievable recovery—instead of a hopeless continuation of a seemingly always cruel and violent human history, like I mostly suspected before learning all this—from the overexpression of the dominator model, which for 7,000 years has been erasing evidence and memory, across civilizations and continents, of the Goddess religion and its partnership way of life.
 
-**CANNABIS**
+### CANNABIS
 
 Aboriginals lacked the hierarchy-and-material-obsessed, nature-ignoring knowledge generated by millennia of dominator-style civilizations—a knowledge ranging from egregiously wrong to complicatedly confusing to stimulating and useful, like knowing down to atoms how life builds itself—and modern people increasingly lacked the knowledge gained from living in nature for millions of years, but many of them, like Kathleen Harrison, were learning and teaching it.
 
@@ -102,6 +102,6 @@ I’d noticed that existentialism seemed to ignore “deep time”—that life h
 
 Cannabis has assuaged and underscored my degeneration. When moderately stoned, sometimes my teeth and gums ache in waves ranging from not unpleasant to mildly distracting and I can feel how my face is apparently always somewhat tensed and squished. When not stoned, parts of my face probably still feel vaguely numb, but over decades I’ve habituated, like others who’ve undergone years of torturous orthodontics to make their mouths presentable despite facial degeneration, to the sensation, absorbing it unknowingly into my personality and worldview.
 
-**EPILOGUE**
+### EPILOGUE
 
 Tao could move only four of his ten toes. Staring at five toes, he was unable to mentally focus in a manner causing the middle three to individually move, but, partly because sometimes one or two would twiddle a little, he sensed the skill existed. He’d never noticed this inability until recently, and it had seemed strange and interesting. For the first time, he’d sensed a physical inability as a kind of deadness. Six of his toes seemed numb and uncontrollable from disuse. He imagined that parts of the deforested, razed, replaced wilderness of his mind—filled with tens of thousands of hours of TV, video and computer games, public education, pornography, mass media, movies, literary fiction, nightmares, and dreams—must also be partially to fully nonfunctioning, that probably there were mental abilities he’d forgotten or never learned, ones he could discover, revive, nourish, and use.

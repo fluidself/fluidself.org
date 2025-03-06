@@ -5,7 +5,7 @@ slug: the-things-you-can-see-only-when-you-slow-down
 title: 'The Things You Can See Only When You Slow Down: How to Be Calm in a Busy World - by Haemin Sunim'
 ---
 
-**CHAPTER ONE: Rest**
+### CHAPTER ONE: Rest
 
 Given that the world we see through our mind’s eye is limited, if we can train our mind and choose wisely where to focus, then we will be able to experience the world corresponding to the state of our mind.
 
@@ -27,7 +27,7 @@ Has something disappointed you? Has something made you sad? It’s the school of
 
 If you genuinely care for others and look for ways to help others succeed, you won’t need to look for ways to boost your mood. A selfless and kind act will lift your spirit and self-worth. If you are having a bad day, see if you can find a way to help someone else. Even a small gesture of help will make you feel better.
 
-**CHAPTER TWO: Mindfulness**
+### CHAPTER TWO: Mindfulness
 
 How can we better understand our negative emotions and try to resolve them instead of suppressing them? The answer is fairly simple. All we have to do is separate the raw energy of negative emotions from linguistic labels like “anger” or “hatred” and then witness it calmly until the energy morphs into something else. What is important here is not to get attached to words like “anger,” “hatred,” and “jealousy,” and instead to witness the raw energy behind the labels. Although it may be subtle, the energy constantly changes while the label remains static. If you peel the label off and get in touch with the raw energy, you soon realize that the negative emotion is only temporary, one that changes without your efforts. Therefore, much like a mirror reflects what is before it without judgment or identification with the image, simply reflect the negative emotion—let’s say it’s anger—and watch dispassionately. You will see the anger slowly changing shape, either revealing a deeper layer of emotion or disappearing on its own. If another layer of emotion is revealing itself, attend to it the way you did with your anger.
 
@@ -45,7 +45,7 @@ Someone advanced in spiritual practice has the following attitude. In a large co
 
 Life is like theater. You are assigned a role. If you don’t like the role, keep in mind that you have the power to re-create the role you want.
 
-**CHAPTER THREE: Passion**
+### CHAPTER THREE: Passion
 
 No matter what we do, the top button of our business must be fastened properly. If we think, “I’ll just do it this way for now and fix it later,” it usually does not happen, because later we may not have the motivation to fix it, or we just get used to the way it is. It is like moving into a house and deciding to fix it up over time. Even after many years, we never get around to fixing it up. We end up just living with the way things are for a long time.
 
@@ -59,7 +59,7 @@ When you ask a question and there is no response, then that is the answer.
 
 Meaningful praise is from someone in the same field as you. It is worth praise from ten or more people outside your field.
 
-**CHAPTER FOUR: Relationships**
+### CHAPTER FOUR: Relationships
 
 Do you often feel lonely at work or in school? Perhaps your heart is closed off to those around you. “I don’t get her.” “I’m better than her.” “We’re on different wavelengths.” If you think this way, how could you not be lonely? Open your heart, and have a cup of coffee with her. You will soon see that she is not that different from you.
 
@@ -75,7 +75,7 @@ When you think your spouse won’t change and you worry how you will live the re
 
 Even if you have awakened to your enlightened nature, there is still further to go in your spiritual journey if you’re not living harmoniously with others.
 
-**CHAPTER FIVE: Love**
+### CHAPTER FIVE: Love
 
 Proof of having really loved: You do not speak ill of your ex even after your relationship has ended.
 
@@ -87,7 +87,7 @@ Without love, our lives would pass us by in the blink of an eye. Love has the po
 
 At times we are not sure whether what we feel is love. At that moment, ask yourself this: “Am I happy to give more even after having given a lot?” If the answer is yes, and there is no regret afterward, then that is probably love.
 
-**CHAPTER SIX: Life**
+### CHAPTER SIX: Life
 
 Have you ever selected a cheaper dish from a menu than the one you really wanted, only to regret your choice when it arrived? Always go with your first choice if you can afford it. It is better than a life filled with regrets.
 
@@ -111,7 +111,7 @@ A cruel irony: The reward for someone who works hard is more work.
 
 If we’re quick to grant a favor, then people quickly forget their gratitude. If we grant a favor with several conditions, then people express immense gratitude.
 
-**CHAPTER SEVEN: The Future**
+### CHAPTER SEVEN: The Future
 
 A restaurant specializing in a few good dishes is more likely to develop a good reputation than one with a lengthy menu. Help your child go deep in her area of interest.
 
@@ -125,7 +125,7 @@ An inept leader attempts to micromanage everything. His staff will wind up doing
 
 A jockey does not whip a standing horse. A jockey whips only a running horse.
 
-**CHAPTER EIGHT: Spirituality**
+### CHAPTER EIGHT: Spirituality
 
 When an unenlightened person does good, he tries to leave his mark. When an enlightened person does good, he leaves no marks.
 

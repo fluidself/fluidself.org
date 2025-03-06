@@ -9,7 +9,7 @@ A good improviser is someone who is awake, not entirely self-focused, and moved 
 
 A successful life involves both planning and improvising. Sometimes we actually do need a script. Those scripts that are working well for us (positive habits, for example) should be preserved and treasured. Spontaneity for its own sake is never the key. Knowing which strategy to use involves examining things clearly. Our moment-to-moment experience is improvisational, even though it exists within a structure or plan.
 
-**THE FIRST MAXIM: SAY YES**
+### THE FIRST MAXIM: SAY YES
 
 - Just say yes.
 
@@ -25,13 +25,13 @@ A successful life involves both planning and improvising. Sometimes we actually 
 
 - Exercise the yes muscle. This builds optimism and hope.
 
-Saying yes (and following through with support) prevents you from committing a cardinal sin--blocking. Blocking comes in many forms; it is a way of trying to control the situation instead of accepting it. We block when we say no, when we have a better idea, when we change the subject, when we correct the speaker, when we fail to listen, or when we simply ignore the situation. The critic in us wakes up and runs the show. Saying no is the most common way we attempt to control the future. For many of us the habit is so ingrained that we don't notice we are doing it.
+Saying yes (and following through with support) prevents you from committing a cardinal sin—blocking. Blocking comes in many forms; it is a way of trying to control the situation instead of accepting it. We block when we say no, when we have a better idea, when we change the subject, when we correct the speaker, when we fail to listen, or when we simply ignore the situation. The critic in us wakes up and runs the show. Saying no is the most common way we attempt to control the future. For many of us the habit is so ingrained that we don't notice we are doing it.
 
 - **Try this:** Support someone else's dreams. Pick a person (your spouse, child, boss), and, for a week, agree with all of her ideas. Find something right about everything he says or does. Look for every opportunity to offer support. Consider her convenience and time preferences ahead of your own. Give him the spotlight. Notice the results.
 
 - **Try this:** For one day say yes to everything. Set your own preferences aside. Notice the results. See how often it may not be convenient or easy to do this. Obviously, use common sense in executing this rule. If you are a diabetic and are offered a big piece of pie, you'll need to find a way to protect your health. Perhaps you can say boldly, "Yes, I'd love to have this pie to take home to my son who adores cherries."
 
-**THE SECOND MAXIM: DON'T PREPARE**
+### THE SECOND MAXIM: DON'T PREPARE
 
 - Give up planning. Drop the habit of thinking ahead.
 
@@ -53,7 +53,7 @@ Don't spend your energy in preparing for the future. Redirect it to the present 
 
 - **Try this:** Substitute Zen-like attention for planning. When you notice that your mind is planning what you will do or say make a conscious shift of attention to the present moment. Notice everything that is going on now. Attend to what others are saying or doing as if you would need to report it in detail to the CIA. Listen with both ears. Substitute attention to what is happening for attention to what might happen.
 
-**THE THIRD MAXIM: JUST SHOW UP**
+### THE THIRD MAXIM: JUST SHOW UP
 
 - Walk, run, bike, skip to the places that you need to be.
 
@@ -67,7 +67,7 @@ Don't spend your energy in preparing for the future. Redirect it to the present 
 
 - Change your vantage point and refresh your mind.
 
-- Location, location, location--in real estate and in life.
+- Location, location, location—in real estate and in life.
 
 - Be on time for the sake of others.
 
@@ -81,7 +81,7 @@ The "just" in this maxim reminds us that showing up is already enough. Woody All
 
 - **Try this:** Change the location of a familiar activity. Surprise your cohorts by moving the weekly meeting outdoors, to the booth of a coffee bar, to the lounge at a local museum. Try moving a chair into the garden to read a book. Take your lunch to a new location away from your workplace. Explore a new vantage point.
 
-**THE FOURTH MAXIM: START ANYWHERE**
+### THE FOURTH MAXIM: START ANYWHERE
 
 - All starting points are equally valid.
 
@@ -101,7 +101,7 @@ There's no need to find the right starting place. With a big task or a confusing
 
 - **Try this:** Start anywhere. Identify a project or task that needs to be done. When you put this book down, follow your first thought and begin the job. Do the very first thing that comes to mind. Continue doing what comes next.
 
-**THE FIFTH MAXIM: BE AVERAGE**
+### THE FIFTH MAXIM: BE AVERAGE
 
 - Close enough is perfect.
 
@@ -117,7 +117,7 @@ There's no need to find the right starting place. With a big task or a confusing
 
 - Don't make jokes. Make sense.
 
-**THE SIXTH MAXIM: PAY ATTENTION**
+### THE SIXTH MAXIM: PAY ATTENTION
 
 - Life is attention.
 
@@ -149,7 +149,7 @@ I train my students to make a special effort to learn names when they are first 
 
 - **Try this:** Study other people. Become a secret anthropologist. Notice (and remember) names and faces. Check out what people are wearing. Listen to what they have to say. Observe what kind of day they seem to be having; discern their manner or their mood. Return to a familiar shop or place of business and discover something new about the workers. Learn something new every day about those closest to you.
 
-**THE SEVENTH MAXIM: FACE THE FACTS**
+### THE SEVENTH MAXIM: FACE THE FACTS
 
 - Don't fight reality.
 
@@ -167,7 +167,7 @@ The seventh maxim follows from the cardinal principle of saying yes. First we sa
 
 - **Try this:** Write down the facts. Identify an issue or a situation in your life that needs attention (some personal challenge or work issue). Write a detailed description of the issue, indicating what the facts are. Avoid judgment, critical comments, or discussing your emotions. Use simple, declarative sentences. Work to create an objective picture of the problem first. Now, taking into account all the facts, what needs to be done? Propose a course of action, and spell out the steps you need to take. Then take that first step.
 
-**THE EIGHT MAXIM: STAY ON COURSE**
+### THE EIGHT MAXIM: STAY ON COURSE
 
 - Every improvisation has a point.
 
@@ -187,7 +187,7 @@ The seventh maxim follows from the cardinal principle of saying yes. First we sa
 
 * **Try this:** What would not get done if you were not here? Consider your unique vantage point, your talents, your loves, what you have been given to do. (If your first answer to this question is "It wouldn't make any difference to the world if I were not here," think again.) What are you here to do? If you keep a journal, pose this question and answer it in writing.
 
-**THE NINTH MAXIM: WAKE UP TO THE GIFTS**
+### THE NINTH MAXIM: WAKE UP TO THE GIFTS
 
 - Notice that the glass is half full.
 
@@ -209,7 +209,7 @@ Whenever you take the time to thank someone, go that extra step and mention some
 
 - **Try this:** Make a list of what you have received from others today. Find the particulars. What unseen faces have been helping you today? Define both gifts and givers.
 
-**THE TENTH MAXIM: MAKE MISTAKES, PLEASE**
+### THE TENTH MAXIM: MAKE MISTAKES, PLEASE
 
 - If you are not making mistakes, you are not improvising.
 
@@ -225,13 +225,13 @@ Whenever you take the time to thank someone, go that extra step and mention some
 
 - Become a confident mistake-maker. Lighten up.
 
-- Try bricolage--use what is there artfully.
+- Try bricolage—use what is there artfully.
 
 - Admitting a mistake shows character.
 
 * **Try this:** Take a risk. Check out a new restaurant with cuisine that is unfamiliar to you. Order something you have never tried that seems as if it might be appealing. Expand your world of culinary experience.
 
-**THE ELEVENTH MAXIM: ACT NOW**
+### THE ELEVENTH MAXIM: ACT NOW
 
 - The essence of improvising is action.
 
@@ -255,11 +255,11 @@ Whenever you take the time to thank someone, go that extra step and mention some
 
 * **Try this:** Do the essential job first. What is it that really needs to be done? Try doing it first thing in the morning.
 
-* **Try this:** Change some simple habit. For example, instead of using a mug, experiment by drinking your morning coffee from a bowl, the way the French do, or from a small glass, as people do in Turkey. Instead of walking briskly from your car to the office, try a different pace-- walk very slowly, observing everything.
+* **Try this:** Change some simple habit. For example, instead of using a mug, experiment by drinking your morning coffee from a bowl, the way the French do, or from a small glass, as people do in Turkey. Instead of walking briskly from your car to the office, try a different pace—walk very slowly, observing everything.
 
 * **Try this:** Go home a new way. Find another route from your home to work (or from your apartment to the store) and take the new path. Pay attention to the landmarks and the vegetation. Become a traveler in your own neighborhood. You may wish to take a different route every day for a week and see what you find.
 
-**THE TWELTH MAXIM: TAKE CARE OF EACH OTHER**
+### THE TWELTH MAXIM: TAKE CARE OF EACH OTHER
 
 - Be someone's guardian angel. Make your partner look good.
 
@@ -281,7 +281,7 @@ Whenever you take the time to thank someone, go that extra step and mention some
 
 - Deliver more than you promise.
 
-**THE THIRTEENTH MAXIM: ENJOY THE RIDE**
+### THE THIRTEENTH MAXIM: ENJOY THE RIDE
 
 - Find joy in whatever you are doing, including ordinary tasks.
 

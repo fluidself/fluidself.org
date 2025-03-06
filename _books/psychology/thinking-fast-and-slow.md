@@ -23,11 +23,11 @@ Predictable illusions inevitably occur if a judgment is based on an impression o
 
 If you care about being thought credible and intelligent, do not use complex language where simpler language will do.
 
-How do you know that a statement is true? If it is strongly linked by logic or association to other beliefs or preferences you hold, or comes from a source you trust and like, you will feel a sense of cognitive ease. The trouble is that there may be other causes for your feeling of ease--including the quality of the font and the appealing rhythm of the prose--and you have no simple way of tracing your feelings to their source. The sense of ease or strain has multiple causes, and it is difficult to tease them apart.
+How do you know that a statement is true? If it is strongly linked by logic or association to other beliefs or preferences you hold, or comes from a source you trust and like, you will feel a sense of cognitive ease. The trouble is that there may be other causes for your feeling of ease—including the quality of the font and the appealing rhythm of the prose—and you have no simple way of tracing your feelings to their source. The sense of ease or strain has multiple causes, and it is difficult to tease them apart.
 
 Good mood, intuition, creativity, gullibility, and increased reliance on System 1 form a cluster. At the other pole, sadness, vigilance, suspicion, an analytic approach, and increased effort also go together. A happy mood loosens the control of System 2 over performance: when in a good mood, people become more intuitive and more creative but also less vigilant and more prone to logical errors.
 
-**Speaking of Cognitive Ease**
+### Speaking of Cognitive Ease
 
 _"We must be inclined to believe it because it has been repeated so often, but let's think it through again."_
 
@@ -43,7 +43,7 @@ Good mood and cognitive ease are the human equivalents of assessments of safety 
 
 I propose a simple account of how we generate intuitive opinions on complex matters. If a satisfactory answer to a hard question is not found quickly, System 1 will find a related question that is easier and will answer it. I call the operation of answering one question in place of another substitution. I also adopt the following terms: The target question is the assessment you intend to produce. The heuristic question is the simpler question that you answer instead. The technical definition of heuristic is a simple procedure that helps find adequate, though often imperfect, answers to difficult questions. The word comes from the same root as eureka.
 
-**Characteristics of System 1**
+### Characteristics of System 1
 
 - generates impressions, feelings, and inclinations; when endorsed by System 2 these become beliefs, attitudes, and intentions
 - operates automatically and quickly, with little or no effort, and no sense of voluntary control
@@ -70,27 +70,27 @@ I propose a simple account of how we generate intuitive opinions on complex matt
 
 Even now, you must exert some mental effort to see that the following two statements mean exactly the same thing: Large samples are more precise than small samples. Small samples yield extreme results more often than large samples do. The first statement has a clear ring of truth, but until the second version makes intuitive sense, you have not truly understood the first.
 
-People are not adequately sensitive to sample size. The strong bias toward believing that small samples closely resemble the population from which they are drawn is also part of a larger story: we are prone to exaggerate the consistency and coherence of what we see. The exaggerated faith of researchers in what can be learned from a few observations is closely related to the halo effect, the sense we often get that we know and understand a person about whom we actually know very little. System 1 runs ahead of the facts in constructing a rich image on the basis of scraps of evidence. A machine for jumping to conclusions will act as if it believed in the law of small numbers. More generally, it will produce a representation of reality that makes too much sense. The associative machinery seeks causes. The difficulty we have with statistical regularities is that they call for a different approach. Instead of focusing on how the event at hand came to be, the statistical view relates it to what could have happened instead. Nothing in particular caused it to be what it is--chance selected it from among its alternatives.
+People are not adequately sensitive to sample size. The strong bias toward believing that small samples closely resemble the population from which they are drawn is also part of a larger story: we are prone to exaggerate the consistency and coherence of what we see. The exaggerated faith of researchers in what can be learned from a few observations is closely related to the halo effect, the sense we often get that we know and understand a person about whom we actually know very little. System 1 runs ahead of the facts in constructing a rich image on the basis of scraps of evidence. A machine for jumping to conclusions will act as if it believed in the law of small numbers. More generally, it will produce a representation of reality that makes too much sense. The associative machinery seeks causes. The difficulty we have with statistical regularities is that they call for a different approach. Instead of focusing on how the event at hand came to be, the statistical view relates it to what could have happened instead. Nothing in particular caused it to be what it is—chance selected it from among its alternatives.
 
 We are far too willing to reject the belief that much of what we see in life is random.
 
-The exaggerated faith in small samples is only one example of a more general illusion--**we pay more attention to the content of messages than to information about their reliability, and as a result end up with a view of the world around us that is simpler and more coherent than the data justify**. Jumping to conclusions is a safer sport in the world of our imagination than it is in reality. Statistics produce many observations that appear to beg for causal explanations but do not lend themselves to such explanations. Many facts of the world are due to chance, including accidents of sampling. Causal explanations of chance events are inevitably wrong.
+The exaggerated faith in small samples is only one example of a more general illusion—**we pay more attention to the content of messages than to information about their reliability, and as a result end up with a view of the world around us that is simpler and more coherent than the data justify**. Jumping to conclusions is a safer sport in the world of our imagination than it is in reality. Statistics produce many observations that appear to beg for causal explanations but do not lend themselves to such explanations. Many facts of the world are due to chance, including accidents of sampling. Causal explanations of chance events are inevitably wrong.
 
 A message, unless it is immediately rejected as a lie, will have the same effect on the associative system regardless of its reliability. The gist of the message is the story, which is based on whatever information is available, even if the quantity of the information is slight and its quality is poor: WYSIATI.
 
 You should assume that any number that is on the table has had an **anchoring effect** on you, and if the stakes are high you should mobilize yourself (your System 2) to combat the effect.
 
-**Speaking of Anchors**
+### Speaking of Anchors
 
 _"Plans are best-case scenarios. Let's avoid anchoring on plans when we forecast actual outcomes. Thinking about ways the plan could go wrong is one way to do it."_
 
 We define the **availability heuristic** as the process of judging frequency by "the ease with which instances come to mind." The availability heuristic, like other heuristics of judgment, substitutes one question for another: you wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind. Substitution of questions inevitably produces systematic errors.
 
-You must make the effort to reconsider your impressions and intuitions by asking such questions as, "Is our belief that theft by teenagers is a major problem due to a few recent instances in our neighborhood?" or "Could it be that I feel no need to get a flu shot because none of my acquaintances got the flu last year?" Maintaining one's vigilance against biases is a chore--but the chance to avoid a costly mistake is sometimes worth the effort.
+You must make the effort to reconsider your impressions and intuitions by asking such questions as, "Is our belief that theft by teenagers is a major problem due to a few recent instances in our neighborhood?" or "Could it be that I feel no need to get a flu shot because none of my acquaintances got the flu last year?" Maintaining one's vigilance against biases is a chore—but the chance to avoid a costly mistake is sometimes worth the effort.
 
 The world in our heads is not a precise replica of reality; our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed. The **affect heuristic** is an instance of substitution, in which the answer to an easy question (How do I feel about it?) serves as an answer to a much harder question (What do I think about it?).
 
-A basic limitation in the ability of our mind to deal with small risks: we either ignore them altogether or give them far too much weight--nothing in between.
+A basic limitation in the ability of our mind to deal with small risks: we either ignore them altogether or give them far too much weight—nothing in between.
 
 The essential keys to disciplined **Bayesian reasoning** can be simply summarized: Anchor your judgment of the probability of an outcome on a plausible base rate. Question the diagnosticity of your evidence.
 
@@ -124,7 +124,7 @@ The illusion that we understand the past fosters overconfidence in our ability t
 
 Hedgehogs "know one big thing" and have a theory about the world; they account for particular events within a coherent framework, bristle with impatience toward those who don't see things their way, and are confident in their forecasts. They are also especially reluctant to admit error. For hedgehogs, a failed prediction is almost always "off only on timing" or "very nearly right." They are opinionated and clear, which is exactly what television producers love to see on programs. Two hedgehogs on different sides of an issue, each attacking the idiotic ideas of the adversary, make for a good show. Foxes, by contrast, are complex thinkers. They don't believe that one big thing drives the march of history (for example, they are unlikely to accept the view that Ronald Reagan single-handedly ended the cold war by standing tall against the Soviet Union). Instead the foxes recognize that reality emerges from the interactions of many different agents and forces, including blind luck, often producing large and unpredictable outcomes.
 
-The confidence that people have in their intuitions is not a reliable guide to their validity. In other words, do not trust anyone--including yourself--to tell you how much you should trust their judgment.
+The confidence that people have in their intuitions is not a reliable guide to their validity. In other words, do not trust anyone—including yourself—to tell you how much you should trust their judgment.
 
 If subjective confidence is not to be trusted, how can we evaluate the probable validity of an intuitive judgment? When do judgments reflect true expertise? When do they display an illusion of validity? The answer comes from the two basic conditions for acquiring a skill: an environment that is sufficiently regular to be predictable and opportunity to learn these regularities through prolonged practice When both these conditions are satisfied, intuitions are likely to be skilled. Chess is an extreme example of a regular environment, but bridge and poker also provide robust statistical regularities that can support skill. In contrast, stock pickers and political scientists who make long-term forecasts operate in a zero-validity environment. Their failures reflect the basic unpredictability of the events that they try to forecast.
 
@@ -136,9 +136,9 @@ This is a common pattern: people who have information about an individual case r
 
 When forecasting the outcomes of risky projects, executives too easily fall victim to the **planning fallacy**. In its grip, they make decisions based on delusional optimism rather than on a rational weighting of gains, losses, and probabilities. They overestimate benefits and underestimate costs. They spin scenarios of success while overlooking the potential for mistakes and miscalculations.
 
-Overconfidence is another manifestation of WYSIATI: when we estimate a quantity, we rely on information that comes to mind and construct a coherent story in which the estimate makes sense. Allowing for the information that does not come to mind--perhaps because one never knew it--is impossible.
+Overconfidence is another manifestation of WYSIATI: when we estimate a quantity, we rely on information that comes to mind and construct a coherent story in which the estimate makes sense. Allowing for the information that does not come to mind—perhaps because one never knew it—is impossible.
 
-An unbiased appreciation of uncertainty is a cornerstone of rationality--but it is not what people and organizations want. Extreme uncertainty is paralyzing under dangerous circumstances, and the admission that one is merely guessing is especially unacceptable when the stakes are high. Acting on pretended knowledge is often the preferred solution.
+An unbiased appreciation of uncertainty is a cornerstone of rationality—but it is not what people and organizations want. Extreme uncertainty is paralyzing under dangerous circumstances, and the admission that one is merely guessing is especially unacceptable when the stakes are high. Acting on pretended knowledge is often the preferred solution.
 
 **Theory-induced blindness**: once you have accepted a theory and used it as a tool in your thinking, it is extraordinarily difficult to notice its flaws. If you come upon an observation that does not seem to fit the model, you assume that there must be a perfectly good explanation that you are somehow missing. You give the theory the benefit of the doubt, trusting the community of experts who have accepted it.
 
@@ -158,7 +158,7 @@ Decision makers tend to prefer the sure thing over the gamble (they are risk ave
 
 Any aspect of life to which attention is directed will loom large in a global evaluation. This is the essence of the **focusing illusion**, which can be described in a single sentence: Nothing in life is as important as you think it is when you are thinking about it.
 
-It is logical to describe the life of the experiencing self as a series of moments, each with a value. The value of an episode--I have called it a hedonimeter total--is simply the sum of the values of its moments. But this is not how the mind represents episodes. The remembering self, as I have described it, also tells stories and makes choices, and neither the stories nor the choices properly represent time. In storytelling mode, an episode is represented by a few critical moments, especially the beginning, the peak, and the end. Duration is neglected.
+It is logical to describe the life of the experiencing self as a series of moments, each with a value. The value of an episode—I have called it a hedonimeter total—is simply the sum of the values of its moments. But this is not how the mind represents episodes. The remembering self, as I have described it, also tells stories and makes choices, and neither the stories nor the choices properly represent time. In storytelling mode, an episode is represented by a few critical moments, especially the beginning, the peak, and the end. Duration is neglected.
 
 The acquisition of skills requires a regular environment, an adequate opportunity to practice, and rapid and unequivocal feedback about the correctness of thoughts and actions. When these conditions are fulfilled, skill eventually develops, and the intuitive judgments and choices that quickly come to mind will mostly be accurate. All this is the work of System 1, which means it occurs automatically and fast. A marker of skilled performance is the ability to deal with vast amounts of information swiftly and efficiently.
 

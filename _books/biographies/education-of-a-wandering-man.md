@@ -17,10 +17,10 @@ Over the years the terms applied to wanderers have been confused until all meani
 
 It is often said that one has but one life to live, but that is nonsense. For one who reads, there is no limit to the number of lives that may be lived, for fiction, biography, and history offer an inexhaustible number of lives in many parts of the world, in all periods of time.
 
-They are out there by the thousands, wonderful stories. Many have never gotten into the histories, although occasionally told by local newspapers or in privately printed booklets. Stories of wagon-train massacres, buried treasures, gun battles, cattle roundups, border bandit raids--no matter where you go, east, west, north, and south, there are stories. People are forever asking me where I get my ideas, but one has only to listen, to look, and to live with awareness. As I have said in several of my stories, all men look, but so few can see. It is all there, waiting for any passerby.
+They are out there by the thousands, wonderful stories. Many have never gotten into the histories, although occasionally told by local newspapers or in privately printed booklets. Stories of wagon-train massacres, buried treasures, gun battles, cattle roundups, border bandit raids—no matter where you go, east, west, north, and south, there are stories. People are forever asking me where I get my ideas, but one has only to listen, to look, and to live with awareness. As I have said in several of my stories, all men look, but so few can see. It is all there, waiting for any passerby.
 
-_Much is not dared because it seems hard; much seems hard only because it is not dared._
--- PRINCE WENZEL ANTON VON KAUNITZ, Austrian statesman
+> Much is not dared because it seems hard; much seems hard only because it is not dared.  
+> — PRINCE WENZEL ANTON VON KAUNITZ, Austrian statesman
 
 Loneliness is of many kinds, and the mere presence and companionship of people does not suffice. The people I had been meeting were friendly, pleasant, and the salt of the earth, but they did not speak my language. I enjoyed them, but something in me reached out for more.
 
@@ -40,7 +40,7 @@ One thing I have discovered about research: Let people know what you are looking
 
 Someone has said that culture is what remains with you after you have forgotten all you have read, and I believe there is much truth in that.
 
-I often say that a writer owes a debt of authenticity to his readers. Because of his profession he may go to the fountains of knowledge and drink as deeply as he wishes. This is not given to all people who are concerned with making a living and providing services, and writers are the go-betweens. Readers wish to believe the printed word, God help them, and I believe when we deal with history or anything factual, it should be with care. We may be the only source they have for such information. Once the real-life situation is established, we can take off in any direction we wish. If a story is to be fantasy--and I love it--that should be obvious from word one.
+I often say that a writer owes a debt of authenticity to his readers. Because of his profession he may go to the fountains of knowledge and drink as deeply as he wishes. This is not given to all people who are concerned with making a living and providing services, and writers are the go-betweens. Readers wish to believe the printed word, God help them, and I believe when we deal with history or anything factual, it should be with care. We may be the only source they have for such information. Once the real-life situation is established, we can take off in any direction we wish. If a story is to be fantasy—and I love it—that should be obvious from word one.
 
 It is not enough to have learned, for living is sharing and I must offer what I have for whatever it is worth.
 
@@ -56,9 +56,9 @@ This is an age of communication. At one time or another, nearly everyone will ha
 
 A thing to remember is that the audience wants you to be good. No matter whether they know you or not, they do not want to be bored, so whether you realize it or not, they are pulling for you.
 
-_Associate with the noblest people you can find; read the best books; live with the mighty. But learn to be happy alone. Rely upon your own energies, and so not wait for, or depend on other people._
--- PROFESSOR THOMAS DAVIDSON
+> Associate with the noblest people you can find; read the best books; live with the mighty. But learn to be happy alone. Rely upon your own energies, and so not wait for, or depend on other people.  
+> — PROFESSOR THOMAS DAVIDSON
 
-We all are possessed of knowledge we do not realize we have. This is the accumulation over the years of our subconscious recognitions and appreciations. The information lies there awaiting use, not understood, because we make no demands upon it--although every once in a while a bright idea appears or some unexpected solution to a problem becomes evident. We must formulate a process for using the subconscious on demand, a simple matter of conditioning. We must learn to pose our problems, supply materials, and let it happen. A writer, or for that matter any artist, is continually making demands upon the subconscious and producing results. The process is there for anyone; it only demands that we make the effort, and by study arrive at the best methods for doing so.
+We all are possessed of knowledge we do not realize we have. This is the accumulation over the years of our subconscious recognitions and appreciations. The information lies there awaiting use, not understood, because we make no demands upon it—although every once in a while a bright idea appears or some unexpected solution to a problem becomes evident. We must formulate a process for using the subconscious on demand, a simple matter of conditioning. We must learn to pose our problems, supply materials, and let it happen. A writer, or for that matter any artist, is continually making demands upon the subconscious and producing results. The process is there for anyone; it only demands that we make the effort, and by study arrive at the best methods for doing so.
 
 Often I am sad that our interests have turned away from the short story, for so many beautiful and great stories have been written and are now on the back shelf of the world's literature. The writing of a really fine short story is like the carving of a gem.

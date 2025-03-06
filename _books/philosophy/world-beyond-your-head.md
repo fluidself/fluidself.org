@@ -5,7 +5,7 @@ slug: world-beyond-your-head
 title: 'World Beyond Your Head: On Becoming an Individual in an Age of Distraction - by Matthew B. Crawford'
 ---
 
-**ATTENTION AS A CULTURAL PROBLEM**
+### ATTENTION AS A CULTURAL PROBLEM
 
 Capitalism has gotten hip to the fact that for all our talk of an information economy, what we really have is an attentional economy, if the term “economy” applies to what is scarce and therefore valuable.
 
@@ -25,7 +25,7 @@ When we become competent in some particular field of practice, our perception is
 
 The philosophical project of this book is to reclaim the real, as against representations. That is why the central term of approbation in these pages is not “freedom” but “agency.” For it is when we are engaged in a skilled practice that the world shows up for us as having a reality of its own, independent of the self. Reciprocally, the self comes into view as being in a situation that is not of its own making. The Latin root of our English word “attention” is tenere, which means to stretch or make tense. External objects provide an attachment point for the mind; they pull us out of ourselves. It is in the encounter between the self and the brute alien otherness of the real that beautiful things become possible.
 
-**PART I ENCOUNTERING THINGS**
+## PART I ENCOUNTERING THINGS
 
 To keep action on track, according to some guiding purpose, one has to keep attention properly directed. To do this, it helps a great deal to arrange the environment accordingly, and in fact this is what is generally done by someone engaged in a skilled activity. Once we have achieved competence in the skill, we don’t routinely rely on our powers of concentration and self-regulation—those higher-level “executive” functions that are easily exhausted. Rather, we find ways to recruit our surroundings for the sake of achieving our purposes with a minimum expenditure of these scarce mental resources. High-level performance is then to some degree a matter of being well situated, let us say. When we watch a cook who is hitting his flow, we see someone inhabiting the kitchen—a space for action that has in some sense become an extension of himself.
 
@@ -37,7 +37,7 @@ The point is that to understand human cognition, it is a mistake to focus only o
 
 The left’s project of liberation led us to dismantle inherited cultural jigs that once imposed a certain coherence (for better and worse) on individual lives. This created a vacuum of cultural authority that has been filled, opportunistically, with attentional landscapes that get installed by whatever “choice architect” brings the most energy to the task—usually because it sees the profit potential. The combined effect of these liberating and deregulating efforts of the right and left has been to ratchet up the burden of self-regulation. Some indication of how well we are bearing this burden can be found in the fact that we are now very fat, very much in debt, and very prone to divorce. The effects of this have not been evenly distributed. To gain admission to the svelte, solvent middle class, and stay there, now requires extraordinary self-discipline. Such discipline is generally inculcated in families. Two self-disciplined people meet in graduate school, mate, and pass their disciplined ways on to their children. But we also make use of external props that are available to those with means: jigs for hire.
 
-**EMBODIED PERCEPTION**
+### EMBODIED PERCEPTION
 
 There is a very real sense in which a tool may be integrated into one’s body, for one who has become expert in using the tool. There is a growing number of studies that support this idea of “cognitive extension”; the new capacities added by tools and prosthetics become indistinguishable from those of the natural human body, in terms of how they are treated by the brain that organizes our actions and perceptions.
 
@@ -49,11 +49,11 @@ The concept of an “ecological niche” is necessary to properly understand per
 
 This drive to continually tone and shape up a skill is lost sight of if we take tying one’s shoes as the paradigm of skilled action. That is an activity for which we adopt a “sufficing” standard: Is the shoe tied or not? Being able to tie your shoe is a secure accomplishment, a state of stasis. But in activities that we take seriously, such as music and sports and going fast, we strive for excellence. Unlike animals that live in the moment and merely cope with their world (however smoothly), we are erotic: we are drawn out of our present selves toward some more skilled future self that we emulate. What it means to be erotic is that we are never fully at home in the world. We are always “on our way.” Or perhaps we should say that this state of being on our way to somewhere else is our peculiar human way of being here in the world.
 
-**VIRTUAL REALITY AS MORAL IDEAL**
+### VIRTUAL REALITY AS MORAL IDEAL
 
 The appeal of magic is that it promises to render objects plastic to the will without one’s getting too entangled with them. Treated from arm’s length, the object can issue no challenge to the self. According to Freud, this is precisely the condition of the narcissist: he treats objects as props for his fragile ego and has an uncertain grasp of them as having a reality of their own. The clearest contrast to the narcissist that I can think of is the repairman, who must subordinate himself to the broken washing machine, listen to it with patience, notice its symptoms, and then act accordingly. He cannot treat it abstractly; the kind of agency he exhibits is not at all magical. The creeping substitution of virtual reality for reality is a prominent feature of contemporary life, but it also has deep antecedents in Western thought. It is a cultural project that is unfolding along lines that Immanuel Kant sketched for us: trying to establish the autonomy of the will by filtering material reality through abstractions.
 
-**ATTENTION AND DESIGN**
+### ATTENTION AND DESIGN
 
 The design of automobiles has tended toward insulation, offering an ever less involving driving experience. The animating ideal seems to be that the driver should be a disembodied observer, moving through a world of objects that present themselves as though on a screen. What all this idiot-proofing and abstraction amounts to is a genuine poverty of information reaching the driver. What’s more, the information that does get through is presented in a highly mediated way, conveyed by potentiometers and silky smooth servos rather than by the seat of your pants. It is therefore highly discrete, and does not reflect fuzzy, subtle variations.
 
@@ -61,7 +61,7 @@ Perceived risk increases conscious effort and focuses attention. As with cars, s
 
 Our embodied mode of existence has given rise to exquisitely sensitive capacities for detecting and negotiating the world, and a good design principle would be to try to exploit these capacities, rather than to sever the connections between perception and action, as the current generation of automotive engineers seems intent on doing.
 
-**AUTISM AS A DESIGN PRINCIPLE: GAMBLING**
+### AUTISM AS A DESIGN PRINCIPLE: GAMBLING
 
 As the world becomes more confusing, seemingly controlled by vast impersonal forces (e.g., “globalization” or “collateralized debt obligations”) that no single individual can fully bring within view; as the normative expectation becomes to land a cubicle job, in which the chain of cause and effect can be quite dispersed and opaque; as home life becomes deskilled (we outsource our cooking to corporations, our house repairs to immigrant guest workers); as the material basis of modern life becomes ever more obscured, and the occasions for skillful action are removed to sites overseas, where things are made; to sites nearby but socially invisible, where things are tended and repaired; and to sites unknown, where elites orchestrate commercial and political forces—when all of this is the case, the experience of individual agency becomes somewhat elusive. The very possibility of seeing a direct effect of your actions in the world, and knowing that these actions are genuinely your own, may come to seem illusory. Escaping to a zone of autistic pseudo-action has understandable appeal. Precisely because this zone has been sealed off from the world, it is experienced as a zone of efficacy and intelligibility.
 
@@ -77,21 +77,21 @@ If we have no robust and demanding picture of what a good life would look like, 
 
 I appreciate the freedom-loving, government-hating spirit of libertarians, but I think they take too narrow and old-fashioned a view of the thing they hate—of the settings in which the individual is subject to various kinds of rule. Capital is concentrated to the point that it operates in quasi-governmental ways, abetted by ever more powerful information technology. Arguably, one of the most important functions of the (actual, elected) government, now, is precisely to restrain and regulate the explosion of unaccountable governmentality in our dealings with outsized commercial enterprises. I am happy to pay the IRS my share, if the funds it collects will help the government maintain its monopoly on coercive power, not least by regulating commerce.
 
-**PART II OTHER PEOPLE**
+## PART II OTHER PEOPLE
 
-**ON BEING LED OUT**
+### ON BEING LED OUT
 
 From the Jacksonian to the Beat era, other people have often appeared to the American as a disfiguring source of heteronomy. In a culture predicated on this autonomy-heteronomy distinction, it is difficult to think clearly about attention—the faculty that joins us to the world—because everything located outside your head is regarded as a potential source of unfreedom, and therefore a threat to the self. This makes education a tricky matter.
 
 The culture of scientific apprenticeship that developed in Europe, and then later in America, did so without warrant from the official self-understanding of modern science. As Polanyi writes, “To learn by example is to submit to authority. You follow your master because you trust his manner of doing things even when you cannot analyze and account in detail for its effectiveness.” This is intolerable if, like Descartes, you think that to be rational is to reject “example or custom” in order to “reform my own thoughts and to build upon a foundation which is completely my own.” The paradox of the Cartesian project is that from a beginning point that is radically self-enclosed, one is supposed to proceed by an impersonal method, as this will secure objective knowledge—the kind that carries no taint of the knower himself. Polanyi turns this whole procedure on its head: through submission to authority, in the social context of the lab, one develops certain skills, the exercise of which constitutes a form of inquiry in which the element of personal involvement is ineliminable.
 
-**ENCOUNTERING THINGS WITH OTHER PEOPLE**
+### ENCOUNTERING THINGS WITH OTHER PEOPLE
 
 We live in a world that has already been named by our predecessors, and was saturated with meaning before we arrived. We find ourselves “thrown” into this world midstream, and for the most part we take over from others the meanings that things already have.
 
 Our private experiences are founded on—would not be intelligible without—the prior disclosure of a shared world. This is the world we encounter first, as babies locked in joint attention with a caregiver. It follows that our experiences are not simply “our own.” This is a bit alarming, perhaps. One response would be to double down on epistemic individualism, and emulate Descartes in his efforts to achieve independence of mind by excluding the testimony of others. But this is unrealistic, for all the reasons we have explored. My hope is that developing an alternative picture of our mental lives, one that does justice to our nature as social beings, can help illuminate the grounds on which individuality really is possible—not solipsistically but sociably, in practices that bring us into cooperation with others. Individuality is something that needs to be achieved, and in this endeavor other people are indispensable to our efforts.
 
-**ACHIEVING INDIVIDUALITY**
+### ACHIEVING INDIVIDUALITY
 
 For Hegel, one knows oneself by one’s deeds. And deeds are inherently social—their meaning depends very much on how others receive them. The problem of self-knowledge is in large part the problem of how we can make ourselves intelligible to others through our actions, and from them receive back a reflected view of ourselves. For Hegel, there is no self to be known that exists prior to, or at a “deeper level” than, the self that is in the world. This implies that individuality, too, is something that we achieve only in and through our dealings with others.
 
@@ -103,7 +103,7 @@ The question I would like to pose, then, is this: To whom does one look for a ch
 
 What we want, when we want recognition, is to be recognized as an individual. This seems to be possible only in the context of genuine connection to others, with whom one is locked into some web of norms—some cultural jig—that is binding, yet also rich enough to admit of individual interpretation. Skilled practices fit this description, and for that reason have special significance in our efforts to win recognition as individuals. Our efforts on that front get confused and misdirected when we live under a public doctrine of individualism that systematically dismantles shared frames of meaning. The reason we need such frames is that only within them can we differentiate ourselves as not merely different, but excellent. Without that vertical dimension, we get the sameness of mass solipsism rather than true individuality. The de-skilling of everyday life, which is a function of our economy, thus has implications that reach far beyond the economy. It is integral to a larger set of developments that continue to reshape the kinds of selves we become, and the set of human possibilities that remains open to us.
 
-**THE CULTURE OF PERFORMANCE**
+### THE CULTURE OF PERFORMANCE
 
 With radical responsibility comes a new emphasis on personal initiative, and a corollary “culture of performance” in which you have to constantly marshal your internal resources to be successful, as Ehrenberg says. This is reflected in, for example, the heightened competition of the middle-class educational trajectory. Significant social sorting is understood to be operating at every stage, from preschool to the GREs. With our presumption of meritocracy—that is, of a fair and frictionless mobility, a system without any systemic rigidities that would block our way—failure carries a deeper stigma than it would if we had a more realistic view of our society. If there are no external constraints, what you make of yourself depends on your gumption and mental capacities. Are you a high-performance person? In a culture of performance, the individual reads the status and value of her soul in her worldly accomplishments. Like the Calvinist, she looks to her success in order to know: Am I one of the elect or am I damned? With radical responsibility comes the specter of inadequacy.
 
@@ -113,7 +113,7 @@ To regard oneself as a collection of synapses and neurotransmitters is to take a
 
 If we can put aside for a moment our centuries-long preoccupation with liberation, we might think differently about authority. The key would be to conceive authority in a way that is free of those metaphysical conceits that provoke an allergic reaction in the modern mind. Recall once more Iris Murdoch’s description of learning Russian. The “authoritative structure” she invokes as a counterweight to the self is not the law of a punishing Jewish god, nor the promiscuous love of a Christian one. Rather, it is the authority of a skilled practice that “commands my respect” for reasons internal to the practice, requiring no further foundation or metaphysical support. These reasons are progressively revealed as one goes deeper into the practice. The moral psychology Murdoch offers is entirely this-worldly. Its basic stance is one of gratitude; she speaks of “love of Russian.” It is guided by a kind of pleasure: “Attention is rewarded by a knowledge of reality,” she says.
 
-**THE EROTICS OF ATTENTION**
+### THE EROTICS OF ATTENTION
 
 Consider as an example someone who suffers not from some raging emotion of lust, resentment, or jealousy, as in Murdoch’s examples, but rather sadness, discontent, boredom, or annoyance. A wife, let us say, feels this way about her husband. But she observes a certain ritual: she says “I love you” upon retiring every night. She says this not as a report about her feelings—it is not sincere—but neither is it a lie. What it is is a kind of prayer. She invokes something that she values—the marital bond—and in doing so turns away from her present discontent and toward this bond, however elusive it may be as an actual experience. It has been said that ritual (as opposed to sincerity) has a “subjunctive” quality to it: one acts as if some state of affairs were true, or could be. This would seem to be a particularly Jewish sort of wisdom—an emphasis on observance as opposed to the Protestant emphasis on inner state. It relieves one of the burden of “authenticity.” William James offers just such relief in his essay “The Gospel of Relaxation.” He writes, “In order to feel kindly towards a person to whom we have been inimical, the only way is more or less deliberately to smile, to make sympathetic inquiries, and to force ourselves to say genial things… To wrestle with a bad feeling only pins our attention on it, and keeps it still fastened in the mind; whereas if we act as if from some better feeling, the old bad feeling soon folds its tent like an Arab and silently steals away.” We should “pay primary attention to what we do and express, and not… care too much for what we feel.”
 
@@ -127,7 +127,7 @@ Consider the hipster. Christy Wampole offers us the spectacle of the tattooed tw
 
 In a previous chapter we considered Hegel’s idea that we need other people to achieve individuality. For others to play this role for me, they have to be available to me in an unmediated way, not via a representation that is tailored to my psychic comfort. And conversely, I would have to make myself available to them in a way that puts myself at risk, not shying from a confrontation between different evaluative outlooks. For it is through such confrontations that we are pulled out of our own heads and forced to justify ourselves. In doing so, we may revise our take on things. The deepening of our understanding, and our affections, requires partners in triangulation: other people as other people, in relation to whom we may achieve an earned individuality of outlook. Absent such differentiation, there is a certain flattening of the human landscape.
 
-**THE FLATTENING**
+### THE FLATTENING
 
 For the subjectivist, value judgments don’t apprehend anything. There is no feature of the world that would make them true or false, since they merely express private feeling. It follows that your moral and aesthetic outlook can’t become more discerning. It can’t deepen or mature, it can only change.
 
@@ -137,15 +137,15 @@ Genuine connection to others shows up in the vivid colors of defiance and forgiv
 
 The ecology of attention that prevails among persons in a liberal public culture is one of polite separation.
 
-**THE STATISTICAL SELF**
+### THE STATISTICAL SELF
 
 The demand to be an individual makes us feel anxious, and the remedy for this, ironically enough, is conformity. We become more deferential to public opinion.
 
 Jaron Lanier criticizes what he calls “digital Maoism,” a “new online collectivism” that shows up, for example, in the way Wikipedia is regarded and used, and is the guiding spirit of firms such as Google as well. The analogy with Maoism is quite apt and precise. The ideologists of the Web have always been antielitists, eager to brush the “gatekeepers” of knowledge into the dustbin of history. Let a thousand flowers bloom. The problem, of course, is that it’s hard for these leaders of the people to make money off scattered flowers. Better to “have influence concentrated in a bottleneck that can channel the collective with the most verity and force,” Lanier writes. The Party must be strong for the People to be strong. Writing about the Web in 2006, Lanier said that “in the last year or two the trend has been to remove the scent of people, so as to come as close as possible to simulating the appearance of content emerging out of the Web as if it were speaking to us as a supernatural oracle.” He was referring to “consensus Web filters” that assemble material from other sites that are themselves aggregators of other sites. “We are now reading what a collectivity algorithm derives from what other collectivity algorithms derived from what collectives chose from what a population of mostly amateur writers wrote anonymously.”
 
-**PART III INHERITANCE**
+## PART III INHERITANCE
 
-**THE ORGAN MAKERS’ SHOP**
+### THE ORGAN MAKERS’ SHOP
 
 In the United States (but not Germany, for example), the idea of apprenticeship is criticized for being too narrow an education. It is said that what the economy demands is workers who are flexible. The ideal seems to be that they shouldn’t be burdened with any particular set of skills or knowledge; what is wanted is a generic smartness, the kind one is certified to have by admission to an elite university. This fits well with our ideal of the unencumbered self, and with Kant’s exhortation to view ourselves under the generic heading “rational being.” We are told the economy is in a state of radical flux; “disruption” is spoken of as though it were a measure of value creation, and so a twenty-first-century education must form workers into material that is similarly indeterminate and disruptable. The less situated, the better. But consider that when you go deep into some particular skill or art, it trains your powers of concentration and perception. You become more discerning about the objects you are dealing with and, if all goes well, begin to care viscerally about quality, because you have been initiated into an ethic of caring about what you are doing. Usually this happens by the example of some particular person, a mentor, who exemplifies that spirit of craftsmanship. You hear disgust in his voice, or see pleasure on his face, in response to some detail that would be literally invisible to someone not initiated. In this way, judgment develops alongside emotional involvement, unified in what Polanyi calls personal knowledge. Technical training in such a setting, though narrow in its immediate application, may be understood as part of education in the broadest sense: intellectual and moral formation.
 
@@ -153,7 +153,7 @@ John Boody and his coworkers are constantly making improvements, and their inven
 
 As we have seen, the dialectic between tradition and innovation allows the organ maker to understand his own inventiveness as a going further in a trajectory he has inherited. This is very different from the modern concept of creativity, which seems to be a crypto-theological concept: creation ex nihilo. For us the self plays the role of God, and every eruption of creativity is understood to be like a miniature Big Bang, coming out of nowhere. This way of understanding inventiveness cannot connect us to others, or to the past. It also falsifies the experience to which we give the name “creativity” by conceiving it to be something irrational, incommunicable, unteachable.
 
-**EPILOGUE: RECLAIMING THE REAL**
+### EPILOGUE: RECLAIMING THE REAL
 
 One thing we learned is that the Enlightenment legacy of autonomy talk, persisting as a cultural reflex, can neutralize our critical response to various ways in which our attention gets manipulated. This became most clear in the case of machine gambling, where we found that the gambling industry and its apologists rely on a notion of the sovereign individual to forestall criticism and regulation, even while pursuing “addiction by design” as a social engineering project. This political thread of argument appeared also in our discussion of the nudge. Libertarian objections to being nudged by the government rest on a notion of autonomy wherein a person’s preferences express an authentic core of the self that is not to be tampered with. But this view is hard to sustain, because in fact our preferences are highly influenced by our environment—as sculpted by various “choice architects” who channel our attention for their own interests. For the libertarian to adopt a resolutely individualistic view of the self is to miss this massive fact, and fail in his stated concern for defending liberty.
 

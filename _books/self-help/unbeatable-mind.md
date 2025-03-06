@@ -6,7 +6,7 @@ title: 'Unbeatable Mind: Forge Resiliency and Mental Toughness to Succeed at an 
   Level - by Mark Divine'
 ---
 
-**FIRST PREMISE OF UNBEATABLE MIND TRAINING**
+### FIRST PREMISE OF UNBEATABLE MIND TRAINING
 
 Sun Tzu said, "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win". True warriors are unbeatable because they have conditioned their minds to be unbeatable. They learn to control their minds and win internally well before they enter the fight.This is the first Premise of Unbeatable Mind training.
 
@@ -20,7 +20,7 @@ How do we interdict these negative thought patterns? A Power Statement such as "
 
 The re-direct is the set of follow-on instructions you provide your conscious mind after your interdiction. If you interdict a negative thought pattern but do not have a strategy for "what's next" then there is a strong likelihood that your mind will slip back into the same negative pattern again. The strategy now must be to inject a new, substitute positive thought pattern into your brain-housing group that best supports your goals and gives you momentum. Once you witness, interdict and implement your re-direct strategy, it is important to maintain the new positive thought pattern with a repeatable positive statement that has meaning to you. Example: "feeling good, looking good, ought to be in Hollywood"
 
-**Key Insights**
+### Key Insights
 
 - The only thing you can control in life are your thoughts and your breath
 
@@ -28,9 +28,9 @@ The re-direct is the set of follow-on instructions you provide your conscious mi
 
 - Negative thought patterns are first witnessed, then interdicted, then re-directed to positive patterns, then maintained with a positive mantra.
 
-**TWO PRIMARY DISCIPLINES OF THE UNBEATABLE MIND**
+### TWO PRIMARY DISCIPLINES OF THE UNBEATABLE MIND
 
-**Key Insights**
+### Key Insights
 
 - The responsibility of the warrior is a lifetime of uncommon values and discipline, holding the warrior to a higher standard than society at large.
 
@@ -40,9 +40,9 @@ The re-direct is the set of follow-on instructions you provide your conscious mi
 
   - The second discipline is the discipline of Service. Service must be selfless, and cultivates abundance, generosity, belief in the golden rule, and compassion. These disciplines and the 5 Mountains of personal development must be worked on in tandem to ensure a balanced growth of the "whole person."
 
-**THREE STAGES OF MENTAL TOUGHNESS**
+### THREE STAGES OF MENTAL TOUGHNESS
 
-**Key Insights**
+### Key Insights
 Mental Toughness is defined by three primary underlying stages, which determine our response to a stressful situation.
 
 - The skill to perceive the stressor, and activate your stress response for performance using breath control and concentration.
@@ -51,9 +51,9 @@ Mental Toughness is defined by three primary underlying stages, which determine 
 
 - The competence to implement strategies of good leadership and decision-making once you learn to control and direct the stress response toward performance.
 
-**FOUR LEVELS OF AWARENESS**
+### FOUR LEVELS OF AWARENESS
 
-**Key Insights**
+### Key Insights
 
 - Most in our society are sheep. The Wolves prey on the sheep. It is up to us, the sheepdog warriors, to serve the sheep and keep them safe.
 
@@ -63,7 +63,7 @@ Mental Toughness is defined by three primary underlying stages, which determine 
 
 - The largest part of the unbeatable warrior's training is in identifying threats, and diffusing them. Only when all else fails, will the warrior engage in a violent event to end the threat. When this happens, he or she does so with an offensive mind that terrifies their opponent.
 
-**FIVE CRITICAL SKILLS FOR DEVELOPING AN UNBEATABLE MIND**
+### FIVE CRITICAL SKILLS FOR DEVELOPING AN UNBEATABLE MIND
 
 If you ever feel like you are wandering or stumbling along, then re-focus and re-commit to some SMART goals and note new purpose, energy and direction in life.
 
@@ -75,7 +75,7 @@ Events trigger our beliefs, which trigger our unconscious dialogue, which trigge
 
 When using a power statement ("Easy Day!") our bodies must also get in the game. A power posture reinforces the power statement.
 
-**Key Insights**
+### Key Insights
 
 There are 5 primary skills that you must master to develop Unbeatable Mind mental toughness. These are:
 
@@ -87,9 +87,9 @@ There are 5 primary skills that you must master to develop Unbeatable Mind menta
 
 - **Visualization** and **positivity** are important compliments to the first three skills. Combined as a "suite of mental toughness skills" the 5 skills are comprehensive and complete. Positive self-talk, and eradicating negative feedback loops, is essential for charging your mind and energy with power and to attract the right people and circumstances into your life.
 
-**SIX CORE VALUES OF THE UNBEATABLE MIND**
+### SIX CORE VALUES OF THE UNBEATABLE MIND
 
-**Key Insights**
+### Key Insights
 
 Values must be powerful, meaningful to you, and they must be practiced daily to become habit.
 
@@ -119,9 +119,9 @@ The unbeatable mind suffers in silence and "embraces the suck." This is a traine
 
 Developing an Unbeatable Mind is a lifetime process. Mental toughness is a perishable skill. If you don't constantly challenge yourself, push yourself to new limits, and test your "grit" then you will backslide and get mushy. It is important for you to stay in the arena of hard work and adventure. By setting challenging goals for yourself every year, and working to knock them down, you will continue to grow your unbeatable mind and warrior spirit.
 
-**EIGHT TRAITS OF THE UNBEATABLE MIND**
+### EIGHT TRAITS OF THE UNBEATABLE MIND
 
-**Key Insights**
+### Key Insights
 
 Warriors display a common set of 8 character traits of an unbeatable mind. These 8 traits are trained to be habits in the warrior.
 

@@ -6,13 +6,13 @@ title: 'Zen Flesh Zen Bones: A Collection of Zen and Pre-Zen Writings - by Paul 
   (Compiler)'
 ---
 
-**A Parable**
+### A Parable
 
 Buddha told a parable in a sutra:
 
 A man travelling across a field encountered a tiger. He fled, the tiger after him. Coming to a precipice, he caught hold of the root of a wild wine and swung himself down over the edge. The tiger sniffed at him from above. Trembling, the man looked down to where, far below, another tiger was waiting to eat him. Only the vine sustained him. Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him. Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted!
 
-**My Heart Burns Like Fire**
+### My Heart Burns Like Fire
 
 Soyen Shaku, the first Zen teacher to come to America, said: 'My heart burns like fire, but my eyes are as cold as dead ashes.' He made the following rules which he practised every day of his life.
 
@@ -34,7 +34,7 @@ Soyen Shaku, the first Zen teacher to come to America, said: 'My heart burns lik
 
 - Upon awakening, leave your bed behind you instantly as if you had cast away a pair of old shoes.
 
-**Centreing**
+### Centreing
 
 Sweet-hearted one, meditate on knowing and not knowing, existing and not existing. Then leave both aside that you may _be_.
 

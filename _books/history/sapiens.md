@@ -5,13 +5,13 @@ slug: sapiens
 title: Sapiens - by Yuval Noah Harari
 ---
 
-**An Animal of No Significance**
+### An Animal of No Significance
 
 This is a key to understanding our history and psychology. Genus _Homo_’s position in the food chain was, until quite recently, solidly in the middle. For millions of years, humans hunted smaller creatures and gathered what they could, all the while being hunted by larger predators. It was only 400,000 years ago that several species of man began to hunt large game on a regular basis, and only in the last 100,000 years – with the rise of _Homo sapiens_ – that man jumped to the top of the food chain.
 
 That spectacular leap from the middle to the top had enormous consequences. Other animals at the top of the pyramid, such as lions and sharks, evolved into that position very gradually, over millions of years. This enabled the ecosystem to develop checks and balances that prevent lions and sharks from wreaking too much havoc. As lions became deadlier, so gazelles evolved to run faster, hyenas to cooperate better, and rhinoceroses to be more bad-tempered. In contrast, humankind ascended to the top so quickly that the ecosystem was not given time to adjust. Moreover, humans themselves failed to adjust. Most top predators of the planet are majestic creatures. Millions of years of domination have filled them with self-confidence. Sapiens by contrast is more like a banana-republic dictator. Having so recently been one of the underdogs of the savannah, we are full of fears and anxieties over our position, which makes us doubly cruel and dangerous. Many historical calamities, from deadly wars to ecological catastrophes, have resulted from this over-hasty jump.
 
-**The Tree of Knowledge**
+### The Tree of Knowledge
 
 The truly unique feature of our language is not its ability to transmit information about men and lions. Rather, it’s the ability to transmit information about things that do not exist at all. As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled. Legends, myths, gods and religions appeared for the first time with the Cognitive Revolution. Many animals and human species could previously say, ‘Careful! A lion!’ Thanks to the Cognitive Revolution, _Homo sapiens_ acquired the ability to say, ‘The lion is the guardian spirit of our tribe.’ This ability to speak about fictions is the most unique feature of Sapiens language.
 
@@ -21,7 +21,7 @@ Any large-scale human cooperation – whether a modern state, a medieval church,
 
 Yet none of these things exists outside the stories that people invent and tell one another. There are no gods in the universe, no nations, no money, no human rights, no laws and no justice outside the common imagination of human beings. People easily understand that ‘primitives’ cement their social order by believing in ghosts and spirits, and gathering each full moon to dance together around the campfire. What we fail to appreciate is that our modern institutions function on exactly the same basis.
 
-**What happened in the Cognitive Revolution?**
+### What happened in the Cognitive Revolution?
 
 | New ability                                                                                                                                              | Wider consequences                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -29,7 +29,7 @@ Yet none of these things exists outside the stories that people invent and tell 
 | The ability to transmit larger quantities of information about Sapiens social relationships                                                              | Larger and more cohesive groups, numbering up to 150 individuals                                 |
 | The ability to transmit information about things that do not really exist, such as tribal spirits, nations, limited liability companies and human rights | (a) Cooperation between very large numbers of strangers (b) Rapid innovation of social behaviour |
 
-**History’s Biggest Fraud**
+### History’s Biggest Fraud
 
 Scholars once proclaimed that the agricultural revolution was a great leap forward for humanity. They told a tale of progress fuelled by human brain power. Evolution gradually produced ever more intelligent people. Eventually, people were so smart that they were able to decipher nature’s secrets, enabling them to tame sheep and cultivate wheat. As soon as this happened, they cheerfully abandoned the gruelling, dangerous and often spartan life of hunter-gatherers, settling down to enjoy the pleasant, satiated life of farmers.
 
@@ -37,7 +37,7 @@ That tale is a fantasy. There is no evidence that people became more intelligent
 
 Who was responsible? Neither kings, nor priests, nor merchants. The culprits were a handful of plant species, including wheat, rice and potatoes. These plants domesticated _Homo sapiens_, rather than vice versa.
 
-**Building Pyramids**
+### Building Pyramids
 
 The humanities and social sciences devote most of their energies to explaining exactly how the imagined order is woven into the tapestry of life. Three main factors prevent people from realising that the order organising their lives exists only in their imagination:
 
@@ -59,7 +59,7 @@ The **subjective** is something that exists depending on the consciousness and b
 
 The **inter-subjective** is something that exists within the communication network linking the subjective consciousness of many individuals. If a single individual changes his or her beliefs, or even dies, it is of little importance. However, if most individuals in the network die or change their beliefs, the inter-subjective phenomenon will mutate or disappear. Inter-subjective phenomena are neither malevolent frauds nor insignificant charades. They exist in a different way from physical phenomena such as radioactivity, but their impact on the world may still be enormous. Many of history’s most important drivers are inter-subjective: law, money, gods, nations.
 
-**There Is No Justice in History**
+### There Is No Justice in History
 
 How can we distinguish what is biologically determined from what people merely try to justify through biological myths? A good rule of thumb is ‘Biology enables, culture forbids.’ Biology is willing to tolerate a very wide spectrum of possibilities. It’s culture that obliges people to realise some possibilities while forbidding others. Biology enables women to have children – some cultures oblige women to realise this possibility. Biology enables men to enjoy sex with one another – some cultures forbid them to realise this possibility.
 
@@ -67,7 +67,7 @@ Culture tends to argue that it forbids only that which is unnatural. But from a 
 
 In truth, our concepts ‘natural’ and ‘unnatural’ are taken not from biology but from Christian theology. The theological meaning of ‘natural’ is ‘in accordance with the intentions of the God who created nature’. Christian theologians argued that God created the human body, intending each limb and organ to serve a particular purpose. If we use our limbs and organs for the purpose envisioned by God, then it is a natural activity. To use them differently than God intends is unnatural. But evolution has no purpose. Organs have not evolved with a purpose, and the way they are used is in constant flux. There is not a single organ in the human body that only does the job its prototype did when it first appeared hundreds of millions of years ago. Organs evolve to perform a particular function, but once they exist, they can be adapted for other usages as well. Mouths, for example, appeared because the earliest multicellular organisms needed a way to take nutrients into their bodies. We still use our mouths for that purpose, but we also use them to kiss and speak. Are any of these uses unnatural simple because our wormlike ancestors 600 million years ago didn’t do those things with their mouths?
 
-**The Arrow of History**
+### The Arrow of History
 
 After the Agricultural Revolution, human societies grew ever larger and more complex, while the imagined constructs sustaining the social order also became more elaborate. Myths and fictions accustomed people, nearly from the moment of birth, to think in certain ways, to behave in accordance with certain standards, to want certain things, and to observe certain rules. They thereby created artificial instincts that enabled millions of strangers to cooperate effectively. This network of artificial instincts is called ‘culture’.
 
@@ -79,7 +79,7 @@ The first millennium BC witnessed the appearance of three potentially universal 
 
 Merchants, conquerors and prophets were the first people who managed to transcend the binary evolutionary division, ‘us vs them’, and to foresee the potential unity of humankind. For the merchants, the entire world was a single market and all humans were potential customers. They tried to establish an economic order that would to all, everywhere. For the conquerors, the entire world was a single empire and all humans were potential subjects, and for the prophets, the entire world held a single truth and all humans were potential believers. They too tried to establish an order that would be applicable for everyone everywhere. During the last three millennia, people made more and more ambitious attempts to realise that global vision.
 
-**The Scent of Money**
+### The Scent of Money
 
 Money was created many times in many places. Its development required no technological breakthroughs – it was a purely mental revolution. It involved the creation of a new inter-subjective reality that exists solely in people’s shared imagination. Money is not coins and banknotes. Money is anything that people are willing to use in order to represent systematically the value of other things for the purpose of exchanging goods and services. Money enables people to compare quickly and easily the value of different commodities (such as apples, shoes and divorces), to easily exchange one thing for another, and to store wealth conveniently. There have been many types of money. The most familiar is the coin, which is a standardised piece of imprinted metal. Yet money existed long before the invention of coinage, and cultures have prospered using other things as currency, such as shells, cattle, skins, salt, grains, beads, cloth and promissory notes.
 
@@ -96,7 +96,7 @@ Human communities and families have always been based on belief in ‘priceless�
 
 Money has an even darker side. For although money builds universal trust between strangers, this trust is invested not in humans, communities or sacred values, but in money itself and in the impersonal systems that back it. We do not trust the stranger, or the next-door neighbour – we trust the coin they hold. If they run out of coins, we run out of trust. As money brings down the dams of community, religion and state, the world is in danger of becoming one big and rather heartless marketplace. Hence the economic history of humankind is a delicate dance. People rely on money to facilitate cooperation with strangers, but they’re afraid it will corrupt human values and intimate relations. With one hand people willingly destroy the communal dams that held at bay the movement of money and commerce for so long. Yet with the other hand they build new dams to protect society, religion and the environment from enslavement to market forces.
 
-**What Is an Empire?**
+### What Is an Empire?
 
 An empire is a political order with two important characteristics. First, to qualify for that designation you have to rule over a significant number of distinct peoples, each possessing a different cultural identity and a separate territory. How many peoples exactly? Two or three is not sufficient. Twenty or thirty is plenty. The imperial threshold passes somewhere in between.
 
@@ -106,7 +106,7 @@ Cultural diversity and territorial flexibility give empires not only their uniqu
 
 It should be stressed that an empire is defined solely by its cultural diversity and flexible borders, rather than by its origins, its form of government, its territorial extent, or the size of its population. An empire need not emerge from military conquest. Nor must an empire be ruled by an autocratic emperor. Size, too, does not really matter. Empires can be puny. Empires were one of the main reasons for the drastic reduction in human diversity. The imperial steamroller gradually obliterated the unique characteristics of numerous peoples, forging out of them new and much larger groups.
 
-**The Law of Religion**
+### The Law of Religion
 
 Today religion is often considered a source of discrimination, disagreement and disunion. Yet, in fact, religion has been the third great unifier of humankind, alongside money and empires. Since all social orders and hierarchies are imagined, they are all fragile, and the larger the society, the more fragile it is. The crucial historical role of religion has been to give superhuman legitimacy to these fragile structures. Religions assert that our laws are not the result of human caprice, but are ordained by an absolute and supreme authority. This helps place at least some fundamental laws beyond challenge, thereby ensuring social stability. Religion can thus be defined as _a system of human norms and values that is founded on a belief in a superhuman order_. This involves two distinct criteria:
 
@@ -117,7 +117,7 @@ Despite their ability to legitimise widespread social and political orders, not 
 
 The best-known religions of history, such as Islam and Buddhism, are universal and missionary. Consequently, people tend to believe that all religions are like them. In fact, the majority of ancient religions were local and exclusive. Their followers believed in local deities and spirits, and had no interest in converting the entire human race. As far as we know, universal and missionary religions began to appear only in the first millennium BC. Their emergence was one of the most important revolutions in history, and made a vital contribution to the unification of humankind, much like the emergence of universal empires and universal money.
 
-**The Discovery of Ignorance**
+### The Discovery of Ignorance
 
 Humans have sought to understand the universe at least since the Cognitive Revolution. Our ancestors put a great deal of time and effort into trying to discover the rules that govern the natural world. But modern science differs from all previous traditions of knowledge in three critical ways:
 
@@ -127,13 +127,13 @@ Humans have sought to understand the universe at least since the Cognitive Revol
 
 The Scientific Revolution has not been a revolution of knowledge. It has been above all a revolution of ignorance. The great discovery that launched the Scientific Revolution was the discovery that humans do not know the answers to their most important questions.
 
-**The Marriage of Science and Empire**
+### The Marriage of Science and Empire
 
 Scientists have provided the imperial project with practical knowledge, ideological justification and technological gadgets. Without this contribution it is highly questionable whether Europeans could have conquered the world. The conquerors returned the favour by providing scientists with information and protection, supporting all kinds of strange and fascinating projects and spreading the scientific way of thinking to the far corners of the earth. Without imperial support, it is doubtful whether modern science would have progressed very far. There are very few scientific disciplines that did not begin their lives as servants to imperial growth and that do not owe a large proportion of their discoveries, collections, buildings and scholarships to the generous help of army officers, navy captains and imperial governors.
 
 This is obviously not the whole story. Science was supported by other institutions, not just by empires. And the European empires rose and flourished thanks also to factors other than science. Behind the meteoric rise of both science and empire lurks one particularly important force: capitalism. Were it not for businessmen seeking to make money, Columbus would not have reached America, James Cook would not have reached Australia, and Neil Armstrong would never have taken that small step on the surface of the moon.
 
-**The Capitalist Creed**
+### The Capitalist Creed
 
 Over the last 500 years the idea of progress convinced people to put more and more trust in the future. This trust created credit; credit bought real economic growth; and growth strengthened the trust in the future and opened the way for even more credit. It didn’t happen overnight – the economy behaved more like a roller coaster than a balloon. But over the long run, with the bumps evened out, the general direction was unmistakable. Today, there is so much credit in the world that governments, business corporations and private individuals easily obtain _large, long-term and low-interest loans_ that far exceed current income.
 
@@ -145,7 +145,7 @@ Smith taught people to think about the economy as a ‘win-win situation’, in 
 
 All this depends, however, on the rich using their profits to open new factories and hire new employees, rather than wasting them on non-productive activities. A crucial part of the modern capitalist economy was the emergence of a new ethic, according to which profits ought to be reinvested in production. This brings about more profits, which are again reinvested in production, which brings more profits, et cetera ad infinitum. Investments can be made in many ways: enlarging the factory, conducting scientific research, developing new products. Yet all these investments must somehow increase production and translate into larger profits. In the new capitalist creed, the first and most sacred commandment is: ‘The profits of production must be reinvested in increasing production.’ Capitalism distinguishes ‘capital’ from mere ‘wealth’. Capital consists of money, goods and resources that are invested in production. Wealth, on the other hand, is buried in the ground or wasted on unproductive activities.
 
-**The Cult of the Free Market**
+### The Cult of the Free Market
 
 Capital and politics influence each other to such an extent that their relations are hotly debated by economists, politicians and the general public alike. Ardent capitalists tend to argue that capital should be free to influence politics, but politics should not be allowed to influence capital. They argue that when governments interfere in the markets, political interests cause them to make unwise investments that result in slower growth. For example, a government may impose heavy taxation on industrialists and use the money to give lavish unemployment benefits, which are popular with voters. In the view of many business people, it would be far better if the government left the money with them. They would use it, they claim, to open new factories and hire the unemployed.
 
@@ -153,13 +153,13 @@ In this view, the wisest economic policy is to keep politics out of the economy,
 
 But in its extreme form, belief in the free market is as naive as belief in Santa Claus. There simply is no such thing as a market free of all political bias. The most important economic resource is trust in the future, and this resource is constantly threatened by thieves and charlatans. Markets by themselves offer no protection against fraud, theft and violence. It is the job of political system to ensure trust by legislating sanctions against cheats and to establish and support police forces, courts and jails which will enforce the law. When kings fail to do their jobs and regulate the markets properly, it leads to loss of trust, dwindling credit and economic depression. That was the lesson taught by the Mississippi Bubble of 1719, and anyone who forgot it was reminded by the US housing bubble of 2007, and the ensuing credit crunch and recession.
 
-**The Industrial Revolution**
+### The Industrial Revolution
 
 The Industrial Revolution brought about dozens of major upheavals in human society. Adapting to industrial time is just one of them. Other notable examples include urbanisation, the disappearance of the peasantry, the rise of the industrial proletariat, the empowerment of the common person, democratisation, youth culture and the disintegration of patriarchy.
 
 Yet all of these upheavals are dwarfed by the most momentous social revolution that ever befell humankind: the collapse of the family and the local community and their replacement by the state and the market. As best as we can tell, from the earliest times, more than a million years ago, humans lived in small, intimate communities, most of whose members were kin. The Cognitive Revolution and the Agricultural Revolution did not change that. They glued together families and communities to create tribes, circuits, kingdoms and empires, but families and communities remained the basic building blocks of all human societies. The Industrial Revolution, on the other hand, managed within little more than two centuries to break these building blocks into atom. Most of the traditional functions of families and communities were handed over to states and markets.
 
-**Imagined Communities**
+### Imagined Communities
 
 Like the nuclear family, the community could not completely disappear from our world without any emotional replacement. Markets and states today provide most of the material needs once provided by communities, but they must also supply tribal bonds. Markets and states do so by fostering ‘imagined communities’ that contain millions of strangers, and which are tailored to national and commercial needs. An imagined community is a community of people who don’t really know each other, but imagine that they do. Such communities are not a novel invention. Kingdoms, empires and churches functioned for millennia as imagined communities. Yet throughout history, such imagined communities played second fiddle to intimate communities of several dozen people who knew each other well. The intimate communities fulfilled the emotional needs of their members and were essential for everyone’s survival and welfare. In the last two centuries, the intimate communities have withered, leaving imagined communities to fill in the emotional vacuum.
 
@@ -167,7 +167,7 @@ The two most important examples for the rise of such imagined communities are th
 
 Consumerism and nationalism work extra hours to make us imagine that millions of strangers belong to the same community as ourselves, that we all have a common past, common interests and a common future. This isn’t a lie. It’s imagination. Like money, limited liability companies and human rights, nations and consumer tribes are inter-subjective realities. They exist only in our collective imagination, yet their power is immense.
 
-**And They Lived Happily Ever After**
+### And They Lived Happily Ever After
 
 According to Buddhism, the root of suffering is neither the feeling of pain nor of sadness nor even of meaninglessness. Rather, the real root of suffering is this never-ending and pointless pursuit of ephemeral feelings, which causes us to be in a constant state of tension, restlessness and dissatisfaction. Due to this pursuit, the mind is never satisfied. Even when experiencing pleasure, it is not content, because it fears this feelings might soon disappear, and craves that this feeling should stay and intensify.
 

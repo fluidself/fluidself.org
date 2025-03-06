@@ -5,7 +5,7 @@ slug: how-emotions-are-made
 title: 'How Emotions Are Made: The Secret Life of the Brain - by Lisa Feldman Barrett'
 ---
 
-**The Two-Thousand-Year-Old Assumption**
+### The Two-Thousand-Year-Old Assumption
 
 The time-honored story of emotion goes something like this: We all have emotions built-in from birth. They are distinct, recognizable phenomena inside us. When something happens in the world, whether it’s a gunshot or a flirtatious glance, our emotions come on quickly and automatically, as if someone has flipped a switch. We broadcast emotions on our faces by way of smiles, frowns, scowls, and other characteristic expressions that anyone can easily recognize. Our voices reveal our emotions through laughter, shouts, and cries. Our body posture betrays our feelings with every gesture and slouch.
 
@@ -13,7 +13,7 @@ And yet... despite the distinguished intellectual pedigree of the classical view
 
 When scientists set aside the classical view and just look at the data, a radically different explanation for emotion comes to light. In short, we find that your emotions are not built-in but made from more basic parts. They are not universal but vary from culture to culture. They are not triggered; you create them. They emerge as a combination of the physical properties of your body, a flexible brain that wires itself to whatever environment it develops in, and your culture and upbringing, which provide that environment. Emotions are real, but not in the objective sense that molecules or neurons are real. They are real in the same sense that money is real — that is, hardly an illusion, but a product of human agreement.
 
-**The Search for Emotion’s “Fingerprints”**
+### The Search for Emotion’s “Fingerprints”
 
 If we put all the scientific evidence together, we cannot claim, with any reasonable certainty, that each emotion has a diagnostic facial expression.
 
@@ -27,7 +27,7 @@ Another surprising thing I learned while training to be a neuroscientist, along 
 
 To be clear, I’m not saying that every neuron in the brain does exactly the same thing, nor that every neuron can stand in for every other. (That view is called equipotentiality, and it’s been long disproved.) I am saying that most neurons are multipurpose, playing more than one part, much as flour and eggs in your kitchen can participate in many recipes.
 
-**Emotions Are Constructed**
+### Emotions Are Constructed
 
 Simulations are your brain’s guesses of what’s happening in the world. In every waking moment, you’re faced with ambiguous, noisy information from your eyes, ears, nose, and other sensory organs. Your brain uses your past experiences to construct a hypothesis — the simulation — and compares it to the cacophony arriving from your senses. In this manner, simulation lets your brain impose meaning on the noise, selecting what’s relevant and ignoring the rest.
 
@@ -47,7 +47,7 @@ In the theory of constructed emotion, a category of emotion such as sadness, fea
 
 Emotions are social reality. A physical event like a change in heart rate, blood pressure, or respiration becomes an emotional experience only when we, with emotion concepts that we have learned from our culture, imbue the sensations with additional functions by social agreement. From the widened eyes of a friend we may perceive fear or surprise, again depending on which concepts we use. We must not confuse physical reality, such as changes in heart rate or widened eyes, with the social reality of emotion concepts.
 
-**The Origin of Feeling**
+### The Origin of Feeling
 
 Simple pleasant and unpleasant feelings come from an ongoing process inside you called interoception. Interoception is your brain’s representation of all sensations from your internal organs and tissues, the hormones in your blood, and your immune system.
 
@@ -91,19 +91,19 @@ You might think that in everyday life, the things you see and hear influence wha
 
 The bottom line is this: the human brain is anatomically structured so that no decision or action can be free of interoception and affect, no matter what fiction people tell themselves about how rational they are. Your bodily feeling right now will project forward to influence what you will feel and do in the future. It is an elegantly orchestrated, self-fulfilling prophecy, embodied within the architecture of your brain.
 
-**Concepts, Goals, and Words**
+### Concepts, Goals, and Words
 
 My point is not to say, “You construct instances of emotion by categorization: isn’t that unique?” Rather, it’s to show that categorization constructs every perception, thought, memory, and other mental event that you experience, so of course you construct instances of emotion in the same manner. This is not effortful, conscious categorization, as when an entomologist pores over some new specimen of weevil, deciding whether it’s a member of the anthribidae or nemonychidae family. I’m speaking of the rapid, automatic categorization performed constantly by your brain, in every waking moment, in milliseconds, to predict and explain the sensory input that you encounter. Categorization is business as usual for your brain, and it explains how emotions are made without needing fingerprints.
 
 Emotions are not reactions to the world; they are your constructions of the world.
 
-**How the Brain Makes Emotions**
+### How the Brain Makes Emotions
 
 Emotions are meaning. They explain your interoceptive changes and corresponding affective feelings, in relation to the situation. They are a prescription for action. The brain systems that implement concepts, such as the interoceptive network and the control network, are the biology of meaning-making.
 
 So, now you know how emotions are made in the brain. We predict and categorize. We regulate our body budgets, as any animal does, but wrap this regulation in purely mental concepts like “Happiness” and “Fear,” that we construct in the moment. We share these purely mental concepts with other adults, and we teach them to our children. We make a new kind of reality and live in it every day, mostly unaware that we are doing so.
 
-**Emotions as Social Reality**
+### Emotions as Social Reality
 
 A sound, therefore, is not an event that is detected in the world. It is an experience constructed when the world interacts with a body that detects changes in air pressure, and a brain that can make those changes meaningful. Without a perceiver there is no sound, only physical reality.
 
@@ -123,7 +123,7 @@ This brings us to one of the most challenging ideas in this book: you need an em
 
 Emotion concepts like “Fear,” “Anger,” and “Happiness” are passed down from one generation to the next. This occurs not merely because we propagate our genes but because those genes allow each generation to wire the brains of the next one. Infants grow minds full of concepts as they learn the mores and values of their culture. This process goes by many names: Brain development. Language development. Socialization.
 
-**A New View of Human Nature**
+### A New View of Human Nature
 
 You are not a reactive animal, wired to respond to events in the world. When it comes to your experiences and perceptions, you are much more in the driver’s seat than you might think. You predict, construct, and act. You are an architect of your experience.
 
@@ -141,7 +141,7 @@ The classical view often dismisses construction as saying everything is relative
 
 Modern neuroscience, however, has burned down both caricatures. We are not blank slates, and our children are not “Silly Putty” to be shaped this way and that, but neither is biology destiny.
 
-**Mastering Your Emotions**
+### Mastering Your Emotions
 
 After attending to your body budget, the next best thing you can do for emotional health is to beef up your concepts, otherwise known as “becoming more emotionally intelligent.” People with a classical view mindset think about emotional intelligence as “detecting” other people’s emotions “accurately,” or experiencing happiness and avoiding sadness “at the right time.” With our new understanding of emotions, however, we can think about emotional intelligence in a new way. “Happiness” and “Sadness” are each populations of diverse instances. Therefore, emotional intelligence (EI) is about getting your brain to construct the most useful instance of the most useful emotion concept in a given situation. (And also when not to construct emotions but instances of some other concept.)
 
@@ -167,19 +167,19 @@ To improve at emotion perception, we must all give up the fiction that we know h
 
 If you want someone else to know what you’re feeling, you need to transmit clear cues for the other person to predict effectively and for synchrony to occur. In the classical view of emotion, the responsibility is all on the perceiver’s end because emotions are supposedly displayed universally. In a construction mindset, you also bear the responsibility to be a good sender.
 
-**Emotion and Illness**
+### Emotion and Illness
 
 My view is that some major illnesses considered distinct and “mental” are all rooted in a chronically unbalanced body budget and unbridled inflammation. We categorize and name them as different disorders, based on context, much like we categorize and name the same bodily changes as different emotions. If I’m correct, then questions like, “Why do anxiety and depression frequently co-occur?” are no longer mysteries because, like emotions, these illnesses do not have firm boundaries in nature.
 
 Overall, the body sensations that are categorized as pain, stress, and emotions are fundamentally the same, even at the level of neurons in the brain and spinal cord. Distinguishing between pain, stress, and emotion is a form of emotional granularity.
 
-**Emotion and the Law**
+### Emotion and the Law
 
 The idea that jurors can somehow detect remorse in a defendant, from his facial configurations or bodily movements or words, is steeped in the classical view, which assumes that emotions are universally expressed and recognized. The legal system assumes that remorse, like anger and other emotions, has a single, universal essence with a detectable fingerprint. However, remorse is an emotion category composed of many diverse instances, each one made for a specific situation.
 
 Affective realism decimates the ideal of the impartial juror. Want to increase the likelihood of a conviction in a murder trial? Show the jury some gruesome photographic evidence. Tip their body budgets out of balance and chances are they’ll attribute their unpleasant affect to the defendant: “I feel bad, therefore you must have done something bad. You are a bad person.” Or permit family members of the deceased to describe in writing how the crime has hurt them, a practice known as a victim personal statement, and the jury will tend to recommend more severe punishments.
 
-**Is a Growling Dog Angry?**
+### Is a Growling Dog Angry?
 
 I think it’s best to assume all animals can experience affect.
 
@@ -191,7 +191,7 @@ Freezing is a behavior, whereas fear is a much more complex mental state. The sc
 
 In a nutshell, you can’t study fear by shocking rats unless at the outset you have defined “fear” circularly as “the freezing response of a shocked rat.”
 
-**From Brain to Mind: The New Frontier**
+### From Brain to Mind: The New Frontier
 
 A human brain can create many kinds of minds, yet all human minds do have some common ingredients. For millennia, scholars believed that the inevitable bits of the mind were essences, but they are not. The ingredients are three aspects of the mind that we’ve encountered in this book: affective realism, concepts, and social reality. They (and perhaps others) are inevitable and therefore universal, barring illness, based on the anatomy and function of the brain.
 

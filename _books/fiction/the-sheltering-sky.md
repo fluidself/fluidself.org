@@ -17,9 +17,9 @@ Port watched, fascinated as always by the sight of a human being brought down to
 
 Tunner himself was an essentially simple individual irresistibly attracted by whatever remained just beyond his intellectual grasp. Contenting himself with not quite being able to seize an idea was a habit he had acquired in adolescence, and it operated in him now with still greater force. If he could get on all sides of a thought, he concluded that it was an inferior one; there had to be an inaccessible part of it for his interest to be aroused. His attention, however, did not spur him to additional thought. On the contrary, it merely provided him with an emotional satisfaction vis-à-vis the idea, making it possible for him to relax and admire it at a distance.
 
-For in order to avoid having to deal with relative values, he had long since come to deny all purpose to the phenomenon of existence--it was more expedient and comforting.
+For in order to avoid having to deal with relative values, he had long since come to deny all purpose to the phenomenon of existence—it was more expedient and comforting.
 
-"Sunset is such a sad hour," she said, presently. "If I watch the end of a day--any day--I always feel it's the end of a whole epoch. And the autumn! It might as well be the end of everything," he said. "That's why I hate cold countries, and love the warm ones, where there's no winter, and when night comes you feel an opening up of the life there, instead of a closing down. Don't you feel that?" "Yes," said Kit, "but I'm not sure I prefer the warm countries. I don't know. I'm not sure I don't feel that it's wrong to try to escape the night and winter, and that if you do you'll have to pay for it somehow."
+"Sunset is such a sad hour," she said, presently. "If I watch the end of a day—any day—I always feel it's the end of a whole epoch. And the autumn! It might as well be the end of everything," he said. "That's why I hate cold countries, and love the warm ones, where there's no winter, and when night comes you feel an opening up of the life there, instead of a closing down. Don't you feel that?" "Yes," said Kit, "but I'm not sure I prefer the warm countries. I don't know. I'm not sure I don't feel that it's wrong to try to escape the night and winter, and that if you do you'll have to pay for it somehow."
 
 Whenever he was en route from one place to another, he was able to look at his life with a little more objectivity than usual. It was often on trips that he thought most clearly, and made the decisions that he could not reach when he was stationary.
 
@@ -29,7 +29,7 @@ Because neither she nor Port had ever lived a life of any kind of regularity, th
 
 It takes energy to invest life with meaning, and at present this energy was lacking.
 
-How many times his friends, envying him his life, had said to him: "Your life is so simple." "Your life seems always to go in a straight line." Whenever they had said the words he heard in them an implicit reproach: it is not difficult to build a straight road on a treeless plain. He felt that what they really meant to say was: "You have chosen the easiest terrain." But if they elected to place obstacles in their own way--and they so clearly did, encumbering themselves with every sort of unnecessary allegiance--that was no reason why they should object to his having simplified his life. So it was with a certain annoyance that he would say: "Everyone makes the life he wants. Right?" as though there were nothing further to be said.
+How many times his friends, envying him his life, had said to him: "Your life is so simple." "Your life seems always to go in a straight line." Whenever they had said the words he heard in them an implicit reproach: it is not difficult to build a straight road on a treeless plain. He felt that what they really meant to say was: "You have chosen the easiest terrain." But if they elected to place obstacles in their own way—and they so clearly did, encumbering themselves with every sort of unnecessary allegiance—that was no reason why they should object to his having simplified his life. So it was with a certain annoyance that he would say: "Everyone makes the life he wants. Right?" as though there were nothing further to be said.
 
 "Death is always on the way, but the fact that you don't know when it will arrive seems to take away from the finiteness of life. It's that terrible precision that we hate so much. But because we don't know, we get to think of life as an inexhaustible well. Yet everything happens only a certain number of times, and a very small number, really.
 
@@ -37,7 +37,7 @@ She felt a strange intensity being born within her. As she looked about the quie
 
 The lieutenant remarked, as much to break the silence as for any other reason: "Ah, yes. Life is amazing. Nothing ever happens the way one imagines it is going to. One realizes that most clearly here; all your philosophic systems crumble. At every turn one finds the unexpected.
 
-"From a certain point onward there is no longer any turning back. That is the point that must be reached."
---KAFKA
+> "From a certain point onward there is no longer any turning back. That is the point that must be reached."  
+> —KAFKA
 
 "Women always think of what is finished instead of what is beginning. Here we say that life is a cliff, and you must never turn around and look back when you're climbing. It makes you sick."

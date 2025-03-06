@@ -7,7 +7,7 @@ title: 'Thinking in Systems: A Primer - by Donella H. Meadows'
 
 A system is a set of things—people, cells, molecules, or whatever—interconnected in such a way that they produce their own pattern of behavior over time. The system may be buffeted, constricted, triggered, or driven by outside forces. But the system’s response to these forces is characteristic of itself, and that response is seldom simple in the real world.
 
-**PART ONE: System Structure and Behavior**
+## PART ONE: System Structure and Behavior
 
 A system isn’t just any old collection of things. A system is an interconnected set of elements that is coherently organized in a way that achieves something. If you look at that definition closely for a minute, you can see that a system must consist of three kinds of things: elements, interconnections, and a function or purpose.
 
@@ -45,7 +45,7 @@ Balancing feedback loops are equilibrating or goal-seeking structures in systems
 
 Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself.
 
-**One-Stock Systems**
+### One-Stock Systems
 
 _A Stock with Two Competing Balancing Loops—a Thermostat_
 
@@ -69,7 +69,7 @@ A delay in a balancing feedback loop makes a system likely to oscillate.
 
 Delays are pervasive in systems, and they are strong determinants of behavior. Changing the length of a delay may (or may not, depending on the type of delay and the relative lengths of other delays) make a large change in the behavior of a system.
 
-**Two-Stock Systems**
+### Two-Stock Systems
 
 _A Renewable Stock Constrained by a Nonrenewable Stock—an Oil Economy_
 
@@ -81,9 +81,9 @@ _Renewable Stock Constrained by a Renewable Stock—a Fishing Economy_
 
 Nonrenewable resources are stock-limited. The entire stock is available at once, and can be extracted at any rate (limited mainly by extraction capital). But since the stock is not renewed, the faster the extraction rate, the shorter the lifetime of the resource. Renewable resources are flowlimited. They can support extraction or harvest indefinitely, but only at a finite flow rate equal to their regeneration rate. If they are extracted faster than they regenerate, they may eventually be driven below a critical threshold and become, for all practical purposes, nonrenewable.
 
-**PART TWO: Systems and Us**
+## PART TWO: Systems and Us
 
-**Why Systems Work So Well**
+### Why Systems Work So Well
 
 **Resilience:** Resilience is a measure of a system’s ability to survive and persist within a variable environment. The opposite of resilience is brittleness or rigidity. Resilience arises from a rich structure of many feedback loops that can work in different ways to restore a system even after a large perturbation. A single balancing loop brings a system stock back to its desired state. Resilience is provided by several such loops, operating through different mechanisms, at different time scales, and with redundancy—one kicking in if another one fails. There are always limits to resilience. Systems need to be managed not only for productivity or stability, they also need to be managed for resilience—the ability to recover from perturbation, the ability to restore or repair themselves.
 
@@ -91,7 +91,7 @@ Nonrenewable resources are stock-limited. The entire stock is available at once,
 
 **Hierarchy:** In the process of creating new structures and increasing complexity, one thing that a self-organizing system often generates is hierarchy. Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hierarchy is to serve the purposes of the lower layers. When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization.
 
-**Why Systems Surprise Us**
+### Why Systems Surprise Us
 
 Everything we think we know about the world is a model. Our models do have a strong congruence with the world. Our models fall far short of representing the real world fully.
 
@@ -111,7 +111,7 @@ When there are long delays in feedback loops, some sort of foresight is essentia
 
 The bounded rationality of each actor in a system—determined by the information, incentives, disincentives, goals, stresses, and constraints impinging on that actor—may or may not lead to decisions that further the welfare of the system as a whole. If they do not, putting new actors into the same system will not improve the system’s performance. What makes a difference is redesigning the system to improve the information, incentives, disincentives, goals, stresses, and constraints that have an effect on specific actors.
 
-**System Traps... and Opportunities**
+### System Traps... and Opportunities
 
 Some systems are more than surprising. They are perverse. These are the systems that are structured in ways that produce truly problematic behavior; they cause us great trouble. There are many forms of systems trouble, some of them unique, but many strikingly common. We call the system structures that produce such common patterns of problematic behavior archetypes.
 
@@ -155,9 +155,9 @@ System behavior is particularly sensitive to the goals of feedback loops. If the
 _THE WAY OUT_  
 Specify indicators and goals that reflect the real welfare of the system. Be especially careful not to confuse effort with result or you will end up with a system that is producing effort, not result.
 
-**PART THREE: Creating Change—in Systems and in Our Philosophy**
+## PART THREE: Creating Change—in Systems and in Our Philosophy
 
-**Places to Intervene in a System (in increasing order of effectiveness)**
+### Places to Intervene in a System (in increasing order of effectiveness)
 
 - **Numbers:** Constants and parameters such as subsidies, taxes, and standards
 
@@ -183,7 +183,7 @@ Specify indicators and goals that reflect the real welfare of the system. Be esp
 
 - **Transcending Paradigms:** People who cling to paradigms (which means just about all of us) take one look at the spacious possibility that everything they think is guaranteed to be nonsense and pedal rapidly in the opposite direction. Surely there is no power, no control, no understanding, not even a reason for being, much less acting, embodied in the notion that there is no certainty in any worldview. But, in fact, everyone who has managed to entertain that idea, for a moment or for a lifetime, has found it to be the basis for radical empowerment. If no paradigm is right, you can choose whatever one will help to achieve your purpose. If you have no idea where to get a purpose, you can listen to the universe.
 
-**Living in a World of Systems**
+### Living in a World of Systems
 
 We can’t control systems or figure them out. But we can dance with them!
 

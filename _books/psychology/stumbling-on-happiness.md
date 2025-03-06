@@ -11,7 +11,7 @@ Dire images make us feel dreadful–quite literally–so why do we go to such gr
 
 If the question is ‘Why should we want to control our futures?' then the surprisingly right answer is that it feels good to do so–period. Impact is rewarding. Mattering makes us happy. The act of steering one's boat down the river of time is a source of pleasure, regardless of one's port of call.
 
-**Subjectivity**
+### Subjectivity
 
 Once we have an experience, we cannot simply set it aside and see the world as we would have seen it had the experience never happened. Our experiences instantly become part of the lens through which we view our entire past, present and future, and like any lens, they shape and distort what we see. This lens is not like a pair of spectacles that we can set on the nightstand when we find it convenient to do so but like a pair of contacts that are forever affixed to our eyeballs with superglue.
 
@@ -19,7 +19,7 @@ Physiological arousal can be interpreted in a variety of ways, and our interpret
 
 The word experience comes from the Latin experientia, meaning ‘to try', whereas the word aware comes from the Greek horan, meaning ‘to see'. Experience implies participation in an event, whereas awareness implies observation of an event. The two words can normally be substituted in ordinary conversation without much damage, but they are differently inflected. One gives us the sense of being engaged, whereas the other gives us the sense of being cognizant of that engagement. One denotes reflection while the other denotes the thing being reflected. In fact, awareness can be thought of as a kind of experience of our own experience.
 
-**Realism**
+### Realism
 
 We make a systematic set of errors when we try to imagine ‘what it would feel like if'.
 
@@ -29,7 +29,7 @@ The general inability to think about absences is a potent source of error in eve
 
 Just as objects that are near to us in space appear to be more detailed than those that are far away, so do events that are near to us in time. When we think of events in the distant past or distant future we tend to think abstractly about why they happened or will happen, but when we think of events in the near past or near future we tend to think concretely about how they happened or will happen.
 
-**Presentism**
+### Presentism
 
 Because we naturally use our present feelings as a starting point when we attempt to predict our future feelings, we expect our future to feel a bit more like our present than it actually will. The reality of the moment is so palpable and powerful that it holds imagination in a tight orbit from which it never fully escapes. Presentism occurs because we fail to recognize that our future selves won't see the world the way we see it now.
 
@@ -41,7 +41,7 @@ In general, mental images are atemporal.
 
 The comparisons we make have a profound impact on our feelings, and when we fail to recognize that the comparisons we are making today are not the comparisons we will make tomorrow, we predictably underestimate how differently we will feel in the future.
 
-**Rationalization**
+### Rationalization
 
 The eye and the brain are conspirators, and like most conspiracies, theirs is negotiated behind closed doors, in the back room, outside of our awareness. Because we do not realize that we have generated a positive view of our current experience, we do not realize that we will do so again in the future. Not only does our naïveté cause us to overestimate the intensity and duration of our distress in the face of future adversity, but it also leads us to take actions that may undermine the conspiracy. We are more likely to generate a positive and credible view of an action than an inaction, of a painful experience than of an annoying experience, of an unpleasant situation that we cannot escape than of one we can. And yet, we rarely choose action over inaction, pain over annoyance and commitment over freedom. The processes by which we generate positive views are many: we pay more attention to favourable information, we surround ourselves with those who provide it and we accept it uncritically. These tendencies make it easy for us to explain unpleasant experiences in ways that exonerate us and make us feel better. The price we pay for our irrepressible explanatory urge is that we often spoil our most pleasant experiences by making good sense of them.
 
@@ -51,7 +51,7 @@ We do not realize that our views will change because we are normally unaware of 
 
 In the long run, people of every age and in every walk of life seem to regret not having done things much more than they regret things they did, which is why the most popular regrets include not going to college, not grasping profitable business opportunities and not spending enough time with family and friends. But why do people regret inactions more than actions? One reason is that the psychological immune system has a more difficult time manufacturing positive and credible views of inactions than of actions. Because we do not realize that our psychological immune systems can rationalize an excess of courage more easily than an excess of cowardice, we hedge our bets when we should blunder forward.
 
-**Corrigibility**
+### Corrigibility
 
 Our memory for emotional episodes is overly influenced by unusual instances, closing moments and theories about how we must have felt way back then, all of which gravely compromise our ability to learn from our own experience.
 

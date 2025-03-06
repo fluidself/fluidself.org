@@ -9,7 +9,7 @@ A network state is a highly aligned online community with a capacity for collect
 
 A network state is a social network with a moral innovation, a sense of national consciousness, a recognized founder, a capacity for collective action, an in-person level of civility, an integrated cryptocurrency, a consensual government limited by a social smart contract, an archipelago of crowdfunded physical territories, a virtual capital, and an on-chain census that proves a large enough population, income, and real-estate footprint to attain a measure of diplomatic recognition
 
-**The Network State in One Thousand Words**
+### The Network State in One Thousand Words
 
 Technology has allowed us to start new companies, new communities, and new currencies. But can we use it to create new cities, or even new countries? A key concept is to go cloud frst, land last — but not land never — by starting with an online community and then materializing it into the physical world. We get there in seven steps:
 
@@ -29,13 +29,13 @@ Technology has allowed us to start new companies, new communities, and new curre
 
 If a startup begins by identifying an economic problem in today’s market and presenting a technologically-informed solution to that problem in the form of a new company, a startup society begins by identifying a moral issue in today’s culture and presenting a historically-informed solution to that issue in the form of a new society.
 
-**Cryptohistory is Cryptographically Verifable Macrohistory**
+### Cryptohistory is Cryptographically Verifable Macrohistory
 
 The expansion of blockspace is on track to give us a cryptographically verifable macrohistory, or cryptohistory for short. This is the log of everything that billions of people choose to make public: every decentralized tweet, every public donation, every birth and death certifcate, every marriage and citizenship record, every crypto domain registration, every merger and acquisition of an on-chain entity, every fnancial statement, every public record — all digitally signed, timestamped, and hashed in freely available public ledgers
 
 In theory you could eventually download the public blockchain of a network state to replay the entire cryptographically verifed history of a community. That’s the future of public records, a concept that is to the paper-based system of the legacy state what paper records were to oral records. It’s also a vision for what macrohistory will become. Not a scattered letter from an Abelard here and a stone tablet from an Egyptian there. But a full log, a cryptohistory. The unifcation of microhistory and macrohistory in one giant cryptographically verifable dataset. We call this indelible, computable, digital, authenticatable history the ledger of record. This concept is foundational to the network state. And it can be used for good or ill. In decentralized form, the ledger of record allows an individual to resist the Stalinist rewriting of the past. It is the ultimate expression of the bottom-up view of history as what’s written to the ledger. But you can also imagine a bastardized form, where the cryptographic checks are removed, the read/write access is centralized, and the idea of a total digital history is used by a state to create an NSA/China-like system of inescapable, lifelong surveillance.
 
-**The Realignment**
+### The Realignment
 
 People have talked about zombie Reaganism, but in this scenario a new coalition would be finally popping into view. And it’s a totally diferent carving of the political spectrum than the Reagan era. Rather than nationalists and capitalists (the right) against internationalists and socialists (the left), it’s internationalists and capitalists (left- and right-libertarians) against socialists and nationalists (left- and right-authoritarians). That Realignment would be the Network against the State. The authoritarians would outnumber the libertarians domestically, and have the institutions on their side. But the libertarians would have stronger individual talent, as they’d draw the iconoclasts, and they’d also draw support from the rest of the world. In the language of the political compass, the Reagan era was right-vs-left, whereas the Network-vs-State era would be top vs bottom.
 
@@ -61,7 +61,7 @@ Marx’s concept of a class struggle has been so influential that people don’t
 
 **Moral Progress is Moral Innovation is Moral Inversion.** If you want to produce moral and not just technological progress, you’re going to have to introduce new moral premises that invert what people previously believed. So one man’s moral innovation is another man’s moral inversion.
 
-**Left and Right as Temporary Tactics, Not Constant Classes**
+### Left and Right as Temporary Tactics, Not Constant Classes
 
 The names for the two tactics that arise in these battles may hail from the French Revolution — the left and the right — but they’re almost like magnetic north and south, like yin and yang, seemingly encoded into our nature. The left tactic is to delegitimize the existing order, argue it is unjust, and angle for redistributing the scarce resource (power, money, status, land), while the right tactic is to argue that the current order is fair, that the left is causing chaos, and that the ensuing confict will destroy the scarce resource and not simply redistribute it. You can think of circumstances where the right was correct, and those where the left was. A key concept is that on a historical timescale, right and left are temporary tactics as opposed to defning characteristics of tribes.
 
@@ -71,7 +71,7 @@ The key word there is scarce. Everything changes when the frontier opens up, whe
 
 Putting it all together, we propose that (a) left and right are quantifable phenomena we can see via the spatial theory of voting, (b) the left/right axis is real but rotates with time, (c) they’re ancient and ineradicable concepts, arguably on par with yin/yang or magnetic north/south, (d) they’re complementary tactics to gain access to scarce resources, (e) if one group uses a left tactic, the other is almost forced to adopt a right tactic in response, and vice versa, (f) the frontier reduces political left/right issues because it reduces confict over scarce resources, (g) we can think of left as revolutionary tactics and right as ruling class tactics and (h) the tactics constantly swap hosts over historical timeframes.
 
-**A unifed theory of cycles:**
+### A unifed theory of cycles:
 
 - The left cycle starts with a group of revolutionary leftists that then become institutional rightists.
 
@@ -85,17 +85,17 @@ The point is that in any holy war, the left is the word, and the right is the sw
 
 A group using right tactics often has a defcit of zealous meaning, and is hanging onto a ruling class position while forgetting why they need to justify it from scratch to skeptical onlookers. Conversely, a group using left tactics often has a lack of hardnosed practicality, attacking the ruling class without a concrete plan for what to put in its place come the revolution. Forming a left/right fusion that’s informed by these concepts is quite diferent from what we typically think of as a left/right hybrid, namely passive centrism.
 
-**The One Commandment**
+### The One Commandment
 
 Every new startup society needs to have a moral premise at its core, one that its founding nation subscribes to, one that is supported by a digital history that a more powerful state can’t delete, one that justifes its existence as a righteous yet peaceful protest against the powers that be. To be clear, it’s a huge endeavor to go and build an entire moral edifice on par with a religion, and work out all the practical details. We’re not advising you come up with your own Ten Commandments! But we do think you can come up with one commandment. One new moral premise. Just one specifc issue where the history and science has convinced you that the establishment is wanting. And where you feel confdent making your case in articles, videos, books, and presentations. These presentations are similar to startup pitch decks. But as the founder of a startup society, you aren’t a technology entrepreneur telling investors why this new innovation is better, faster, and cheaper. You are a moral entrepreneur telling potential future citizens about a better way of life, about a single thing that the broader world has gotten wrong that your community is setting right. By focusing on just one issue, you can set up a parallel society with manageable complexity, as you are changing only one civilizational rule. Unlike a political party, you’re not offering a package deal on many issues that people only shallowly care about. With the one commandment you are instead offering a single issue community, and attracting not single-issue voters but single-issue movers.
 
 Now we see why a focused moral critique is so important. It combines (a) the moral fervor of a political movement with (b) the laser-focus of a startup company into (c) a one-commandment based startup society. Such a society is not a total revolution. We aren’t starting completely de novo. Each startup society is single taking a broken aspect of today’s world, often a State-caused or at least State-neglected calamity, writing the history of that state failure, and then building an opt-in community to solve the problem. It’s a tightly focused parallel society making one impactful change.
 
-**The Tripolar Moment: NYT, CCP, BTC**
+### The Tripolar Moment: NYT, CCP, BTC
 
 Today’s world is becoming tripolar. It is NYT vs CCP vs BTC. That’s the American Establishment vs the Communist Party of China vs the Global Internet.
 
-**Decentralization, Recentralization**
+### Decentralization, Recentralization
 
 The internet increases variance. Digitization allows situations to be taken to their logical conclusion, instantly, even when that digital logic doesn’t quite work in physical reality. This means things can fip from zero to one, without warning. An overnight success, ten seconds in the making. The only certainty is rising volatility.
 
@@ -105,31 +105,31 @@ It used to be that the physical world was primary, and the internet was the mirr
 
 What does natively digital news look like? There are at least two concepts of interest here: morning dashboards replacing the morning newspaper, and cryptographically verifable event feeds replacing tweets of unverifable content.
 
-**Foreseeable Futures**
+### Foreseeable Futures
 
 - AR Glasses Bridge Physical and Digital Worlds
 
 - Experimental Macroeconomics. Cryptoeconomics is transforming macroeconomics into an experimental subject. Why? Because you can actually issue a currency, set a monetary policy, get opt-in participants, and test your theories in practice. The proof is in the pudding. And, if successful, the pudding is worth many billions of dollars.
 
-**American Anarchy, Chinese Control, International Intermediate**
+### American Anarchy, Chinese Control, International Intermediate
 
 Here we give a bit more detail on a sci-fi scenario in which the US descends into a chaotic Second American Civil War, the CCP responds with the opposite extreme of a total surveillance state that traps wealth in its digital yuan network, and the rest of the world - if we’re lucky - builds a stable alternative of opt-in startup societies that peacefully rejects these extremes.
 
 Instead of choosing either anarchic decentralization or coercive centralization, we choose volitional recentralization. The whole point is that the new boss is not the same as the old boss, anymore than Apple was the same as BlackBerry, Amazon was the same as Barnes and Noble, or America was the same as Britain. Recentralization means new leaders, fresh blood. Just as companies and technologies keep leapfrogging each other, so too can new societies with One Commandments combine moral and technological innovation to genuinely progress beyond our status quo. Recentralization is not about going full circle and making zero progress. It’s the helical theory of history. Recentralization, done right, is a cycle back to centralization from one vantage point but a step forward from another.
 
-**From Nation States to Network States**
+### From Nation States to Network States
 
 Understanding the term “nation state” requires us to distinguish the _nation_ (a group of people with common descent, history, culture, or language) from the _state_ (their government). They are not the same. Even though “nation” is often confated with “state,” the term “nation state” has two words for a reason. The frst word (nation) has the same etymological root as “natality“. It once denoted a group of people with shared ancestry. The second word (state) refers to the entity that governs these people, that commands the police and the military, and that holds the monopoly of violence over the geographic area that the nation inhabits. In a sense, the nation and the state are as diferent as labor and management in a factory. The former are the masses and the latter are the elite. The textbook nation state is something like Japan, in which a single group with shared ancestry and culture (the Japanese) occupies a clearly delineated territory (the islands of Japan) and is ruled by a clear sovereign (the Japanese government) which is representative of the people in some sense (originally via the divine, contemporaneously via the Diet).
 
 There are at least two waypoints between startup society and network state worth noting: the network union and the network archipelago. Turning a startup society into a network union makes it a digital community capable of collective action. Turning that network union into a network archipelago manifests that collective action in the real world, as the community crowdfunds physical properties around the world and connects them via the internet. Finally, an impressive enough network archipelago can achieve diplomatic recognition from an existing government, thereby becoming a true network state.
 
-**On Network States**
+### On Network States
 
 Here’s that one sentence definition again: A network state is a social network with a moral innovation, a sense of national consciousness, a recognized founder, a capacity for collective action, an in-person level of civility, an integrated cryptocurrency, a consensual government limited by a social smart contract, an archipelago of crowdfunded physical territories, a virtual capital, and an on-chain census that proves a large enough population, income, and real estate footprint to attain a measure of diplomatic recognition
 
 when we say that a network state has “consensual government limited by a social smart contract”, we mean that it exercises authority over a digital (and, eventually, physical) sphere constituted solely of those people who’ve opted in to its governance by signing a social smart contract with their ENS names, in much the same way they might “opt in” to the governance of a centralized exchange by depositing coins there.
 
-**What is the Network State System**
+### What is the Network State System
 
 - Assumption: Digital Primary, Physical Secondary
 
@@ -139,7 +139,7 @@ when we say that a network state has “consensual government limited by a socia
 
 - Assumption: Consent and Cryptography Constrain
 
-**What does a Network State look like on a Map**
+### What does a Network State look like on a Map
 
 The frst thing is to specify which map we mean: a map of the physical world, or of the digital world?
 
@@ -157,7 +157,7 @@ In digital space, a network state looks like a densely connected subgraph of a l
 
 - Invisibility. We take for granted that we can see the Franco/German border, that we know who is on either side. But no one can really see the Facebook/Twitter border, the set of users that have accounts on both services but use them both for roughly 50% of their time online. Borders between nation states are by default highly visible, borders between networks are by default invisible. This last point is truly deep: we’re going back to terra incognita, to terra nullius, to the time of secret societies, to the time of “Here Be Dragons.” The open web is already dark to all but Google, the social web is already dark to all but Facebook and Twitter et al., and while the third web will have some parts that are globally transparent, much of it will be intentionally private and encrypted. This is not a bad thing; in many ways, what we did over the last few decades was upload the entire world in unencrypted form online. Never before has it been possible for so many to stalk anyone. The re-encryption of the world has started with a tactical retreat from public social networks towards Signal groups, but it will go much further.
 
-**Path to the Network State**
+### Path to the Network State
 
 We can now defne a path to the network state:
 
@@ -169,6 +169,6 @@ We can now defne a path to the network state:
 
 Slight fuzziness notwithstanding, this is a realistic path from a single network union founder to something big.
 
-**Digital Civil Society**
+### Digital Civil Society
 
 Network unions, network societies, and other forms of digital civil society are valuable endpoints in themselves. For example, a serious open source project could have an associated network union that advances the collective interest of (say) a guild of ReactJS programmers, without any need to buy land. Or a ftness infuencer could turn their online community into a network archipelago, replete with gyms around the world, organizing people to get discounted keto-friendly food. You can probably come up with other kinds of structures. The overall idea is to build digital civil society, all those community organizations that aren’t either the state above or the isolated individual below, the kind of non-political voluntary associations that once built America, according to Tocqueville.

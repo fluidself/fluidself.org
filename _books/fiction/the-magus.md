@@ -21,7 +21,7 @@ I remembered an old Urfe law: that girls possess sexual tact in inverse proporti
 
 In spite of the circumstances it was one of the best breakfasts of my life. Every flavor had a Proustian, mescalin intensity.
 
-All my life I had tried to turn life into fiction, to hold reality away; always I had acted as if a third person was watching and listening and giving me marks for good or bad behavior -- a god like a novelist, to whom I turned, like a character with the power to please, the sensitivity to feel slighted, the ability to adapt himself to whatever he believed the novelistgod wanted. This leechlike variation of the supergo I had created myself, fostered myself, and because of it I had always been incapable of acting freely. It was not my defense; but my despot.
+All my life I had tried to turn life into fiction, to hold reality away; always I had acted as if a third person was watching and listening and giving me marks for good or bad behavior—a god like a novelist, to whom I turned, like a character with the power to please, the sensitivity to feel slighted, the ability to adapt himself to whatever he believed the novelistgod wanted. This leechlike variation of the supergo I had created myself, fostered myself, and because of it I had always been incapable of acting freely. It was not my defense; but my despot.
 
 "Neither I nor my children pretend to be ordinary people. They were not brought up to be ordinary. We are rich and we are intelligent and we mean to live rich, intelligent lives."
 

@@ -5,7 +5,7 @@ slug: the-sovereign-individual
 title: The Sovereign Individual - by James Dale Davidson and William Rees-Mogg
 ---
 
-**THE FOURTH STAGE OF HUMAN SOCIETY**
+### THE FOURTH STAGE OF HUMAN SOCIETY
 
 The theme of this book is the new revolution of power which is liberating individuals at the expense of the twentieth century nationstate. Innovations that alter the logic of violence in unprecedented ways are transforming the boundaries within which the future must lie. If our deductions are correct, you stand at the threshold of the most sweeping revolution in history. Faster than all but a few now imagine, microprocessing will subvert and destroy the nationstate, creating new forms of social organization in the process. This will be far from an easy transformation.
 
@@ -19,7 +19,7 @@ In the new millennium, cybermoney controlled by private markets will supersede f
 
 In the past, when the power equation made more difficult for groups to assert a stable monopoly of coercion, power was frequently fragmented, jurisdictions overlapped, and entities of many different kinds exercised one or more of the attributes of sovereignty. When the reach of lords and kings was weak, and the claims of one or more groups overlapped at a frontier, it frequently happened that neither could decisively dominate the other. In the Middle Ages, there were numerous frontier or "march" regions where sovereignties blended together. In the new millennium, sovereignty will be fragmented once more. New entities will emerge exercising some but not all of the characteristics we have come to associate with governments.
 
-**METAPOLITICAL TRANSFORMATIONS IN HISTORICAL PERSPECTIVE**
+### METAPOLITICAL TRANSFORMATIONS IN HISTORICAL PERSPECTIVE
 
 Human cultures have blind spots. We have no vocabulary to describe paradigm changes in the largest boundaries of life, especially those happening around us.
 
@@ -47,7 +47,7 @@ People are always and everywhere to some degree conservative, with a small "c." 
 
 10. Other things being equal, the more widely dispersed key technologies are, the more widely dispersed power will tend to be, and the smaller the optimum scale of government.
 
-**THE AGRICULTURAL REVOLUTION AND THE SOPHISTICATION OF VIOLENCE**
+### THE AGRICULTURAL REVOLUTION AND THE SOPHISTICATION OF VIOLENCE
 
 Wherever farming took root, violence emerged as a more important feature of social life. Hierarchies adept at manipulating or controlling violence came to dominate society.
 
@@ -65,7 +65,7 @@ The expulsion from the Garden of Eden can be seen as a figurative account of the
 
 Farming was an incubator of disputes. Farming created stationary capital on an extensive scale, raising the payoff from violence and dramatically increasing the challenge of protecting assets. Farming made both crime and government paying propositions for the first time.
 
-**THE LAST DAYS OF POLITICS**
+### THE LAST DAYS OF POLITICS
 
 Politics in the modern sense, as the preoccupation with controlling and rationalizing the power of the state, is mostly a modern invention. We believe it will end with the modern world just as the tangle of feudal duties and obligations that engrossed the attentions of people in the Middle Ages ended with the Middle Ages.
 
@@ -73,7 +73,7 @@ If our reasoning is correct, the nationstate will be replaced by new form of sov
 
 We believe that change as dramatic as that of five hundred years ago will happen again. The Information Revolution will destroy the monopoly of power of the nationstate as surely as the Gunpowder Revolution destroyed the Church's monopoly. There is a striking analogy between the situation at the end of the fifteenth century, when life had become thoroughly saturated by organized religion, and that of today, when the world has become saturated with politics. The Church then and the nationstate today are both examples of institutions grown to a senile extreme. Like the late-medieval Church, the nationstate at the end of the twentieth century is a deeply indebted institution that can no longer pay its way. Its operations are ever more irrelevant and even counterproductive to the prosperity of those who not long ago might have been its staunchest supporters.
 
-**THE LIFE AND HEALTH OF THE NATIONSTATE**
+### THE LIFE AND HEALTH OF THE NATIONSTATE
 
 As the millennium approaches, the new megapolitical conditions of the Information Age will make it increasingly obvious that the nationstate inherited from the industrial era is a predatory institution. With each year that passes, it will seem less a boon to prosperity and more an obstacle, one from which the individual will want an escape. It is an escape that desperate governments will be loath to allow.
 
@@ -89,7 +89,7 @@ Much the same can be said of nationalism, which became a corollary to mass democ
 
 We expect nationalism to be a major rallying theme of persons with low skills nostalgic for compulsion as the welfare state collapses in the Western democracies.
 
-**THE MEGAPOLITICS OF THE INFORMATION AGE**
+### THE MEGAPOLITICS OF THE INFORMATION AGE
 
 Everywhere you look in the universe, you see systems attaining greater complexity as they evolve. This is true in astrophysics. It is true in a puddle. Leave rainwater alone in a low spot and it will grow more complex. Advanced Systems of every variety are complex adaptive Systems without an authority in charge. Every complex system in nature, of which the market economy is the most evident social manifestation, depends upon dispersed capabilities. Systems that work most effectively under the widest range of conditions depend for their resilience upon spontaneous order that accommodates novel possibilities. Life itself is such a complex system.
 
@@ -121,7 +121,7 @@ For the first time in history, information technology allows for the creation an
 
 In the age of the virtual corporation, individuals will choose to domicile their income-earning activities in a jurisdiction that provides the best service at the lowest cost. In other words, sovereignty will be commercialized.
 
-**TRANSCENDING LOCALITY: THE EMERGENCE OF THE CYBERECONOMY**
+### TRANSCENDING LOCALITY: THE EMERGENCE OF THE CYBERECONOMY
 
 Like salmon marked by their homing instinct, our consciousness is still deeply etched by notions of locality. For the whole of history until now, economies have been tethered to a local geographic area.
 
@@ -143,7 +143,7 @@ The price of gold will probably rise significantly relative to other commodities
 
 Whenever circumstances allow people to reduce protection costs and minimize tribute paid to those who control organized violence, the economy usually grows dramatically. As Lane said, "I would like to suggest that the most weighty single factor in most periods of growth, if any one factor has been most important, has been a reduction in the proportion of resources devoted to war and police."
 
-**THE END OF EGALITARIAN ECONOMICS**
+### THE END OF EGALITARIAN ECONOMICS
 
 Globalization, along with other characteristics of the information economy, will tend to increase the income earned by the most talented individuals in each field. Because the marginal value generated by superlative performance will be so huge, the distribution of earnings capacity throughout the entire global economy will take much the shape it does now in the performance professions like athletics and opera.
 
@@ -163,7 +163,7 @@ A peculiar irony of the reemergence of micro-sovereignties or "city-states" is t
 
 In the Information Age, only cities that repay their upkeep costs by offering a high quality of life will remain viable. Persons at a distance will no longer be obliged to subsidize them. A good marker for the viability of cities is whether those living at the core of the city are richer than those on its periphery. Buenos Aires, London, and Paris will remain inviting places to live and do business long after the last good restaurant closes in South Bend, Louisville, and Philadelphia.
 
-**New Organixational Imperatives**
+### New Organixational Imperatives
 
 Information technology will dissipate many of the long-term organizational advantages of firms that arise from high transaction and information costs. The Information Age will be the age of the "virtual corporation."
 
@@ -179,7 +179,7 @@ In the postindustrial period, jobs will be tasks you do, not something you "have
 
 The model business organization of the new information economy may be a movie production company. Such enterprises can be very sophisticated, with budgets of hundreds of millions of dollars. While they are often large operations, they are also temporary in nature. A movie company producing a film for $100 million may come together for a year and then dissolve. While the people who work on the production are talented, they have no expectation that finding work on the project is equivalent to having a "permanent job." When the project is over, the lighting technicians, cameramen, sound engineers, and wardrobe specialists will go their separate ways. They may be reunited in another project, or they may not.
 
-**NATIONALISM, REACTION, AND THE NEW LUDDITES**
+### NATIONALISM, REACTION, AND THE NEW LUDDITES
 
 As the world "becomes smaller" and communications improve, the accidental and "intrinsically absurd" claims of nations and nationalism are bound to weaken.
 
@@ -216,7 +216,7 @@ There also seems to be a strong psychological component in the reaction against 
 
 We expect a return of extortion motivated by a desire to share in the rewards of achievement as the Information Age unfolds. Groups that feel aggrieved over past discrimination are unlikely to quickly relinquish their apparently valuable status as victims simply because their claims on society become less justified or harder to enforce. They will continue to press their claims until evidence in the local environment leaves no doubt that they will no longer be rewarded.
 
-**THE TWILIGHT OF DEMOCRACY**
+### THE TWILIGHT OF DEMOCRACY
 
 It is no secret that democracy has been relatively rare and fleeting in the history of governments. In those times, ancient and modern, where democracy has prevailed, it has depended for its success upon megapolitical conditions that reinforced the military power and importance of the masses. Historian Carroll Quigley explored these characteristics in Weapons Systems and Political Stability. They have included:
 
@@ -236,7 +236,7 @@ We expect to see something new emerge to replace politics. By this we do not mea
 
 Societies are too complex to be rightly considered the fruit of any willful effort of self-organization. The nationstates of the modern period emerged spontaneously as a coincidental by-product of industrial technology that raised returns to violence. Now information technology is reducing the returns to violence. This makes politics anachronistic and irretrievable, no matter how earnestly people might wish to preserve it into the next millennium.
 
-**MORALITY AND CRIME IN THE "NATURAL ECONOMY" OF THE INFORMATION AGE**
+### MORALITY AND CRIME IN THE "NATURAL ECONOMY" OF THE INFORMATION AGE
 
 We believe that as the modern nationstate decomposes, latter-day barbarians will increasingly come to exercise real power behind the scenes. Groups like the Russian mafiyas that pick the bones of the former Soviet Union, other ethnic criminal gangs, nomenklaturas, drug lords, and renegade covert agencies will increasingly be laws unto themselves.
 
@@ -272,7 +272,7 @@ A general erosion of the collective morality threatens liberty, both directly, i
 
 A good social morality has certain characteristics. It should contribute to the survival of society and of individuals, in a dynamic rather than static way. It should include tolerance and avoid self-righteousness. It should be religious, rather than merely agnostic. It should not pretend to decide questions of scientific fact. It should be neither anarchic nor authoritarian. It should be widely shared and deeply held. Such a social morality is particularly important to the family and to the raising of children as independent and responsible adults. It provides the focus of a good society. We find that any such morality is supported by the logic of interdependence that comes from commerce and fellow-feeling, but is threatened by the attacks of a facile scientism, by the alienation of a superclass and a subclass, by the loss of the rootedness of the old geographical economies. Perhaps there will be a reaction against these trends. They must be recognized as extremely dangerous to the societies of the next century.
 
-**IMPLICATIONS AND STRATEGIES**
+### IMPLICATIONS AND STRATEGIES
 
 The argument of this book has many unorthodox implications for achieving financial independence in the Information Age. Among the more important:
 

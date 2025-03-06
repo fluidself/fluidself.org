@@ -23,7 +23,7 @@ It was in their nature to throw their arms around him, but this nature had been 
 
 Alfred believed that the real and the true were a minority that the world was bent on exterminating. It galled him that romantics like Enid could not distinguish the false from the authentic: a poor-quality, flimsily stocked, profit-making "museum" from a real, honest railroad
 
-It rankled her that people richer than she were so often less worthy and attractive. More slobbish and louty. Comfort could be found in being poorer than people who were smart and beautiful. But to be less affluent than these T-shirted, joke-cracking fatsos--
+It rankled her that people richer than she were so often less worthy and attractive. More slobbish and louty. Comfort could be found in being poorer than people who were smart and beautiful. But to be less affluent than these T-shirted, joke-cracking fatsos—
 
 They rode an elevator in silence. Too-precipitous intimacy had left in its wake a kind of dirty awkwardness.
 

@@ -6,7 +6,7 @@ title: 'The Now Habit: A Strategic Program for Overcoming Procrastination and En
   Guilt-Free Play - by Neil Fiore'
 ---
 
-**Focusing exercise**
+### Focusing exercise
 
 Two minutes, three breaths at each step
 
@@ -24,7 +24,7 @@ Positive language:
 - I will be at the dentist at 3 PM
 - I am going to traffic court this morning
 
-**Replacing negative attitudes**
+### Replacing negative attitudes
 
 - Replace "I have to" by "**I choose to**" in your inner dialogue
 - Replace "I must finish" with "**When can I start?**" Focuses energy on what can be tackled now

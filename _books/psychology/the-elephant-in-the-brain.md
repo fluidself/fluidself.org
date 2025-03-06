@@ -22,7 +22,7 @@ At least four strands of research all lead to the same conclusion—that we are,
 
 4. **Economic puzzles.** When we study specific social institutions—medicine, education, politics, charity, religion, news, and so forth—we notice that they frequently fall short of their stated goals. In many cases, this is due to simple execution failures. But in other cases, the institutions behave as though they were designed to achieve other, unacknowledged goals. Take school, for instance. We say that the function of school is to teach valuable skills and knowledge. Yet students don’t remember most of what they’re taught, and most of what they do remember isn’t very useful. Furthermore, our best research says that schools are structured in ways that actively interfere with the learning process, such as early wake-up times and frequent testing. Again, something doesn’t add up.
 
-**Our Thesis in Plain English**
+### Our Thesis in Plain English
 
 1: People are judging us all the time. They want to know whether we’ll make good friends, allies, lovers, or leaders. And one of the important things they’re judging is our motives. Why do we behave the way we do? Do we have others’ best interests at heart, or are we entirely selfish?
 
@@ -32,9 +32,9 @@ At least four strands of research all lead to the same conclusion—that we are,
 
 4: In some areas of life, especially polarized ones like politics, we’re quick to point out when others’ motives are more selfish than they claim. But in other areas, like medicine, we prefer to believe that almost all of us have pretty motives. In such cases, we can all be quite wrong, together, about what drives our behavior.
 
-**PART I Why We Hide Our Motives**
+## PART I Why We Hide Our Motives
 
-**Social Grooming**
+### Social Grooming
 
 The primatologist Robin Dunbar has spent much of his career studying social grooming, and his conclusion has since become the consensus among primatologists. Social grooming, he says, isn’t just about hygiene—it’s also about politics. By grooming each other, primates help forge alliances that help them in other situations. Note that these primates don’t need to be conscious of their political motivations. As far as natural selection is concerned, all that matters is that primates who do more social grooming fare better than primates who do less. Primates are thereby endowed with instincts that make them feel good when they groom each other, without necessarily understanding why they feel good.
 
@@ -48,7 +48,7 @@ Many of us would prefer the keys to our intelligence to be found somewhere in th
 
 The earliest Homo sapiens lived in small, tight-knit bands of 20 to 50 individuals. These bands were our “groves” or “forests,” in which we competed not for sunlight, but for resources more befitting a primate: food, sex, territory, social status. And we had to earn these things, in part, by outwitting and outshining our rivals. This is what’s known in the literature as the social brain hypothesis, or sometimes the Machiavellian intelligence hypothesis. It’s the idea that our ancestors got smart primarily in order to compete against each other in a variety of social and political scenarios.
 
-**Signals and Signaling**
+### Signals and Signaling
 
 A signal, in evolutionary biology, is anything used to communicate or convey information. Unblemished skin or fur, for example, is a signal of a healthy organism; compare a prize-winning beagle to a mangy mutt. A growl is a signal of aggression—and the growl’s depth is a signal of the creature’s size. Signals are said to be honest when they reliably correspond to an underlying trait or fact about the sender. Otherwise they are dishonest or deceptive.
 
@@ -60,7 +60,7 @@ In the human social realm, honest signaling and the handicap principle are best 
 
 One thing that makes signaling hard to analyze, in practice, is the phenomenon of countersignaling. For example, consider how someone can be either an enemy, a casual friend, or a close friend. Casual friends want to distinguish themselves from enemies, and they might use signals of warmth and friendliness—things like smiles, hugs, and remembering small details about each other. Meanwhile, close friends want to distinguish themselves from casual friends, and one of the ways they can do it is by being unfriendly, at least on the surface. When a close friend forgets his wallet and can’t pay for lunch, you might call him an idiot. This works only when you’re so confident of your friendship that you can (playfully) insult him, without worrying that it will jeopardize your friendship. This isn’t something a casual friend can get away with as easily, and it may even serve to bring close friends closer together. Thus signals are often arranged into a hierarchy, from non-signals to signals to counter-signals. Outsiders to an interaction may not always be able to distinguish non-signals from counter-signals. But insiders usually know how to interpret them, if only on an intuitive level.
 
-**Norms**
+### Norms
 
 Human groups develop norms because they (typically) benefit the majority of people in the group. Now, some norms, especially top-down laws, can be oppressive or extractive and an overall detriment to the societies that enforce them. But most norms—especially of the bottom-up, grassroots variety—are beneficial; they’re one of the main ways we suppress competition and promote cooperation. In other words, we hold ourselves back, collectively, for our own good.
 
@@ -72,7 +72,7 @@ Among laypeople, gossip gets a pretty bad rap. But anthropologists see it differ
 
 Reputation is also important for incentivizing people to help enforce norms. Standing up to norm violators can be risky, especially when they’re powerful. It’s rarely in people’s best interests to stick out their necks to punish transgressors. But throw some reputation into the mix and it can suddenly become profitable. Someone who helps evict a cheater will be celebrated for her leadership. Who would you rather team up with: someone who stands by while rules are flouted, or someone who stands up for what’s right?
 
-**Cheating**
+### Cheating
 
 Why do we cheat? It’s simple: cheating lets us reap benefits without incurring the typical costs.
 
@@ -92,7 +92,7 @@ The takeaway for the would-be cheater is that anything that hampers enforcement 
 
 All of these techniques work by the same mechanism, in that they prevent a norm violation from becoming full common knowledge, which makes it more difficult to prosecute.
 
-**Self-Deception**
+### Self-Deception
 
 Here’s the puzzle: we don’t just deceive others; we also deceive ourselves. Our minds habitually distort or ignore critical information in ways that seem, on the face of it, counterproductive. Our mental processes act in bad faith, perverting or degrading our picture of the world. In common speech, we might say that someone is engaged in “wishful thinking” or is “burying her head in the sand”—or, to use a more colorful phrase, that she’s “drinking her own Kool-Aid.”
 
@@ -114,7 +114,7 @@ This sort of division of mental labor is simply good mind design. As psychologis
 
 Self-discretion is perhaps the most important and subtle mind game that we play with ourselves in the service of manipulating others. This is our mental habit of giving less psychological prominence to potentially damaging information. It differs from the most blatant forms of self-deception, in which we actively lie to ourselves (and believe our own lies). It also differs from strategic ignorance, in which we try our best not to learn potentially dangerous information. Picture the mind as a society of little modules, systems, and subselves chattering away among themselves. This chatter is largely what constitutes our inner mental life, both conscious and unconscious. Self-discretion, then, consists of discretion among different brain parts. When part of the brain has to process a sensitive piece of information—wanting to get the upper hand in a particular interaction, for example—it doesn’t necessarily make a big conscious fuss about it. Instead, we might just feel vaguely uneasy until we’ve gained the upper hand, whereupon we’ll feel comfortable ending the conversation. At no point does the motive “Get the upper hand” rise to full conscious attention, but the same result is accomplished discreetly. Information is sensitive in part because it can threaten our self-image and therefore our social image. So the rest of the brain conspires—whispers—to keep such information from becoming too prominent, especially in consciousness. In this sense, the Freuds were right: the conscious ego needs to be protected. But not because we are fragile, but rather to keep damaging information from leaking out of our brain and into the minds of our associates. Self-discretion can be very subtle. When we push a thought “deep down” or to the “back of our minds,” it’s a way of being discreet with potentially damaging information. When we spend more time and attention dwelling on positive, self-flattering information, and less time and attention dwelling on shameful information, that’s self-discretion.
 
-**Counterfeit Reasons**
+### Counterfeit Reasons
 
 Rationalization, sometimes known to neuroscientists as confabulation, is the production of fabricated stories made up without any conscious intention to deceive. They’re not lies, exactly, but neither are they the honest truth. Humans rationalize about all sorts of things: beliefs, memories, statements of “fact” about the outside world. But few things seem as easy for us to rationalize as our own motives. When we make up stories about things outside our minds, we open ourselves up to fact-checking. People can argue with us: “Actually, that’s not what happened.” But when we make up stories about our own motives, it’s much harder for others to question us—outside of a psychology lab, at least. And we have strong incentives to portray our motives in a flattering light, especially when they’re the subject of norm enforcement.
 
@@ -128,9 +128,9 @@ This, then, is the key sleight-of-hand at the heart of our psychosocial problems
 
 We have many reasons for our behaviors, but we habitually accentuate and exaggerate our pretty, prosocial motives and downplay our ugly, selfish ones.
 
-**PART II Hidden Motives in Everyday Life**
+## PART II Hidden Motives in Everyday Life
 
-**Body Language**
+### Body Language
 
 Humans are strategically blind to body language because it often betrays our ugly, selfish, competitive motives. To acknowledge the signals sent by our bodies “feels dangerous to some people,” say Alex Pentland and Tracy Heibeck, “as if we were admitting that we are ruled by some base animal nature.”
 
@@ -150,7 +150,7 @@ Consider how we use our bodies to “say” a lot of things we’d get in troubl
 
 This is the magic of nonverbal communication. It allows us to pursue illicit agendas, even ones that require coordinating with other people, while minimizing the risk of being attacked, accused, gossiped about, and censured for norm violations. This is one of the reasons we’re strategically unaware of our own body language, and it helps explain why we’re reluctant to teach it to our children.
 
-**Laughter**
+### Laughter
 
 Laughter is an involuntary behavior. It’s not something we actively decide to do; our brains simply do it, naturally and spontaneously. In this way, laughter is similar to other involuntary behaviors like breathing, blinking, flinching, hiccuping, shivering, and vomiting. But whereas these are merely physiological, laughter is an involuntary social behavior. We use laughter to flirt, bond with friends, mock our enemies, probe social norms, and mark the boundaries of our social groups. It’s a response to social cues, laced with interpersonal significance, and yet “we”—the conscious, deliberate, willful parts of our minds—don’t get to decide when we do it.
 
@@ -162,13 +162,13 @@ A real danger of laughter, then, is the fact that we don’t all share the same 
 
 Laughter may not be nearly as expressive as language, but it has two properties that make it ideal for navigating sensitive topics. First, it’s relatively honest. With words, it’s too easy to pay lip service to rules we don’t really care about, or values that we don’t genuinely feel in our gut. But laughter, because it’s involuntary, doesn’t lie—at least not as much. “In risu veritas,” said James Joyce; “In laughter, there is truth.” Second, laughter is deniable. In this way, it gives us safe harbor, an easy out. When someone accuses us of laughing inappropriately, it’s easy to brush off. “Oh, I didn’t really understand what she meant,” we might demur. Or, “Come on, lighten up! It was only a joke!” And we can deliver these denials with great conviction because we really don’t have a clear understanding of what our laughter means or why we find funny things funny. Our brains just figure it out, without burdening “us” with too many damning details.
 
-**Conversation**
+### Conversation
 
 Every remark made by a speaker contains two messages for the listener: text and subtext. The text says, “Here’s a new piece of information,” while the subtext says, “By the way, I’m the kind of person who knows such things.” Sometimes the text is more important than the subtext, as when a friend gives you a valuable stock tip. But frequently, it’s the other way around. When you’re interviewing someone for a job, for example, you aren’t trying to learn new domain knowledge from the job applicant, but you might discuss a topic in order to gauge the applicant as a potential coworker. You want to know whether the applicant is sharp or dull, plugged-in or out of the loop. You want to know the size and utility of the applicant’s backpack. In casual conversation, listeners have a mixture of these two motives. To some extent we care about the text, the information itself, but we also care about the subtext, the speaker’s value as a potential ally. In this way, every conversation is like a (mutual) job interview, where each of us is “applying” for the role of friend, lover, or leader. Conversation, therefore, looks on the surface like an exercise in sharing information, but subtextually, it’s a way for speakers to show off their wit, perception, status, and intelligence, and (at the same time) for listeners to find speakers they want to team up with. These are two of our biggest hidden motives in conversation.
 
 This view of talking—as a way of showing off one’s “backpack”—explains the puzzles we encountered earlier, the ones that the reciprocal-exchange theory had trouble with. For example, it explains why we see people jockeying to speak rather than sitting back and “selfishly” listening—because the spoils of conversation don’t lie primarily in the information being exchanged, but rather in the subtextual value of finding good allies and advertising oneself as an ally. And in order to get credit in this game, you have to speak up; you have to show off your “tools.” It also explains why people don’t keep track of conversational debts—because there is no debt. The act of speaking is a reward unto itself, at least insofar as your remarks are appreciated. You can share information with 10 or 100 people at once, confident that if you speak well, you’ll be rewarded at the subtextual level. But why do speakers need to be relevant in conversation? If speakers deliver high-quality information, why should listeners care whether the information is related to the current topic? A plausible answer is that it’s simply too easy to rattle off memorized trivia. You can recite random facts from the encyclopedia until you’re blue in the face, but that does little to advertise your generic facility with information. Similarly, when you meet someone for the first time, you’re more eager to sniff each other out for this generic skill, rather than to exchange the most important information each of you has gathered to this point in your lives. In other words, listeners generally prefer speakers who can impress them wherever a conversation happens to lead, rather than speakers who steer conversations to specific topics where they already know what to say.
 
-**Consumption**
+### Consumption
 
 The idea that we use purchases to flaunt our wealth is known as conspicuous consumption. It’s an accusation that we buy things not so much for purely personal enjoyment as for showing off or “keeping up with the Joneses.”
 
@@ -176,7 +176,7 @@ Peer pressure is a powerful force, and advertisers know how to harness it to the
 
 To sum up, we are conspicuous consumers in more varied and subtle ways than most of us realize. Advertisers understand this part of human nature and use it to their advantage. But ads aren’t necessarily preying on our irrational emotions, brainwashing us into buying things that aren’t useful to us. Instead, by creating associations that exist out in the broader culture—not just in our own heads, but in the heads of third parties—ads turn products into a vocabulary that we use to express ourselves and signal our good traits.
 
-**Art**
+### Art
 
 Art poses a challenge for evolutionary thinkers. It’s a costly behavior, both in time and energy, but at the same time it’s impractical. Art doesn’t put food on your table, look after your children, or keep you warm at night—at least not directly. So art, on its face, seems like a waste of time and energy. And natural selection doesn’t look kindly on waste. How, then, did our instincts for art evolve?
 
@@ -190,21 +190,21 @@ This way of approaching art—of looking beyond the object’s intrinsic propert
 
 Artists, in turn, often respond to this incentive by using techniques that are more difficult or demanding, but which don’t improve the intrinsic properties of the final product. “From an evolutionary point of view,” writes Miller, “the fundamental challenge facing artists is to demonstrate their fitness by making something that lower-fitness competitors could not make, thus proving themselves more socially and sexually attractive.” Artists routinely sacrifice expressive power and manufacturing precision in order to make something more “impressive” as a fitness display.
 
-**Charity**
+### Charity
 
 James Andreoni proposed a different model for why we donate to charity. Instead of acting strictly to improve the well-being of others, Andreoni theorized, we do charity in part because of a selfish psychological motive: it makes us happy. Part of the reason we give to homeless people on the street, for example, is because the act of donating makes us feel good, regardless of the results. Andreoni calls this the “warm glow” theory. It helps explain why so few of us behave like effective altruists. Consider these two strategies for giving to charity: (1) setting up an automatic monthly payment to the Against Malaria Foundation, or (2) giving a small amount to every panhandler, collection plate, and Girl Scout. Making automatic payments to a single charity may be more efficient at improving the lives of others, but the other strategy—giving more widely, opportunistically, and in smaller amounts—is more efficient at generating those warm fuzzy feelings. When we “diversify” our donations, we get more opportunities to feel good.
 
 Five factors that influence our charitable behavior:
 
-1: Visibility. We give more when we’re being watched.
+1. Visibility. We give more when we’re being watched.
 
-2: Peer pressure. Our giving responds strongly to social influences.
+2. Peer pressure. Our giving responds strongly to social influences.
 
-3: Proximity. We prefer to help people locally rather than globally.
+3. Proximity. We prefer to help people locally rather than globally.
 
-4: Relatability. We give more when the people we help are identifiable (via faces and/or stories) and give less in response to numbers and facts.
+4. Relatability. We give more when the people we help are identifiable (via faces and/or stories) and give less in response to numbers and facts.
 
-5: Mating motive. We’re more generous when primed with a mating motive.
+5. Mating motive. We’re more generous when primed with a mating motive.
 
 The conclusion is pretty clear. We may get psychological rewards for anonymous donations, but for most people, the “warm fuzzies” just aren’t enough. We also want to be seen as charitable. Griskevicius calls this phenomenon “blatant benevolence.” Patrick West calls it “conspicuous compassion.” The idea is that we’re motivated to appear generous, not simply to be generous, because we get social rewards only for what others notice. In other words, charity is an advertisement, a way of showing off.
 
@@ -212,7 +212,7 @@ The conclusion is pretty clear. We may get psychological rewards for anonymous d
 
 There’s one final quality that charity allows us to advertise: the spontaneous, almost involuntary concern for the welfare of others. Variations on this trait go by various names—empathy, sympathy, pity, compassion. When we notice someone suffering and immediately decide to help them, it “says” to our associates, “See how easily I’m moved to help others? When people near me are suffering, I can’t help wanting to make their situation better; it’s just who I am.” This is a profoundly useful trait to advertise; it means you’ll make a great ally. The more time other people spend around you, the more they’ll get to partake of your spontaneous good will.
 
-**Education**
+### Education
 
 In the signaling model, each student has a hidden quality—future work productivity—that prospective employers are eager to know. But this quality isn’t something that can be observed easily over a short period, for example, by giving job applicants a simple test. So instead, employers use school performance as a proxy. This works because students who do better in school, over the long run, tend to have greater work potential. It’s not a perfect correlation, of course, and there are many exceptions, but by and large, school performance predicts future work performance (and therefore earnings). In other words, educated workers are generally better workers, but not necessarily because school made them better. Instead, a lot of the value of education lies in giving students a chance to advertise the attractive qualities they already have.
 
@@ -220,13 +220,13 @@ The traditional view of education is that it raises a student’s value via impr
 
 So it’s a mixed bag. Schools help prepare us for the modern workplace and perhaps for society at large. But in order to do that, they have to break our forager spirits and train us to submit to our place in a modern hierarchy. And while there are many social and economic benefits to this enterprise, one of the first casualties is learning.
 
-**Medicine**
+### Medicine
 
 We’ve now arrived at the unpalatable conclusion that people in the United States currently consume too much medicine. We could probably cut back our medical consumption by a third without suffering a large adverse effect on our health. This conclusion is more or less a consensus among health policy experts, but it isn’t nearly as well-known or well-received by the general public. Many people find the conclusion hard to reconcile with the extraordinary health gains we have achieved over the past century or two. Relative to our great-great-grandparents, today we live longer, healthier lives—and most of those gains are due to medicine, right? Actually, no. Most scholars don’t see medicine as responsible for most improvements in health and longevity in developed countries. Yes, vaccines, penicillin, anesthesia, antiseptic techniques, and emergency medicine are all great, but their overall impact is actually quite modest. Other factors often cited as plausibly more important include better nutrition, improvements in public sanitation, and safer and easier jobs. Since 1600, for example, people have gotten a lot taller, owing mainly to better nutrition. More to the point, however, the big historical improvements in medical technology don’t tell us much about the value of the marginal medicine we consume in developed countries. Remember, we’re not asking whether some medicine is better than no medicine, but whether spending $7,000 in a year is better for our health than spending $5,000. It’s perfectly consistent to believe that modern medicine performs miracles and that we frequently overtreat ourselves.
 
 We are less interested in “health at any cost,” and more interested in treatments that third parties will appreciate. Like King Charles II, we want the very best medicine for ourselves (especially when others can see that it’s the best). Like the woman bringing food to a sick friend, we want to help people in need (and maximize the credit we get for it). And because there are two reasons to consume and provide medicine—health and conspicuous care—we end up overtreated.
 
-**Religion**
+### Religion
 
 As we’ve seen throughout the book, beliefs aren’t always in the driver’s seat. Instead, they’re often better modeled as symptoms of the underlying incentives, which are frequently social rather than psychological. This is the religious elephant in the brain: We don’t worship simply because we believe. Instead, we worship (and believe) because it helps us as social creatures. We’ll examine various features of religion, including (but by no means limited to) supernatural beliefs. We’ll be approaching them as social technologies designed to discourage cheating and facilitate cooperation within a community. It’s in light of these goals that the stranger facets of religion begin to make sense.
 
@@ -242,7 +242,7 @@ But why do communities care what we believe? Why do our peers reward or punish u
 
 The craziness of religious beliefs can function as a barometer for how strong the community is—how tightly it’s able to circle around its sacred center, how strongly it rewards members for showing loyalty by suppressing good taste and common sense. The particular strangeness of Mormon beliefs, for example, testifies to the exceptional strength of the Mormon moral community. To maintain such stigmatizing beliefs in the modern era, in the face of science, the news media, and the Internet, is quite the feat of solidarity. And while many people (perhaps even many of our readers) would enjoy being part of such a community, how many are willing to “pay their dues” by adopting a worldview that conflicts with so many of their other beliefs, and which nonbelievers are apt to ridicule? These high costs are exactly the point. Joining a religious community isn’t like signing up for a website; you can’t just hop in on a lark. You have to get socialized into it, coaxed in through social ties and slowly acculturated to the belief system. And when this process plays out naturally, it won’t even feel like a painful sacrifice because you’ll be getting more out of it than you give up.
 
-**Politics**
+### Politics
 
 The fact that we attach strong emotions to our political beliefs is another clue that we’re being less than fully honest intellectually. When we take a pragmatic, outcome-oriented stance to a given domain, we tend to react more dispassionately to new information. We do this every day in most areas of our lives, like when we buy groceries, pack for a vacation, or plan a birthday party. In these practical domains, we feel much less pride in what we believe, anger when our beliefs are challenged, or shame in changing our minds in response to new information. However, when our beliefs serve non-pragmatic functions, emotions tend to be useful to protect them from criticism.
 
@@ -250,7 +250,7 @@ Our hypothesis is that the political behavior of ordinary, individual citizens i
 
 The desire to signal loyalty helps explain why we don’t always vote our self-interest (i.e., for the candidates and policies that would bring us, as individuals, the greatest benefit). Rather, we tend to vote for our groups’ interests. Naturally, on many issues, our group and self-interests align. But when they don’t, we often choose to side with our groups.
 
-**Conclusion: Putting the Elephant to Use**
+### Conclusion: Putting the Elephant to Use
 
 **Better Situational Awareness:** The first benefit is situational awareness—a better, deeper understanding of the human social world.
 

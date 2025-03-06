@@ -7,17 +7,17 @@ title: The Miracle of Mindfulness - by Thich Nhat Hanh
 
 In those moments when you are upset or dispersed and find it difficult to practice mindfulness, return to your breath: Taking hold of your breath is itself mindfulness. Your breath is the wondrous method of taking hold of your consciousness. As one religious community says in its rule, "One should not lose oneself in mind-dispersion or in one's surroundings. Learn to practice breathing in order to regain control of body and mind, to practice mindfulness, and to develop concentration and wisdom."
 
-**Every act is a rite**
+### Every act is a rite
 
 Chopping wood is meditation. Carrying water is meditation. Be mindful 24 hours a day, not just during the one hour you may allot for formal meditation. Each act must be carried out in mindfulness. Each act is a rite, a ceremony. Raising your cup of tea to your mouth is a rite. Does the word "rite" seem too solemn? I use that word in order to jolt you into the realization of the life-and-death matter of awareness.
 
-**Mindfulness of the mind**
+### Mindfulness of the mind
 
 To take hold of our minds and calm our thoughts, we must also practice mindfulness of our feelings and perceptions. To take hold of your mind, you must practice mindfulness of the mind. You must know how to observe and recognize the presence of every feeling and thought which arises in you. If you want to know your own mind, there is only one way: to observe and recognize everything about it. This must be done at all times, during your day-to-day life no less than during the hour of meditation.
 
 During meditation, various feelings and thoughts may arise. If you don't practice mindfulness of the breath, these thoughts will soon lure you away from mindfulness. But the breath isn't simply a means by which to chase away such thoughts and feelings. Breath remains the vehicle to unite body and mind and to open the gate to wisdom. When a feeling or thought arises, your intention should not be to chase it away, even if by continuing to concentrate on the breath the feeling or thought passes naturally from the mind. The intention isn't to chase it away, hate it, worry about it, or be frightened by it. So what exactly should you be doing concerning such thoughts and feelings? Simply acknowledge their presence. For example, when a feeling of sadness arises, immediately recognize it: "A feeling of sadness has just arisen in me." If the feeling of sadness continues, continue to recognize "A feeling of sadness is still in me." If there is a thought like, "It's late, but the neighbors are surely making a lot of noise," recognize that the thought has arisen. If the thought continues to exist, continue to recognize it. If a different feeling or thought arises, recognize it in the same manner. The essential thing is not to let any feeling or thought arise without recognizing it in mindfulness, like a palace guard who is aware of every face that passes through the front corridor.
 
-**Exercises in mindfulness**
+### Exercises in mindfulness
 
 - _Half-smile when you first wake up in the morning_. Hang a branch, any other sign, or even the word "smile" on the ceiling or wall so that you see it right away when you open your eyes. This sign will serve as your reminder. Use these seconds before you get out of bed to take hold of your breath. Inhale and exhale three breaths gently while maintaining the half smile. Follow your breaths.
 
